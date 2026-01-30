@@ -1,0 +1,125 @@
+:root{
+  --bg: #ffffff;
+  --fg: #111111;
+  --muted: #6b7280;
+  --accent: #0ea5e9; /* change this to suit your exhibition palette */
+  --maxw: 72ch;
+  --measure: 1.65;
+  --border: #e5e7eb;
+}
+
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg: #0b0b0c;
+    --fg: #f3f4f6;
+    --muted: #9ca3af;
+    --accent: #38bdf8;
+    --border: #1f2937;
+  }
+}
+
+html { font-family: "InterVariable", system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
+body {
+  background: var(--bg);
+  color: var(--fg);
+  margin: 0;
+  line-height: var(--measure);
+  font-size: 18px;
+}
+
+.wrap { width: min(95vw, var(--maxw)); margin-inline: auto; }
+
+.site-header, .site-footer { border-bottom: 1px solid var(--border); }
+.site-footer { border-top: 1px solid var(--border); border-bottom: none; }
+
+.site-header .wrap, .site-footer .wrap { padding: 2.5rem 0; }
+.site-title { margin: 0; font-weight: 700; letter-spacing: 0.02em; }
+.byline, .dateline { color: var(--muted); }
+
+.prose { padding: 2rem 0 4rem; }
+.prose h1, .prose h2, .prose h3 {
+  line-height: 1.2; margin-top: 2.2rem; margin-bottom: 0.8rem;
+}
+.prose h2 { border-left: 6px solid var(--accent); padding-left: 0.6rem; }
+.prose h3 { color: var(--accent); }
+.prose p { margin: 0.9rem 0; }
+.prose a { color: var(--accent); text-decoration: none; }
+.prose a:hover { text-decoration: underline; }
+.prose blockquote {
+  margin: 1.2rem 0; padding: 0.8rem 1rem; border-left: 4px solid var(--border);
+  background: color-mix(in oklab, var(--border) 15%, transparent);
+}
+.prose code, .prose pre { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+.prose pre {
+  overflow: auto; padding: 1rem; border: 1px solid var(--border); border-radius: 8px;
+  background: color-mix(in oklab, var(--border) 20%, transparent);
+}
+
+/* Figures & captions */
+figure { margin: 1.5rem 0; }
+figcaption { color: var(--muted); font-size: 0.95rem; margin-top: 0.4rem; }
+
+/* Table of contents */
+.toc { border: 1px solid var(--border); border-radius: 10px; padding: 1rem 1.2rem; margin: 1rem 0 2rem; }
+.toc h2 { margin-top: 0; border: none; padding-left: 0; }
+
+/* Footnotes */
+.footnotes { border-top: 1px dashed var(--border); margin-top: 3rem; padding-top: 1rem; }
+.footnotes ol { padding-left: 1.2rem; }
+.footnote-back { text-decoration: none; }
+
+/* Utility */
+hr { border: 0; border-top: 1px solid var(--border); margin: 2rem 0; }
+
+:root{
+  --bg:#0b0b0c; --fg:#f3f4f6; --muted:#9aa0a6; --accent:#7c5cff; /* bold, art-y */
+  --maxw: 78ch; --measure:1.7; --border:#1f2937;
+}
+
+@media (prefers-color-scheme: dark){
+  :root{ --bg:#ffffff; --fg:#111; --muted:#667085; --accent:#6b46ff; --border:#e5e7eb; }
+}
+
+html { font-family:"InterVariable", ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
+body { background:var(--bg); color:var(--fg); margin:0; line-height:var(--measure); font-size:18.5px; letter-spacing:0.01em; }
+.wrap { width:min(94vw,var(--maxw)); margin-inline:auto; }
+.prose h1,.prose h2,.prose h3{ letter-spacing:0.01em; }
+.prose h2{ border-left:7px solid var(--accent); padding-left:.7rem; }
+.prose a{ color:var(--accent); text-decoration:none; position:relative; }
+.prose a::after{ content:""; position:absolute; left:0; right:0; bottom:-2px; height:1px; background:currentColor; transform:scaleX(0); transition:transform .25s ease; }
+.prose a:hover::after{ transform:scaleX(1); }
+
+.essay-header {
+  text-align: center;
+  margin: 4rem 0 3rem;
+}
+
+.essay-title {
+  font-size: clamp(2.5rem, 6vw, 3.5rem);
+  font-weight: 800;
+  margin: 0;
+  line-height: 1.1;
+}
+
+.essay-byline,
+.essay-date {
+  color: var(--muted);
+  font-size: 1rem;
+  margin-top: 0.5rem;
+}
+
+
+
+html{ scroll-behavior:smooth; }
+sup{ font-size:.7em; vertical-align:super; }
+.footnotes{ border-top:1px dashed var(--border); margin-top:3rem; padding-top:1rem; }
+.footnotes ol{ padding-left:1.2rem; }
+.footnotes li{ scroll-margin-top:6rem; } /* avoids being hidden by sticky header */
+.footnote-back{ text-decoration:none; color:var(--muted); }
+
+#progress{ position:fixed; top:0; left:0; height:3px; width:0%; background:linear-gradient(90deg, var(--accent), color-mix(in oklab, var(--accent) 60%, var(--fg)));
+  z-index:50; box-shadow:0 1px 0 rgba(0,0,0,.1); }
+
+.callout{ border:1px dashed var(--border); border-radius:12px; padding:1rem 1.2rem; background:color-mix(in oklab, var(--border) 14%, transparent); }
+.callout strong{ color:var(--accent); }
+
