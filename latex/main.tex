@@ -1,0 +1,80 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage[utf8]{inputenc}
+\usepackage{epigraph}
+\usepackage{titlesec}
+
+\titleformat{\section}
+  [block]
+  {\filcenter\normalfont\scshape}
+  {}
+  {0pt}
+  {}
+
+\titleformat{\subsection}
+  [block]
+  {\raggedright\normalfont\scshape\normalsize}
+  {}
+  {0pt}
+  {}
+
+\titleformat{\subsubsection}
+  [block]
+  {\raggedright\normalfont\itshape}
+  {}
+  {0pt}
+  {}
+
+\makeatletter
+\renewcommand{\maketitle}{%
+  \begin{center}
+    {\LARGE\scshape\@title \par}
+    \vskip 1em
+    {\large\scshape\@author \par}
+    \vskip 1em
+    {\normalsize\@date \par}
+  \end{center}
+}
+\makeatother
+
+\setlength{\epigraphwidth}{\textwidth}
+\setlength{\epigraphrule}{0pt}
+\renewcommand{\textflush}{flushleft}
+\renewcommand{\epigraphsize}{\itshape\normalsize}
+\renewcommand{\epigraphflush}{flushleft}
+\newcommand{\epigraphsource}[1]{--- {\small{\textit{#1}}}}
+
+\usepackage[
+  backend=biber,
+  notes,
+  dashed=false,
+  doi=false,
+  url=true,
+  isbn=false,
+  giveninits=true
+]{biblatex-chicago}
+\addbibresource{main.bib}
+
+\interfootnotelinepenalty=10000
+
+\title{Censorship}
+\author{Alex Grant}
+\date{\today}
+
+\begin{document}
+\onehalfspacing
+\maketitle
+
+\begin{abstract}
+
+\end{abstract}
+
+\newpage 
+
+\section{}
+
+
+\newpage
+\printbibliography
+\end{document}
