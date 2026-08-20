@@ -7,7 +7,7 @@ Canonical project context for the narrowed censorship essay.
 
 `outline.md` is the authoritative source for argument structure and is intended to be rendered using `grantaj/compiled-prose`.
 
-The older `outline-working.md`, `context-outline.md`, and `compile-prompt-*.md` files record the earlier project-specific compilation approach. They are retained for provenance on `draft-zero` and in git history, but they are **not authoritative inputs** for the narrowed essay.
+The older `outline-working.md`, `context-outline.md`, `context-section-contract.md`, and `compile-prompt-*.md` files record the earlier project-specific compilation approach. They are retained for provenance on `draft-zero` and in git history, but are not part of the narrowed branch.
 
 ---
 
@@ -66,7 +66,7 @@ Censorship is analysed as selective intervention in an epistemic environment tha
 - **`context-taxonomy.md`** — operational families, strategies, and descriptive dimensions.
 - **`context-glossary.md`** — one-line terminology reference.
 - **`context-evidence-tiers.md`** — evidence expectations.
-- **`latex/main.bib`** — available bibliography; citation details must be verified before publication.
+- **`references.bib`** — source bibliography; citation details must be verified before publication.
 - **`context-method-note.md`** — provenance and AI-assisted writing methodology.
 
 `outline.md` wins in any conflict among project files.
@@ -132,10 +132,12 @@ Nothing in this narrowing declares the broader ideas false; they are simply not 
 
 ---
 
-## 8. Compilation Strategy
+## 8. Source / Build Boundary
 
 Use `grantaj/compiled-prose` as the prose-rendering pipeline, with `outline.md` as the supplied authoritative outline.
 
-The censorship repository owns the argument, terminology, bibliography, and publication artefacts. Generic drafting/smoothing/revision/review prompts belong in `compiled-prose`, not here.
+This repository owns the argument, terminology, context, and source bibliography. Generic drafting, smoothing, revision, review, and rendering machinery belongs in `compiled-prose`.
+
+Generated prose, LaTeX, HTML, PDFs, review files, and other publication outputs are build artefacts and must remain in ignored build/output directories. The repository does not currently own a LaTeX template or publication pipeline; if that infrastructure becomes necessary, it should be introduced deliberately as a separate piece of work rather than inferred from historical build files.
 
 If successful rendering requires censorship-specific instructions that are not conceptual content, treat that as a possible `compiled-prose` prompt deficiency rather than adding ad hoc compiler prompts to this repository.
