@@ -5,7 +5,7 @@ This file lists the claims the essay must establish. `outline.md` is authoritati
 
 1. **Censorship is selective intervention in an epistemic environment that advances or stabilises an epistemic preference.** The preference concerns the ordering of claims, topics, representations, or speakers; the intervention operates through practical control surfaces such as availability, access, circulation, timing, visibility, ranking, legibility, standing, or memory.
 
-2. **The essay's contribution is not the discovery that censorship extends beyond explicit bans.** Existing scholarship already recognises indirect, incomplete, self-censoring, friction-based, flooding, and selection-related forms. The contribution is a mechanism-first organisation of these phenomena.
+2. **Censorship can function as an epistemic shortcut.** By changing the practical conditions of epistemic participation, censorial control can stabilise a preferred ordering without requiring that ordering to be continually re-established through epistemic contest. This is a structural claim about censorship, not a general theory of why social systems produce shortcuts.
 
 3. **The boundary between epistemic contest and epistemic control is contextual rather than categorical.** Selection, curation, editing, moderation, ranking, peer review, and library acquisition can be ordinary epistemic practice, censorial control, or a mixture depending on how they function in context.
 
@@ -17,7 +17,7 @@ This file lists the claims the essay must establish. `outline.md` is authoritati
 
 7. **Operational families must be kept separate from descriptive dimensions.** Relevant dimensions include scale, power and channel control, participation in preference formation, persistence/revisability, visibility/opacity, justification regime, and control surface/domain. These dimensions are analytically separable, not claimed to be mathematically orthogonal or empirically independent.
 
-8. **Censorship can be infrastructural, partial, probabilistic, and low-visibility.** Friction, ranking, classification, routines, access rules, flooding, and anticipatory restraint can matter even when expression remains technically possible.
+8. **Censorship can be infrastructural, partial, probabilistic, and low-visibility.** Friction, ranking, classification, routines, access rules, flooding, and anticipatory restraint can matter even when expression remains technically possible; infrastructure can turn episodic interventions into standing shortcuts around repeated contest.
 
 9. **Classification and evaluation are separate tasks.** Calling an intervention censorship does not determine whether it is lawful, justified, proportionate, harmful, necessary, democratic, professionally appropriate, or effective; calling it moderation, curation, safety, or quality control does not determine that it is not censorship.
 

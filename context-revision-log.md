@@ -38,3 +38,9 @@ This log records *why* the outline or core context changed, not just *what* chan
 - **Change Summary**: Established a clean source/build boundary for the narrowed essay.
 - **Rationale**: Generated LaTeX, section drafts, reviews, project-specific compiler prompts, and publication scaffolding were artefacts of the superseded workflow and created stale competing sources of truth. `compiled-prose` now owns generic prose compilation, while any future LaTeX/publication infrastructure should be introduced intentionally as separate work.
 - **Impact**: The narrowed branch now tracks only conceptual source, project context, and `references.bib`; generated prose and publication outputs are ignored under build/output directories. Historical files remain recoverable on `draft-zero` and in git history.
+
+- **Date**: 2026-08-21
+- **Files**: `outline.md`, `context-claims.md`, `context-definitions.md`, `context-global.md`, `context-glossary.md`, `context-evidence-tiers.md`, `context-revision-log.md`
+- **Change Summary**: Restored censorship-as-epistemic-shortcut as a canonical claim after the narrowing pass had demoted it too far.
+- **Rationale**: The important original insight is not the discarded general theory that complex social systems, morality, and censorship all form one family of shortcuts. It is the narrower structural claim that censorial control can stabilise an epistemic preference by changing the conditions of participation, thereby reducing the extent to which that preference must be continually re-established through epistemic contest. This follows naturally from the revised contest/control distinction and should remain part of the essay's conceptual centre.
+- **Impact**: Shortcut becomes canonical Claim 2, is added to the anchor and terminology, receives an explicit place in the contest/control argument and persistence section, and is distinguished sharply from out-of-scope general theories of social shortcuts, morality, or cybernetics.

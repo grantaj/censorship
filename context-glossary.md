@@ -7,6 +7,7 @@
 - **Control surface**: a practical condition through which an epistemic environment can be changed, such as availability, access, circulation, timing, visibility, ranking, legibility, standing, or memory.
 - **Epistemic contest**: attempts to change belief or judgment principally through claims, reasons, evidence, interpretation, criticism, rebuttal, or comparison within an existing field of participation.
 - **Epistemic control**: intervention in the practical conditions under which participation in an epistemic environment can occur.
+- **Epistemic shortcut**: the structural function by which censorial control stabilises an epistemic preference through changes to participation conditions, reducing the extent to which that preference must be repeatedly established through epistemic contest; not a general theory of social shortcuts.
 - **Censorial character**: a non-binary description for boundary cases where an intervention combines ordinary selection or contest with control of epistemic conditions; not a formal score.
 - **Operational family**: a recurring kind of censorial operation at a common level of abstraction.
 - **Subtype**: a useful recurring form within an operational family, such as prevention/erasure within exclusion or friction/delay within attenuation.
@@ -22,4 +23,3 @@
 - **Persistence/revisability**: how durable an arrangement is and how readily it can be reopened or changed.
 - **Visibility/opacity**: how readily the censorial mechanism itself can be perceived or inferred.
 - **Justification regime**: the rationale offered for an intervention, such as harm, law, safety, professional quality, efficiency, market suitability, or procedural neutrality.
-- **Shortcut**: a limited explanatory lens for settlements, defaults, classifications, or rules that reduce repeated deliberation or renegotiation; not a general theory of social control in this essay.

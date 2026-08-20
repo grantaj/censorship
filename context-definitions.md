@@ -66,6 +66,16 @@ The following factors discipline analysis without producing an automatic score:
 
 These factors are intentionally non-binary. The framework should make the basis of a disputed classification visible rather than pretending all boundary cases admit a context-free verdict.
 
+## Epistemic shortcut
+
+**An epistemic shortcut is the structural function by which censorial control stabilises an epistemic preference through changes to the conditions of participation, reducing the extent to which that preference must be repeatedly established through epistemic contest.**
+
+The shortcut claim follows from the contest/control distinction: instead of relying only on continuing argument, rebuttal, evidence, and persuasion, censorial control changes the field in which those activities occur. It may remove a contest, attenuate one side, transform what is available, flood the environment, or induce anticipatory restraint.
+
+The shortcut need not be complete, efficient, stable, consciously designed, or successful. Contest can continue alongside control. Calling censorship a shortcut also does not imply that the preferred ordering is false, that the intervention is unjustified, or that shortcutting is inherently pathological.
+
+This is a claim about what censorial control can accomplish structurally. The narrowed essay does **not** need a general theory of why shortcuts arise across social systems, does not treat all selection or institutional settlement as censorship, and does not depend on a cybernetic control model.
+
 ## Censorial character
 
 **Censorial character** is a descriptive phrase for the degree to which a boundary intervention functions as epistemic control in service of an epistemic preference.
@@ -106,19 +116,13 @@ These dimensions are analytically separable. The essay does not claim that they 
 
 **Infrastructural censorship is censorial operation embedded in ordinary rules, classifications, norms, incentives, technical systems, archives, rankings, professional routines, or anticipatory behaviour rather than appearing primarily as exceptional prohibition.**
 
-Infrastructural operation is not automatically censorial merely because it selects or structures attention; the boundary factors still apply.
+Infrastructural operation is not automatically censorial merely because it selects or structures attention; the boundary factors still apply. Where it is censorial, infrastructure can turn repeated interventions into durable epistemic shortcuts by making a preferred ordering part of the ordinary conditions of participation.
 
 ## Induced self-censorship
 
 **Induced self-censorship is anticipatory restraint produced by expected sanctions, incentives, opaque rules, prior enforcement, learned limits, or other socially reproduced censorial conditions.**
 
 Private reconsideration, uncertainty, politeness, or changing one's mind is not sufficient by itself. The analytic interest lies in the external or socially maintained condition being reproduced through anticipation.
-
-## Shortcut
-
-**Shortcut** is a limited explanatory lens for settlements, defaults, classifications, or rules that reduce repeated deliberation or renegotiation.
-
-Some censorial arrangements may become such shortcuts. The narrowed essay does not need to establish a general theory of why shortcuts emerge and does not depend on a cybernetic control model.
 
 ## Morality and control theory
 
