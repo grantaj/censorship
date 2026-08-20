@@ -21,6 +21,8 @@ Consequences of this definition:
 
 The preference is the target state, not the mechanism used to produce it. It need not be true, false, good, bad, democratically formed, consciously articulated, or attributable to one actor.
 
+A preferred ordering need not take the form “believe proposition B instead of proposition A.” It can concern whether a claim or speaker acquires sufficient standing, visibility, credibility, or practical salience to matter. In some saturation cases, stabilising uncertainty or non-resolution around a rival claim may serve the relevant ordering without installing a positive counter-belief.
+
 ## Epistemic environment
 
 **An epistemic environment is the practical set of conditions governing whether and how claims, representations, records, and speakers can enter, circulate within, persist in, and matter within a field of attention or judgment.**
@@ -74,6 +76,8 @@ The shortcut claim follows from the contest/control distinction: instead of rely
 
 The shortcut need not be complete, efficient, stable, consciously designed, or successful. Contest can continue alongside control. Calling censorship a shortcut also does not imply that the preferred ordering is false, that the intervention is unjustified, or that shortcutting is inherently pathological.
 
+A shortcut can also **sediment** the outcome of an earlier contest. Once a preference is encoded into a rule, classification, ranking, archive practice, professional routine, or inherited norm, later participants may encounter the settled conditions without encountering the argument, conflict, or explicit decision that produced them. Revisability then describes, in part, whether the inherited settlement can practically be reopened to contest.
+
 This is a claim about what censorial control can accomplish structurally. The narrowed essay does **not** need a general theory of why shortcuts arise across social systems, does not treat all selection or institutional settlement as censorship, and does not depend on a cybernetic control model.
 
 ## Censorial character
@@ -81,6 +85,8 @@ This is a claim about what censorial control can accomplish structurally. The na
 **Censorial character** is a descriptive phrase for the degree to which a boundary intervention functions as epistemic control in service of an epistemic preference.
 
 It is not a quantitative score and does not imply a continuous metric. It exists to avoid false categorical claims about selection-heavy practices.
+
+The visibility of censorial character can be position-dependent. An arrangement that advantages a participant's inherited epistemic ordering may appear as ordinary procedure, quality control, safety, professionalism, or common sense, while the same arrangement may be conspicuous as exclusion or control to those disadvantaged by it. This does not make structural classification subjective; it is a reason not to treat institutional labels or participant self-description as decisive evidence.
 
 ## Operational family
 
@@ -112,17 +118,23 @@ Canonical dimensions are:
 
 These dimensions are analytically separable. The essay does not claim that they are mathematically orthogonal, statistically independent, or causally unrelated.
 
+Persistence/revisability includes a temporal question: whether a present arrangement is an episodic intervention, a recurrent practice, or an inherited settlement that encodes the result of earlier contest, and how readily that settlement can be reopened.
+
 ## Infrastructural censorship
 
 **Infrastructural censorship is censorial operation embedded in ordinary rules, classifications, norms, incentives, technical systems, archives, rankings, professional routines, or anticipatory behaviour rather than appearing primarily as exceptional prohibition.**
 
 Infrastructural operation is not automatically censorial merely because it selects or structures attention; the boundary factors still apply. Where it is censorial, infrastructure can turn repeated interventions into durable epistemic shortcuts by making a preferred ordering part of the ordinary conditions of participation.
 
+Infrastructure can also preserve past contest as present structure. A later participant may inherit a classification, ranking, access rule, or professional norm without the original dispute remaining visible. As routines and expectations reproduce the arrangement, the burden of overt enforcement may decline. Reduced visible enforcement does not establish consent, legitimacy, truth, or neutrality; it describes how the mechanism has become self-reproducing.
+
 ## Induced self-censorship
 
 **Induced self-censorship is anticipatory restraint produced by expected sanctions, incentives, opaque rules, prior enforcement, learned limits, or other socially reproduced censorial conditions.**
 
 Private reconsideration, uncertainty, politeness, or changing one's mind is not sufficient by itself. The analytic interest lies in the external or socially maintained condition being reproduced through anticipation.
+
+Induced self-censorship is one way a censorial arrangement can reduce its need for repeated external intervention: participants learn the expected consequences or boundaries and reproduce them prospectively.
 
 ## Morality and control theory
 
