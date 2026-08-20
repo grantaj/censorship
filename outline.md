@@ -44,7 +44,7 @@ Locate the essay against existing censorship scholarship without claiming that i
 
 - Explicit prohibition is an important and highly visible form of censorship, but existing scholarship and professional debate already recognise less direct forms, including friction, flooding, restricted access, self-censorship, and contested forms of selection.
 - The longstanding debate over library selection is exemplary: the fact that a librarian chooses under scarcity does not by itself settle whether a particular exclusion is selection, censorship, both, or neither.
-- Digital censorship research likewise shows that control can operate by increasing access costs, burying material, diverting attention, flooding an information environment, or otherwise degrading practical discrimination rather than by making material literally unavailable.
+- Digital censorship research likewise shows that control can operate by increasing access costs, burying or diverting attention, and flooding an information environment rather than by making material literally unavailable.
 - The essay's novelty claim is therefore organisational rather than ontological.
 - Existing discussion commonly mixes at least four things:
   - the actor performing an intervention,
@@ -66,7 +66,7 @@ Locate the essay against existing censorship scholarship without claiming that i
 
 - Indirect censorship through friction and flooding: `roberts2018`.
 - Selection/censorship boundary in libraries: `asheim1953`, `kidd2009`.
-- Power beyond overt prohibition: `foucault1977`, `lukes2005`.
+- Background on non-overt and disciplinary power: `foucault1977`, `lukes2005`.
 - Infrastructure and classification: `bowkerstar1999`, `star1999`.
 - Opaque technical mediation: `pasquale2015`.
 
@@ -196,7 +196,7 @@ Transformation can overlap with exclusion or attenuation.
 Censorial control changes the surrounding information environment so that a target becomes harder to find, attend to, distinguish, verify, or use without being removed.
 
 - Noise, repetitive material, diversion, coordinated competing material, or information volume may create the suppressive effect.
-- Saturation can operate not only by burying a target but by degrading **epistemic discrimination** itself: distinguishing reliable from unreliable material, resolving a disputed question, or acting confidently on available information can become sufficiently costly or uncertain that participants disengage, defer, or treat resolution as futile.
+- The framework further proposes that saturation can operate not only by burying a target but by degrading **epistemic discrimination** itself: distinguishing reliable from unreliable material, resolving a disputed question, or acting confidently on available information can become sufficiently costly or uncertain that participants disengage, defer, or treat resolution as futile.
 - The censorial effect therefore need not persuade participants that a positive alternative is true. It can be enough to prevent a rival claim, representation, or speaker from acquiring sufficient standing or practical salience to become actionable or authoritative.
 - Ordinary contradiction or counter-speech remains epistemic contest.
 - Counter-assertion becomes relevant here when scale, coordination, or environmental effect turns it into flooding, practical attenuation, or degradation of the conditions for discrimination.
@@ -217,7 +217,7 @@ Some concepts from the earlier taxonomy remain useful but should not be treated 
 - **Delegitimation** — attacking credibility, competence, motive, status, or entitlement to be heard. This is ordinary criticism when it contests standing on the merits; it becomes censorially relevant when it is used to produce exclusion, attenuation, or induced self-censorship.
 - **Inversion** — reframing the act of expression as evidence of harm, threat, pathology, disloyalty, extremism, or another disqualifying status. The reframing itself is not automatically censorship; its censorial significance lies in how it changes admissibility, standing, reach, or expected consequences.
 - **Contradiction** — not a primary censorial operation. Ordinary contradiction is contest. Coordinated contradiction that suppresses through volume or environmental occupation is classified by its operative effect, usually saturation or attenuation.
-- **Selection/curation** — not a separate operation and not categorically outside censorship. A selection decision can instantiate exclusion or attenuation depending on the boundary factors in Section 2.
+- **Selection/curation** — not a separate operation and not categorically outside censorship. A selection decision can instantiate an operational family such as exclusion, attenuation, or transformation—or no censorial operation at all—depending on the boundary factors in Section 2.
 
 ## Taxonomy caveats
 
@@ -226,18 +226,14 @@ Some concepts from the earlier taxonomy remain useful but should not be treated 
 - Poorly fitting cases are evidence for revision, not invitations to force-fit.
 - The taxonomy deliberately distinguishes operation from tactic, justification, response, and context.
 
-## Support
+## Support and source responsibility
 
-- Friction and flooding as censorship mechanisms: `roberts2018`.
-- Infrastructure/classification: `bowkerstar1999`, `star1999`.
-- Disciplinary and anticipatory control: `foucault1977`.
-- Power and non-overt control: `lukes2005`.
-- Opaque technical mediation: `pasquale2015`.
-
-## Evidence gap
-
-- The five-family taxonomy is the essay's analytic proposal. Sources support particular mechanisms and phenomena; they should not be presented as independently establishing this exact taxonomy.
-- The stronger saturation claim about degraded discrimination must be audited in #2 for source-to-claim fit and calibrated if the literature supports a narrower empirical formulation.
+- `roberts2018` directly supports censorship through friction and coordinated flooding/distraction, including the practical effects of small access costs and diversion without literal deletion.
+- `bowkerstar1999` and `star1999` support the role of classification and embedded infrastructure in shaping practical conditions while often receding from view.
+- `foucault1977` and `lukes2005` provide background on disciplinary and non-overt forms of power; they should not be cited as though they independently establish the five-family censorship taxonomy.
+- `pasquale2015` supports the importance and opacity of technical ranking and mediation; whether a particular ranking is censorial remains a boundary judgment under Section 2.
+- The five-family taxonomy is the essay's analytic proposal. Sources support particular mechanisms and phenomena; they do not independently establish this exact taxonomy.
+- The stronger claim that saturation can degrade discrimination or resolution is an analytic extension from documented flooding, distraction, and information-environment mechanisms. Render it as a possibility generated by the framework, not as a general empirical result established by `roberts2018`.
 
 ---
 
@@ -304,7 +300,7 @@ Persistence can be historical as well as repetitive. A present arrangement may *
 
 This concerns visibility of the censorial mechanism, not visibility of the target.
 
-Visibility can also be position-dependent. A settled arrangement may appear as ordinary procedure, quality control, safety, professionalism, or common sense to those advantaged by its epistemic ordering while being salient as exclusion or control to those disadvantaged by it. This does not make structural classification subjective. It explains why institutional labels and participant self-descriptions cannot be treated as decisive classifiers.
+The framework also treats visibility as potentially position-dependent. A settled arrangement may appear as ordinary procedure, quality control, safety, professionalism, or common sense to those advantaged by its epistemic ordering while being salient as exclusion or control to those disadvantaged by it. This does not make structural classification subjective. It explains why institutional labels and participant self-descriptions cannot be treated as decisive classifiers.
 
 ### 4.6 Justification regime
 
@@ -330,12 +326,13 @@ The same operation can be defended under different regimes, and a justification 
 
 Several surfaces may be affected at once.
 
-## Support
+## Support and source responsibility
 
 - Power: `lukes2005`, `foucault1977`.
 - Legibility and classification: `scott1998`, `bowkerstar1999`, `star1999`.
 - Platform opacity: `pasquale2015`.
-- Position-dependent visibility and sedimentation should be audited in #2 so any empirical generalisation is distinguished from the framework's analytic possibility claims.
+- `bowkerstar1999` and `star1999` support the invisibility, embeddedness, and consequential effects of classifications and infrastructure. The more specific claim that a censorial mechanism may be differently visible to differently positioned participants is the framework's analytic synthesis; render it as a possibility, not as a finding directly established by those sources.
+- Sedimentation is likewise an analytic temporal extension of the contest/control framework. Infrastructure and classification literature supplies relevant background, but the cited sources should not be made to speak in the essay's censorship-specific terminology.
 
 ---
 
@@ -360,7 +357,7 @@ Explain the shortcut relation as a structural consequence of censorial control, 
 
 - Indirect and incomplete censorship can matter even when information remains technically obtainable.
 - Friction can change consumption by adding small costs of time, effort, expertise, or money.
-- Flooding and distraction can divert attention without deleting the target and can, in stronger cases, make epistemic discrimination or resolution itself costly or uncertain.
+- Flooding and distraction can divert attention without deleting the target and, in the framework's stronger analytic extension, can make epistemic discrimination or resolution itself costly or uncertain.
 - Ranking, recommendation, classification, professional routines, archive practices, and access rules can embed selective effects into ordinary infrastructure.
 - Once embedded, a censorial pattern may reproduce without repeated explicit decisions by a visible censor.
 - Infrastructure can therefore turn episodic control into a standing epistemic shortcut: the preferred ordering is reproduced by the ordinary conditions of participation rather than by repeated overt intervention.
@@ -370,10 +367,10 @@ Explain the shortcut relation as a structural consequence of censorial control, 
 
 ### 5.3 Sedimentation and enforcement burden
 
-- A standing shortcut may be the present form of an earlier contest. A dispute can produce a rule, classification, ranking, professional convention, archive practice, or institutional norm that subsequently structures participation after the originating arguments and actors have receded from view.
+- The framework treats a standing shortcut as potentially the present form of an earlier contest. A dispute can produce a rule, classification, ranking, professional convention, archive practice, or institutional norm that subsequently structures participation after the originating arguments and actors have receded from view.
 - Later participants can therefore inherit an epistemic ordering as infrastructure rather than encounter it as an active dispute. The arrangement may appear natural, technical, professional, traditional, or merely procedural because the contest that generated it is no longer visible at the point of use.
 - **Revisability** matters descriptively here: can the settlement practically be reopened to contest, or does the infrastructure make the earlier resolution difficult to revisit?
-- As the settlement becomes reproduced through routine, expectations, technical defaults, professional practice, and anticipatory behaviour, the **burden of overt enforcement can decline**. Fewer visible interventions may be needed because participants and institutions already act within the learned or inherited conditions.
+- As the settlement becomes reproduced through routine, expectations, technical defaults, professional practice, and anticipatory behaviour, the framework predicts that the **burden of overt enforcement can decline**. Fewer visible interventions may be needed because participants and institutions already act within the learned or inherited conditions.
 - Reduced visible enforcement must not be interpreted as proof of consensus, legitimacy, truth, neutrality, or voluntary acceptance. It identifies a shift in how the censorial condition is reproduced.
 - This mechanism connects infrastructural censorship and induced self-censorship without collapsing them: infrastructure can preserve the external conditions, while participants can prospectively reproduce those conditions through learned expectations.
 
@@ -387,14 +384,14 @@ Explain the shortcut relation as a structural consequence of censorial control, 
 - It does not require the earlier morality/censorship homology, the control triangle, or positive/negative-feedback terminology.
 - It leaves open the broader question of how shortcut mechanisms operate elsewhere in social life.
 
-## Support
+## Support and source responsibility
 
-- Friction, flooding, and incomplete censorship: `roberts2018`.
-- Infrastructure and classification: `bowkerstar1999`, `star1999`.
-- Legibility: `scott1998`.
-- Opaque technical mediation: `pasquale2015`.
-- Power and routinised discipline: `foucault1977`, `lukes2005`.
-- The shortcut relation, sedimentation formulation, and enforcement-burden inference are analytic claims generated by the framework; #2 should audit which surrounding empirical claims require direct support and calibrate them accordingly.
+- `roberts2018` directly supports friction, flooding/distraction, and incomplete censorship in which information can remain technically obtainable while practical access or attention changes.
+- `bowkerstar1999` and `star1999` support classification and infrastructure as embedded, consequential, and often taken-for-granted conditions of practice; `scott1998` supports legibility and standardisation as conditions of administrative action.
+- `pasquale2015` supports opaque technical mediation, especially in ranking, search, and other algorithmic systems.
+- `foucault1977` directly supports the broader disciplinary possibility that power can be arranged to remain effective even when its exercise is discontinuous; `lukes2005` supplies background on power beyond overt commands.
+- The censorship-specific shortcut relation, the sedimentation formulation, and the inference that routinised censorial conditions can reduce overt enforcement burden remain analytic claims generated by this framework. The sources provide mechanisms and analogues, not independent proof of the essay's exact formulation.
+- Do not turn those analytic claims into empirical universals: use possibility language unless a separate empirical source is supplied for frequency, prevalence, or causal generality.
 
 ## Deliberate narrowing
 
@@ -433,7 +430,7 @@ These are not cases with predetermined verdicts.
 - **Library acquisition:** a librarian cannot acquire everything. Non-acquisition may reflect scarcity, collection remit, quality judgment, or a pattern of viewpoint exclusion. The same surface act can therefore range from ordinary selection to strongly censorial exclusion; the framework asks what resource is controlled, what is systematically disadvantaged, whether a preferred ordering is being stabilised without repeated contest, whether the selection criteria sediment an earlier settlement, why that disadvantage recurs, and what alternatives exist.
 - **Editorial rejection:** an editor necessarily selects. A rejection based on evidentiary standards may be principally epistemic contest or quality control; coordinated or systematic exclusion of a disfavoured position from a consequential venue may exhibit stronger censorial character when channel control substitutes for continued contest. A settled editorial convention may also carry an earlier epistemic resolution into present practice. Neither conclusion follows from the title “editor.”
 - **Search or recommendation ranking:** ranking necessarily orders attention. A ranking change can be ordinary relevance optimisation, commercial prioritisation, safety intervention, or censorial attenuation. Mechanism, preference, opacity, channel power, pattern, substitutability, inherited defaults, and whether ranking functions as a shortcut around contest matter.
-- **Moderation:** removing or demoting material is operationally exclusion or attenuation, but calling it censorship does not decide whether it is justified. Conversely, calling it safety or moderation does not decide that it is not censorship. Participants differently positioned relative to the moderation regime may experience the same rule very differently; that divergence is evidence to analyse, not a substitute for structural classification.
+- **Moderation:** removing or demoting material changes participation conditions, but that fact alone does not settle whether the intervention is censorial. Where the boundary analysis supports a censorial classification, removal maps to exclusion and demotion to attenuation. Calling the intervention censorship does not decide whether it is justified; conversely, calling it safety or moderation does not decide that it is not censorship. Participants differently positioned relative to the moderation regime may experience the same rule very differently; that divergence is evidence to analyse, not a substitute for structural classification.
 - **Counter-speech:** rebuttal remains contest even when forceful. Coordinated counter-speech can cross toward saturation when its environmental effect is to occupy the channel, make the target practically inaccessible, or make discrimination and resolution sufficiently costly that participants abandon the contest rather than resolve it.
 - **Self-restraint:** choosing not to speak is not automatically self-censorship. The analytic question is whether anticipatory restraint reproduces an external or socially maintained censorial condition, thereby making repeated external intervention less necessary.
 
@@ -464,12 +461,13 @@ These are not cases with predetermined verdicts.
 - It does not claim that all social coordination is shortcutting or that all shortcutting is censorship.
 - The taxonomy remains open to empirical revision.
 
-## Support
+## Support and source responsibility
 
-- Selection/censorship dispute: `asheim1953`, `kidd2009`.
-- Friction/flooding and incomplete censorship: `roberts2018`.
-- Power, infrastructure, and classification: `lukes2005`, `foucault1977`, `bowkerstar1999`, `star1999`, `pasquale2015`.
-- #2 should specifically audit source-to-claim fit for sedimentation, position-dependent visibility, enforcement burden, and the stronger epistemic-discrimination account of saturation.
+- `asheim1953` and `kidd2009` establish that selection/censorship is a substantive and contested library boundary rather than a distinction settled by the institutional label alone.
+- `roberts2018` supports friction, flooding/distraction, and incomplete censorship; it should not be cited as though it directly establishes the essay's stronger general account of degraded epistemic discrimination.
+- `lukes2005`, `foucault1977`, `bowkerstar1999`, `star1999`, and `pasquale2015` supply background on non-overt power, discipline, infrastructure, classification, and opaque mediation.
+- Sedimentation, position-dependent visibility, declining enforcement burden, and the stronger discrimination account are explicit analytic outputs of this framework. Boundary examples should use them conditionally, not present them as empirical facts about a named institution unless case-specific evidence is supplied.
+- The stress tests in this section are analytic hypotheticals unless a source is attached to a concrete case. Do not invent empirical details to make them more vivid.
 
 ---
 
