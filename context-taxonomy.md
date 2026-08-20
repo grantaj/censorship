@@ -84,11 +84,13 @@ Transformation can compose with exclusion or attenuation.
 
 ### D. Saturation / flooding
 
-Censorial control changes the surrounding information environment so that a target becomes harder to find, attend to, distinguish, or use without being removed.
+Censorial control changes the surrounding information environment so that a target becomes harder to find, attend to, distinguish, verify, or use without being removed.
 
 - Noise, repetition, diversion, coordinated competing material, or sheer information volume may create the suppressive effect.
+- Saturation can operate not only by burying a target but by degrading **epistemic discrimination** itself: distinguishing reliable from unreliable material, resolving a disputed question, or acting confidently on available information can become sufficiently costly or uncertain that participants disengage, defer, or treat resolution as futile.
+- The relevant epistemic preference therefore need not install a positive counter-belief. A censorial effect can consist in preventing a rival claim, representation, or speaker from acquiring enough standing or practical salience to become actionable or authoritative.
 - Ordinary contradiction and counter-speech are not saturation merely because they compete for attention.
-- Counter-assertion becomes relevant here when scale, coordination, or environmental effect changes the practical conditions of encounter.
+- Counter-assertion becomes relevant here when scale, coordination, or environmental effect changes the practical conditions of encounter or discrimination.
 
 ### E. Induced self-censorship
 
@@ -97,6 +99,7 @@ Expected consequences alter future expression before an external censor must act
 - Anticipatory restraint may be produced by sanctions, incentives, norms, prior enforcement, opaque rules, or learned expectations.
 - The proximate act is performed by the target, but the censorial condition is externally or socially reproduced.
 - Ordinary private reconsideration, uncertainty, politeness, or a change of mind is insufficient by itself.
+- Where expectations successfully reproduce the censorial condition, repeated overt intervention may become less necessary. That reduced enforcement burden is a feature of persistence, not evidence that the arrangement is accepted, legitimate, true, or neutral.
 
 ## 4. Boundary-sensitive strategies and practices
 
@@ -121,7 +124,7 @@ Reframing an expression so that the act of expressing it becomes evidence of har
 Counter-assertion or rebuttal.
 
 - Ordinary contradiction is epistemic contest and is not a primary censorial operation.
-- Coordinated or scaled contradiction that occupies the environment and suppresses practical encounter is classified by its operative effect, usually saturation or attenuation.
+- Coordinated or scaled contradiction that occupies the environment and suppresses practical encounter or discrimination is classified by its operative effect, usually saturation or attenuation.
 
 ### 4.4 Selection and curation
 
@@ -181,6 +184,8 @@ Participation is descriptive in this essay and does not establish a general theo
 
 A related question is how readily the relevant rule, ranking, classification, norm, or settlement can be reopened and changed.
 
+Persistence can be historical as well as repetitive. A present arrangement may **sediment** the outcome of an earlier contest: later participants inherit the rule, classification, ranking, archive practice, or norm without the original dispute remaining visible. Revisability then asks whether that inherited settlement is practically open to renewed contest, not whether it is normatively legitimate.
+
 ### 6.5 Visibility / opacity of the mechanism
 
 - overt;
@@ -189,6 +194,8 @@ A related question is how readily the relevant rule, ranking, classification, no
 - only indirectly inferable.
 
 This concerns visibility of the censorial mechanism, not visibility of the target.
+
+Visibility can also vary with position in the epistemic environment. An arrangement may be largely invisible or appear as ordinary procedure to those advantaged by its settled ordering while being conspicuous as exclusion or control to those disadvantaged by it. This asymmetry does not make classification subjective; it is a reason to examine mechanism rather than rely on institutional or participant labels.
 
 ### 6.6 Justification regime
 
@@ -222,8 +229,10 @@ For an illustrative case:
 2. Identify the control surface or consequential resource at issue.
 3. Ask whether the intervention primarily contests a claim, changes participation conditions, or combines both.
 4. Apply the boundary factors; preserve ambiguity where warranted.
-5. Identify the operational family or families, then any useful subtype or strategy.
-6. Describe only the contextual dimensions that materially aid analysis.
-7. Only after structural classification, ask normative, legal, professional, political, or practical questions.
+5. Ask whether the present arrangement is an episodic intervention or an inherited settlement that encodes earlier contest, and whether it can practically be reopened.
+6. Identify the operational family or families, then any useful subtype or strategy.
+7. Describe only the contextual dimensions that materially aid analysis, including whether the mechanism is differently visible from different positions.
+8. If overt enforcement is limited, ask whether routines, infrastructure, or learned expectations are reproducing the condition rather than inferring consent from the absence of visible intervention.
+9. Only after structural classification, ask normative, legal, professional, political, or practical questions.
 
 This sequence is intended to prevent both moral disapproval and professional labels from silently determining what counts as censorship.

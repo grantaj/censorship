@@ -14,12 +14,18 @@ Applies to:
 The shortcut relation is partly an internal analytic consequence of the essay's contest/control distinction. Supporting literature may motivate or contextualise the relation, but should not be cited as though it independently establishes the essay's exact formulation.
 
 ### Tier 2: Structural and Analytic Claims
-Use peer-reviewed sources or highly cited academic texts; at least one strong citation.
+Use peer-reviewed sources or highly cited academic texts; at least one strong citation where the claim is empirical or historical rather than an explicit analytic consequence of the framework.
 Applies to:
 - operational mechanisms and subtypes such as friction, flooding, attenuation, induced self-censorship, classification, and infrastructural effects;
+- saturation effects that make verification, discrimination, resolution, or action costly or uncertain rather than merely burying a target;
 - descriptive dimensions such as scale, power/channel control, participation, persistence/revisability, visibility/opacity, justification, and control surface/domain;
 - claims about infrastructural or low-visibility operation;
-- claims about how rules, classifications, routines, or expectations can make censorial effects persistent without repeated overt intervention.
+- claims about how rules, classifications, routines, or expectations can make censorial effects persistent without repeated overt intervention;
+- claims about earlier contest becoming sedimented into inherited rules, classifications, rankings, archive practices, routines, or norms;
+- claims that routinisation or anticipatory behaviour can reduce overt enforcement burden;
+- claims that the visibility or experience of a mechanism can differ systematically across positions in an epistemic environment.
+
+Where sedimentation, position-dependent visibility, or declining enforcement burden are presented as analytic possibilities rather than general empirical regularities, say so explicitly. Do not use an interpretive extension as though a cited source independently establishes the essay's exact formulation.
 
 ### Tier 3: Illustrative Boundary Claims
 Use credible academic or authoritative sources where an example makes an empirical claim. Purely hypothetical stress tests need no citation but must not be written as facts about a real institution or case.
@@ -46,4 +52,5 @@ Applies to:
 - Do not cite professional labels or institutional self-description as proof that a practice is or is not censorship.
 - For boundary cases, cite the existence of the dispute or empirical mechanism; preserve the essay's own analytic responsibility for classification.
 - Keep the canonical shortcut claim distinct from the broader, out-of-scope theory that complexity or social life in general necessarily generates shortcut systems.
+- Do not infer consent, legitimacy, truth, or neutrality from reduced visible enforcement.
 - If a claim lacks adequate evidence at its tier, revise or defer it.
