@@ -6,8 +6,8 @@ This log records *why* the outline or core context changed, not just *what* chan
 ### Template
 
 - **Date**: YYYY-MM-DD
-- **Files**: `context-*.md`
-- **Change Summary**: brief description of the change
+- **Files**: affected project files
+- **Change Summary**: brief description
 - **Rationale**: why the change was needed
 - **Impact**: which claims/sections are affected
 
@@ -20,3 +20,9 @@ This log records *why* the outline or core context changed, not just *what* chan
 - **Change Summary**: Added scaffolding files (claims, section contract, glossary, evidence tiers, revision log) and aligned outline, guardrails, and taxonomy framing.
 - **Rationale**: Strengthen long-form coherence, enforce a deterministic rendering pipeline, and make separation of concerns explicit.
 - **Impact**: Claims index introduced; outline structure updated; guardrails and pointer table expanded.
+
+- **Date**: 2026-08-21
+- **Files**: `outline.md`, `outline-working.md`, `context-outline.md`, `context-claims.md`, `context-global.md`, `context-definitions.md`, `context-taxonomy.md`, `context-glossary.md`, `context-method-note.md`
+- **Change Summary**: Narrowed the essay from a broad censorship/morality/control framework to a structural account focused on censorship; introduced a new authoritative `outline.md` designed for `grantaj/compiled-prose`.
+- **Rationale**: The broader framework contained valuable ideas but imposed several independent argumentative burdens (morality homology, control theory, general legitimacy theory, shortcut collision) that were not necessary to establish the censorship thesis. Narrowing reduces scope while preserving the strongest original contributions: epistemic preference, mechanism-first taxonomy, kinds-versus-axes separation, infrastructural censorship, and censorship-as-shortcut as a limited explanatory lens.
+- **Impact**: Sixteen broad sections collapse to eight censorship-focused sections; morality/control theory are demoted to optional allusions; legitimacy is no longer a canonical claim; an explicit contest-versus-control boundary is added to prevent the definition from expanding into ordinary disagreement; `outline-working.md` and `context-outline.md` are superseded as compilation inputs.

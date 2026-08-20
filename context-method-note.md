@@ -1,12 +1,16 @@
 # Methodology
-## AI-Assisted Development 
+## AI-Assisted Development and Compiled Prose
 
-This project is developed with AI assistance in a manner analogous to a mathematician using computational tools for symbolic work. The AI is used to support structure, consistency, and iterative refinement; it does not replace authorial judgment or conceptual ownership. It is also used as a dialectical tool to refine and stress-test ideas.
+The conceptual framework, definitions, taxonomy, scope decisions, and final judgments in this project are authored by the human researcher. AI tools are used to support structure, consistency, stress-testing, citation organisation, and prose rendering.
 
-The core model, definitions, taxonomy, and claims are authored by the human researcher. The outline is treated as the primary argument, and the prose as a nearly deterministic but implementation-variant rendering of that outline (concepts -> outline -> prose -> typesetting). Different AI systems, or even the same system across runs, may render the prose differently; the aim is a faithful compilation of the outline into executable understanding rather than a single fixed wording. AI tools help enforce clarity, traceability, and rigor, while citation standards and verification remain human-led.
+The project treats `outline.md` as the primary authored argument. Prose is a compiled artefact: a rendering of explicit conceptual structure into publication-quality language. Different models or runs may realise the prose differently, but they should preserve the same claims, scope, terminology, order, and citation constraints.
 
-The aim is methodological transparency rather than deflection: the process is open, reproducible, and intended to strengthen the robustness of the final essay.
+Generic prose compilation is delegated to `grantaj/compiled-prose`. This repository should not maintain a parallel project-specific prompt stack unless a genuinely censorship-specific requirement cannot be represented as conceptual content in the outline. If the compiler needs extra generic instructions to render this outline faithfully, that should be treated as a possible `compiled-prose` issue rather than solved by adding ad hoc prompts here.
 
-## Roles and Authorship
+AI assistance is also used dialectically before compilation: to identify overreach, inconsistent definitions, category collapse, weak boundaries, unsupported causal claims, and citation gaps. Those findings are resolved in the outline and context files before prose generation wherever possible.
 
-Authorship, conceptual ownership, and judgment remain with the human researcher. The AI functions as a structured collaborator: organizing, stress-testing, and formalizing ideas into explicit scaffolding and workflow. It does not originate the thesis; it helps make the thesis coherent and executable.
+Citation standards and reference verification remain part of the research task. A citation key appearing in the outline indicates intended support; it does not by itself certify that the source establishes the exact claim or that the bibliographic record is correct.
+
+The aim is methodological transparency and separation of concerns:
+
+conceptual work -> authoritative outline -> prose compilation -> typesetting/publication.

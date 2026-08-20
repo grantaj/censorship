@@ -1,94 +1,79 @@
-# Censorship, Morality, and Conduct  
-## A Systems Framework of Epistemic Preference and Power
+# Canonical Definitions
+## Structural Account of Censorship
 
-This document summarises the development of a systems-based framework that treats **censorship**, **morality**, and **conduct** as interrelated stabilising mechanisms within epistemic systems. The aim is to move away from moralised or categorical accounts and toward a descriptive, amoral, and structural model grounded in control, feedback, and legitimacy.
+This document defines the terms used by the narrowed essay. `outline.md` remains authoritative for argument order and emphasis.
 
----
+## Censorship
 
-## Core Premise
+**Censorship consists of mechanisms that enforce epistemic preference by altering the practical conditions under which expressions, claims, records, or speakers can appear, circulate, persist, remain visible, or count as admissible.**
 
-In complex social systems, continuous rational debate over all contested questions is impractical. As a result, systems evolve **shortcuts** that stabilise behaviour and belief by reducing epistemic load. These shortcuts are not inherently truth-seeking; they are **stability-seeking**.
+Consequences of this definition:
 
-Censorship and morality are understood not as opposites, but as complementary control mechanisms operating on a shared field: conduct.
+- explicit prohibition is one form, not the whole category;
+- a single identifiable censor is not required;
+- success is not required for an intervention to be censorial;
+- the relevant surface can be speech, publication, ranking, search, archives, institutional standing, attention, or memory;
+- justification and moral evaluation are separate from classification.
 
----
+## Epistemic preference
 
-## The Epistemic Control Model
+**Epistemic preference is a preference about what is credible, legitimate, visible, memorable, admissible, or worth attending to within an epistemic environment.**
 
-The framework resolves into a three-part control structure:
+The term does not imply that the preferred state is true, false, good, bad, democratically formed, or consciously articulated by a single actor.
 
-- **Conduct** — the regulated variable (what actually happens)
-- **Censorship** — negative feedback (constraint, suppression)
-- **Morality** — positive feedback (attraction, internalisation)
+## Epistemic environment
 
-Together, these form an epistemic stabilisation loop.
+**An epistemic environment is the practical set of conditions governing availability, circulation, visibility, standing, attention, legibility, and persistence for claims, expression, and records.**
 
-Legitimacy tracks participation and revisability across all three elements.
+The concept is deliberately practical. It concerns what can actually enter, remain in, and matter within a field of attention or judgment.
 
----
+## Boundary: contest versus control
 
-## Final Axiomatic Definitions
+The framework distinguishes two ideal types:
 
-### Censorship
+- **Epistemic contest**: disagreement operating within the field—criticism, rebuttal, persuasion, rejection, comparison of evidence, editorial judgment, and argument on the merits.
+- **Epistemic control**: intervention in the practical conditions of participation in the field—availability, access, reach, persistence, visibility, admissibility, standing, hearability, attention, or memory.
 
-> **Censorship** consists of mechanisms that enforce preferred epistemic or social outcomes by constraining speech, thereby bypassing immediate debate. The stability of such mechanisms depends on the degree to which the enforced preference is accepted by the majority excluded from direct power, and on the availability of deliberative processes that can later revise it.
+Censorship is a form of epistemic control.
 
-Key points retained from earlier discussion:
-- Censorship is not primarily about truth or falsity.
-- It functions as a shortcut under conditions of epistemic overload.
-- Its legitimacy is continuous, not binary.
-- Participation and revisability are critical variables.
+This boundary is functional rather than intentional. A hostile rebuttal is not censorship merely because it discourages a speaker or persuades an audience. A campaign of counter-assertion may become censorial when its operative function is to make the target practically inaudible or unusable by controlling the surrounding epistemic environment.
 
----
+Some cases remain ambiguous. The essay should preserve that ambiguity rather than turning the definition into an all-purpose label for epistemic conflict.
 
-### Morality
+## Operational mode
 
-> **Morality** is the emergence of preferred epistemic or social states as internalised norms that guide behaviour without continuous contestation; its legitimacy is proportional to the degree to which those norms arise from, and remain open to revision through, rational, participatory deliberation rather than functioning solely as stabilising shortcuts under conditions of complexity or power asymmetry.
+**An operational mode is a recurring way in which censorial control is performed, independent of actor, scale, justification, domain, or moral evaluation.**
 
-Key points retained from earlier discussion:
-- Morality operates through attraction rather than prohibition.
-- It reduces the need for constant renegotiation of behaviour.
-- It is structurally similar to censorship, differing in mechanism rather than function.
-- Moral norms lose legitimacy when they become non-revisable or imposed by power alone.
+Modes may overlap and compose.
 
----
+## Analytic axis
 
-### Conduct
+**An analytic axis is an orthogonal dimension describing the conditions under which a censorial operation occurs without changing its operational kind.**
 
-> **Conduct** is the realised pattern of speech and behaviour within an epistemic system, the site where epistemic preferences are instantiated in action. It is shaped jointly by moral attraction and censorial constraint, stabilising when these controls are broadly accepted and remaining adaptive only insofar as deliberative revision remains possible.
+Canonical axes are:
 
-Key points retained from earlier discussion:
-- “Conduct” is value-neutral and observable.
-- It avoids the cultural and professional baggage of “practice.”
-- It names the state variable regulated by censorship and morality.
-- Conduct may stabilise without legitimacy under excessive constraint.
+- scale,
+- power distribution,
+- participation in preference formation,
+- persistence and revisability,
+- visibility,
+- justification regime,
+- domain of control.
 
----
+## Infrastructural censorship
 
-## Structural Insights from the Discussion
+**Infrastructural censorship is censorial operation embedded in ordinary rules, classifications, norms, incentives, technical systems, archives, rankings, professional routines, or anticipatory behaviour rather than appearing primarily as an exceptional prohibition.**
 
-- Censorship and morality are **not oppositional**; they are complementary control strategies.
-- Both substitute for open debate when debate becomes costly or destabilising.
-- Legitimacy varies continuously with participation, acceptance, and revisability.
-- Power asymmetry determines whether shortcuts are experienced as protection or domination.
-- The model aligns with control theory, cybernetics, and Foucauldian notions of governance without relying on moral priors.
+Infrastructural operation may be highly consequential precisely because it becomes routine and difficult to perceive as an intervention.
 
----
+## Shortcut
 
-## Why This Matters
+**Shortcut** is a limited explanatory metaphor for mechanisms that reduce repeated deliberation, coordination, or renegotiation by stabilising an epistemic preference.
 
-This framework allows:
-- Comparative analysis of different regimes of speech control without moral collapse.
-- Separation of *mechanism* from *justification*.
-- Analysis of failure modes (e.g. brittle stability, illegitimate order).
-- A unified language for discussing censorship, morality, and behaviour across political, cultural, and technological systems.
+The narrowed essay does not treat shortcut theory as a complete account of social systems and does not depend on a cybernetic control model.
 
----
+## Morality and control theory
 
-## Status
+Earlier project work developed a structural analogy between morality and censorship and described censorship through control-theoretic language. Those ideas are not canonical premises of the narrowed essay.
 
-This document represents a **converged conceptual snapshot**, suitable for:
-- Use as persistent context for coding or writing agents
-- Further formalisation or diagramming
-- Expansion into a longer theoretical essay
-- Application to concrete cases (hate speech, platform moderation, post-truth politics, art censorship)
+They may appear briefly as suggestive analogies only if they clarify an already-established censorship claim. They must not introduce dedicated argumentative obligations or positive/negative-feedback terminology.

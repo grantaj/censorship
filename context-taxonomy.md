@@ -1,272 +1,174 @@
-# Taxonomy of Censorship  
-_Project Context for Essay Production Agent_
+# Taxonomy of Censorship
+## Operational Modes and Orthogonal Axes
 
-## Purpose of this Document
+This document is the canonical compact taxonomy for the narrowed essay. `outline.md` is authoritative for argument order, boundary conditions, and how much emphasis each element receives.
 
-This document provides a **canonical project-level summary** of the conceptual framework, definitions, and taxonomy developed across multiple discussions. It is intended to serve as **stable context** for assisting with the production of a long-form essay on censorship.
+## 1. Taxonomic principle
 
-The framework is **structural, descriptive, and deliberately amoral**. It is not an argument for or against censorship, but an analysis of how censorship operates as a mechanism within societies.
+The taxonomy classifies censorship by **how control operates**, not by who performs it, why it is justified, or whether it is morally accepted.
 
----
+Operational modes are:
 
-## 1. Methodological Frame
+- composable rather than mutually exclusive,
+- independent of actor category,
+- independent of scale,
+- independent of justification,
+- and independent of moral evaluation.
 
-The project is grounded in three methodological commitments:
+A state, platform, institution, employer, community, technical system, or diffuse social norm may instantiate the same operational mode.
 
-### 1.1 Structural (not moral)
+## 2. Boundary condition
 
-Censorship is treated as a **mechanism** rather than a moral failure or ethical violation. Moral judgments about censorship are treated as *outcomes* or *variables*, not as analytic starting points.
+Not every influence on belief, attention, or reputation is censorship.
 
-### 1.2 Descriptive (not normative)
+Persuasion, criticism, rebuttal, disagreement, and ordinary editorial selection remain outside the category when they operate by contesting claims within an epistemic environment.
 
-The goal is to describe:
-- how censorship operates,
-- what functions it serves,
-- why it emerges,
-- and why it produces conflict,
+An intervention becomes censorial when its operative function is to control the practical conditions of epistemic participation: availability, access, circulation, reach, persistence, visibility, admissibility, standing, hearability, attention, or memory.
 
-without presupposing whether any given instance is justified.
+This boundary is particularly important for contradiction, delegitimation, and inversion.
 
-### 1.3 Amoral (deliberately provocative)
+## 3. Operational modes
 
-Morality is not rejected, but analysed as **one shortcut system among others**. The project deliberately avoids adopting a moral prior, in order to analyse censorship symmetrically across:
-- liberal democracies,
-- authoritarian regimes,
-- platforms,
-- activist movements,
-- and informal social norms.
+### A. Exclusion and removal
 
----
+1. **Prevention**  
+   Blocking expression or publication before it occurs.
 
-## 2. Core Definition
-
-### 2.1 Working Definition
-
-**Censorship is a shortcut that enforces an epistemic preference.**
-
-Key implications:
-
-- Censorship is not fundamentally about speech.
-- Speech, text, images, platforms, and discourse are **surfaces**.
-- The underlying operation is the stabilisation of:
-  - what counts as true,
-  - what counts as acceptable,
-  - what counts as legitimate knowledge,
-  - what is worth attending to,
-  - and what is rendered unintelligible or unspeakable.
-
-This definition allows censorship to be analysed even when:
-- no speech is explicitly banned,
-- no authority is visible,
-- and participation appears voluntary.
-
----
-
-## 3. Structural Homology: Morality and Censorship
-
-A central insight of the project is that **morality and censorship are structurally homologous**.
-
-- **Morality** functions as a shortcut for behaviour:
-  - it reduces the need to renegotiate acceptable conduct,
-  - it stabilises expectations across a group.
-
-- **Censorship** functions as a shortcut for knowledge and expression:
-  - it reduces the need to renegotiate contested ideas,
-  - it stabilises epistemic boundaries.
-
-Both systems:
-- minimise cognitive and social negotiation,
-- rely on power or majority assent,
-- become contentious when imposed without participation,
-- fracture at boundaries or during social change,
-- and generate conflict when different groups operate with incompatible shortcuts.
-
-This framing allows censorship to be analysed without collapsing it into either:
-- pure oppression, or
-- pure social necessity.
-
----
-
-## 4. Taxonomy: Operational Kinds of Censorship
-
-The taxonomy classifies censorship by **how control operates**, not by who performs it. These categories are **composable and overlapping**, not mutually exclusive.
-Kinds must be kept analytically separate from axes and justification regimes.
-
-### 4.1 Core Operational Kinds
-
-1. **Erasure**  
-   Removal of speech or records after the fact (deletion, redaction, disappearance).
-
-2. **Prevention**  
-   Blocking expression before it occurs.
+2. **Erasure**  
+   Removing expression, records, or traces after they exist.
 
 3. **Suppression**  
-   Allowing expression but reducing its visibility, reach, or persistence.
+   Allowing material to exist while reducing reach, visibility, discoverability, or persistence.
 
-4. **Modification**  
-   Altering content while preserving the appearance of expression.
+4. **Delay**  
+   Displacing expression in time so that its practical effect is reduced or lost.
 
-5. **Substitution**  
-   Replacing contested speech with approved or safer alternatives.
+5. **Containment**  
+   Permitting expression only within bounded, marginal, specialised, or low-reach spaces.
 
-6. **Delay**  
-   Rendering speech ineffective through temporal displacement.
+### B. Transformation and replacement
 
-7. **Saturation / Flooding**  
-   Overwhelming signal with noise, redundancy, distraction, or excess.
+6. **Modification**  
+   Altering content while preserving some appearance of continuity with the original expression or record.
 
-8. **Contradiction**  
-   Undermining speech through systematic counter-claims rather than removal.
+7. **Substitution**  
+   Replacing contested expression, framing, or representation with an approved or preferred alternative.
+
+### C. Environmental interference
+
+8. **Saturation / Flooding**  
+   Overwhelming a signal with noise, repetition, distraction, redundancy, or competing material so that practical visibility or intelligibility falls without removal.
+
+### D. Standing and framing — boundary-sensitive
 
 9. **Delegitimation**  
-   Attacking credibility, intent, or standing rather than content.
+   Disabling effective participation by attacking standing, credibility, competence, motive, or entitlement to be heard rather than addressing the claim itself. Ordinary criticism of credibility is not automatically censorial; the boundary test applies.
 
 10. **Inversion**  
-    Reframing dissent as harm, threat, pathology, or extremism.
+    Reframing expression so that the act of expressing it becomes evidence of harm, threat, pathology, disloyalty, extremism, or another status that changes practical admissibility or standing. Mere moral disagreement is not sufficient.
 
-11. **Containment**  
-    Allowing speech only within bounded or marginalised spaces.
+11. **Contradiction**  
+    Systematic counter-assertion used as environmental interference so that a target becomes practically inaudible, unusable, or epistemically inaccessible. Ordinary rebuttal and counter-speech remain outside the category.
+
+### E. Internalisation
 
 12. **Internalisation**  
-    Producing self-censorship through anticipation of consequences.
+    Anticipatory self-restraint produced by expected consequences, norms, incentives, learned limits, or prior enforcement, such that external intervention becomes partly unnecessary.
 
-None of these require:
-- a state,
-- explicit prohibition,
-- or conscious intent by a single actor.
+## 4. Taxonomy caveats
 
----
+- The taxonomy is a proposed analytic vocabulary, not a claim to have discovered twelve natural kinds.
+- Modes may overlap, layer, or operate probabilistically.
+- A single event may instantiate several modes.
+- Borderline cases should be represented as borderline.
+- If recurring empirical cases do not fit, revise the taxonomy rather than force-fit them.
+- The standing/framing modes are intentionally more context-sensitive than prevention or erasure.
+- Internalisation is unusual because the proximate censor and target can coincide; it remains useful because anticipated consequences can reproduce censorial conditions without repeated external intervention.
 
-## 5. Analytic Axes (Kept Deliberately Separate)
+## 5. Orthogonal analytic axes
 
-The taxonomy above describes **kinds** of censorship.  
-Other dimensions operate **orthogonally** and must not be conflated with kinds.
-
-These axes allow the same operational form to appear as benign, contested, or coercive depending on context.
+The following describe **how and where** an operation occurs. They are not additional modes.
 
 ### 5.1 Scale
 
-- Individual
-- Community
-- Institutional
-- National
-- Transnational / Platform-level
+- individual,
+- group/community,
+- institutional,
+- national,
+- transnational/platform-scale.
 
-Scale affects:
-- impact,
-- visibility,
-- and reversibility.
+Scale affects reach and reversibility without changing the operation.
 
----
+### 5.2 Power distribution
 
-### 5.2 Power Distribution
+- diffuse or majoritarian,
+- concentrated institutional,
+- elite minority,
+- economic,
+- technical/algorithmic,
+- mixed or distributed.
 
-Who enforces the epistemic preference?
+Actor labels may be useful descriptions of where power sits, but are not the taxonomy itself.
 
-- Majority consensus
-- Elite minority
-- Institutional authority
-- Economic power
-- Algorithmic or technical systems
+### 5.3 Participation in preference formation
 
-This axis explains why similar mechanisms are perceived differently depending on who benefits.
+- broad participation,
+- limited participation,
+- imposed preference,
+- unclear or emergent formation.
 
----
+Participation is descriptive in this essay. It is not used to derive a general theory of legitimacy.
 
-### 5.3 Participation in Preference Formation
+### 5.4 Persistence and revisability
 
-Who participated in establishing the shortcut?
+- temporary,
+- recurrent,
+- persistent,
+- entrenched/infrastructural.
 
-- Broad, deliberative participation
-- Limited consultation
-- Imposed without consent
-
-This axis is central to perceived legitimacy and long-term stability.
-
----
-
-### 5.4 Temporal Stability
-
-- Temporary / situational
-- Persistent
-- Entrenched / infrastructural
-
-Highly entrenched censorship becomes invisible and naturalised.
-
----
+A related question is how readily the relevant rule, ranking, classification, norm, or settlement can be reopened and changed.
 
 ### 5.5 Visibility
 
-- Overt (laws, bans, explicit rules)
-- Implicit (norms, incentives, algorithms)
-- Invisible (self-censorship, anticipatory compliance)
+- overt,
+- implicit,
+- opaque,
+- internalised.
 
-Visibility strongly affects public resistance and awareness.
+This concerns visibility of the censorial mechanism, not merely visibility of the censored material.
 
----
+### 5.6 Justification regime
 
-### 5.6 Justification Regime
+- moral/harm,
+- legal/rights,
+- safety/risk,
+- professional/epistemic quality,
+- technical/efficiency,
+- economic/market,
+- procedural/neutrality.
 
-How censorship is rationalised:
+Justification is analytically separate from mechanism. The same operation can be defended under different regimes.
 
-- Moral (harm, offence, dignity)
-- Legal (rights, liability)
-- Safety (risk, protection)
-- Technical (efficiency, optimisation)
-- Economic (market suitability)
-- Neutrality claims ("just enforcing rules")
+### 5.7 Domain of control
 
-Justifications often shift while mechanisms remain stable.
+- expression,
+- knowledge,
+- attention,
+- visibility,
+- legibility,
+- standing,
+- memory/archive.
 
----
+Domains can overlap.
 
-### 5.7 Domain of Control
+## 6. Classification sequence
 
-What is being stabilised?
+For an illustrative case, the preferred analytic sequence is:
 
-- Speech
-- Knowledge
-- Attention
-- Visibility
-- Legibility
-- Memory / archives
+1. Establish whether the intervention crosses the boundary from epistemic contest into control.
+2. Identify the operational mode or modes.
+3. Locate the operation on only the axes relevant to understanding it.
+4. Keep actor and justification descriptive rather than taxonomic.
+5. Only after classification, ask any normative, legal, political, or practical questions.
 
-This axis allows censorship to be analysed beyond language alone.
-
----
-
-## 6. Censorship as an Emergent Phenomenon
-
-Censorship is treated as **emergent**, not monolithic:
-
-- Multiple groups hold incompatible epistemic preferences.
-- Each attempts to universalise its preference.
-- Control of expression becomes the mechanism for enforcing universality.
-- Conflict arises when:
-  - participation is unequal,
-  - shortcuts collide,
-  - renegotiation is blocked.
-
-Censorship intensifies during periods of pluralism, transition, or instability.
-
----
-
-## 7. Project Implications
-
-This framework enables:
-
-- analysis of “acceptable” and “unacceptable” censorship using the same tools,
-- comparison across states, platforms, movements, and cultures,
-- extension into AI moderation, algorithmic governance, surveillance capitalism, and post-truth dynamics.
-
-The framework is intentionally general and composable, supporting both theoretical analysis and artistic practice.
-
----
-
-## 8. Usage Notes for Writing Agent
-
-- Do not moralise by default.
-- Treat moral judgments as variables to be analysed.
-- Avoid collapsing censorship into speech alone.
-- Maintain separation between **kinds** and **axes**.
-- Use examples to illustrate coordinates within the framework, not to define it.
+This sequence is intended to prevent moral approval or disapproval from silently changing the definition of censorship.
