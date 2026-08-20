@@ -2,314 +2,413 @@
 
 ## Anchor
 
-This essay develops a structural account of censorship as the enforcement of epistemic preference: intervention in the conditions under which expressions, claims, records, or speakers can appear, circulate, persist, remain visible, or count as admissible. This shifts the unit of analysis away from a narrow model of prohibition by a censor and toward the mechanisms through which epistemic environments are shaped. The account is descriptive before it is evaluative. It does not define censorship by actor, intention, political alignment, or moral valence, and it does not treat every attempt to influence belief as censorship. Ordinary disagreement, persuasion, criticism, and counter-speech remain outside the category unless they function by altering the conditions of epistemic participation rather than by contesting a claim on its merits. Within that boundary, censorship operates through a set of composable modes—such as prevention, erasure, suppression, modification, saturation, containment, and internalisation—whose effects vary independently along axes including scale, power distribution, participation, persistence, visibility, justification, and domain of control. The resulting framework explains why censorship is often infrastructural rather than exceptional, why similar operations can be experienced very differently, and why censorship persists even where formal freedom of speech is strongly protected.
+This essay develops a structural account of censorship as selective intervention in an epistemic environment in service of an epistemic preference. An epistemic preference is a preferred ordering of claims, topics, representations, or speakers with respect to credibility, legitimacy, admissibility, or entitlement to consideration. Censorship acts not only through prohibition but through control surfaces such as availability, access, circulation, timing, visibility, ranking, legibility, standing, and memory. The essay does not claim that every act of selection, curation, moderation, ranking, or criticism is censorship. Nor does it categorically exempt them. These are boundary cases whose censorial character depends on how selection operates, what epistemic resource is controlled, what differential treatment is produced, and how the intervention relates to a preferred epistemic ordering. The main contribution is therefore not the observation that censorship extends beyond bans, which is well established, but a mechanism-first framework that separates operational families from descriptive dimensions and keeps difficult boundary cases visible rather than resolving them by actor label or moral approval.
 
 ## Scope and non-claims
 
-- The essay is about censorship. It is not a general theory of morality, social control, political legitimacy, cybernetics, or deliberative democracy.
-- The analysis is structural and descriptive-first. Moral, legal, or political evaluation may follow classification, but does not determine whether a mechanism counts as censorship.
-- Censorship is not limited to states, laws, explicit bans, or intentional acts by a single censor.
-- Censorship is not synonymous with all influence over belief or attention. The boundary developed in Section 2 is essential.
-- The taxonomy is analytic rather than exhaustive. Modes may overlap, compose, or reveal gaps that require later revision.
-- Examples illustrate coordinates in the framework; there are no standalone case studies or historical survey.
-- The idea of censorship as a shortcut around repeated deliberation is retained as an explanatory lens, not elevated into a general systems theory.
-- Morality and control-theoretic analogies may be mentioned briefly where clarifying, but they carry no argumentative load.
+- The essay is about censorship. It is not a general theory of morality, social control, political legitimacy, cybernetics, deliberative democracy, propaganda, or persuasion.
+- The analysis is structural and descriptive-first. Moral, legal, professional, or political evaluation may follow classification but does not determine it.
+- Censorship is not limited to states, laws, explicit bans, intentional acts by a single censor, or successful interventions.
+- Selection is neither categorically censorship nor categorically non-censorship. Editorial, curatorial, library, moderation, and ranking decisions are treated as context-sensitive boundary cases.
+- The taxonomy is analytic and revisable. It groups operations at a common level and treats subtypes, strategies, responses, and contextual dimensions separately.
+- Examples are brief analytic stress tests, not standalone political case studies or a historical survey.
+- The shortcut idea may appear as a bounded explanatory lens for routinisation and persistence, but it carries no general systems-theoretic burden.
+- Morality and control-theoretic analogies may be alluded to briefly only where they clarify an already-established censorship claim.
 
 ## Canonical terminology
 
-- **Epistemic preference**: a preference about what is credible, legitimate, visible, memorable, admissible, or worth attending to within an epistemic environment.
-- **Censorship**: mechanisms that enforce epistemic preference by altering the conditions under which expression, claims, records, or speakers can appear, circulate, persist, remain visible, or count as admissible.
-- **Operational mode**: how censorial control is performed, independent of actor, justification, scale, or moral evaluation.
-- **Analytic axis**: an orthogonal dimension that changes the reach, visibility, persistence, distribution, or experience of a censorial operation without changing its operational kind.
-- **Epistemic environment**: the practical conditions governing availability, circulation, visibility, standing, attention, and memory for claims and expression.
-- **Infrastructural censorship**: censorial operation embedded in ordinary rules, norms, incentives, classifications, technical systems, or anticipatory behaviour rather than appearing as an exceptional prohibition.
+- **Epistemic preference**: a preferred ordering of claims, topics, representations, or speakers with respect to credibility, legitimacy, admissibility, or entitlement to consideration.
+- **Epistemic environment**: the practical conditions governing whether and how claims, representations, records, and speakers can enter, circulate within, persist in, and matter within a field of attention or judgment.
+- **Control surface**: a practical condition through which an epistemic environment can be changed, including availability, access, circulation, timing, visibility, ranking, legibility, standing, and memory.
+- **Censorship**: selective intervention in an epistemic environment that advances or stabilises an epistemic preference by altering one or more control surfaces.
+- **Operational family**: a recurring kind of censorial operation at a common level of abstraction.
+- **Descriptive dimension**: a distinct contextual dimension used to describe an operation without being treated as an additional operational family.
+- **Infrastructural censorship**: censorial operation embedded in ordinary rules, classifications, incentives, technical systems, rankings, professional routines, or anticipatory behaviour rather than appearing primarily as exceptional prohibition.
+- **Censorial character**: a deliberately non-binary description used for boundary cases where an intervention combines ordinary selection or contest with control of epistemic conditions; it is not a formal score.
 
 ---
 
-# 1. Introduction — Beyond the Ban
+# 1. Positioning and Contribution — The Analytic Problem
 
 ## Purpose
 
-Establish the problem with treating censorship primarily as explicit prohibition, introduce the structural alternative, and state the contribution without front-loading the taxonomy.
+Locate the essay against existing censorship scholarship without claiming that indirect, informal, infrastructural, or self-censorship are newly discovered phenomena.
 
 ## Argument
 
-- Public and legal discussion often begins with a recognisable censor, a prohibited utterance, and a judgment about whether the prohibition is justified.
-- That model captures important cases but makes explicit prohibition appear paradigmatic and other forms derivative.
-- Contemporary epistemic environments are also shaped through ranking, visibility, access, persistence, classification, moderation, institutional standing, archives, and anticipatory compliance.
-- These mechanisms can alter what can practically be encountered or treated as admissible without making an utterance literally impossible.
-- Actor-centric classification also obscures structural similarity: a state, platform, institution, employer, movement, community, or diffuse social system can instantiate the same operation.
-- Moralised definitions create a second distortion when disliked restrictions are called censorship while accepted restrictions are redescribed as moderation, safety, curation, professionalism, or ordinary governance.
-- A useful analytic framework should identify the mechanism before asking who used it or whether its use was justified.
-- Contribution: define censorship through epistemic preference enforcement, distinguish operational modes from orthogonal axes, and supply a boundary that prevents the concept from expanding to all disagreement.
+- Explicit prohibition is an important and highly visible form of censorship, but existing scholarship and professional debate already recognise less direct forms, including friction, flooding, restricted access, self-censorship, and contested forms of selection.
+- The longstanding debate over library selection is exemplary: the fact that a librarian chooses under scarcity does not by itself settle whether a particular exclusion is selection, censorship, both, or neither.
+- Digital censorship research likewise shows that control can operate by increasing access costs, burying material, diverting attention, or flooding an information environment rather than by making material literally unavailable.
+- The essay's novelty claim is therefore organisational rather than ontological.
+- Existing discussion commonly mixes at least four things:
+  - the actor performing an intervention,
+  - the operation performed,
+  - the context or medium in which it occurs,
+  - and the justification or evaluation attached to it.
+- Labels such as state censorship, platform censorship, corporate censorship, library censorship, and self-censorship are useful descriptions but do not provide a common mechanism-level vocabulary.
+- Moralised usage adds a further instability when disapproved selection is called censorship while approved selection is redescribed as moderation, curation, professionalism, safety, quality control, or ordinary governance.
+- Contribution:
+  1. define censorship through epistemic preference and control surfaces;
+  2. make the contest/control boundary explicitly contextual rather than categorical;
+  3. group censorial operations into a small set of families at a common abstraction level;
+  4. separate those families from descriptive dimensions, strategies, and downstream responses;
+  5. use difficult selection and gatekeeping cases as tests of the framework rather than exceptions to be defined away.
 
 ## Support
 
-- Power and disciplinary structure: `foucault1977`, `lukes2005`.
+- Indirect censorship through friction and flooding: `roberts2018`.
+- Selection/censorship boundary in libraries: `asheim1953`, `kidd2009`.
+- Power beyond overt prohibition: `foucault1977`, `lukes2005`.
 - Infrastructure and classification: `bowkerstar1999`, `star1999`.
-- Opaque platform/infrastructural control: `pasquale2015`.
+- Opaque technical mediation: `pasquale2015`.
 
 ## Out of scope here
 
-- No detailed taxonomy.
-- No theory of morality or legitimacy.
-- No policy recommendations.
+- Do not claim that prior scholarship reduces censorship to bans.
+- Do not attempt a comprehensive literature review.
+- Do not adjudicate the selection/censorship debate in the introduction.
 
 ---
 
-# 2. Definition and Boundary — What Makes an Intervention Censorial?
+# 2. Definition and Boundary — Contest, Selection, and Control
 
 ## Purpose
 
-Define censorship precisely enough to include indirect and infrastructural forms without collapsing ordinary epistemic contest into censorship.
+Define censorship broadly enough to include indirect and infrastructural forms while preserving the genuinely difficult boundary with selection, gatekeeping, curation, and ordinary epistemic contest.
 
 ## Argument
 
-- **Core definition:** censorship consists of mechanisms that enforce epistemic preference by altering the conditions under which expression, claims, records, or speakers can appear, circulate, persist, remain visible, or count as admissible.
-- The object being stabilised is broader than a proposition's truth value. Epistemic preference can concern credibility, legitimacy, attention, visibility, legibility, memory, or standing.
-- Speech is therefore a major surface of censorship but not its conceptual core. Archives, search, ranking, access, classification, and institutional recognition can be equally relevant surfaces.
-- Censorship does not require a single intentional censor. Mechanisms can be distributed, institutionalised, automated, customary, or internalised.
-- Censorship also does not require success. An attempted intervention can be censorial even if the target remains visible or the preferred epistemic state is not achieved.
+- **Core definition:** censorship is selective intervention in an epistemic environment that advances or stabilises an epistemic preference by altering one or more control surfaces.
+- The **epistemic preference** is the target ordering: which claims, topics, representations, or speakers are treated as more or less credible, legitimate, admissible, or entitled to consideration.
+- **Control surfaces** are the means through which that ordering can be affected: availability, access, circulation, timing, visibility, ranking, legibility, standing, and memory.
+- Separating target from control surface avoids defining censorship as a preference about visibility enforced by changing visibility.
+- Censorship need not require a single intentional censor. Selective effects can be institutionalised, automated, customary, distributed, or reproduced through learned expectations.
+- Censorship need not succeed. An attempted intervention may be censorial even when the target remains accessible or the preferred ordering is not achieved.
 
-### Boundary test
+### 2.1 Two ideal types, not a categorical partition
 
-- Influence over belief is not sufficient. Persuasion, criticism, rebuttal, disagreement, and ordinary editorial judgment are not censorial merely because they change what an audience believes or attends to.
-- The distinguishing question is whether the intervention primarily **contests within the epistemic field** or **changes the practical conditions for participating in that field**.
-- An intervention is paradigmatically censorial when it controls availability, access, reach, persistence, admissibility, standing, or practical hearability rather than answering the contested claim on its merits.
-- This is a functional distinction, not an actor- or intention-based one.
-- Borderline modes such as contradiction, delegitimation, and inversion require this test. They are censorial only when deployed as control of epistemic participation or standing, not merely as forceful disagreement.
-- The boundary will remain partly contextual. The framework should make ambiguous cases explicit rather than forcing binary classification.
+- **Epistemic contest** changes beliefs or judgments principally by offering, challenging, interpreting, comparing, or rebutting claims within an existing field of participation.
+- **Epistemic control** changes the practical conditions under which participation in that field can occur.
+- These are ideal types. Real interventions can combine both.
+- Selection is unavoidable in finite institutions and attention-limited environments; therefore selection alone is neither sufficient nor disqualifying evidence of censorship.
+- Editorial judgment, library acquisition, peer review, moderation, ranking, curation, and institutional recognition can occupy the boundary. The framework must not classify them categorically by role name.
+
+### 2.2 Boundary factors
+
+No single factor produces a mechanical verdict. Together they discipline analysis:
+
+1. **Differential treatment** — Is a claim, topic, representation, or speaker made practically more or less available, reachable, persistent, visible, legible, or admissible relative to plausible alternatives?
+2. **Control over a consequential resource or channel** — Does the intervention operate through authority over publication, acquisition, access, ranking, distribution, venue, classification, credentials, sanctions, or another condition of participation rather than solely by adding competing reasons or evidence?
+3. **Mode of disadvantage** — Is the intervention primarily changing the conditions under which the target can participate or be encountered, rather than only contesting the merits of what is said?
+4. **Relation to an epistemic preference** — Does the pattern or function of intervention stabilise a preferred ordering of claims, topics, representations, or speakers? This can be explicit, implicit, institutional, emergent, or contested; conscious censorial intent is not required.
+5. **Context and substitutability** — Scarcity, institutional remit, reach, exclusivity, available alternatives, pattern over time, transparency, and power concentration affect how strongly an intervention exhibits censorial character.
+
+- Clear prohibition and deliberate erasure often sit near one end of this spectrum.
+- Routine selection under genuine resource constraints may sit near the other.
+- Many of the essay's most interesting cases occupy the middle and should remain contestable.
+- The purpose of the boundary is not to eliminate ambiguity but to make the grounds of disagreement explicit.
 
 ## Support
 
+- Selection/censorship as a longstanding contested boundary: `asheim1953`, `kidd2009`.
 - Power beyond overt coercion: `lukes2005`, `foucault1977`.
-- Legibility/classification as conditions of action and recognition: `scott1998`, `bowkerstar1999`, `star1999`.
+- Legibility/classification as conditions of recognition: `scott1998`, `bowkerstar1999`, `star1999`.
 
-## Open issue to preserve in prose
+## Compilation requirement
 
-- The boundary between strong counter-speech and censorial interference is analytically important and should be acknowledged as a genuine edge case rather than rhetorically resolved.
-
----
-
-# 3. Why Censorship Persists — Shortcuts, Complexity, and Power
-
-## Purpose
-
-Explain why censorial mechanisms recur without building a general theory of social control.
-
-## Argument
-
-- Continuous reconsideration of every disputed epistemic question is impossible in complex social systems.
-- Individuals and institutions face limits of attention, information, time, coordination, and negotiation.
-- Settlements, classifications, defaults, professional rules, moderation systems, and other shortcuts reduce the cost of reopening contested questions.
-- Censorship can be understood as one family of such shortcuts: it stabilises an epistemic preference partly by reducing or reshaping the space in which it must be renegotiated.
-- This is an explanatory claim, not a justification. Stability-seeking is not equivalent to truth-seeking, fairness, or legitimacy.
-- Power matters because it changes who can install, maintain, resist, or revise these shortcuts and whose preferences become infrastructural.
-- Once embedded in routines, classifications, technical systems, or expectations, censorial mechanisms can persist without repeated conscious decisions.
-- Scarce attention and platform-scale mediation extend censorship beyond removal: making something practically unfindable, delayed, drowned out, or non-credible may be sufficient.
-- Crises and compressed decision horizons can increase reliance on shortcuts, but the essay does not need a general theory of emergency politics.
-
-## Support
-
-- Bounded rationality and attention: `simon1947`, `simon1971`.
-- Complexity reduction: `luhmann1995`.
-- Coordination/collective-action costs: `olson1965`, `buchanantullock1962`.
-- Voice, exit, and bypassing contestation: `hirschman1970`.
-- Power: `lukes2005`.
-- Infrastructure/classification: `bowkerstar1999`, `star1999`, `pasquale2015`.
-
-## Deliberate narrowing
-
-- Do not introduce the censorship/morality homology.
-- Do not describe censorship as negative feedback or construct a control triangle.
-- Morality may appear at most as one example of a justification or internalised norm.
+- Prose must resist formulations such as "editorial selection is not censorship" or "ranking is censorship."
+- Boundary examples should be analysed conditionally and comparatively.
 
 ---
 
-# 4. Operational Modes — A Mechanism-First Taxonomy
+# 3. Operational Families — What Censorial Control Does
 
 ## Purpose
 
-Present the main analytic contribution: a composable taxonomy based on how censorship operates rather than who performs it.
+Present a compact mechanism-first taxonomy in which primary categories sit at a comparable level of abstraction, while useful subtypes and boundary-sensitive strategies remain visible.
 
 ## Argument
 
-- Familiar labels such as state censorship, platform censorship, corporate censorship, and self-censorship mix actors, mechanisms, and contexts.
-- A mechanism-first taxonomy permits comparison across those contexts.
-- The modes are not mutually exclusive. A single episode may combine several operations, and an operation may be partial or probabilistic.
-- Actor, scale, visibility, justification, and moral evaluation are intentionally excluded from the mode definitions.
+- The taxonomy begins only after the boundary question has been posed.
+- Operational families describe what happens to participation in the epistemic environment.
+- A single intervention may instantiate more than one family.
+- Operations can be partial, probabilistic, temporary, or infrastructural.
+- Actor, intention, scale, justification, and moral evaluation are not operational families.
 
-### 4.1 Exclusion and removal
+### 3.1 Exclusion
 
-- **Prevention** — blocking expression or publication before it occurs.
-- **Erasure** — removing expression or records after they exist.
-- **Suppression** — allowing material to exist while reducing reach, visibility, discoverability, or persistence.
-- **Delay** — displacing expression in time so that its practical effect is reduced or lost.
-- **Containment** — permitting expression only within bounded, marginal, specialised, or low-reach spaces.
+Censorial control removes or prevents participation.
 
-### 4.2 Transformation and replacement
+- **Prevention** — blocking expression, publication, acquisition, access, or entry before it occurs.
+- **Erasure** — removing existing expression, records, traces, access, or recognised standing after it exists.
 
-- **Modification** — altering content while preserving some appearance of continuity with the original expression or record.
-- **Substitution** — replacing contested expression, framing, or representation with an approved alternative.
+These are direct and comparatively easy to recognise, though their justification remains a separate question.
 
-### 4.3 Environmental interference
+### 3.2 Attenuation
 
-- **Saturation** — overwhelming a signal with noise, repetition, distraction, or competing material so that practical visibility or intelligibility falls without removal.
+Censorial control leaves the target nominally present while reducing practical access, reach, timeliness, discoverability, persistence, or effective audience.
 
-### 4.4 Standing and framing
+Useful subtypes include:
 
-These are boundary-sensitive modes. They count as censorship only when they function to alter practical standing or participation rather than simply contesting a claim.
+- **demotion/suppression** — reducing ranking, reach, recommendation, discoverability, or persistence;
+- **friction/delay** — raising the time, effort, cost, or delay required to encounter or use the target;
+- **containment** — confining expression to bounded, marginal, specialised, age-gated, jurisdiction-limited, or otherwise low-reach spaces.
 
-- **Delegitimation** — disabling effective participation by attacking standing, credibility, competence, motive, or entitlement to be heard rather than addressing the claim.
-- **Inversion** — reframing expression so that the act of expressing it becomes evidence of harm, threat, pathology, disloyalty, or another status that changes its admissibility.
-- **Contradiction** — systematic counter-assertion used as environmental interference that makes a claim practically inaudible or unusable; ordinary rebuttal remains outside the category.
+These are subtypes of a common attenuation operation rather than peer natural kinds.
 
-### 4.5 Internalisation
+### 3.3 Transformation
 
-- **Internalisation** — anticipatory self-restraint produced by expected consequences, norms, incentives, or learned limits, such that external intervention becomes partly unnecessary.
+Censorial control changes what is available or represented.
+
+- **Modification** — altering content, framing, metadata, translation, redaction, or representation while retaining continuity with an original.
+- **Substitution** — replacing a contested expression, account, framing, or representation with a preferred alternative.
+
+Transformation can overlap with exclusion or attenuation.
+
+### 3.4 Saturation / flooding
+
+Censorial control changes the surrounding information environment so that a target becomes harder to find, attend to, distinguish, or use without being removed.
+
+- Noise, repetitive material, diversion, coordinated competing material, or information volume may create the suppressive effect.
+- Ordinary contradiction or counter-speech remains epistemic contest.
+- Counter-assertion becomes relevant here when scale, coordination, or environmental effect turns it into flooding or practical attenuation.
+
+### 3.5 Induced self-censorship
+
+Expected consequences alter future expression before an external censor must act again.
+
+- The relevant mechanism is anticipatory restraint produced by sanctions, incentives, norms, prior enforcement, opaque rules, or learned expectations.
+- This family requires some relation to an external or socially reproduced censorial condition; ordinary private reconsideration or changing one's mind is not self-censorship in this analytic sense.
+- It is unusual because the proximate act is performed by the target, but the censorial condition is reproduced through anticipation.
+
+### 3.6 Boundary-sensitive strategies, not primary operations
+
+Some concepts from the earlier taxonomy remain useful but should not be treated as peers of exclusion, attenuation, transformation, saturation, and induced self-censorship.
+
+- **Delegitimation** — attacking credibility, competence, motive, status, or entitlement to be heard. This is ordinary criticism when it contests standing on the merits; it becomes censorially relevant when it is used to produce exclusion, attenuation, or induced self-censorship.
+- **Inversion** — reframing the act of expression as evidence of harm, threat, pathology, disloyalty, extremism, or another disqualifying status. The reframing itself is not automatically censorship; its censorial significance lies in how it changes admissibility, standing, reach, or expected consequences.
+- **Contradiction** — not a primary censorial operation. Ordinary contradiction is contest. Coordinated contradiction that suppresses through volume or environmental occupation is classified by its operative effect, usually saturation or attenuation.
+- **Selection/curation** — not a separate operation and not categorically outside censorship. A selection decision can instantiate exclusion or attenuation depending on the boundary factors in Section 2.
 
 ## Taxonomy caveats
 
-- The taxonomy is proposed as a working structural vocabulary, not as a discovered natural kind system.
-- Borderline cases should be represented as borderline.
-- If empirical cases repeatedly require a mode not represented here, that is evidence to revise the taxonomy rather than force-fit the case.
-- Internalisation is unusual because the proximate censor and target may coincide; it remains in the taxonomy because the mechanism changes expression through anticipated epistemic or social consequences.
+- These families are analytic proposals, not discovered natural kinds.
+- Subtypes may be expanded if empirical work requires them.
+- Poorly fitting cases are evidence for revision, not invitations to force-fit.
+- The taxonomy deliberately distinguishes operation from tactic, justification, response, and context.
 
 ## Support
 
-- Infrastructure and classification support the structural/composable framing: `bowkerstar1999`, `star1999`.
-- Disciplinary/internalised control: `foucault1977`.
+- Friction and flooding as censorship mechanisms: `roberts2018`.
+- Infrastructure/classification: `bowkerstar1999`, `star1999`.
+- Disciplinary and anticipatory control: `foucault1977`.
 - Power and non-overt control: `lukes2005`.
 - Opaque technical mediation: `pasquale2015`.
 
 ## Evidence gap
 
-- The taxonomy itself is the essay's analytic proposal. Individual modes should use illustrative academic sources where available, but sources should not be presented as if they independently establish this exact twelve-mode taxonomy.
+- The five-family taxonomy is the essay's analytic proposal. Sources support particular mechanisms and phenomena; they should not be presented as independently establishing this exact taxonomy.
 
 ---
 
-# 5. Orthogonal Axes — How the Same Operation Changes Across Contexts
+# 4. Descriptive Dimensions — How Operations Vary Across Contexts
 
 ## Purpose
 
-Separate the kind of censorial operation from dimensions that determine its reach, persistence, visibility, distribution, and experience.
+Describe contextual variation without converting actors, justifications, or effects into additional operational categories.
 
 ## Argument
 
-- Operational modes answer **what is being done**. Axes answer **under what conditions and with what distribution**.
-- Conflating axes with modes makes structurally similar censorship appear categorically different merely because the actor or justification changes.
-- A case can be located along several axes simultaneously.
+- Operational families answer **what happens to epistemic participation**.
+- Descriptive dimensions answer **where, by whom, with what reach, under what rationale, and under what conditions**.
+- The dimensions are analytically separable but are not claimed to be mathematically orthogonal, statistically independent, or causally unrelated.
+- A case can be described on only the dimensions that materially help analysis.
 
-### 5.1 Scale
+### 4.1 Scale
 
-- Individual, group/community, institutional, national, transnational/platform-scale.
-- Scale affects reach and reversibility but does not define the mechanism.
+- individual;
+- group/community;
+- institutional;
+- national;
+- transnational/platform-scale.
 
-### 5.2 Power distribution
+Scale affects reach, practical alternatives, and reversibility without defining the operation.
 
-- Diffuse/majoritarian, concentrated institutional, elite minority, economic, technical/algorithmic, or mixed.
-- The same suppressive operation can be produced by very different power arrangements.
+### 4.2 Power and channel control
 
-### 5.3 Participation in preference formation
+- diffuse or majoritarian;
+- concentrated institutional;
+- elite minority;
+- economic;
+- technical/algorithmic;
+- mixed or distributed.
 
-- Broad participation, limited participation, imposed preference, or unclear/distributed formation.
-- Participation is descriptive here; the essay does not derive a general theory of legitimacy from it.
+Relevant questions include who controls the consequential channel or resource and how substitutable that channel is.
 
-### 5.4 Persistence and revisability
+### 4.3 Participation in preference formation
 
-- Temporary, recurrent, persistent, entrenched/infrastructural.
-- How readily can the rule, ranking, classification, norm, or settlement be reopened and changed?
-- Persistence can naturalise a mechanism and make its censorial character less visible.
+- broad participation;
+- limited participation;
+- imposed preference;
+- unclear, inherited, or emergent formation.
 
-### 5.5 Visibility
+Participation remains descriptive. The essay does not infer a general theory of legitimacy from it.
 
-- Overt, implicit, opaque, or internalised.
-- Visibility concerns awareness of the mechanism, not visibility of the censored material itself.
+### 4.4 Persistence and revisability
 
-### 5.6 Justification regime
+- one-off or temporary;
+- recurrent;
+- persistent;
+- entrenched/infrastructural.
 
-- Moral/harm, legal/rights, safety/risk, professional/epistemic quality, technical/efficiency, economic/market, or procedural/neutrality.
-- Justification is analytically separate from mechanism: the rationale may change while the operation remains the same.
+A related question is how readily the rule, ranking, classification, norm, or settlement can be reopened and changed.
 
-### 5.7 Domain of control
+### 4.5 Visibility / opacity of the mechanism
 
-- Expression, knowledge, attention, visibility, legibility, standing, memory/archive.
-- Domains can overlap in a single case.
+- overt;
+- implicit;
+- opaque;
+- only indirectly inferable.
+
+This concerns visibility of the censorial mechanism, not visibility of the target.
+
+### 4.6 Justification regime
+
+- moral/harm;
+- legal/rights;
+- safety/risk;
+- professional/epistemic quality;
+- technical/efficiency;
+- economic/market;
+- procedural/neutrality.
+
+The same operation can be defended under different regimes, and a justification can be sincere without determining classification.
+
+### 4.7 Control surface / domain
+
+- availability/access;
+- circulation/distribution;
+- timing;
+- visibility/ranking/attention;
+- legibility/classification;
+- standing/admissibility;
+- memory/archive.
+
+Several surfaces may be affected at once.
 
 ## Support
 
 - Power: `lukes2005`, `foucault1977`.
-- Legibility/classification: `scott1998`, `bowkerstar1999`, `star1999`.
+- Legibility and classification: `scott1998`, `bowkerstar1999`, `star1999`.
 - Platform opacity: `pasquale2015`.
 
 ---
 
-# 6. What the Framework Makes Visible
+# 5. Persistence and Infrastructure
 
 ## Purpose
 
-Show the explanatory value of the taxonomy/axes without expanding into a separate theory of legitimacy or social conflict.
+Explain how censorship can remain effective without continuous overt prohibition, while keeping the broader shortcut theory subordinate.
 
 ## Argument
 
-- **Censorship need not look like censorship.** Infrastructural, probabilistic, opaque, or internalised operations can shape epistemic environments without a visible ban.
-- **Removal is only one mechanism.** Suppression, delay, saturation, containment, and standing can matter even when the original expression remains technically available.
-- **Open societies are not censorship-free by definition.** Strong formal speech protections constrain some modes and actors while leaving other mechanisms available.
-- **Accepted and rejected censorship can be structurally identical.** A mechanism should be classified before its justification is evaluated.
-- **Experience varies along axes.** Participation, power distribution, persistence, visibility, and justification help explain why similar operations are perceived differently without needing to encode those judgments into the definition.
-- **Power can disappear into infrastructure.** Once a preference is embedded in classification, ranking, professional routines, archives, or anticipatory behaviour, repeated overt intervention may become unnecessary.
-- **Conflict often concerns the epistemic environment, not only propositions.** Disputes about moderation, deplatforming, institutional standing, discoverability, or acceptable framing can therefore be analysed without forcing them into a simple speech/no-speech binary.
-- The framework does not decide whether any of these operations are justified. Its claim is that consistent structural description is a prerequisite for useful normative disagreement.
+- Indirect and incomplete censorship can matter even when information remains technically obtainable.
+- Friction can change consumption by adding small costs of time, effort, expertise, or money.
+- Flooding and distraction can divert attention without deleting the target.
+- Ranking, recommendation, classification, professional routines, archive practices, and access rules can embed selective effects into ordinary infrastructure.
+- Once embedded, a censorial pattern may reproduce without repeated explicit decisions by a visible censor.
+- Induced self-censorship can further reproduce the pattern when participants learn expected consequences or opaque boundaries.
+- Formal speech protections therefore constrain important forms of censorship without logically eliminating all forms of epistemic control.
+- This observation applies across political systems; the essay should not imply that infrastructural censorship is unique to authoritarian states or that all infrastructural selection is censorial.
+- **Bounded shortcut allusion:** one way to understand persistence is that institutions use settlements, defaults, classifications, and rules to avoid reopening every epistemic question. Some censorial arrangements can become such shortcuts. This is suggestive context, not a causal theory the essay must prove.
 
 ## Support
 
-- Infrastructure/classification: `bowkerstar1999`, `star1999`.
+- Friction, flooding, and incomplete censorship: `roberts2018`.
+- Infrastructure and classification: `bowkerstar1999`, `star1999`.
 - Legibility: `scott1998`.
-- Power: `lukes2005`, `foucault1977`.
-- Opaque technical systems: `pasquale2015`.
+- Opaque technical mediation: `pasquale2015`.
+- Power and routinised discipline: `foucault1977`, `lukes2005`.
 
-## Illustrative use
+## Deliberate narrowing
 
-- Examples should be short and mechanism-led: identify the mode, locate it on relevant axes, and stop.
-- Do not allow examples to become political case studies or substitute for the general argument.
+- Do not reconstruct the old complexity -> overload -> control-triangle argument.
+- Do not introduce morality as a parallel shortcut system.
+- Do not derive normative legitimacy from revisability or participation.
 
 ---
 
-# 7. Implications and Limits
+# 6. Boundary Cases, Uses, and Limits
 
 ## Purpose
 
-State what changes when censorship is analysed structurally and where the framework should remain modest.
+Demonstrate the framework's value precisely where categorical definitions become unstable, and state what the framework does not decide.
 
 ## Argument
 
-- The framework shifts the central question from “who censored whom?” to “what operation changed the epistemic environment, and along which axes?”
-- It also separates classification from evaluation: identifying censorship does not itself settle whether the intervention was lawful, justified, proportionate, harmful, necessary, democratic, or effective.
-- “Free speech” remains an important legal and political concept but is not coextensive with the structural category developed here.
-- The framework is deliberately broad enough to compare formal prohibition with infrastructural and internalised control, but the boundary test prevents it from swallowing persuasion, criticism, disagreement, and ordinary epistemic selection.
-- Some categories—especially contradiction, delegitimation, and inversion—remain more context-sensitive than prevention or erasure. That asymmetry should be treated as a feature to investigate, not hidden.
-- The taxonomy is open to empirical revision.
-- The essay does not claim that censorship is avoidable, inherently pathological, inherently legitimate, or optimally describable by a single moral theory.
-- Brief allusion may be made to the broader possibility that many social norms function as shortcuts around continual renegotiation, but that question belongs elsewhere.
+- The framework is most useful when a case cannot be settled merely by naming the actor or institution.
+- Boundary analysis proceeds in sequence:
+  1. identify the relevant epistemic preference if one can be inferred without pretending certainty;
+  2. identify the control surface or resource at issue;
+  3. ask whether the intervention primarily contests a claim, changes participation conditions, or combines both;
+  4. identify any operational family or families;
+  5. describe only the contextual dimensions that materially affect interpretation;
+  6. preserve ambiguity where the evidence supports more than one classification;
+  7. only then ask normative, legal, professional, or political questions.
+
+### 6.1 Analytic stress tests
+
+These are not cases with predetermined verdicts.
+
+- **Library acquisition:** a librarian cannot acquire everything. Non-acquisition may reflect scarcity, collection remit, quality judgment, or a pattern of viewpoint exclusion. The same surface act can therefore range from ordinary selection to strongly censorial exclusion; the framework asks what resource is controlled, what is systematically disadvantaged, why that disadvantage recurs, and what alternatives exist.
+- **Editorial rejection:** an editor necessarily selects. A rejection based on evidentiary standards may be principally epistemic contest or quality control; coordinated or systematic exclusion of a disfavoured position from a consequential venue may exhibit stronger censorial character. Neither conclusion follows from the title "editor."
+- **Search or recommendation ranking:** ranking necessarily orders attention. A ranking change can be ordinary relevance optimisation, commercial prioritisation, safety intervention, or censorial attenuation. Mechanism, preference, opacity, channel power, pattern, and substitutability matter.
+- **Moderation:** removing or demoting material is operationally exclusion or attenuation, but calling it censorship does not decide whether it is justified. Conversely, calling it safety or moderation does not decide that it is not censorship.
+- **Counter-speech:** rebuttal remains contest even when forceful. Coordinated counter-speech can cross toward saturation when its environmental effect is to occupy the channel or make the target practically inaccessible rather than to answer it.
+- **Self-restraint:** choosing not to speak is not automatically self-censorship. The analytic question is whether anticipatory restraint reproduces an external or socially maintained censorial condition.
+
+### 6.2 What the framework reveals
+
+- **Classification and evaluation are separate.** "Censorship" is not a synonym for "unjustified restriction."
+- **The same operation can appear under different institutional names and moral descriptions.**
+- **Selection and censorship are not clean antonyms.** Selection is a general feature of finite epistemic environments; some selection can become a vehicle for censorial control.
+- **Power often matters through control of channels rather than through explicit commands.**
+- **Infrastructural and probabilistic control can be consequential without total suppression.**
+- **Disagreement about borderline cases can become more precise:** parties can disagree about preference, mechanism, channel power, alternatives, or effect rather than only about the label.
+
+### 6.3 Limits
+
+- The framework does not supply a quantitative censoriality score.
+- It does not claim that every boundary case has a unique correct classification.
+- It does not determine when censorship is lawful, ethical, proportionate, necessary, democratic, professionally appropriate, or effective.
+- It does not subsume propaganda, persuasion, education, curation, moderation, or criticism wholesale into censorship.
+- It does not assume that institutional constraints, scarcity, or selection criteria are neutral; it asks how they function in context.
+- The taxonomy remains open to empirical revision.
 
 ## Support
 
-- No new theoretical literature should be introduced here unless required to support a specific limit already stated above.
+- Selection/censorship dispute: `asheim1953`, `kidd2009`.
+- Friction/flooding and incomplete censorship: `roberts2018`.
+- Power, infrastructure, and classification: `lukes2005`, `foucault1977`, `bowkerstar1999`, `star1999`, `pasquale2015`.
 
 ---
 
-# 8. Conclusion
+# 7. Conclusion
 
 ## Purpose
 
-Restate the contribution without introducing new concepts.
+Restate the contribution without resolving the ambiguities the framework is designed to expose.
 
 ## Argument
 
-- Censorship is better analysed as a structural intervention in an epistemic environment than as a synonym for explicit speech prohibition.
-- Its core is enforcement of epistemic preference through changes to availability, circulation, persistence, visibility, admissibility, standing, attention, or memory.
-- A mechanism-first taxonomy makes comparison possible across actors and institutions.
-- Orthogonal axes explain variation in reach and experience without contaminating the taxonomy with actor, scale, justification, or moral judgment.
-- The boundary between epistemic contest and control is essential: not every effort to persuade, criticise, rebut, or curate is censorship.
-- Once censorship is separated from its most visible forms, it becomes easier to see as ordinary and infrastructural rather than exceptional.
-- Structural description does not replace normative evaluation; it gives that evaluation a clearer object.
+- Censorship is not defined here by a particular censor, institution, technology, political alignment, or moral verdict.
+- It is analysed as selective intervention in an epistemic environment that advances or stabilises an epistemic preference through changes to practical control surfaces.
+- The contribution is not simply to broaden censorship beyond explicit prohibition; indirect and self-censoring forms are already recognised.
+- The contribution is a mechanism-first organisation:
+  - a contextual boundary between contest, selection, and control;
+  - a compact set of operational families;
+  - a separation between operations, strategies, responses, and descriptive dimensions;
+  - and an explicit refusal to define difficult gatekeeping cases away.
+- Exclusion, attenuation, transformation, saturation, and induced self-censorship provide a common vocabulary across states, platforms, institutions, professions, communities, and distributed systems.
+- Editorial, curatorial, library, moderation, ranking, and similar decisions remain analytically interesting precisely because their status depends on context rather than institutional title.
+- Structural description does not replace normative evaluation. It gives normative disagreement a clearer and more consistent object.

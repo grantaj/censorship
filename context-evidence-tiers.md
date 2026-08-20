@@ -6,32 +6,38 @@ This document defines evidence expectations for claims in the essay to maintain 
 ### Tier 1: Foundational Claims (Highest)
 Use peer-reviewed or foundational texts; multiple sources when possible.
 Applies to:
-- Definitions (censorship, morality, conduct, epistemic preference)
-- Structural model claims (control triangle, homology, shortcut mechanisms)
-- Core taxonomy rationale
+- definition and boundary claims around censorship, epistemic preference, contest, selection, and control;
+- literature-positioning claims about what existing censorship scholarship already recognises;
+- rationale for the mechanism-first taxonomy and its separation from contextual dimensions.
 
 ### Tier 2: Structural and Analytic Claims
 Use peer-reviewed sources or highly cited academic texts; at least one strong citation.
 Applies to:
-- Analytic axes (scale, power, participation, visibility, temporal stability, justification, domain)
-- Legitimacy/participation/revisability framing
-- Claims about infrastructural or emergent properties
+- operational mechanisms and subtypes such as friction, flooding, attenuation, induced self-censorship, classification, and infrastructural effects;
+- descriptive dimensions such as scale, power/channel control, participation, persistence/revisability, visibility/opacity, justification, and control surface/domain;
+- claims about infrastructural or low-visibility operation.
 
-### Tier 3: Illustrative Claims
-Use credible academic or authoritative sources; may include well-known reports if justified.
+### Tier 3: Illustrative Boundary Claims
+Use credible academic or authoritative sources where an example makes an empirical claim. Purely hypothetical stress tests need no citation but must not be written as facts about a real institution or case.
 Applies to:
-- Examples used to locate mechanisms on the taxonomy/axes
-- Empirical illustrations of visibility, suppression, or internalisation
+- library acquisition and selection;
+- editorial or peer-review gatekeeping;
+- ranking and recommendation;
+- moderation;
+- coordinated counter-speech;
+- induced self-censorship.
 
 ### Tier 4: Heuristic or Interpretive Claims (Lowest)
-Use citations sparingly; clearly label as interpretive or provisional.
+Use citations sparingly and clearly label the claim as interpretive or provisional.
 Applies to:
-- Suggestive interpretations or open questions
-- Hypothesis-generation for further inquiry
+- the shortcut allusion used to explain routinisation or persistence;
+- suggestive interpretations and open questions;
+- hypotheses for later empirical work.
 
 ### General Rules
 - Prioritise peer-reviewed and foundational texts; justify any non-academic or ephemeral sources.
-- Verify all references exist and all details are 100% correct before inclusion.
+- Verify all references and bibliographic details before publication.
+- Do not cite a source as though it independently establishes the essay's exact five-family taxonomy.
+- Do not cite professional labels or institutional self-description as proof that a practice is or is not censorship.
+- For boundary cases, cite the existence of the dispute or empirical mechanism; preserve the essay's own analytic responsibility for classification.
 - If a claim lacks adequate evidence at its tier, revise or defer it.
-
-
