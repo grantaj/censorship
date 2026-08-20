@@ -2,7 +2,7 @@
 
 ## Anchor
 
-This essay develops a structural account of censorship as selective intervention in an epistemic environment in service of an epistemic preference. An epistemic preference is a preferred ordering of claims, topics, representations, or speakers with respect to credibility, legitimacy, admissibility, or entitlement to consideration. Censorship acts not only through prohibition but through control surfaces such as availability, access, circulation, timing, visibility, ranking, legibility, standing, and memory. In doing so, censorial control can function as an **epistemic shortcut**: it can stabilise a preferred ordering by changing the conditions of participation rather than requiring that ordering to be continually re-established through epistemic contest. This shortcut relation is a structural claim about what censorship can do, not a general theory of why social systems produce shortcuts. The essay does not claim that every act of selection, curation, moderation, ranking, or criticism is censorship. Nor does it categorically exempt them. These are boundary cases whose censorial character depends on how selection operates, what epistemic resource is controlled, what differential treatment is produced, and how the intervention relates to a preferred epistemic ordering. The main contribution is therefore not the observation that censorship extends beyond bans, which is well established, but a mechanism-first framework that connects contest and control through the shortcut relation, separates operational families from descriptive dimensions, and keeps difficult boundary cases visible rather than resolving them by actor label or moral approval.
+This essay develops a structural account of censorship as selective intervention in an epistemic environment in service of an epistemic preference. An epistemic preference is a preferred ordering of claims, topics, representations, or speakers with respect to credibility, legitimacy, admissibility, or entitlement to consideration. Censorship acts not only through prohibition but through control surfaces such as availability, access, circulation, timing, visibility, ranking, legibility, standing, and memory. In doing so, censorial control can function as an **epistemic shortcut**: it can stabilise a preferred ordering by changing the conditions of participation rather than requiring that ordering to be continually re-established through epistemic contest. That shortcut can acquire temporal depth: an earlier contest can become sedimented into rules, classifications, rankings, routines, archives, or norms so that later participants inherit the settled participation conditions without necessarily inheriting the argument that produced them. The essay does not claim that every act of selection, curation, moderation, ranking, or criticism is censorship. Nor does it categorically exempt them. These are boundary cases whose censorial character depends on how selection operates, what epistemic resource is controlled, what differential treatment is produced, and how the intervention relates to a preferred epistemic ordering. The main contribution is therefore not the observation that censorship extends beyond bans, which is well established, but a mechanism-first framework that connects contest and control through the shortcut relation, separates operational families from descriptive dimensions, and keeps difficult boundary cases visible rather than resolving them by actor label or moral approval.
 
 ## Scope and non-claims
 
@@ -13,15 +13,20 @@ This essay develops a structural account of censorship as selective intervention
 - The taxonomy is analytic and revisable. It groups operations at a common level and treats subtypes, strategies, responses, and contextual dimensions separately.
 - Examples are brief analytic stress tests, not standalone political case studies or a historical survey.
 - The shortcut relation is part of the censorship thesis: censorial control can stabilise an epistemic preference without requiring that preference to be continually re-established through epistemic contest. The essay does not generalise this into a theory of morality, all social norms, or all forms of institutional settlement.
+- Present censorial structure may encode the result of past contest; this is a temporal extension of the shortcut thesis, not a legitimacy theory.
+- Reduced overt enforcement may indicate routinisation, infrastructure, learned expectations, or induced self-censorship; it does not establish consent, legitimacy, truth, or neutrality.
+- The visibility or experience of a censorial mechanism can differ across positions in an epistemic environment without making structural classification subjective.
+- Saturation can suppress practical discrimination or resolution without installing a positive counter-belief.
 - Morality and control-theoretic analogies may be alluded to briefly only where they clarify an already-established censorship claim.
 
 ## Canonical terminology
 
-- **Epistemic preference**: a preferred ordering of claims, topics, representations, or speakers with respect to credibility, legitimacy, admissibility, or entitlement to consideration.
+- **Epistemic preference**: a preferred ordering of claims, topics, representations, or speakers with respect to credibility, legitimacy, admissibility, or entitlement to consideration; the ordering need not install a positive counter-belief and can concern whether a rival acquires enough standing or salience to matter.
 - **Epistemic environment**: the practical conditions governing whether and how claims, representations, records, and speakers can enter, circulate within, persist in, and matter within a field of attention or judgment.
 - **Control surface**: a practical condition through which an epistemic environment can be changed, including availability, access, circulation, timing, visibility, ranking, legibility, standing, and memory.
 - **Censorship**: selective intervention in an epistemic environment that advances or stabilises an epistemic preference by altering one or more control surfaces.
 - **Epistemic shortcut**: the structural function by which censorial control stabilises an epistemic preference through changes to participation conditions, reducing the extent to which that preference must be repeatedly established through epistemic contest.
+- **Sedimentation**: the persistence of an earlier epistemic settlement in present rules, classifications, rankings, archive practices, routines, or norms such that later participants inherit the participation conditions without necessarily encountering the original contest.
 - **Operational family**: a recurring kind of censorial operation at a common level of abstraction.
 - **Descriptive dimension**: a distinct contextual dimension used to describe an operation without being treated as an additional operational family.
 - **Infrastructural censorship**: censorial operation embedded in ordinary rules, classifications, incentives, technical systems, rankings, professional routines, or anticipatory behaviour rather than appearing primarily as exceptional prohibition.
@@ -39,7 +44,7 @@ Locate the essay against existing censorship scholarship without claiming that i
 
 - Explicit prohibition is an important and highly visible form of censorship, but existing scholarship and professional debate already recognise less direct forms, including friction, flooding, restricted access, self-censorship, and contested forms of selection.
 - The longstanding debate over library selection is exemplary: the fact that a librarian chooses under scarcity does not by itself settle whether a particular exclusion is selection, censorship, both, or neither.
-- Digital censorship research likewise shows that control can operate by increasing access costs, burying material, diverting attention, or flooding an information environment rather than by making material literally unavailable.
+- Digital censorship research likewise shows that control can operate by increasing access costs, burying material, diverting attention, flooding an information environment, or otherwise degrading practical discrimination rather than by making material literally unavailable.
 - The essay's novelty claim is therefore organisational rather than ontological.
 - Existing discussion commonly mixes at least four things:
   - the actor performing an intervention,
@@ -52,9 +57,10 @@ Locate the essay against existing censorship scholarship without claiming that i
   1. define censorship through epistemic preference and control surfaces;
   2. make the contest/control boundary explicitly contextual rather than categorical;
   3. identify the structural shortcut relation by which changing participation conditions can stabilise an epistemic preference without requiring continual epistemic contest;
-  4. group censorial operations into a small set of families at a common abstraction level;
-  5. separate those families from descriptive dimensions, strategies, and downstream responses;
-  6. use difficult selection and gatekeeping cases as tests of the framework rather than exceptions to be defined away.
+  4. show how shortcut effects can sediment past contest into present infrastructure and become less dependent on overt enforcement;
+  5. group censorial operations into a small set of families at a common abstraction level;
+  6. separate those families from descriptive dimensions, strategies, and downstream responses;
+  7. use difficult selection and gatekeeping cases as tests of the framework rather than exceptions to be defined away.
 
 ## Support
 
@@ -85,6 +91,7 @@ Define censorship broadly enough to include indirect and infrastructural forms w
 - The **epistemic preference** is the target ordering: which claims, topics, representations, or speakers are treated as more or less credible, legitimate, admissible, or entitled to consideration.
 - **Control surfaces** are the means through which that ordering can be affected: availability, access, circulation, timing, visibility, ranking, legibility, standing, and memory.
 - Separating target from control surface avoids defining censorship as a preference about visibility enforced by changing visibility.
+- A preferred ordering need not be a positive proposition to be installed in place of another. It can concern whether a rival claim, representation, or speaker acquires enough standing, visibility, credibility, or practical salience to matter.
 - Censorship need not require a single intentional censor. Selective effects can be institutionalised, automated, customary, distributed, or reproduced through learned expectations.
 - Censorship need not succeed. An attempted intervention may be censorial even when the target remains accessible or the preferred ordering is not achieved.
 
@@ -119,6 +126,7 @@ No single factor produces a mechanical verdict. Together they discipline analysi
 - To that extent, censorship can function as an **epistemic shortcut**: a preferred ordering can be stabilised without needing to be continually re-established through contest.
 - The shortcut need not abolish contest. It can coexist with argument, be incomplete, fail, or be resisted.
 - “Shortcut” is descriptive here. It does not imply efficiency, truth, falsity, legitimacy, illegitimacy, or conscious design.
+- The shortcut can outlive the contest that produced it. Once an ordering is encoded into a rule, classification, ranking, archive practice, routine, or norm, later participants can encounter the settled participation conditions without the originating dispute remaining visible.
 - The essay does not need to explain all social shortcuts, show that complexity necessarily produces censorship, or treat morality as a parallel shortcut system. Those are separate questions.
 
 ## Support
@@ -126,13 +134,14 @@ No single factor produces a mechanical verdict. Together they discipline analysi
 - Selection/censorship as a longstanding contested boundary: `asheim1953`, `kidd2009`.
 - Power beyond overt coercion: `lukes2005`, `foucault1977`.
 - Legibility/classification as conditions of recognition: `scott1998`, `bowkerstar1999`, `star1999`.
-- The shortcut relation is principally an analytic consequence of the contest/control distinction developed here; supporting literature should not be presented as though it independently establishes this exact formulation.
+- The shortcut relation and its temporal sedimentation are principally analytic consequences of the contest/control distinction developed here; supporting literature should not be presented as though it independently establishes this exact formulation.
 
 ## Compilation requirement
 
 - Prose must resist formulations such as “editorial selection is not censorship” or “ranking is censorship.”
 - Boundary examples should be analysed conditionally and comparatively.
 - Prose must preserve shortcut as a substantive structural claim, not reduce it to a passing metaphor for persistence.
+- Prose must preserve the possibility that a present censorial arrangement encodes an earlier contest whose argument is no longer visible.
 - Prose must also preserve the scope boundary: censorship-as-shortcut does not entail a general theory of social shortcuts.
 
 ---
@@ -184,11 +193,13 @@ Transformation can overlap with exclusion or attenuation.
 
 ### 3.4 Saturation / flooding
 
-Censorial control changes the surrounding information environment so that a target becomes harder to find, attend to, distinguish, or use without being removed.
+Censorial control changes the surrounding information environment so that a target becomes harder to find, attend to, distinguish, verify, or use without being removed.
 
 - Noise, repetitive material, diversion, coordinated competing material, or information volume may create the suppressive effect.
+- Saturation can operate not only by burying a target but by degrading **epistemic discrimination** itself: distinguishing reliable from unreliable material, resolving a disputed question, or acting confidently on available information can become sufficiently costly or uncertain that participants disengage, defer, or treat resolution as futile.
+- The censorial effect therefore need not persuade participants that a positive alternative is true. It can be enough to prevent a rival claim, representation, or speaker from acquiring sufficient standing or practical salience to become actionable or authoritative.
 - Ordinary contradiction or counter-speech remains epistemic contest.
-- Counter-assertion becomes relevant here when scale, coordination, or environmental effect turns it into flooding or practical attenuation.
+- Counter-assertion becomes relevant here when scale, coordination, or environmental effect turns it into flooding, practical attenuation, or degradation of the conditions for discrimination.
 
 ### 3.5 Induced self-censorship
 
@@ -197,6 +208,7 @@ Expected consequences alter future expression before an external censor must act
 - The relevant mechanism is anticipatory restraint produced by sanctions, incentives, norms, prior enforcement, opaque rules, or learned expectations.
 - This family requires some relation to an external or socially reproduced censorial condition; ordinary private reconsideration or changing one's mind is not self-censorship in this analytic sense.
 - It is unusual because the proximate act is performed by the target, but the censorial condition is reproduced through anticipation.
+- Where the expected boundaries become reliably learned, overt enforcement may become less necessary. That reduction in enforcement burden is a feature of persistence, not evidence of consent or legitimacy.
 
 ### 3.6 Boundary-sensitive strategies, not primary operations
 
@@ -225,6 +237,7 @@ Some concepts from the earlier taxonomy remain useful but should not be treated 
 ## Evidence gap
 
 - The five-family taxonomy is the essay's analytic proposal. Sources support particular mechanisms and phenomena; they should not be presented as independently establishing this exact taxonomy.
+- The stronger saturation claim about degraded discrimination must be audited in #2 for source-to-claim fit and calibrated if the literature supports a narrower empirical formulation.
 
 ---
 
@@ -280,6 +293,8 @@ Participation remains descriptive. The essay does not infer a general theory of 
 
 A related question is how readily the rule, ranking, classification, norm, or settlement can be reopened and changed.
 
+Persistence can be historical as well as repetitive. A present arrangement may **sediment** the outcome of an earlier contest: later participants inherit the rule, classification, ranking, archive practice, or norm without the original dispute remaining visible. Revisability then asks whether that inherited settlement is practically open to renewed contest. It does not, by itself, answer whether the settlement is legitimate.
+
 ### 4.5 Visibility / opacity of the mechanism
 
 - overt;
@@ -288,6 +303,8 @@ A related question is how readily the rule, ranking, classification, norm, or se
 - only indirectly inferable.
 
 This concerns visibility of the censorial mechanism, not visibility of the target.
+
+Visibility can also be position-dependent. A settled arrangement may appear as ordinary procedure, quality control, safety, professionalism, or common sense to those advantaged by its epistemic ordering while being salient as exclusion or control to those disadvantaged by it. This does not make structural classification subjective. It explains why institutional labels and participant self-descriptions cannot be treated as decisive classifiers.
 
 ### 4.6 Justification regime
 
@@ -318,6 +335,7 @@ Several surfaces may be affected at once.
 - Power: `lukes2005`, `foucault1977`.
 - Legibility and classification: `scott1998`, `bowkerstar1999`, `star1999`.
 - Platform opacity: `pasquale2015`.
+- Position-dependent visibility and sedimentation should be audited in #2 so any empirical generalisation is distinguished from the framework's analytic possibility claims.
 
 ---
 
@@ -325,7 +343,7 @@ Several surfaces may be affected at once.
 
 ## Purpose
 
-Explain the shortcut relation as a structural consequence of censorial control, then show how infrastructure can make that shortcut persistent without continuous overt prohibition.
+Explain the shortcut relation as a structural consequence of censorial control, then show how infrastructure can sediment and reproduce that shortcut without continuous overt prohibition.
 
 ## Argument
 
@@ -342,7 +360,7 @@ Explain the shortcut relation as a structural consequence of censorial control, 
 
 - Indirect and incomplete censorship can matter even when information remains technically obtainable.
 - Friction can change consumption by adding small costs of time, effort, expertise, or money.
-- Flooding and distraction can divert attention without deleting the target.
+- Flooding and distraction can divert attention without deleting the target and can, in stronger cases, make epistemic discrimination or resolution itself costly or uncertain.
 - Ranking, recommendation, classification, professional routines, archive practices, and access rules can embed selective effects into ordinary infrastructure.
 - Once embedded, a censorial pattern may reproduce without repeated explicit decisions by a visible censor.
 - Infrastructure can therefore turn episodic control into a standing epistemic shortcut: the preferred ordering is reproduced by the ordinary conditions of participation rather than by repeated overt intervention.
@@ -350,11 +368,22 @@ Explain the shortcut relation as a structural consequence of censorial control, 
 - Formal speech protections therefore constrain important forms of censorship without logically eliminating all forms of epistemic control.
 - This observation applies across political systems; the essay should not imply that infrastructural censorship is unique to authoritarian states or that all infrastructural selection is censorial.
 
-### 5.3 What the shortcut claim does not say
+### 5.3 Sedimentation and enforcement burden
+
+- A standing shortcut may be the present form of an earlier contest. A dispute can produce a rule, classification, ranking, professional convention, archive practice, or institutional norm that subsequently structures participation after the originating arguments and actors have receded from view.
+- Later participants can therefore inherit an epistemic ordering as infrastructure rather than encounter it as an active dispute. The arrangement may appear natural, technical, professional, traditional, or merely procedural because the contest that generated it is no longer visible at the point of use.
+- **Revisability** matters descriptively here: can the settlement practically be reopened to contest, or does the infrastructure make the earlier resolution difficult to revisit?
+- As the settlement becomes reproduced through routine, expectations, technical defaults, professional practice, and anticipatory behaviour, the **burden of overt enforcement can decline**. Fewer visible interventions may be needed because participants and institutions already act within the learned or inherited conditions.
+- Reduced visible enforcement must not be interpreted as proof of consensus, legitimacy, truth, neutrality, or voluntary acceptance. It identifies a shift in how the censorial condition is reproduced.
+- This mechanism connects infrastructural censorship and induced self-censorship without collapsing them: infrastructure can preserve the external conditions, while participants can prospectively reproduce those conditions through learned expectations.
+
+### 5.4 What the shortcut claim does not say
 
 - It does not say shortcuts are inherently irrational, illegitimate, false, or harmful.
 - It does not say every institutional rule, classification, convention, or selection mechanism is censorship.
 - It does not say censorship exists only because continuous deliberation is impossible.
+- It does not say that an inherited settlement is censorial merely because it is inherited; the boundary factors still apply.
+- It does not infer legitimacy or illegitimacy from revisability or enforcement burden.
 - It does not require the earlier morality/censorship homology, the control triangle, or positive/negative-feedback terminology.
 - It leaves open the broader question of how shortcut mechanisms operate elsewhere in social life.
 
@@ -365,7 +394,7 @@ Explain the shortcut relation as a structural consequence of censorial control, 
 - Legibility: `scott1998`.
 - Opaque technical mediation: `pasquale2015`.
 - Power and routinised discipline: `foucault1977`, `lukes2005`.
-- The shortcut relation itself is an analytic claim generated by the framework's contest/control distinction. External sources support the mechanisms and infrastructural conditions, not the exact formulation as an independently established theory.
+- The shortcut relation, sedimentation formulation, and enforcement-burden inference are analytic claims generated by the framework; #2 should audit which surrounding empirical claims require direct support and calibrate them accordingly.
 
 ## Deliberate narrowing
 
@@ -390,20 +419,22 @@ Demonstrate the framework's value precisely where categorical definitions become
   2. identify the control surface or resource at issue;
   3. ask whether the intervention primarily contests a claim, changes participation conditions, or combines both;
   4. ask whether changing those conditions functions to shortcut repeated contest in favour of a preferred ordering;
-  5. identify any operational family or families;
-  6. describe only the contextual dimensions that materially affect interpretation;
-  7. preserve ambiguity where the evidence supports more than one classification;
-  8. only then ask normative, legal, professional, or political questions.
+  5. ask whether the present arrangement is an episodic intervention or an inherited settlement that encodes earlier contest, and whether it can practically be reopened;
+  6. identify any operational family or families;
+  7. describe only the contextual dimensions that materially affect interpretation, including whether the mechanism is differently visible from different positions;
+  8. if overt enforcement is limited, ask whether routines, infrastructure, or learned expectations are reproducing the condition rather than inferring consent from the absence of visible intervention;
+  9. preserve ambiguity where the evidence supports more than one classification;
+  10. only then ask normative, legal, professional, or political questions.
 
 ### 6.1 Analytic stress tests
 
 These are not cases with predetermined verdicts.
 
-- **Library acquisition:** a librarian cannot acquire everything. Non-acquisition may reflect scarcity, collection remit, quality judgment, or a pattern of viewpoint exclusion. The same surface act can therefore range from ordinary selection to strongly censorial exclusion; the framework asks what resource is controlled, what is systematically disadvantaged, whether a preferred ordering is being stabilised without repeated contest, why that disadvantage recurs, and what alternatives exist.
-- **Editorial rejection:** an editor necessarily selects. A rejection based on evidentiary standards may be principally epistemic contest or quality control; coordinated or systematic exclusion of a disfavoured position from a consequential venue may exhibit stronger censorial character when channel control substitutes for continued contest. Neither conclusion follows from the title “editor.”
-- **Search or recommendation ranking:** ranking necessarily orders attention. A ranking change can be ordinary relevance optimisation, commercial prioritisation, safety intervention, or censorial attenuation. Mechanism, preference, opacity, channel power, pattern, substitutability, and whether ranking functions as a shortcut around contest matter.
-- **Moderation:** removing or demoting material is operationally exclusion or attenuation, but calling it censorship does not decide whether it is justified. Conversely, calling it safety or moderation does not decide that it is not censorship.
-- **Counter-speech:** rebuttal remains contest even when forceful. Coordinated counter-speech can cross toward saturation when its environmental effect is to occupy the channel or make the target practically inaccessible rather than to answer it.
+- **Library acquisition:** a librarian cannot acquire everything. Non-acquisition may reflect scarcity, collection remit, quality judgment, or a pattern of viewpoint exclusion. The same surface act can therefore range from ordinary selection to strongly censorial exclusion; the framework asks what resource is controlled, what is systematically disadvantaged, whether a preferred ordering is being stabilised without repeated contest, whether the selection criteria sediment an earlier settlement, why that disadvantage recurs, and what alternatives exist.
+- **Editorial rejection:** an editor necessarily selects. A rejection based on evidentiary standards may be principally epistemic contest or quality control; coordinated or systematic exclusion of a disfavoured position from a consequential venue may exhibit stronger censorial character when channel control substitutes for continued contest. A settled editorial convention may also carry an earlier epistemic resolution into present practice. Neither conclusion follows from the title “editor.”
+- **Search or recommendation ranking:** ranking necessarily orders attention. A ranking change can be ordinary relevance optimisation, commercial prioritisation, safety intervention, or censorial attenuation. Mechanism, preference, opacity, channel power, pattern, substitutability, inherited defaults, and whether ranking functions as a shortcut around contest matter.
+- **Moderation:** removing or demoting material is operationally exclusion or attenuation, but calling it censorship does not decide whether it is justified. Conversely, calling it safety or moderation does not decide that it is not censorship. Participants differently positioned relative to the moderation regime may experience the same rule very differently; that divergence is evidence to analyse, not a substitute for structural classification.
+- **Counter-speech:** rebuttal remains contest even when forceful. Coordinated counter-speech can cross toward saturation when its environmental effect is to occupy the channel, make the target practically inaccessible, or make discrimination and resolution sufficiently costly that participants abandon the contest rather than resolve it.
 - **Self-restraint:** choosing not to speak is not automatically self-censorship. The analytic question is whether anticipatory restraint reproduces an external or socially maintained censorial condition, thereby making repeated external intervention less necessary.
 
 ### 6.2 What the framework reveals
@@ -412,9 +443,13 @@ These are not cases with predetermined verdicts.
 - **The same operation can appear under different institutional names and moral descriptions.**
 - **Selection and censorship are not clean antonyms.** Selection is a general feature of finite epistemic environments; some selection can become a vehicle for censorial control.
 - **The shortcut relation clarifies the difference between contest and control.** Censorial intervention changes the practical field in which epistemic competition occurs, reducing reliance on repeated contest without necessarily eliminating disagreement.
+- **Past contest can survive as present structure.** Rules, classifications, rankings, routines, and archives can preserve an earlier epistemic settlement after the originating argument has disappeared from view.
+- **Visibility can depend on position without making classification subjective.** A settled mechanism may look like ordinary procedure to those advantaged by it and like censorship to those disadvantaged by it; structural analysis asks what the mechanism actually does rather than treating either label as decisive.
+- **Low overt enforcement can indicate successful reproduction rather than absence of control.** Infrastructure, routine, and learned expectations can reduce how often explicit intervention is required.
+- **Saturation can target the conditions of knowing, not only a particular claim.** The effect may be to make discrimination, verification, or resolution sufficiently costly or uncertain that a rival never acquires practical standing.
 - **Power often matters through control of channels rather than through explicit commands.**
 - **Infrastructural and probabilistic control can be consequential without total suppression.**
-- **Disagreement about borderline cases can become more precise:** parties can disagree about preference, mechanism, channel power, alternatives, shortcut function, or effect rather than only about the label.
+- **Disagreement about borderline cases can become more precise:** parties can disagree about preference, mechanism, channel power, alternatives, shortcut function, temporal inheritance, positional visibility, enforcement burden, or effect rather than only about the label.
 
 ### 6.3 Limits
 
@@ -423,6 +458,9 @@ These are not cases with predetermined verdicts.
 - It does not determine when censorship is lawful, ethical, proportionate, necessary, democratic, professionally appropriate, or effective.
 - It does not subsume propaganda, persuasion, education, curation, moderation, or criticism wholesale into censorship.
 - It does not assume that institutional constraints, scarcity, or selection criteria are neutral; it asks how they function in context.
+- It does not claim that all inherited settlements are censorial or that sedimentation itself establishes censorship.
+- It does not infer consent or legitimacy from low enforcement burden.
+- It does not claim that different experiences of a mechanism make classification merely perspectival.
 - It does not claim that all social coordination is shortcutting or that all shortcutting is censorship.
 - The taxonomy remains open to empirical revision.
 
@@ -431,6 +469,7 @@ These are not cases with predetermined verdicts.
 - Selection/censorship dispute: `asheim1953`, `kidd2009`.
 - Friction/flooding and incomplete censorship: `roberts2018`.
 - Power, infrastructure, and classification: `lukes2005`, `foucault1977`, `bowkerstar1999`, `star1999`, `pasquale2015`.
+- #2 should specifically audit source-to-claim fit for sedimentation, position-dependent visibility, enforcement burden, and the stronger epistemic-discrimination account of saturation.
 
 ---
 
@@ -445,11 +484,16 @@ Restate the contribution without resolving the ambiguities the framework is desi
 - Censorship is not defined here by a particular censor, institution, technology, political alignment, or moral verdict.
 - It is analysed as selective intervention in an epistemic environment that advances or stabilises an epistemic preference through changes to practical control surfaces.
 - Censorial control can function as an epistemic shortcut: by changing the conditions of participation, it can reduce the extent to which a preferred ordering must be continually re-established through epistemic contest.
-- This shortcut relation is part of the censorship account without becoming a general theory of morality, social norms, complexity, or social control.
+- That shortcut can sediment across time: the result of an earlier contest can persist as an inherited rule, classification, ranking, routine, archive practice, or norm whose originating dispute is no longer visible.
+- Routinisation, infrastructure, and learned expectations can reduce the burden of overt enforcement without implying consensus, legitimacy, truth, or neutrality.
+- The same settled mechanism can be differently visible from different positions in an epistemic environment; that asymmetry helps explain competing descriptions without making classification subjective.
+- Saturation can suppress practical epistemic discrimination or resolution without persuading a positive alternative.
+- These claims deepen the censorship account without becoming a general theory of morality, social norms, complexity, or social control.
 - The contribution is not simply to broaden censorship beyond explicit prohibition; indirect and self-censoring forms are already recognised.
 - The contribution is a mechanism-first organisation:
   - a contextual boundary between contest, selection, and control;
   - an explicit account of censorship's shortcut relation to epistemic contest;
+  - a temporal account of how shortcuts can become sedimented and self-reproducing;
   - a compact set of operational families;
   - a separation between operations, strategies, responses, and descriptive dimensions;
   - and an explicit refusal to define difficult gatekeeping cases away.
