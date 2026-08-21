@@ -1,0 +1,34 @@
+name: Publication infrastructure checks
+
+on:
+  pull_request:
+    paths:
+      - ".github/workflows/**"
+      - "publication/**"
+      - "tests/**"
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/**"
+      - "publication/**"
+      - "tests/**"
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install Pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends pandoc
+      - name: Shell syntax
+        run: bash -n publication/render.sh
+      - name: Keyless publication tests
+        run: python -m unittest discover -s tests -v
