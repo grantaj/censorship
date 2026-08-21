@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="$if(lang)$$lang$$else$en$endif$">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self' data:; script-src 'none'; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <title>$if(title)$$title$$else$Censorship$endif$</title>
+  $if(abstract)$<meta name="description" content="$abstract$">$endif$
+  <link rel="stylesheet" href="style.css">
+  $if(highlighting-css)$<style>$highlighting-css$</style>$endif$
+</head>
+<body>
+  <div class="publication-strip">
+    <span class="channel">$publication_channel$</span>
+    <a href="../">all publications</a>
+  </div>
+  <main class="essay">
+    <header class="essay-header">
+      <h1>$if(title)$$title$$else$Censorship$endif$</h1>
+      $if(author)$<p class="byline">$for(author)$$author$$sep$ · $endfor$</p>$endif$
+      $if(date)$<p class="date">$date$</p>$endif$
+    </header>
+    $if(abstract)$<section class="abstract"><h2>Abstract</h2>$abstract$</section>$endif$
+    $if(toc)$<nav id="TOC" class="toc"><h2>Contents</h2>$toc$</nav>$endif$
+    <article class="prose">$body$</article>
+  </main>
+  <footer class="build-meta">
+    <div>
+      <strong>Build provenance</strong>
+      <span>source <code>$source_sha$</code></span>
+      <span>compiled-prose <code>$compiled_prose_sha$</code></span>
+      <span>built $build_timestamp$</span>
+      <a href="$workflow_run_url$">workflow run</a>
+    </div>
+  </footer>
+</body>
+</html>
