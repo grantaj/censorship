@@ -18,7 +18,7 @@ The contribution is therefore not the observation that censorship extends beyond
 - Selection is neither sufficient to establish censorship nor sufficient to rule it out.
 - The taxonomy is analytic and revisable. Operational families, subtypes, strategies, responses, and contextual dimensions remain distinct.
 - Examples are analytic stress tests, not standalone political case studies or a historical survey.
-- Shortcut, sedimentation, position-dependent visibility, declining overt enforcement, and degraded epistemic discrimination are structural possibilities developed by the framework, not empirical universals.
+- The shortcut relation is a structural claim of the framework. Sedimentation, position-dependent visibility, declining overt enforcement, and degraded epistemic discrimination are structural possibilities developed from it, not empirical universals.
 - Reduced overt enforcement does not establish consent, legitimacy, truth, or neutrality.
 - Different experience or visibility of a mechanism across positions does not make classification merely subjective.
 
@@ -146,7 +146,7 @@ Clear prohibition and deliberate erasure will often sit toward one end of the bo
 
 ## Purpose
 
-Classify operations by what happens to participation in an epistemic environment. Actor, intention, scale, justification, and moral evaluation are not operational families. Families may overlap and compose.
+Classify operations by what happens to participation in an epistemic environment. Actor, intention, scale, justification, and moral evaluation are not operational families. Operations can be partial, probabilistic, temporary, or infrastructural; families may overlap and compose.
 
 ## 3.1 Exclusion
 
@@ -297,7 +297,7 @@ Explain how censorial control can reduce reliance on repeated contest, then show
 - Once embedded, a censorial pattern may reproduce without repeated explicit decisions by a visible censor.
 - Infrastructure can therefore turn episodic control into a standing epistemic shortcut.
 - Induced self-censorship can reproduce the same condition when participants learn expected consequences or opaque boundaries.
-- Formal speech protections constrain important forms of censorship without logically eliminating all forms of epistemic control.
+- Formal speech protections constrain important forms of censorship without logically eliminating all censorial forms of epistemic control.
 - None of this makes infrastructural selection automatically censorial or unique to authoritarian systems.
 
 ## 5.3 Sedimentation and enforcement burden
