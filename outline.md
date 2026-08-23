@@ -91,7 +91,7 @@
 - Ordering is ordinarily emergent; explicit doctrinal, institutional, or state projects are special cases rather than the model for all censorship.
 - An ordering may concern standing, visibility, credibility, admissibility, or practical salience rather than replacement belief.
 - Existence, persistence, or cultural reproduction of an ordering alone does not establish censorship; a censorial relation requires selective epistemic control.
-- No single intentional censor required; control may be institutionalised, automated, customary, distributed, or reproduced through learned expectations.
+- No single intentional censor required; control may be institutionalised, automated, customary, distributed, or reproduced through learned expectations and participant response.
 - Success not required; an intervention may have censorial character despite continuing access or failure to materially shift the ordering.
 
 ## 2.1 Contest and control as ideal types
@@ -173,20 +173,21 @@ What is available or represented changes.
 - Need not install a counter-belief; altering standing or salience may suffice.
 - Ordinary contradiction/counter-speech remains contest; scaled/coordinated environmental occupation may become saturation or attenuation.
 
-## 3.5 Induced self-censorship
+## 3.5 Responsive self-censorship
 
-- Expected consequences alter future expression before another external intervention is required.
-- Sources: sanctions, incentives, norms, prior enforcement, opaque rules, learned expectations.
-- Proximate restraint by target; censorial condition externally or socially reproduced.
-- Distinctive realisation: censorial effect occurs prospectively through altered participation by the target.
+- Participant alters, withholds, or constrains future expression in response to expected consequences encoded in prevailing participation conditions.
+- Sources may include sanctions, incentives, norms, prior enforcement, opaque rules, learned expectations, or other environmental cues; no conscious inducing agent required.
+- Proximate restraint by participant; censorial condition is environmental or socially reproduced and may itself be emergent.
+- Distinctive realisation: censorial effect occurs prospectively through the participant's response to the epistemic environment.
+- Preference falsification is a related responsive behaviour in which public expression diverges from privately held position under perceived social pressures; not all preference falsification is censorial.
 - Private reconsideration, uncertainty, politeness, or changing one's mind insufficient.
-- Reproduction through expectation may reduce overt enforcement without establishing acceptance or legitimacy.
+- Reproduction through responsive behaviour may reduce overt enforcement without establishing acceptance or legitimacy.
 
 ## 3.6 Boundary-sensitive strategies and practices
 
 Not primary operational families; classify by operative effect.
 
-- **Delegitimation**: credibility/competence/motive/status/entitlement attack; contest when disputed on merits; censorially relevant when producing exclusion, attenuation, or induced self-censorship.
+- **Delegitimation**: credibility/competence/motive/status/entitlement attack; contest when disputed on merits; censorially relevant when producing exclusion, attenuation, or responsive self-censorship.
 - **Inversion**: expression reframed as harm, threat, pathology, disloyalty, extremism, or another disqualifying status; significance lies in effects on admissibility, standing, reach, access, or anticipated consequences.
 - **Contradiction**: ordinary rebuttal remains contest; scaled/coordinated suppression by environmental occupation classified by effect, usually saturation/attenuation.
 - **Selection/curation**: editing, acquisition, moderation, ranking, curation may instantiate an operational family or no censorial operation; institutional title non-decisive.
@@ -200,6 +201,7 @@ Not primary operational families; classify by operative effect.
 ## Support
 
 - Friction and flooding/distraction: `roberts2018`.
+- Preference falsification as response to perceived social pressure: `kuran1995`.
 - Classification and embedded infrastructure: `bowkerstar1999`, `star1999`.
 - Disciplinary and non-overt power: `foucault1977`, `lukes2005`.
 - Opaque ranking and technical mediation: `pasquale2015`.
@@ -248,7 +250,7 @@ Not primary operational families; classify by operative effect.
 - Flooding/distraction: attention diversion; possible increased cost/uncertainty of discrimination or resolution.
 - Embedding surfaces: ranking, recommendation, classification, professional routines, archive practices, access rules.
 - Embedded censorial patterns may reproduce without repeated explicit decisions by a visible censor, turning episodic control into a standing shortcut.
-- Induced self-censorship may also reproduce a standing condition through learned consequences or opaque boundaries.
+- Responsive self-censorship may reproduce a standing condition through participant responses to learned consequences, norms, incentives, or opaque boundaries.
 - Formal speech protections constrain important forms without logically exhausting censorial epistemic control.
 - Infrastructural selection not automatically censorial and not unique to authoritarian systems.
 
@@ -259,7 +261,7 @@ Not primary operational families; classify by operative effect.
 - **Revisability**: whether inherited settlement can practically be reopened to contest.
 - Routine, defaults, professional practice, expectations, and anticipatory behaviour may reduce overt enforcement burden.
 - Reduced visible enforcement may indicate a change in reproduction mechanism; not evidence by itself of consensus, legitimacy, truth, neutrality, or voluntary acceptance.
-- Infrastructure and induced self-censorship remain distinct: external participation conditions versus prospective restraint through learned expectations.
+- Infrastructure and responsive self-censorship are analytically distinct but coupled: environmental participation conditions elicit participant responses that can help reproduce those conditions and the associated ordering.
 
 ## Limits of persistence claim
 
@@ -308,7 +310,7 @@ No predetermined verdicts.
 - **Search/recommendation ranking**: necessary ordering of attention; relevance, commercial, safety, and censorial attenuation may share surface form; inspect relation to ordering, mechanism, opacity, channel power, pattern, substitutability, inherited defaults, shortcut function.
 - **Moderation**: removal/demotion change participation conditions but do not settle classification; where boundary analysis supports censorship, removal maps to exclusion and demotion to attenuation; censorship/safety labels do not settle justification.
 - **Counter-speech**: rebuttal remains contest; coordinated/scaled counter-speech may become saturation when environmental effects produce practical inaccessibility or sufficiently costly discrimination/resolution.
-- **Self-restraint**: non-speech not automatically self-censorship; inspect whether anticipatory restraint reproduces an external/socially maintained censorial condition.
+- **Responsive self-censorship / preference falsification**: restraint or public/private divergence is not automatically censorial; inspect whether the behaviour responds to participation conditions that otherwise satisfy the boundary factors.
 
 ## 6.3 Limits
 
@@ -327,6 +329,7 @@ No predetermined verdicts.
 - Structural/constitutive censorship and demarcation problem: `muller2004`, `bunn2015`.
 - Selection/censorship as contested library boundary: `asheim1953`, `kidd2009`.
 - Friction, flooding/distraction, incomplete censorship: `roberts2018`.
+- Preference falsification: `kuran1995`.
 - Non-overt power, discipline, infrastructure, classification, opaque mediation: `lukes2005`, `foucault1977`, `bowkerstar1999`, `star1999`, `pasquale2015`.
 - Stress tests hypothetical unless case-specific evidence supplied.
 
@@ -340,7 +343,7 @@ No predetermined verdicts.
 - Epistemic ordering is a background property of complex epistemic environments, not evidence of censorship and not necessarily selected by any agent.
 - Demarcation: structural censorship remains distinguishable from ordinary selection, cultural ordering, and contest by examining differential control of participation conditions and its relation to the ordering.
 - Contest/control boundary and epistemic shortcut: participation conditions can shift or stabilise an ordering while disagreement continues.
-- Persistence: shortcut may sediment into inherited rules, classifications, rankings, routines, archives, norms, infrastructure, and learned expectations; overt enforcement may decline without implying consent, legitimacy, truth, or neutrality.
+- Persistence: shortcut may sediment into inherited rules, classifications, rankings, routines, archives, norms, infrastructure, and responsive participant behaviour; overt enforcement may decline without implying consent, legitimacy, truth, or neutrality.
 - Position-dependent visibility does not make classification subjective; saturation may suppress practical discrimination/resolution without installing a counter-belief.
 - Contribution: demarcated structural account, shortcut/sedimentation relation, compact mechanism taxonomy, separation of operations from dimensions/strategies, and preservation of difficult gatekeeping cases.
 - Structural classification does not replace normative evaluation; it gives normative disagreement a clearer object.
