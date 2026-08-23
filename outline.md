@@ -133,13 +133,6 @@ Clear prohibition and deliberate erasure will often sit toward one end of the bo
 - Legibility and classification: `scott1998`, `bowkerstar1999`, `star1999`.
 - Shortcut and sedimentation are principally analytic consequences of the framework and must not be attributed wholesale to these sources.
 
-## Compilation constraints
-
-- Do not render “editorial selection is not censorship” or “ranking is censorship” as categorical propositions.
-- Analyse boundary cases conditionally and comparatively.
-- Preserve shortcut as a substantive structural claim, not a metaphor for persistence.
-- Preserve the possibility that present participation conditions encode an earlier contest whose argument is no longer visible.
-
 ---
 
 # 3. Operational Families: What Censorial Control Does
