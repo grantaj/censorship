@@ -80,8 +80,8 @@
 
 ## Core definition
 
-- Censorship = selective intervention in an epistemic environment + epistemic preference + alteration of one or more control surfaces.
-- Epistemic preference = target ordering; control surface = means by which participation conditions change.
+- Definition components: selective intervention in an epistemic environment; advancement or stabilisation of an epistemic preference; alteration of one or more control surfaces.
+- Epistemic preference names the target ordering; control surface names the means by which participation conditions change.
 - Target/control-surface distinction avoids circular definition through visibility preference plus visibility control.
 - Preferred ordering may concern standing, visibility, credibility, or practical salience rather than replacement belief.
 - No single intentional censor required; effects may be institutionalised, automated, customary, distributed, or reproduced through learned expectations.
@@ -161,7 +161,7 @@ What is available or represented changes.
 - Mechanisms: noise, repetition, diversion, coordinated competing material, information volume.
 - Possible stronger effect: degraded epistemic discrimination/resolution; reliable/unreliable distinction or disputed-question resolution becomes sufficiently costly or uncertain to induce disengagement, deference, or futility.
 - Need not install a positive counter-belief; preventing sufficient standing or salience may suffice.
-- Ordinary contradiction/counter-speech = contest; scaled/coordinated environmental occupation may become saturation or attenuation.
+- Ordinary contradiction/counter-speech remains contest; scaled/coordinated environmental occupation may become saturation or attenuation.
 
 ## 3.5 Induced self-censorship
 
@@ -177,7 +177,7 @@ Not primary operational families; classify by operative effect.
 
 - **Delegitimation**: credibility/competence/motive/status/entitlement attack; contest when disputed on merits; censorially relevant when producing exclusion, attenuation, or induced self-censorship.
 - **Inversion**: expression reframed as harm, threat, pathology, disloyalty, extremism, or another disqualifying status; significance lies in effects on admissibility, standing, reach, access, or anticipated consequences.
-- **Contradiction**: ordinary rebuttal = contest; scaled/coordinated suppression by environmental occupation classified by effect, usually saturation/attenuation.
+- **Contradiction**: ordinary rebuttal remains contest; scaled/coordinated suppression by environmental occupation classified by effect, usually saturation/attenuation.
 - **Selection/curation**: editing, acquisition, moderation, ranking, curation may instantiate an operational family or no censorial operation; institutional title non-decisive.
 
 ## Caveats
@@ -234,7 +234,7 @@ Not primary operational families; classify by operative effect.
 - Friction: small time/effort/expertise/money costs can alter consumption.
 - Flooding/distraction: attention diversion; possible increased cost/uncertainty of discrimination or resolution.
 - Embedding surfaces: ranking, recommendation, classification, professional routines, archive practices, access rules.
-- Embedded censorial patterns may reproduce without repeated explicit decisions by a visible censor: episodic control -> standing shortcut.
+- Embedded censorial patterns may reproduce without repeated explicit decisions by a visible censor, turning episodic control into a standing shortcut.
 - Induced self-censorship may also reproduce a standing condition through learned consequences or opaque boundaries.
 - Formal speech protections constrain important forms without logically exhausting censorial epistemic control.
 - Infrastructural selection not automatically censorial and not unique to authoritarian systems.
@@ -245,7 +245,7 @@ Not primary operational families; classify by operative effect.
 - Later participants may inherit the ordering as infrastructure rather than encounter it as active dispute.
 - **Revisability**: whether inherited settlement can practically be reopened to contest.
 - Routine, defaults, professional practice, expectations, and anticipatory behaviour may reduce overt enforcement burden.
-- Reduced visible enforcement = possible change in reproduction mechanism; not evidence by itself of consensus, legitimacy, truth, neutrality, or voluntary acceptance.
+- Reduced visible enforcement may indicate a change in reproduction mechanism; not evidence by itself of consensus, legitimacy, truth, neutrality, or voluntary acceptance.
 - Infrastructure and induced self-censorship remain distinct: external participation conditions versus prospective restraint through learned expectations.
 
 ## Limits of persistence claim
@@ -291,8 +291,8 @@ No predetermined verdicts.
 - **Library acquisition**: scarcity/remit versus viewpoint exclusion through same channel; inspect controlled resource, systematic disadvantage, alternatives, preference relation, inherited settlement.
 - **Editorial rejection**: evidentiary standards/quality control versus systematic exclusion of disfavoured position from consequential venue; inspect whether channel control substitutes for continued contest; editor role non-decisive.
 - **Search/recommendation ranking**: necessary ordering of attention; relevance, commercial, safety, and censorial attenuation may share surface form; inspect preference, mechanism, opacity, channel power, pattern, substitutability, inherited defaults, shortcut function.
-- **Moderation**: removal/demotion change participation conditions but do not settle classification; where boundary analysis supports censorship, removal -> exclusion, demotion -> attenuation; censorship/safety labels do not settle justification.
-- **Counter-speech**: rebuttal = contest; coordinated/scaled counter-speech may become saturation when environmental effects produce practical inaccessibility or sufficiently costly discrimination/resolution.
+- **Moderation**: removal/demotion change participation conditions but do not settle classification; where boundary analysis supports censorship, removal maps to exclusion and demotion to attenuation; censorship/safety labels do not settle justification.
+- **Counter-speech**: rebuttal remains contest; coordinated/scaled counter-speech may become saturation when environmental effects produce practical inaccessibility or sufficiently costly discrimination/resolution.
 - **Self-restraint**: non-speech not automatically self-censorship; inspect whether anticipatory restraint reproduces an external/socially maintained censorial condition.
 
 ## 6.3 Limits
@@ -319,9 +319,9 @@ No predetermined verdicts.
 
 ## Required synthesis
 
-- Mechanism-first censorship account: epistemic preference + practical control surfaces; actor/institution/technology/political alignment/moral verdict non-definitional.
-- Contest/control boundary + epistemic shortcut: participation conditions can change while disagreement continues.
-- Persistence: shortcut may sediment into inherited rules, classifications, rankings, routines, archives, norms, infrastructure, and learned expectations; overt enforcement may decline without implying consent/legitimacy/truth/neutrality.
+- Mechanism-first censorship account through epistemic preference and practical control surfaces; actor, institution, technology, political alignment, and moral verdict remain non-definitional.
+- Contest/control boundary and epistemic shortcut: participation conditions can change while disagreement continues.
+- Persistence: shortcut may sediment into inherited rules, classifications, rankings, routines, archives, norms, infrastructure, and learned expectations; overt enforcement may decline without implying consent, legitimacy, truth, or neutrality.
 - Position-dependent visibility does not make classification subjective; saturation may suppress practical discrimination/resolution without installing a counter-belief.
 - Contribution: contextual boundary analysis, shortcut/sedimentation account, compact mechanism taxonomy, separation of operations from dimensions/strategies, and preservation of difficult gatekeeping cases.
 - Structural classification does not replace normative evaluation; it gives normative disagreement a clearer object.
