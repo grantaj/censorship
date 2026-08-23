@@ -142,6 +142,7 @@ Boundary expectation:
 ## Purpose
 
 - Classify by effects on participation, not actor, intention, scale, justification, political alignment, or moral evaluation.
+- Proximate performer does not determine the family: an alteration may be realised through institutional action, technical mediation, distributed practice, or participant response.
 - Operations may be partial, probabilistic, temporary, infrastructural, overlapping, or composed.
 
 ## 3.1 Exclusion
