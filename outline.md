@@ -68,9 +68,10 @@
 
 ## Support
 
-- Structural/constitutive censorship and demarcation problem: `muller2004`, `bunn2015`.
+- Structural/constitutive censorship and demarcation problem: `muller2004`, `freshwater2004`, `bunn2015`.
 - Indirect censorship through friction and flooding: `roberts2018`.
 - Selection/censorship boundary in libraries: `asheim1953`, `kidd2009`.
+- Visibility reduction as content moderation without removal: `gillespie2022`.
 - Non-overt and disciplinary power: `foucault1977`, `lukes2005`.
 - Infrastructure and classification: `bowkerstar1999`, `star1999`.
 - Opaque technical mediation: `pasquale2015`.
@@ -129,8 +130,9 @@ Boundary expectation:
 
 ## Support
 
-- Structural/constitutive censorship and overbreadth problem: `muller2004`, `bunn2015`.
+- Structural/constitutive censorship and overbreadth problem: `muller2004`, `freshwater2004`, `bunn2015`.
 - Selection/censorship boundary: `asheim1953`, `kidd2009`.
+- Demotion versus ordinary algorithmic deamplification as a contemporary boundary case: `howardkira2026`.
 - Power beyond overt coercion: `lukes2005`, `foucault1977`.
 - Legibility and classification: `scott1998`, `bowkerstar1999`, `star1999`.
 - Shortcut and sedimentation are principally analytic consequences of the framework; do not attribute wholesale to background sources.
@@ -202,10 +204,11 @@ Not primary operational families; classify by operative effect.
 ## Support
 
 - Friction and flooding/distraction: `roberts2018`.
+- Reduction/demotion without removal: `gillespie2022`.
+- Demotion versus ordinary algorithmic deamplification: `howardkira2026`.
+- Responsive self-censorship under anticipated social/professional sanctions: `weeks2024`.
+- Social influence and reproduction of self-censorship: `yuenlee2025`.
 - Preference falsification as response to perceived social pressure: `kuran1995`.
-- Classification and embedded infrastructure: `bowkerstar1999`, `star1999`.
-- Disciplinary and non-overt power: `foucault1977`, `lukes2005`.
-- Opaque ranking and technical mediation: `pasquale2015`.
 - Five-family taxonomy and stronger discrimination claim remain framework proposals.
 
 ---
@@ -232,6 +235,8 @@ Not primary operational families; classify by operative effect.
 - Power: `lukes2005`, `foucault1977`.
 - Legibility and classification: `scott1998`, `bowkerstar1999`, `star1999`.
 - Platform opacity: `pasquale2015`.
+- Visibility reduction as content moderation: `gillespie2022`.
+- Demotion versus ordinary algorithmic curation: `howardkira2026`.
 - Position-dependent visibility and sedimentation are analytic extensions; background sources must not be made to state the censorship-specific formulation.
 
 ---
@@ -280,6 +285,7 @@ Not primary operational families; classify by operative effect.
 - Classification and infrastructure: `bowkerstar1999`, `star1999`.
 - Legibility and standardisation: `scott1998`.
 - Opaque technical mediation: `pasquale2015`.
+- Responsive self-censorship under anticipated sanctions and social influence: `weeks2024`, `yuenlee2025`.
 - Discontinuous disciplinary power and non-overt power: `foucault1977`, `lukes2005`.
 - Shortcut, sedimentation, declining enforcement burden remain censorship-specific analytic claims; use possibility language absent stronger empirical evidence.
 
@@ -327,11 +333,11 @@ No predetermined verdicts.
 
 ## Support
 
-- Structural/constitutive censorship and demarcation problem: `muller2004`, `bunn2015`.
+- Structural/constitutive censorship and demarcation problem: `muller2004`, `freshwater2004`, `bunn2015`.
 - Selection/censorship as contested library boundary: `asheim1953`, `kidd2009`.
 - Friction, flooding/distraction, incomplete censorship: `roberts2018`.
-- Preference falsification: `kuran1995`.
-- Non-overt power, discipline, infrastructure, classification, opaque mediation: `lukes2005`, `foucault1977`, `bowkerstar1999`, `star1999`, `pasquale2015`.
+- Reduction/demotion without removal: `gillespie2022`; distinction from ordinary algorithmic curation: `howardkira2026`.
+- Responsive self-censorship: `weeks2024`, `yuenlee2025`; preference falsification: `kuran1995`.
 - Stress tests hypothetical unless case-specific evidence supplied.
 
 ---
