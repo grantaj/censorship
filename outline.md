@@ -5,8 +5,8 @@
 - Object: censorship; not a general theory of morality, social control, political legitimacy, cybernetics, deliberative democracy, propaganda, persuasion, or social shortcuts.
 - Inquiry developed through sustained art practice concerned with censorship; essay formalises the recurring structural questions as a conceptual framework.
 - Structural, descriptive-first analysis; moral, legal, professional, and political evaluation follows classification rather than determining it.
-- Censorship not limited to states, laws, explicit bans, single-censor intention, or successful interventions.
-- Epistemic ordering is unavoidable; the existence of an ordering or settlement does not itself establish censorship.
+- Framework does not restrict censorship to states, laws, explicit bans, single-censor intention, or successful interventions.
+- By definition, any epistemic environment exhibits some ordering; the existence of an ordering or settlement does not itself establish censorship.
 - Selection neither establishes nor excludes censorship.
 - Taxonomy is analytic and revisable; operational families, subtypes, strategies, responses, and contextual dimensions remain distinct.
 - Examples are analytic stress tests, not political case studies or historical survey.
@@ -17,7 +17,7 @@
 ## Core terminology
 
 - **Epistemic environment**: practical conditions governing whether and how claims, representations, records, and speakers enter, circulate, persist, and matter within a field of attention or judgment.
-- **Epistemic ordering**: relative standing of claims, topics, representations, or speakers by credibility, legitimacy, admissibility, visibility, salience, or entitlement to consideration; ordinarily emergent from interacting discourse, institutions, norms, incentives, histories, and practices rather than selected by a single agent.
+- **Epistemic ordering**: relative standing of claims, topics, representations, or speakers by credibility, legitimacy, admissibility, visibility, salience, or entitlement to consideration; in complex social settings the framework models this ordering as emergent from interacting discourse, institutions, norms, incentives, histories, and practices rather than presuming selection by a single agent.
 - **Epistemic settlement**: relatively stabilised epistemic ordering; may be contested, inherited, or explicitly prescribed and does not imply consensus, legitimacy, or conscious design.
 - **Control surface**: practical condition through which an epistemic environment can be changed; includes availability, access, circulation, timing, visibility, ranking, legibility, standing, and memory.
 - **Epistemic contest**: attempts to change belief or judgment principally through claims, reasons, evidence, interpretation, criticism, rebuttal, or comparison within an existing field of participation.
@@ -52,9 +52,9 @@
 - Structural accounts expose control embedded in communication and social organisation but create a demarcation problem if censorship becomes coextensive with the conditions of communication or social control.
 - Library selection debate supplies the same problem in practical form: scarcity requires selection; selection alone does not settle ordinary selection versus censorship.
 - Digital censorship shows access costs, diversion, burial, and flooding without literal unavailability.
-- Existing discussion often mixes actor, operation, medium/context, and justification/evaluation.
-- Actor labels such as state, platform, corporate, library, and self-censorship do not supply a common mechanism vocabulary.
-- Moralised usage can relabel structurally similar interventions as censorship or moderation/curation/professionalism/safety/quality control/governance according to approval.
+- Analytic design requirement: keep actor, operation, medium/context, and justification/evaluation separate.
+- Actor labels such as state, platform, corporate, library, and self-censorship identify locus or performer, not operational mechanism; do not use them as mechanism categories.
+- Framework does not let evaluative labels settle classification: structurally similar interventions require the same analysis whether described as censorship or as moderation, curation, professionalism, safety, quality control, or governance.
 
 ## Contribution
 
@@ -89,7 +89,7 @@
 - Core relation: selective and differential alteration of participation conditions; effect on an epistemic ordering; operation through one or more control surfaces.
 - Core relation identifies censorial structure but does not force a binary verdict across all selection and gatekeeping cases; boundary factors determine censorial character in context.
 - Epistemic ordering names a state of the epistemic environment, not an actor's desired state.
-- Ordering is ordinarily emergent; explicit doctrinal, institutional, or state projects are special cases rather than the model for all censorship.
+- Default analytic model for complex social settings: emergent ordering without a single selecting agent; explicit doctrinal, institutional, or state projects remain possible special cases.
 - An ordering may concern standing, visibility, credibility, admissibility, or practical salience rather than replacement belief.
 - Existence, persistence, or cultural reproduction of an ordering alone does not establish censorship; a censorial relation requires selective epistemic control.
 - No single intentional censor required; control may be institutionalised, automated, customary, distributed, or reproduced through learned expectations and participant response.
@@ -101,7 +101,7 @@
 - **Control**: changes to practical participation conditions.
 - Both contest and non-censorial social processes can contribute to emergent epistemic ordering.
 - Real interventions may combine contest and control.
-- Scarcity, finite attention, institutional remit, and professional judgment make selection unavoidable; selection alone neither establishes nor excludes censorship.
+- Where scarcity, finite attention, institutional remit, or professional judgment constrain inclusion, some selection is unavoidable; selection alone neither establishes nor excludes censorship.
 - Editorial judgment, library acquisition, peer review, moderation, ranking, curation, and institutional recognition remain boundary cases; role name is non-decisive.
 
 ## 2.2 Boundary factors
@@ -249,7 +249,7 @@ Not primary operational families; classify by operative effect.
 
 ## 5.1 Persistence through infrastructure
 
-- Epistemic orderings can arise through discourse and other social processes without censorship.
+- Framework allows epistemic orderings to arise through discourse and other non-censorial processes; ordering alone therefore cannot establish censorship.
 - Censorial operations can nevertheless shift or stabilise an ordering through participation conditions.
 - Indirect censorship may matter despite technical availability.
 - Friction: small time/effort/expertise/money costs can alter consumption.
@@ -257,8 +257,8 @@ Not primary operational families; classify by operative effect.
 - Embedding surfaces: ranking, recommendation, classification, professional routines, archive practices, access rules.
 - Embedded censorial patterns may reproduce without repeated explicit decisions by a visible censor, turning episodic control into a standing shortcut.
 - Responsive self-censorship may reproduce a standing condition through participant responses to learned consequences, norms, incentives, or opaque boundaries.
-- Formal speech protections constrain important forms without logically exhausting censorial epistemic control.
-- Infrastructural selection not automatically censorial and not unique to authoritarian systems.
+- Framework scope is broader than formal prohibition/protection; formal speech protection therefore does not by itself settle structural classification.
+- Framework does not make infrastructural selection censorial merely because it is infrastructural and does not tie infrastructural censorship to regime type.
 
 ## 5.2 Sedimentation and enforcement burden
 
@@ -314,7 +314,7 @@ No predetermined verdicts.
 
 - **Library acquisition**: scarcity/remit versus viewpoint exclusion through same channel; inspect controlled resource, systematic disadvantage, alternatives, relation to ordering, inherited settlement.
 - **Editorial rejection**: evidentiary standards/quality control versus systematic exclusion of a position from consequential venue; inspect whether channel control substitutes for continued contest; editor role and explicit intent non-decisive.
-- **Search/recommendation ranking**: necessary ordering of attention; relevance, commercial, safety, and censorial attenuation may share surface form; inspect relation to ordering, mechanism, opacity, channel power, pattern, substitutability, inherited defaults, shortcut function.
+- **Search/recommendation ranking**: ordering of attention is inherent to ranking; relevance, commercial, safety, and censorial attenuation may share surface form; inspect relation to ordering, mechanism, opacity, channel power, pattern, substitutability, inherited defaults, shortcut function.
 - **Moderation**: removal/demotion change participation conditions but do not settle classification; where boundary analysis supports censorship, removal maps to exclusion and demotion to attenuation; censorship/safety labels do not settle justification.
 - **Counter-speech**: rebuttal remains contest; coordinated/scaled counter-speech may become saturation when environmental effects produce practical inaccessibility or sufficiently costly discrimination/resolution.
 - **Responsive self-censorship / preference falsification**: restraint or public/private divergence is not automatically censorial; inspect whether the behaviour responds to participation conditions that otherwise satisfy the boundary factors.
