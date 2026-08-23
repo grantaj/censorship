@@ -17,7 +17,7 @@
 ## Core terminology
 
 - **Epistemic environment**: practical conditions governing whether and how claims, representations, records, and speakers enter, circulate, persist, and matter within a field of attention or judgment.
-- **Epistemic ordering**: relative standing of claims, topics, representations, or speakers by credibility, legitimacy, admissibility, visibility, salience, or entitlement to consideration; in complex social settings the framework models this ordering as emergent from interacting discourse, institutions, norms, incentives, histories, and practices rather than presuming selection by a single agent.
+- **Epistemic ordering**: relative standing of claims, topics, representations, or speakers by credibility, legitimacy, admissibility, visibility, salience, or entitlement to consideration; need not be selected or designed by a single agent.
 - **Epistemic settlement**: relatively stabilised epistemic ordering; may be contested, inherited, or explicitly prescribed and does not imply consensus, legitimacy, or conscious design.
 - **Control surface**: practical condition through which an epistemic environment can be changed; includes availability, access, circulation, timing, visibility, ranking, legibility, standing, and memory.
 - **Epistemic contest**: attempts to change belief or judgment principally through claims, reasons, evidence, interpretation, criticism, rebuttal, or comparison within an existing field of participation.
@@ -53,7 +53,7 @@
 - Library selection debate supplies the same problem in practical form: scarcity requires selection; selection alone does not settle ordinary selection versus censorship.
 - Digital censorship shows access costs, diversion, burial, and flooding without literal unavailability.
 - Analytic design requirement: keep actor, operation, medium/context, and justification/evaluation separate.
-- Actor labels such as state, platform, corporate, library, and self-censorship identify locus or performer, not operational mechanism; do not use them as mechanism categories.
+- Labels such as state censorship, platform censorship, corporate censorship, library censorship, and self-censorship identify locus or proximate performer, not operational mechanism; do not use them as mechanism categories.
 - Framework does not let evaluative labels settle classification: structurally similar interventions require the same analysis whether described as censorship or as moderation, curation, professionalism, safety, quality control, or governance.
 
 ## Contribution
@@ -249,7 +249,7 @@ Not primary operational families; classify by operative effect.
 
 ## 5.1 Persistence through infrastructure
 
-- Framework allows epistemic orderings to arise through discourse and other non-censorial processes; ordering alone therefore cannot establish censorship.
+- Framework permits non-censorial formation of epistemic orderings; ordering alone therefore cannot establish censorship.
 - Censorial operations can nevertheless shift or stabilise an ordering through participation conditions.
 - Indirect censorship may matter despite technical availability.
 - Friction: small time/effort/expertise/money costs can alter consumption.
