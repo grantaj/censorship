@@ -3,7 +3,7 @@
 ## Scope and non-claims
 
 - Object: censorship; not a general theory of morality, social control, political legitimacy, cybernetics, deliberative democracy, propaganda, persuasion, or social shortcuts.
-- Inquiry originates in sustained art practice concerned with censorship; practice motivates the recurring structural problems but is not offered as empirical proof of the framework.
+- Inquiry developed through sustained art practice concerned with censorship; essay formalises the recurring structural questions as a conceptual framework.
 - Structural, descriptive-first analysis; moral, legal, professional, and political evaluation follows classification rather than determining it.
 - Censorship not limited to states, laws, explicit bans, single-censor intention, or successful interventions.
 - Epistemic ordering is unavoidable; the existence of an ordering or settlement does not itself establish censorship.
@@ -22,7 +22,7 @@
 - **Control surface**: practical condition through which an epistemic environment can be changed; includes availability, access, circulation, timing, visibility, ranking, legibility, standing, and memory.
 - **Epistemic contest**: attempts to change belief or judgment principally through claims, reasons, evidence, interpretation, criticism, rebuttal, or comparison within an existing field of participation.
 - **Epistemic control**: intervention in the practical conditions under which participation occurs.
-- **Censorship**: selective epistemic control that shifts or stabilises an epistemic ordering by altering one or more practical conditions of participation.
+- **Censorship**: selective epistemic control that differentially alters participation conditions in ways that shift or stabilise an epistemic ordering; boundary cases require contextual classification rather than actor or institutional labels.
 - **Epistemic shortcut**: censorial control shifts or stabilises an epistemic ordering through changed participation conditions, reducing the extent to which continued epistemic contest is required to reproduce that ordering.
 - **Sedimentation**: persistence of an earlier epistemic settlement in present rules, classifications, rankings, archive practices, routines, or norms; later participants may inherit participation conditions without encountering the original contest.
 - **Censorial character**: deliberately non-binary description for boundary cases combining ordinary selection or contest with control of epistemic conditions; not a formal score.
@@ -58,7 +58,7 @@
 
 ## Contribution
 
-1. Define censorship through selective control of participation conditions and its relation to an epistemic ordering, without requiring a preferring or censoring subject.
+1. Define censorship through selective control of participation conditions and its relation to an epistemic ordering, without requiring a preferring subject or single intentional censor.
 2. Treat contest/control as contextual ideal types, not a categorical partition.
 3. Use the contest/control distinction and boundary factors to preserve structural censorship without equating censorship with selection or social regulation generally.
 4. Identify the shortcut relation: changed participation conditions can shift or stabilise an epistemic ordering without continual success in epistemic contest.
@@ -85,13 +85,14 @@
 
 ## Core definition
 
-- Definition components: selective control of participation conditions; relation to an epistemic ordering; alteration of one or more control surfaces.
-- Epistemic ordering names a state of the epistemic environment, not necessarily an actor's desired state.
+- Core relation: selective and differential alteration of participation conditions; effect on an epistemic ordering; operation through one or more control surfaces.
+- Core relation identifies censorial structure but does not force a binary verdict across all selection and gatekeeping cases; boundary factors determine censorial character in context.
+- Epistemic ordering names a state of the epistemic environment, not an actor's desired state.
 - Ordering is ordinarily emergent; explicit doctrinal, institutional, or state projects are special cases rather than the model for all censorship.
 - An ordering may concern standing, visibility, credibility, admissibility, or practical salience rather than replacement belief.
 - Existence, persistence, or cultural reproduction of an ordering alone does not establish censorship; a censorial relation requires selective epistemic control.
 - No single intentional censor required; control may be institutionalised, automated, customary, distributed, or reproduced through learned expectations.
-- Success not required; attempted intervention may be censorial despite continuing access or failure to produce the resulting ordering sought or favoured by an actor.
+- Success not required; an intervention may have censorial character despite continuing access or failure to materially shift the ordering.
 
 ## 2.1 Contest and control as ideal types
 
@@ -109,7 +110,7 @@ No factor is decisive alone.
 1. **Differential treatment**: practical availability, reachability, persistence, visibility, legibility, or admissibility relative to plausible alternatives.
 2. **Consequential resource/channel control**: publication, acquisition, access, ranking, distribution, venue, classification, credentials, sanctions, or another participation condition rather than merely competing reasons/evidence.
 3. **Mode of disadvantage**: changed participation/encounter conditions versus contest over merits.
-4. **Relation to epistemic ordering**: pattern/function shifts or stabilises relative standing within the epistemic environment; conscious censorial intent or explicit preference not required.
+4. **Relation to epistemic ordering**: pattern/function shifts or stabilises relative standing within the epistemic environment; conscious censorial intent not required.
 5. **Context/substitutability**: scarcity, remit, reach, exclusivity, alternatives, pattern over time, transparency/opacity, concentration of power.
 
 Boundary expectation:
@@ -177,7 +178,7 @@ What is available or represented changes.
 - Expected consequences alter future expression before another external intervention is required.
 - Sources: sanctions, incentives, norms, prior enforcement, opaque rules, learned expectations.
 - Proximate restraint by target; censorial condition externally or socially reproduced.
-- Behaviour-mediated operation retained at family level because the censorial effect is prospective alteration of participation itself.
+- Distinctive realisation: censorial effect occurs prospectively through altered participation by the target.
 - Private reconsideration, uncertainty, politeness, or changing one's mind insufficient.
 - Reproduction through expectation may reduce overt enforcement without establishing acceptance or legitimacy.
 
@@ -289,7 +290,7 @@ Not primary operational families; classify by operative effect.
 
 ## 6.1 Classification sequence
 
-1. Characterise relevant epistemic ordering without assuming a preferring subject; distinguish emergent settlement from any actor's explicit aims where possible.
+1. Characterise relevant epistemic ordering without assuming a selecting subject; distinguish emergent settlement from any actor's explicit aims where possible.
 2. Identify consequential control surface, channel, or resource.
 3. Distinguish contest over merits from changed participation conditions; allow combinations.
 4. Ask how the intervention shifts or stabilises the ordering; do not infer censorship from the ordering alone.
@@ -336,8 +337,8 @@ No predetermined verdicts.
 ## Required synthesis
 
 - Mechanism-first censorship account through emergent epistemic ordering and practical control surfaces; actor, institution, technology, political alignment, and moral verdict remain non-definitional.
-- Epistemic ordering is a background property of complex epistemic environments, not evidence of censorship and not necessarily the preference of any agent.
-- Demarcation: structural censorship remains distinguishable from ordinary selection, cultural ordering, and contest by examining selective control of participation conditions and its relation to the ordering.
+- Epistemic ordering is a background property of complex epistemic environments, not evidence of censorship and not necessarily selected by any agent.
+- Demarcation: structural censorship remains distinguishable from ordinary selection, cultural ordering, and contest by examining differential control of participation conditions and its relation to the ordering.
 - Contest/control boundary and epistemic shortcut: participation conditions can shift or stabilise an ordering while disagreement continues.
 - Persistence: shortcut may sediment into inherited rules, classifications, rankings, routines, archives, norms, infrastructure, and learned expectations; overt enforcement may decline without implying consent, legitimacy, truth, or neutrality.
 - Position-dependent visibility does not make classification subjective; saturation may suppress practical discrimination/resolution without installing a counter-belief.
