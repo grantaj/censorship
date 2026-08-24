@@ -16,9 +16,14 @@
 - **Epistemic contest**: attempts to change belief or judgment principally through claims, reasons, evidence, interpretation, criticism, rebuttal, or comparison within an existing field of participation.
 - **Epistemic control**: intervention in practical participation conditions.
 - **Censorship**: selective epistemic control that differentially alters participation conditions in ways that shift or stabilise an epistemic ordering.
-- **Epistemic shortcut**: censorial control shifts or stabilises an ordering through changed participation conditions, reducing the extent to which continued epistemic contest is required to reproduce it.
+- **Epistemic shortcut**: censorial control substitutes changed participation conditions for some burden of continued epistemic contest in reproducing an ordering.
 - **Sedimentation**: persistence of an earlier epistemic settlement in present rules, classifications, rankings, archive practices, routines, or norms.
-- **Censorial character**: deliberately non-binary description for boundary cases combining ordinary selection or contest with control of epistemic conditions; not a formal score.
+- **Censorial character**: non-binary description of how strongly a case instantiates the relation between selective participation control and an epistemic ordering; not a formal score.
+
+Minimal conceptual spine:
+
+- Ordering identifies what relative standing is at stake; participation conditions/control surfaces identify where intervention occurs; selective differential control is the mechanism; shift/stabilisation is its relation to the ordering.
+- Contest is the contrast class. Settlement, shortcut, sedimentation, and revisability describe persistence/reproduction rather than defining censorship.
 
 ## Source discipline
 
@@ -40,9 +45,9 @@
 ## Contribution
 
 1. Define censorship through selective control of participation conditions and relation to an epistemic ordering, without requiring a preferring subject or single intentional censor.
-2. Use contest/control ideal types and contextual boundary factors to demarcate structural censorship without equating it with selection or social regulation generally.
+2. Demarcate structural censorship by retaining selective participation control from paradigm cases while relaxing actor, intent, medium, and overt-prohibition requirements.
 3. Identify the shortcut relation and develop sedimentation and reduced-enforcement consequences.
-4. Provide a compact mechanism-level taxonomy distinct from actors, strategies, responses, and descriptive dimensions.
+4. Provide four primary operation families plus a distinct responsive self-censorship pathway.
 5. Preserve difficult selection and gatekeeping cases as tests rather than defining them away.
 
 ---
@@ -53,8 +58,9 @@
 
 - Default complex-social model: epistemic ordering is emergent; explicit doctrinal, institutional, or state projects are possible special cases.
 - Ordering may concern standing, visibility, credibility, admissibility, or salience rather than replacement belief.
-- Ordering, persistence, or cultural reproduction alone does not establish censorship; censorial character requires selective epistemic control.
-- Framework does not require state action, law, explicit prohibition, a single intentional censor, or successful suppression.
+- Ordering is intentionally broad background structure, not the demarcating criterion.
+- Paradigm cases share selective alteration of whether/how claims, representations, or speakers can participate despite varying actor, law, intent, medium, and success; that common structure supplies the demarcating invariant.
+- Ordering, selection, regulation, or cultural reproduction alone is insufficient unless selective participation control is materially implicated in shifting or stabilising relative standing.
 - Control may be institutionalised, automated, customary, distributed, or reproduced through learned expectations and participant response.
 
 ## 2.2 Contest and control
@@ -69,6 +75,10 @@ Support: structural/constitutive boundary `muller2004`, `freshwater2004`, `bunn2
 
 ## 2.3 Boundary factors
 
+- Factors operationalise the core relation rather than adding five independent criteria.
+- Differential treatment/mode test selective participation control; consequential channel control/context test materiality; relation to ordering tests whether that control is doing explanatory work rather than merely co-occurring with selection or regulation.
+- This preserves the participation-conditioning structure of paradigm censorship while allowing neighbouring practices that shape ordering by other routes to remain non-censorial.
+
 No factor decisive alone.
 
 1. **Differential treatment**: availability, reachability, persistence, visibility, legibility, or admissibility relative to plausible alternatives.
@@ -76,6 +86,9 @@ No factor decisive alone.
 3. **Mode of disadvantage**: changed participation/encounter conditions versus contest over merits.
 4. **Relation to ordering**: pattern/function shifts or stabilises relative standing; conscious censorial intent not required.
 5. **Context/substitutability**: scarcity, remit, reach, exclusivity, alternatives, pattern over time, transparency/opacity, concentration of power.
+
+- Censorial character grades strength/clarity of this structural relation, not moral severity or a count of factors; factors have no fixed weighting.
+- Disagreement may remain where facts or causal interpretation are uncertain, but should be traceable to those uncertainties.
 
 Expectations:
 
@@ -87,15 +100,18 @@ Expectations:
 
 - Contest leaves an ordering exposed to continued challenge through reasons, evidence, rebuttal, interpretation, and competing claims.
 - Censorial control may shift or stabilise an ordering without repeatedly prevailing through contest.
+- Shortcut is not mere institutional durability or absence of relitigation: reproduction must depend partly on selectively controlled participation conditions.
+- Counterfactual: relaxing that control while leaving substantive reasons/evidence unchanged would make reproduction more dependent on contest or more exposed to challenge.
 - Shortcut concerns relation between control and reproduction, not agent intention; may be partial, resisted, unsuccessful, or coexist with argument.
 - Descriptive only: no implication of truth, falsity, legitimacy, illegitimacy, efficiency, or conscious design.
 
 ---
 
-# 3. Operational Families
+# 3. Operational Families and Responsive Pathway
 
-- Classify by participation effect, not actor, intention, scale, justification, political alignment, or moral evaluation.
-- Proximate performer may be institutional, technical, distributed, or the participant; operations may overlap or compose.
+- Four primary families organise immediate participation effects: can the target participate (exclusion), how readily/effectively is it encountered (attenuation), what representation participates (transformation), or what surrounding field must it compete within (saturation).
+- They describe operations rather than actors, intentions, strategies, responses, or evaluations; overlap/composition and empirical revision remain possible.
+- Proximate performer may be institutional, technical, distributed, or the participant.
 
 ## 3.1 Exclusion
 
@@ -121,16 +137,18 @@ Support: `roberts2018`, `gillespie2022`, `howardkira2026`.
 ## 3.4 Saturation / flooding
 
 - Information environment makes target harder to find, attend to, distinguish, verify, or use without removal; mechanisms include noise, repetition, diversion, coordinated competing material, volume.
+- Separate from attenuation because the target may be untouched; the operative change is occupation/degradation of the surrounding field.
 - Possible stronger effect: degraded epistemic discrimination/resolution sufficient to induce disengagement, deference, or futility.
-- Need not install counter-belief. Ordinary contradiction remains contest; scaled/coordinated environmental occupation may become saturation or attenuation.
+- Need not install counter-belief. Ordinary contradiction remains contest; scaled/coordinated environmental occupation may become saturation or compose with attenuation.
 
 Support: `roberts2018`.
 
-## 3.5 Responsive self-censorship
+## 3.5 Responsive self-censorship: response/reproduction pathway
 
-- Participant alters, withholds, or constrains expression in response to anticipated consequences encoded in prevailing participation conditions.
+- Not a fifth primary family: environmental conditions recruit the participant as proximate performer.
+- Participant alters, withholds, or constrains expression in response to anticipated consequences; the act usually instantiates exclusion, attenuation, or transformation on the participant's own expression.
 - Sources may include sanctions, incentives, norms, prior enforcement, opaque rules, learned expectations, or other environmental cues; no conscious inducing agent required.
-- Censorial effect occurs prospectively through participant response; censorial condition may be environmental, socially reproduced, and emergent.
+- Layer distinction: environmental conditions elicit the response; the participant then performs the primary operation.
 - Preference falsification is related but not identical; neither preference falsification nor ordinary private restraint is automatically censorial.
 
 Support: `weeks2024`, `yuenlee2025`, `kuran1995`.
@@ -139,12 +157,12 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`.
 
 Not primary families; classify by operative effect.
 
-- **Delegitimation**: status/credibility attack; contest on merits unless producing exclusion, attenuation, or responsive self-censorship.
+- **Delegitimation**: status/credibility attack; contest on merits unless producing a primary operation or censorial response pathway.
 - **Inversion**: reframing as harm, threat, pathology, disloyalty, extremism, etc.; relevant through effects on admissibility, standing, reach, access, or anticipated consequences.
 - **Contradiction**: ordinary rebuttal is contest; scaled/coordinated environmental suppression classifies by effect.
 - **Selection/curation**: editing, acquisition, moderation, ranking, curation may instantiate a family or no censorial operation.
 
-Taxonomy: five analytic, revisable families; recurring poor fits warrant revision.
+Taxonomy: four revisable primary families plus responsive self-censorship as a cross-cutting response/reproduction pathway.
 
 ---
 
@@ -164,11 +182,12 @@ Dimensions describe context; they are not operational families and need not be i
 
 # 5. Persistence, Sedimentation, and Infrastructure
 
-- Censorial control can embed in ranking, recommendation, classification, professional routines, archives, access rules, and other infrastructure; embedded patterns may reproduce without repeated visible decisions. Support: `bowkerstar1999`, `star1999`, `scott1998`, `pasquale2015`.
-- Earlier contest/control may sediment into rules, classifications, rankings, conventions, archives, or norms after originating actors and arguments recede.
+- Possible progression: selective control creates a shortcut; repeated/embedded participation controls sediment into infrastructure/routines; sedimented conditions reproduce the ordering with less repeated overt intervention.
+- Censorial control can embed in ranking, recommendation, classification, professional routines, archives, access rules, and other infrastructure. Support: `bowkerstar1999`, `star1999`, `scott1998`, `pasquale2015`.
+- Sedimentation names persistence of earlier control/settlement after originating actors and arguments recede; it is not an independent censorial operation.
 - Later participants may inherit both an epistemic ordering and participation conditions that reproduce it.
-- Responsive self-censorship is a coupled reproduction path: environmental conditions elicit participant responses that can help reproduce those conditions and the ordering. Support: `weeks2024`, `yuenlee2025`.
-- **Revisability**: practical capacity to reopen an inherited settlement to contest.
+- Responsive self-censorship is a coupled reproduction path: inherited/current conditions elicit participant operations on their own expression that can further reproduce conditions and ordering. Support: `weeks2024`, `yuenlee2025`.
+- **Revisability**: practical capacity to reopen an inherited settlement to contest; low revisability can indicate infrastructural persistence but does not establish censorship.
 - Routines, defaults, expectations, and anticipatory behaviour may reduce overt enforcement burden; reduced enforcement does not establish consent, legitimacy, truth, neutrality, or voluntary acceptance.
 - Ordering, inheritance, rule, classification, convention, selection, infrastructure, or sedimentation alone does not establish censorship; boundary factors still apply.
 - Formal speech protections and regime type do not by themselves settle structural classification.
@@ -189,18 +208,25 @@ Dimensions describe context; they are not operational families and need not be i
 7. Test shortcut, persistence, inherited settlement, revisability, positional visibility, and reproduction mechanism where relevant; do not infer consent from low overt enforcement.
 8. Move only then to normative, legal, professional, political, or practical evaluation.
 
-## 6.2 Stress tests
+## 6.2 Worked stress test: library acquisition
 
-No predetermined verdicts.
+Same surface act can classify differently; support for selection boundary: `asheim1953`, `kidd2009`.
 
-- **Library acquisition**: scarcity/remit versus viewpoint exclusion. Support: `asheim1953`, `kidd2009`.
+- **Ordinary-selection variant**: finite-budget library declines an in-remit controversial title under criteria applied across viewpoints; comparable access exists elsewhere. Differential treatment exists, but consequential channel control and ordering relation are weak: weak or no censorial character.
+- **Censorial variant**: effectively exclusive relevant collection repeatedly excludes one position despite comparable fit under stated acquisition criteria and absent substitutes. Same act now constitutes consequential exclusion tied to relative standing: stronger censorial character without requiring censorial intent.
+- **Hard middle**: professional quality criteria partly track an inherited settlement. Classification turns on whether they principally evaluate merits or function as participation control making a position systematically inadmissible.
+- Name unresolved facts: application pattern, substitutability, channel exclusivity, relation of criterion to standing/viewpoint, appeal/revisability.
+- Payoff: classify the structural relation, not “library selection” as a category.
+
+## 6.3 Additional stress tests
+
 - **Editorial rejection**: quality/evidentiary judgment versus consequential channel exclusion.
 - **Search/recommendation ranking**: necessary ordering of attention versus censorial attenuation. Support: `gillespie2022`, `howardkira2026`, `pasquale2015`.
-- **Moderation**: removal/demotion versus ordinary governance; where censorial, removal maps to exclusion and demotion to attenuation. Support: `gillespie2022`, `howardkira2026`.
+- **Moderation**: removal/demotion versus ordinary governance. Support: `gillespie2022`, `howardkira2026`.
 - **Counter-speech**: contest versus saturation.
 - **Responsive self-censorship / preference falsification**: ordinary restraint/public-private divergence versus response to censorial participation conditions. Support: `weeks2024`, `yuenlee2025`, `kuran1995`.
 
-## 6.3 Limits
+## 6.4 Limits
 
 - No quantitative censoriality score; boundary cases may lack a unique correct classification.
 - Framework does not determine lawfulness, ethics, proportionality, necessity, democracy, professional appropriateness, or effectiveness.
@@ -214,4 +240,4 @@ No predetermined verdicts.
 
 - Identify censorship structurally through differential control of participation conditions, not actor identity or evaluative label.
 - Shortcut and sedimentation explain how an ordering may be stabilised and reproduced without continual success in contest or continual overt enforcement.
-- Taxonomy and boundary analysis classify mechanisms without replacing normative evaluation.
+- Primary-operation taxonomy, responsive pathway, and boundary analysis classify mechanisms without replacing normative evaluation.
