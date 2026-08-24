@@ -13,17 +13,17 @@
 
 ## Core conceptual spine
 
-- **Ordering**: relative standing within a communicative field of claims, topics, representations, speakers, or forms of self-presentation by credibility, legitimacy, admissibility, visibility, salience, recognition, or authority.
-- **Contest**: attempts to establish, defend, or change such standing through expression, representation, claims, reasons, evidence, interpretation, criticism, rebuttal, comparison, or challenges to standing and admissibility. Contest is not limited to propositional argument: an artwork or form of self-presentation can participate by being shown, encountered, represented, interpreted, recognised, accepted, or rejected.
+- **Ordering**: relative standing within a field of claims, topics, representations, speakers, or forms of self-presentation by credibility, legitimacy, admissibility, visibility, salience, recognition, or authority.
+- **Contest**: the process through which such standing can be established, defended, or changed through expression, representation, claims, reasons, evidence, interpretation, criticism, rebuttal, comparison, or challenges to standing and admissibility. Contest is not limited to propositional argument: an artwork or form of self-presentation can enter it by being shown, encountered, represented, interpreted, or recognised without asserting a proposition or intending to argue.
 - **Contestability**: practical opportunity for a contribution or participant to enter, remain in, be encountered, be represented, and receive consideration within that field.
-- **Censorship**: selective control of contestability that shortcuts contest by differentially altering contestability. Selectivity describes a consequential differential in relation to the relevant ordering and realistic alternatives; unequal effects alone are insufficient and no selecting subject is required. Censorship does not require censorial intent, action rather than omission, a single censor, or successful suppression.
+- **Censorship**: selective control of contestability that shortcuts contest. Selectivity describes a consequential differential in relation to the relevant ordering and realistic alternatives; unequal effects alone are insufficient and no selecting subject is required. Censorship does not require censorial intent, action rather than omission, a single censor, or successful suppression.
 - **Censorial character**: strength and significance of the selective alteration of contestability in mixed or boundary cases; not a moral judgment or quantitative score.
 - **Sedimentation**: persistence or embedding of a censorial shortcut in rules, classifications, rankings, routines, infrastructure, expectations, or norms so that altered contestability can outlast particular interventions, actors, or reasons.
 
 Scope and unit of analysis:
 
-- Contest here concerns expression, representation, and communicative participation. Material or social inequality outside such a participation relation is not brought into scope merely because it affects power or status.
-- Classification attaches to a specified relation, not to an act, actor, or institution wholesale. Fix before classification: the target contribution or participant; the field or channel in which participation matters; the ordering at stake; and a realistic comparator or baseline. These should follow from the concrete mechanism and practical context, not be redrawn after the fact to obtain a preferred classification.
+- Contest here concerns conditions under which expression, representation, or communicative participation can enter and remain in a field. A material or social inequality is not censorship merely because it indirectly affects someone's power or capacity to communicate; the mechanism under analysis must bear on participation conditions in the specified field.
+- Classification attaches to a specified relation, not to an act, actor, or institution wholesale. Fix before classification: the target contribution or participant; the field or channel in which the target participates or ordinarily could participate and through which the mechanism has practical leverage; the ordering at stake; and a realistic comparator or baseline. These should follow from the concrete mechanism and practical context, not be redrawn after the fact to obtain a preferred classification.
 - One event can instantiate multiple relations. A moderation decision, for example, can constrain the removed contribution while preserving or increasing another participant's opportunity to take part. Analyse those relations separately rather than forcing one global label to cancel the other.
 
 Conceptual hierarchy:
@@ -304,7 +304,7 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`, `beagan2022`,
 
 ## Classification sequence
 
-1. Fix the unit of analysis: target contribution or participant; field or channel in which participation matters; ordering at stake; and realistic comparator or baseline. Identify these from the concrete mechanism and practical context before classification, including representation, legitimacy, standing, or admissibility where relevant.
+1. Fix the unit of analysis: target contribution or participant; field or channel in which the target participates or ordinarily could participate and through which the mechanism has practical leverage; ordering at stake; and realistic comparator or baseline. Identify these from the concrete mechanism and practical context before classification, including representation, legitimacy, standing, or admissibility where relevant.
 2. Identify any change in contestability: presence, reach, representation, or surrounding field.
 3. Ask whether that change is part of engaging/organising the contest or selectively shortcuts it. Where one event changes different participants' contestability in different ways, analyse those relations separately.
 4. Test selectivity and leverage, including realistic substitutes, position-dependent burdens, and where useful counterfactual symmetry across differently positioned contributions.
