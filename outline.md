@@ -7,6 +7,7 @@
 - Structural, descriptive-first analysis: classify censorial structure before asking whether it is lawful, justified, beneficial, harmful, proportionate, or professionally appropriate.
 - Examples are analytic stress tests selected for boundary discrimination, not political case studies or historical survey.
 - Normative bracketing: classification of a mechanism as censorial neither condemns the intervention nor endorses the affected claim, speaker, representation, or cause; classification as non-censorial does neither the converse. Sensitive cases are useful because difficult boundaries between contest, protection, gatekeeping, closure, and suppression are unusually visible there.
+- Jumping-off point: Lukianoff and Schlott describe cancel culture across left and right as a way of using rhetorical tactics to win without actually winning the argument; this essay tests how far that structural intuition generalises to censorship more broadly. Support: `lukianoffschlott2023`, especially p. 9.
 - Conceptual invariant: at its simplest, censorship is a way of **winning an argument without fully having the argument**: obtaining or preserving a preferred, often incumbent, ordering by altering the conditions of contest rather than prevailing through the contest itself.
 - Theory discipline: theoretical development should simplify this idea by exposing its consequences and boundary conditions. New concepts earn their place only if they clarify, test, or compress the shortcut account; avoid self-propelled theoretical accretion.
 
@@ -42,6 +43,7 @@ Conceptual hierarchy:
 ## Argument
 
 - Explicit prohibition is non-exhaustive; scholarship includes structural, self-censoring, frictional, and flooding forms. Support: `muller2004`, `freshwater2004`, `bunn2015`, `roberts2018`.
+- Broader structural and constitutive theories already extend censorship beyond overt state prohibition. The proposed contribution is therefore not that breadth itself is new, but that shortcutting contest may provide a discriminator within that broader field. Support: `jansen1988`, `freshwater2004`, `bunn2015`.
 - Structural accounts face a demarcation problem if censorship becomes coextensive with communication, selection, or social control. Support: `muller2004`, `freshwater2004`, `bunn2015`.
 - Library selection and other gatekeeping show why actor, institution, intention, and exclusion alone cannot settle the classification. Support: `asheim1953`, `kidd2009`, `garry2015`, `mooretudor2024`.
 - Access costs, diversion, burial, flooding, and visibility reduction show why control of contestability can matter without literal unavailability. Support: `roberts2018`, `gillespie2022`, `kingpanroberts2017`.
@@ -72,7 +74,8 @@ Support: structural/constitutive boundary `muller2004`, `freshwater2004`, `bunn2
 
 ## 2.2 The shortcut
 
-- **Simple expression**: censorship is a way of **winning an argument without fully having the argument**.
+- **Simple expression**, adapted from Lukianoff and Schlott's account of cancel culture: censorship is a way of **winning an argument without fully having the argument**. Support: `lukianoffschlott2023`, especially p. 9.
+- Strong antecedent: Mill distinguishes treating an opinion as true because it has survived every opportunity for contest from treating it as true by preventing its refutation. This supplies the contest/refutation logic without the present operational framework. Support: `mill1859`, ch. II.
 - "Winning" means obtaining or preserving the practical ordering that would otherwise remain exposed to challenge, not necessarily persuading anyone; the preferred state is often an incumbent or apparently settled one.
 - The shortcut changes the conditions of contest so that a challenge is prevented, burdened, reshaped, or overwhelmed rather than defeated entirely within the contest. This matters especially where there is inertia or unwillingness to reopen a settlement perceived as resolved.
 - Purpose or justification does not define the shortcut: the same structural relation can arise in suppression, protection, coordination, professional practice, optimisation, inherited convention, or other settings.
