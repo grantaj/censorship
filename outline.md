@@ -265,13 +265,13 @@ Support: `zheng2024`.
 
 Support: `gillespie2022`, `howardkira2026`, `pasquale2015`, `rieder2018`, `kacperski2024`.
 
-## 6.5 Moderation — censorial constraint and simultaneous enablement
+## 6.5 Moderation — constraint and enablement without automatic censorship
 
 - **Unit**: the removed community or material's participation on Reddit; effects on other participants are separate relations in the same field.
-- **Near-negative control**: moderation for spam, format, rate limits, or other participation criteria independent of position can organise a channel without selecting among substantive positions.
-- Reddit's 2015 bans of `r/fatpeoplehate` and `r/CoonTown` provide a reported exclusion case with measurable downstream effects. Analysing more than 100 million posts and comments, Chandrasekharan et al. found that users who remained on Reddit reduced hate-speech usage by at least 80%, while receiving subreddits showed no significant increase in hate speech. Support: `chandrasekharan2017`.
-- **Regression verdict: positive censorial relation toward the removed material, alongside an enabling relation for other participants.** The bans make continued participation depend on the targeted content/community category and secure the platform's admissibility ordering through exclusion rather than contest with the removed material. The same intervention can improve others' participation conditions; that consequence neither cancels the censorial relation nor makes it normatively wrongful.
-- The empirical study supports the exclusion and downstream behavioural effects. The framework supplies the structural classification and remains neutral on whether the moderation was justified.
+- Reddit's 2015 bans of `r/fatpeoplehate` and `r/CoonTown` were imposed under its anti-harassment policy. Analysing more than 100 million posts and comments, Chandrasekharan et al. found that users who remained on Reddit reduced hate-speech usage by at least 80%, while receiving subreddits showed no significant increase in hate speech. Support: `chandrasekharan2017`.
+- The exclusions plainly reduce the banned communities' contestability, while the reported downstream behavioral effects concern other relations in the field; neither fact by itself settles the censorship classification.
+- **Regression verdict: indeterminate as censorship on the cited evidence.** An anti-harassment rule can be a position-independent participation condition, and the study does not establish that the operative criterion made treatment depend on the communities' substantive position rather than prohibited behavior. Treating the ban itself as proof of selectivity would collapse ordinary moderation back into censorship.
+- A content- or position-selective moderation rule could still instantiate censorial exclusion even where it protects or improves other participants' conditions. Those enabling effects would remain normatively and practically important without cancelling the censorial relation toward removed material.
 
 Support: `gillespie2022`, `howardkira2026`, `chandrasekharan2017`.
 
