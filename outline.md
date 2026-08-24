@@ -39,7 +39,7 @@ Conceptual hierarchy:
 - Incumbent or settled orderings are an important case because inertia or unwillingness to reopen a matter can make altered contestability a way of preserving the settlement without exposing it to renewed challenge.
 - Altered contestability is the mechanism of censorship; shortcutting contest is the defining relation; selectivity distinguishes an ordering-linked participation mechanism from incidental impairment.
 - Intent, organisation, and action/non-action are independent descriptive dimensions: a shortcut may be deliberate or unintended; produced through individual, institutional, distributed, or emergent processes; and realised through action or selective non-action.
-- Changes in ordering, reduced need for repeated contest, self-censoring responses, sedimentation, and declining overt enforcement are possible consequences or reproduction paths, not additional defining criteria.
+- Changes in ordering, reduced need for repeated contest, anticipatory restraint, sedimentation, and declining overt enforcement are possible consequences or reproduction paths, not additional defining criteria.
 
 ## Source discipline
 
@@ -131,7 +131,7 @@ Implications:
 
 - Classification as censorship is relational and comes first. The operational account asks a different question: what happens to the target's contestability, and through what pathway?
 - Three target effects earn parallel status: **exclusion** changes presence; **attenuation** changes effective reach; **transformation** changes representation. They are not claimed to be exhaustive or mutually exclusive and may overlap or compose.
-- Some shortcuts act indirectly without changing the target itself. **Saturation** is retained as a field pathway because it alters the surrounding informational environment and typically realizes its effect through attenuation. **Responsive self-censorship** is a response pathway in which the participant becomes the proximate performer of one or more target effects.
+- Some shortcuts act indirectly without changing the target itself. **Saturation** is retained as a field pathway because it alters the surrounding informational environment and typically realizes its effect through attenuation. **Anticipatory restraint** is a response pathway in which ambient participation conditions lead the participant to become the proximate performer of one or more target effects.
 - No effect or pathway is self-classifying. Exclusion, ranking, editing, transformation, information production, and participant restraint can occur within ordinary contest or administration; censorial character depends on the shortcut and selectivity relations established first.
 
 ## 3.1 Exclusion — presence
@@ -174,13 +174,12 @@ Target may remain untouched while the surrounding informational field is altered
 
 Support: `roberts2018`, `kingpanroberts2017`.
 
-## 3.5 Responsive self-censorship — response pathway
+## 3.5 Anticipatory restraint — response pathway
 
-- Prevailing participation conditions induce the participant to become the proximate performer.
-- Withholding expression instantiates exclusion; constraining reach instantiates attenuation; altering expression instantiates transformation.
-- Anticipating rebuttal or disagreement is part of contest and is not enough. The censorial question concerns anticipated participation consequences such as sanction, exclusion, loss of standing, access, or other changed conditions of contestability.
-- Sources may include prior enforcement, incentives, norms, opaque rules, learned expectations, or distributed social cues; no conscious inducing agent required.
-- Preference falsification and ordinary private restraint are related but not automatically censorial.
+- The explanatory object is the ambient participation condition, not self-restraint by itself.
+- Where participation becomes selectively costly in relation to the relevant ordering, a participant may respond consciously or habitually by withholding, constraining reach, or altering a contribution; these instantiate exclusion, attenuation, or transformation.
+- Anticipating rebuttal or disagreement is part of contest and is not enough. The censorial question is whether the surrounding participation conditions themselves satisfy the shortcut and selectivity relations.
+- Those conditions may be legal, institutional, social, distributed, inherited, or emergent; no conscious inducing agent is required. "Self-censorship" names a possible response, not an independent criterion of censorship.
 
 Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`.
 
@@ -191,7 +190,7 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`.
 - A shortcut can become embedded in ranking, recommendation, classification, professional routines, archives, access rules, defaults, conventions, or social norms. Support: `bowkerstar1999`, `star1999`, `scott1998`, `pasquale2015`.
 - Once embedded, altered contestability may persist after the originating dispute, decision, actor, or justification has receded.
 - Existing settlements can then become conditions of future participation: what previously required active exclusion may be reproduced by routine procedure, omission, expectation, or self-adjustment.
-- Responsive self-censorship is one reproduction path: participants anticipate the inherited conditions and perform exclusion, attenuation, or transformation on their own contributions. Support: `weeks2024`, `yuenlee2025`, `wangmayer2023`.
+- Anticipatory restraint is one reproduction path: participants respond to inherited participation conditions by performing exclusion, attenuation, or transformation on their own contributions. Support: `weeks2024`, `yuenlee2025`, `wangmayer2023`.
 - Overt enforcement may decline because the shortcut has become infrastructural or anticipatory; low visible enforcement does not establish consent, legitimacy, neutrality, or absence of censorship.
 - Revisability is diagnostically important: how practically possible is it to reopen the settlement to contest?
 - Sedimentation alone is not censorship. The relevant question remains whether inherited conditions selectively alter contestability as a shortcut.
@@ -230,7 +229,7 @@ Background on non-overt and infrastructural power: `foucault1977`, `lukes2005`, 
 # 6. Developed Boundary Tests
 
 - These cases are a stress-test suite for the demarcation claim, not a catalogue of approved or disapproved causes.
-- Each pairs censorship with a nearby activity sharing some surface operation: selection versus anticipatory exclusion; evidential rejection versus withdrawal under external pressure; editing versus directional transformation; ranking versus selective attenuation; moderation as simultaneous enablement and constraint; rebuttal versus saturation; criticism-induced restraint versus induced self-censorship; random failure versus asymmetric non-remediation.
+- Each pairs censorship with a nearby activity sharing some surface operation: selection versus anticipatory exclusion; evidential rejection versus withdrawal under external pressure; editing versus directional transformation; ranking versus selective attenuation; moderation as simultaneous enablement and constraint; rebuttal versus saturation; criticism-induced restraint versus restraint under selectively costly participation conditions; random failure versus asymmetric non-remediation.
 - Negative and near-negative controls are as important as positive cases. A useful framework must explain not only why a case can be censorial but why structurally similar cases can remain ordinary contest, governance, or error.
 - Empirical anchors establish reported mechanisms and conditions; classification remains the work of the framework.
 
@@ -299,12 +298,12 @@ Support: `gillespie2022`, `howardkira2026`, `chandrasekharan2017`.
 
 Support: `roberts2018`, `kingpanroberts2017`.
 
-## 6.7 Responsive self-censorship — criticism versus induced participation costs
+## 6.7 Anticipatory restraint — criticism versus ambient participation costs
 
 - A participant who stays silent because they expect strong criticism is anticipating contest, not necessarily censorship; this is the negative control.
 - Wang and Mayer studied roughly seven million historical tweets around Hong Kong's 2020 National Security Law. Compared with controls, Hong Kong users became more likely to delete past activity or restrict accounts and posted less about politically sensitive topics after enactment. Support: `wangmayer2023`.
-- The case demonstrates the response pathway: the law changes anticipated participation consequences, while users themselves perform erasure, withdrawal, or reduced expression.
-- The mechanism also clarifies why no internal "censor" is needed. The proximate operation can be self-performed while the inducing condition is legal, institutional, social, distributed, or inherited.
+- The case demonstrates the response pathway: the law changes ambient participation consequences, while users themselves perform erasure, withdrawal, or reduced expression.
+- The censorial question concerns those surrounding participation conditions, not whether the resulting restraint is conscious, rational, habitual, or unwitting.
 - Social reputation remains a harder middle case: ordinary adverse judgment is unavoidable, but reputational response can become censorially relevant when coupled to consequential institutional or social participation conditions.
 - The settled-norm evidence above supplies a less overt comparison in which professional and workplace climates structure disclosure decisions without a discrete speech ban. Support: `beagan2022`, `holman2022`.
 
@@ -333,7 +332,7 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`, `beagan2022`,
 4. Test selectivity: does the mechanism or participation condition make contestability depend on the target's relation to the relevant ordering rather than merely produce an uneven or correlated outcome? Use realistic substitutes, genuinely comparable cases, leverage, and counterfactual symmetry where useful.
 5. Describe rather than infer intent, organisation, and action/non-action; none settles classification by itself. For non-action, identify the field-grounded descriptive baseline rather than inferring censorship from the mere possibility of assistance.
 6. Ask whether an existing ordering has become a condition of future participation.
-7. Where relevant, trace self-censoring response, sedimentation, persistence, and practical revisability.
+7. Where relevant, trace anticipatory restraint, sedimentation, persistence, and practical revisability.
 8. Only then evaluate lawfulness, ethics, proportionality, necessity, professional appropriateness, or political legitimacy.
 
 ## Limits
@@ -351,6 +350,6 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`, `beagan2022`,
 
 - Censorship is best understood as shortcutting contest through selective alteration of contestability, not by actor identity, intention, prohibition, surface operation, or moral verdict.
 - This basis explains overt suppression as well as deliberate or unintended, distributed, emergent, action-based, and non-action-based forms while preserving a boundary with ordinary contest, selection, editing, and institutional ordering.
-- Exclusion, attenuation, and transformation describe target effects on presence, effective reach, and representation; saturation describes an indirect field pathway, while responsive self-censorship describes a response pathway.
+- Exclusion, attenuation, and transformation describe target effects on presence, effective reach, and representation; saturation describes an indirect field pathway, while anticipatory restraint describes a response pathway to ambient participation conditions.
 - Boundary cases and negative controls show why the same surface operation can be censorial in one relation and part of ordinary contest or governance in another.
 - Sedimentation explains how initially active alteration of contestability can become routine, infrastructural, position-dependent, and less reliant on overt enforcement.
