@@ -60,13 +60,13 @@ Conceptual hierarchy:
 - Access costs, diversion, burial, flooding, and visibility reduction show why altered contestability can matter without literal unavailability. Support: `roberts2018`, `gillespie2022`, `kingpanroberts2017`.
 - The account therefore needs two properties at once: breadth sufficient to capture indirect, distributed, transformative, and anticipatory control; discrimination sufficient not to redescribe ordinary criticism, selection, ranking, editing, or institutional ordering wholesale as censorship.
 - Actor identity, censorial intention, and surface operation cannot supply that boundary consistently. The proposed discriminator is relational: whether the relevant result stands through contest while the target remains comparably contestable, or instead depends on altering contestability so that participation control itself functions as the shortcut.
-- The operational taxonomy follows only after that classification. It describes where contestability is altered; it does not determine by itself whether an alteration is censorship.
+- The operational account follows only after that classification. It describes effects on the target and indirect pathways by which those effects can arise; neither determines by itself whether an alteration is censorship.
 
 ## Contribution
 
 1. Recast censorship as shortcutting contest through selective alteration of contestability, without requiring a single censor, censorial intention, state action, or successful suppression.
 2. Explain the difficult boundary with ordinary selection and institutional ordering by asking whether the relevant ordering depends on changing a target's contestability, rather than treating role names, motives, merits-engagement, or the mere fact of gatekeeping as decisive.
-3. Organise recurring censorial operations by where contestability is altered: presence, effective reach, representation, or surrounding informational field.
+3. Organise recurring effects on contestability by presence, effective reach, and representation, while distinguishing indirect pathways such as saturation that alter the surrounding field rather than the target itself.
 4. Explain how shortcuts can be deliberate or unintended, realised through action or non-action, and become sedimented, position-dependent, self-reproducing, and less reliant on overt enforcement.
 
 ---
@@ -127,11 +127,12 @@ Implications:
 
 ---
 
-# 3. Operational Modes: Where Contestability Is Altered
+# 3. Operational Effects and Pathways
 
-- Classification as censorship is relational and comes first. The operational taxonomy asks a different question: where in the conditions of participation does the shortcut act?
-- Four revisable primary modes answer that question: presence, effective reach, representation, and surrounding informational field. They are not claimed to be mathematically exhaustive and may overlap or compose.
-- No operation is self-classifying. Exclusion, ranking, editing, transformation, and information production can occur within ordinary contest or administration; censorial character depends on their relation to contestability.
+- Classification as censorship is relational and comes first. The operational account asks a different question: what happens to the target's contestability, and through what pathway?
+- Three target effects earn parallel status: **exclusion** changes presence; **attenuation** changes effective reach; **transformation** changes representation. They are not claimed to be exhaustive or mutually exclusive and may overlap or compose.
+- Some shortcuts act indirectly without changing the target itself. **Saturation** is retained as a field pathway because it alters the surrounding informational environment and typically realizes its effect through attenuation. **Responsive self-censorship** is a response pathway in which the participant becomes the proximate performer of one or more target effects.
+- No effect or pathway is self-classifying. Exclusion, ranking, editing, transformation, information production, and participant restraint can occur within ordinary contest or administration; censorial character depends on the shortcut and selectivity relations established first.
 
 ## 3.1 Exclusion — presence
 
@@ -162,20 +163,21 @@ What participates is altered while retaining or replacing continuity with the ta
 
 Support: `zheng2024`.
 
-## 3.4 Saturation — surrounding field
+## 3.4 Saturation — field pathway
 
-Target may remain untouched, but the informational field around it is altered so that it becomes harder to find, attend to, distinguish, verify, or use.
+Target may remain untouched while the surrounding informational field is altered through noise, repetition, diversion, coordinated competing material, or volume.
 
-- Mechanisms include noise, repetition, diversion, coordinated competing material, or volume.
-- Ordinary contradiction remains contest; saturation becomes censorially relevant when occupation of the field functions as a shortcut by reducing another contribution's practical contestability.
-- Saturation may compose with attenuation.
+- Saturation is therefore not a fourth target dimension parallel to presence, reach, and representation.
+- When saturation does censorial work, its target-level effect is usually attenuation: the contribution becomes harder to find, attend to, distinguish, verify, or use even though it remains present and unchanged.
+- Ordinary contradiction remains contest. Saturation becomes censorially relevant only where occupation of the field satisfies the prior shortcut and selectivity relations.
+- Saturation may compose with other target effects; the field pathway and target effect should be described separately rather than double-counted as independent modes.
 
 Support: `roberts2018`, `kingpanroberts2017`.
 
 ## 3.5 Responsive self-censorship — response pathway
 
-- Not a fifth primary operation. Prevailing participation conditions induce the participant to become the proximate performer.
-- Withholding expression instantiates exclusion; constraining reach can instantiate attenuation; altering expression can instantiate transformation.
+- Prevailing participation conditions induce the participant to become the proximate performer.
+- Withholding expression instantiates exclusion; constraining reach instantiates attenuation; altering expression instantiates transformation.
 - Anticipating rebuttal or disagreement is part of contest and is not enough. The censorial question concerns anticipated participation consequences such as sanction, exclusion, loss of standing, access, or other changed conditions of contestability.
 - Sources may include prior enforcement, incentives, norms, opaque rules, learned expectations, or distributed social cues; no conscious inducing agent required.
 - Preference falsification and ordinary private restraint are related but not automatically censorial.
@@ -211,7 +213,7 @@ Background on non-overt and infrastructural power: `foucault1977`, `lukes2005`, 
 
 # 5. Contextual Description
 
-- Operational modes describe **what happens to contestability**. Contextual dimensions describe **how, where, by whom, and under what conditions it happens**. They are deliberately orthogonal: none is a substitute definition of censorship.
+- Target effects describe **what happens to contestability**; pathways describe **how that effect is realised**. Contextual dimensions describe **how, where, by whom, and under what conditions the shortcut is produced**. None is a substitute definition of censorship.
 - Context can strengthen or weaken an analysis of selectivity, leverage, substitutes, and persistence without making state action, intent, opacity, scale, or justification necessary conditions.
 
 - **Intent**: deliberate, unintended. Absence of premeditated censorial intent does not settle structural classification.
@@ -291,7 +293,7 @@ Support: `gillespie2022`, `howardkira2026`, `chandrasekharan2017`.
 
 - Large amounts of rebuttal can make an original claim harder to find while remaining ordinary contest. Volume, coordination, and reduced visibility are therefore insufficient by themselves.
 - King, Pan, and Roberts provide a strong empirical contrast. Their large-scale analysis of Chinese government-directed social-media posting estimated roughly 448 million fabricated comments per year and found that the operation largely avoided argument with critics; instead it used coordinated positive material to distract attention and change the subject. Support: `kingpanroberts2017`.
-- This is close to the saturation mechanism: the target need not be removed or refuted if the surrounding informational field can be occupied so that continued engagement is displaced.
+- This is close to saturation as a field pathway: the target need not be removed or refuted if the surrounding informational field can be occupied so that continued engagement is displaced. Its usual target-level effect is attenuation of encounter or attention rather than a fourth independent kind of alteration.
 - Hard case: coordinated participants sincerely repeat substantive rebuttals at a scale that also buries the target. Contest and altered contestability can then be properties of the same activity in different relations.
 - The key distinction is therefore not volume or coordination alone but whether environmental occupation functions as a shortcut around continued engagement with the target.
 
@@ -326,7 +328,7 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`, `beagan2022`,
 ## Classification sequence
 
 1. Fix the unit of analysis: target contribution or participant; field or channel in which the target participates or ordinarily could participate and through which the mechanism has practical leverage; practical ordering in that field/channel that the mechanism maintains, changes, or attempts to change; and realistic comparator or baseline. If an antecedent process is treated as part of contest, verify that it engages the target's contribution within that same field ordering rather than merely deciding whether participation should be restricted. Identify these from the concrete mechanism and practical context before classification, including representation, legitimacy, standing, or admissibility where relevant.
-2. Identify any change in contestability: presence, reach, representation, or surrounding field.
+2. Identify any target effect on contestability: presence, effective reach, or representation. Where the target is not directly altered, identify any indirect pathway, such as saturation, by which the surrounding field produces one of those practical effects.
 3. Ask whether the relevant result depends on that change in contestability: holding the target's practical opportunity to participate fixed, would the adverse ordering still follow from contest or assessment, or is altered contestability the mechanism's route to securing or preserving it? Apply this to mechanism structure rather than observed success. Allow mixed sequences and analyse different participant relations separately.
 4. Test selectivity: does the mechanism or participation condition make contestability depend on the target's relation to the relevant ordering rather than merely produce an uneven or correlated outcome? Use realistic substitutes, genuinely comparable cases, leverage, and counterfactual symmetry where useful.
 5. Describe rather than infer intent, organisation, and action/non-action; none settles classification by itself. For non-action, identify the field-grounded descriptive baseline rather than inferring censorship from the mere possibility of assistance.
@@ -341,7 +343,7 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`, `beagan2022`,
 - Does not subsume propaganda, persuasion, education, criticism, selection, curation, moderation, editing, cultural ordering, or social coordination wholesale into censorship.
 - Does not assume scarcity, professional criteria, inherited norms, institutional rules, omissions, or technical failures are neutral; neither does their existence establish censorship.
 - Unintended effects and non-action require the same shortcut and selectivity relations as deliberate interventions; outcome asymmetry alone is insufficient.
-- Taxonomy remains revisable if recurring cases fit poorly.
+- Operational effects and pathways remain revisable if recurring cases fit poorly.
 
 ---
 
@@ -349,6 +351,6 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`, `beagan2022`,
 
 - Censorship is best understood as shortcutting contest through selective alteration of contestability, not by actor identity, intention, prohibition, surface operation, or moral verdict.
 - This basis explains overt suppression as well as deliberate or unintended, distributed, emergent, action-based, and non-action-based forms while preserving a boundary with ordinary contest, selection, editing, and institutional ordering.
-- Exclusion, attenuation, transformation, and saturation describe where contestability is altered; responsive self-censorship describes one pathway by which the shortcut can be reproduced.
+- Exclusion, attenuation, and transformation describe target effects on presence, effective reach, and representation; saturation describes an indirect field pathway, while responsive self-censorship describes a response pathway.
 - Boundary cases and negative controls show why the same surface operation can be censorial in one relation and part of ordinary contest or governance in another.
 - Sedimentation explains how initially active alteration of contestability can become routine, infrastructural, position-dependent, and less reliant on overt enforcement.
