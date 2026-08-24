@@ -2,33 +2,31 @@
 
 ## Global constraints
 
-- Object: censorship; not a general theory of morality, social control, political legitimacy, cybernetics, deliberative democracy, propaganda, persuasion, or social shortcuts.
+- Object: censorship; not a general theory of morality, social control, political legitimacy, deliberative democracy, propaganda, persuasion, or social shortcuts.
 - Inquiry developed through sustained art practice concerned with censorship; essay formalises recurring structural questions as a conceptual framework.
-- Structural, descriptive-first analysis; moral, legal, professional, and political evaluation follows classification.
+- Structural, descriptive-first analysis: classify censorial structure before asking whether it is lawful, justified, beneficial, harmful, proportionate, or professionally appropriate.
 - Examples are analytic stress tests, not political case studies or historical survey.
 
-## Core terminology
+## Core conceptual spine
 
-- **Epistemic environment**: practical conditions governing whether and how claims, representations, records, and speakers enter, circulate, persist, and matter within a field of attention or judgment.
-- **Epistemic ordering**: relative standing of claims, topics, representations, or speakers by credibility, legitimacy, admissibility, visibility, salience, or entitlement to consideration; need not be selected or designed by a single agent.
-- **Epistemic settlement**: relatively stabilised epistemic ordering; may be contested, inherited, or explicitly prescribed; no implication of consensus, legitimacy, or conscious design.
-- **Control surface**: practical condition through which an epistemic environment can be changed: availability, access, circulation, timing, visibility, ranking, legibility, standing, memory.
-- **Epistemic contest**: attempts to change belief or judgment principally through claims, reasons, evidence, interpretation, criticism, rebuttal, or comparison within an existing field of participation.
-- **Epistemic control**: intervention in practical participation conditions.
-- **Censorship**: selective epistemic control that differentially alters participation conditions in ways that shift or stabilise an epistemic ordering.
-- **Epistemic shortcut**: censorial control substitutes changed participation conditions for some burden of continued epistemic contest in reproducing an ordering.
-- **Sedimentation**: persistence of an earlier epistemic settlement in present rules, classifications, rankings, archive practices, routines, or norms.
-- **Censorial character**: non-binary description of how strongly a case instantiates the relation between selective participation control and an epistemic ordering; not a formal score.
+- **Epistemic ordering**: relative standing of claims, topics, representations, or speakers by credibility, legitimacy, admissibility, visibility, salience, or entitlement to consideration.
+- **Epistemic contest**: attempts to change an ordering through claims, reasons, evidence, interpretation, criticism, rebuttal, or comparison.
+- **Contestability**: practical capacity of a claim, representation, or speaker to enter, remain in, be encountered within, and matter to that contest.
+- **Epistemic control**: intervention in conditions of contestability rather than merely another contribution to the contest.
+- **Censorship**: selective epistemic control that shortcuts contest by differentially altering contestability. The shortcut may be deliberate, institutional, distributed, emergent, or accidental; successful suppression is not required.
+- **Censorial character**: strength and significance of the selective alteration of contestability in mixed or boundary cases; not a moral judgment or quantitative score.
+- **Sedimentation**: embedding of a censorial shortcut in rules, classifications, rankings, routines, infrastructure, expectations, or norms so that altered contestability can persist after originating actors or reasons recede.
 
-Minimal conceptual spine:
+Conceptual hierarchy:
 
-- Ordering identifies what relative standing is at stake; participation conditions/control surfaces identify where intervention occurs; selective differential control is the mechanism; shift/stabilisation is its relation to the ordering.
-- Contest is the contrast class. Settlement, shortcut, sedimentation, and revisability describe persistence/reproduction rather than defining censorship.
+- Contest is the baseline mechanism by which an epistemic ordering remains exposed to challenge.
+- Control of contestability is the mechanism of censorship; shortcutting contest is the defining relation.
+- Changes in ordering, reduced need for repeated contest, self-censoring responses, sedimentation, and declining overt enforcement are possible consequences or reproduction paths, not additional defining criteria.
 
 ## Source discipline
 
 - Prior-literature, empirical, historical, and attributed claims require verified support; hypothetical stress tests need no citation absent case-specific facts.
-- Framework-specific proposals remain visibly authored. Shortcut, taxonomy, sedimentation, position-dependent visibility, declining enforcement burden, and stronger discrimination claims must not be attributed wholesale to background sources.
+- Framework-specific proposals remain visibly authored. Contestability, shortcut, operational taxonomy, sedimentation, position-dependent censoriality, and declining enforcement burden must not be attributed wholesale to background sources.
 
 ---
 
@@ -37,207 +35,230 @@ Minimal conceptual spine:
 ## Argument
 
 - Explicit prohibition is non-exhaustive; scholarship includes structural, self-censoring, frictional, and flooding forms. Support: `muller2004`, `freshwater2004`, `bunn2015`, `roberts2018`.
-- Structural accounts face a demarcation problem if censorship becomes coextensive with communication or social control. Support: `muller2004`, `freshwater2004`, `bunn2015`.
-- Library selection exposes the same boundary problem: selection under constraint is not self-classifying as censorship or non-censorship. Support: `asheim1953`, `kidd2009`.
-- Access costs, diversion, burial, flooding, and visibility reduction can matter without literal unavailability. Support: `roberts2018`, `gillespie2022`.
-- Analytic design: separate actor/locus, operation, medium/context, and justification/evaluation. Labels such as state, platform, library, or self-censorship do not determine mechanism; evaluative labels do not settle classification.
+- Structural accounts face a demarcation problem if censorship becomes coextensive with communication, selection, or social control. Support: `muller2004`, `freshwater2004`, `bunn2015`.
+- Library selection and other gatekeeping show why actor, institution, intention, and exclusion alone cannot settle the classification. Support: `asheim1953`, `kidd2009`.
+- Access costs, diversion, burial, flooding, and visibility reduction show why control of contestability can matter without literal unavailability. Support: `roberts2018`, `gillespie2022`.
 
 ## Contribution
 
-1. Define censorship through selective control of participation conditions and relation to an epistemic ordering, without requiring a preferring subject or single intentional censor.
-2. Demarcate structural censorship by retaining selective participation control from paradigm cases while relaxing actor, intent, medium, and overt-prohibition requirements.
-3. Identify the shortcut relation and develop sedimentation and reduced-enforcement consequences.
-4. Provide four primary operation families plus a distinct responsive self-censorship pathway.
-5. Preserve difficult selection and gatekeeping cases as tests rather than defining them away.
+1. Recast censorship as shortcutting epistemic contest through selective control of contestability, without requiring a single censor, censorial intention, state action, or successful suppression.
+2. Explain the difficult boundary with ordinary selection and institutional ordering by asking how rules and interventions relate to epistemic contest, rather than treating role names or motives as decisive.
+3. Organise recurring censorial operations by where contestability is altered: presence, effective reach, representation, or surrounding informational field.
+4. Explain how shortcuts can become sedimented, position-dependent, self-reproducing, and less reliant on overt enforcement.
 
 ---
 
-# 2. Definition and Boundary
+# 2. Shortcutting Epistemic Contest
 
-## 2.1 Core relation
+## 2.1 Contest, control, and closure
 
-- Default complex-social model: epistemic ordering is emergent; explicit doctrinal, institutional, or state projects are possible special cases.
-- Ordering may concern standing, visibility, credibility, admissibility, or salience rather than replacement belief.
-- Ordering is intentionally broad background structure, not the demarcating criterion.
-- Paradigm cases share selective alteration of whether/how claims, representations, or speakers can participate despite varying actor, law, intent, medium, and success; that common structure supplies the demarcating invariant.
-- Ordering, selection, regulation, or cultural reproduction alone is insufficient unless selective participation control is materially implicated in shifting or stabilising relative standing.
-- Control may be institutionalised, automated, customary, distributed, or reproduced through learned expectations and participant response.
+- Contest operates through reasons, evidence, criticism, interpretation, rebuttal, comparison, and other engagement with what is at issue.
+- Every real epistemic system also structures participation: attention is finite; journals reject; libraries select; platforms rank; communities develop norms. Control of contestability is therefore not automatically censorship.
+- The central distinction is relational: does an intervention principally participate in or organise the contest, or does it selectively alter who/what can contest and on what practical terms?
+- The same rule or institution can do both. Censorial character is therefore capable of degree without requiring a scalar formula.
+- Closure may be benign, necessary, professionally justified, or socially useful and still have censorial character. Classification is separate from evaluation.
 
-## 2.2 Contest and control
+Support: structural/constitutive boundary `muller2004`, `freshwater2004`, `bunn2015`; selection boundary `asheim1953`, `kidd2009`; power beyond overt coercion `lukes2005`, `foucault1977`.
 
-- **Contest**: reasons, evidence, interpretation, criticism, rebuttal, comparison within an existing participation field.
-- **Control**: changes to practical participation conditions.
-- Real interventions may combine both; non-censorial processes can also contribute to epistemic ordering.
-- Where scarcity, finite attention, remit, or professional judgment constrain inclusion, selection is unavoidable; selection alone neither establishes nor excludes censorship.
-- Editorial judgment, library acquisition, peer review, moderation, ranking, curation, and institutional recognition remain boundary cases; role name is non-decisive.
+## 2.2 The shortcut
 
-Support: structural/constitutive boundary `muller2004`, `freshwater2004`, `bunn2015`; selection boundary `asheim1953`, `kidd2009`; power beyond overt coercion `lukes2005`, `foucault1977`; legibility/classification `scott1998`, `bowkerstar1999`, `star1999`.
+- Contest leaves an ordering exposed to challenge; maintaining it may require continued success in argument, evidence, criticism, and comparison.
+- Control of contestability provides another route: prevent, burden, reshape, or overwhelm participation so that some contest is bypassed, pre-empted, or displaced.
+- This is the censorial shortcut. Motive does not define it: the same structural relation can arise from malevolent suppression, benevolent coordination, professional routines, optimisation, inherited convention, distributed behaviour, or path dependence.
+- Mechanism and success are distinct. A failed ban remains censorial because it controls contestability as a shortcut even if the ordering is not stabilised or the target gains attention.
+- Where the shortcut succeeds, reproduction of an ordering becomes less dependent on continued victory within contest.
 
-## 2.3 Boundary factors
+## 2.3 Boundary: warranted closure versus censorial closure
 
-- Factors operationalise the core relation rather than adding five independent criteria.
-- Differential treatment/mode test selective participation control; consequential channel control/context test materiality; relation to ordering tests whether that control is doing explanatory work rather than merely co-occurring with selection or regulation.
-- This preserves the participation-conditioning structure of paradigm censorship while allowing neighbouring practices that shape ordering by other routes to remain non-censorial.
+Three questions organise difficult cases; none is a mechanical test.
 
-No factor decisive alone.
+1. **Relation to contest**: is disadvantage produced through engagement with the claim's reasons/evidence/merits, or by changing the practical conditions under which it can be engaged at all?
+2. **Selectivity and leverage**: does the relevant rule, resource, channel, sanction, ranking, or norm differentially and consequentially alter contestability, given realistic substitutes?
+3. **Recursive closure**: does an existing ordering itself become a condition of future participation, so that challenging the settlement requires first passing through rules that reproduce it?
 
-1. **Differential treatment**: availability, reachability, persistence, visibility, legibility, or admissibility relative to plausible alternatives.
-2. **Consequential resource/channel control**: publication, acquisition, access, ranking, distribution, venue, classification, credentials, sanctions, or another participation condition rather than merely competing reasons/evidence.
-3. **Mode of disadvantage**: changed participation/encounter conditions versus contest over merits.
-4. **Relation to ordering**: pattern/function shifts or stabilises relative standing; conscious censorial intent not required.
-5. **Context/substitutability**: scarcity, remit, reach, exclusivity, alternatives, pattern over time, transparency/opacity, concentration of power.
+Implications:
 
-- Censorial character grades strength/clarity of this structural relation, not moral severity or a count of factors; factors have no fixed weighting.
-- Disagreement may remain where facts or causal interpretation are uncertain, but should be traceable to those uncertainties.
-
-Expectations:
-
-- Clear prohibition/deliberate erasure: stronger censorial character.
-- Routine selection under genuine constraints: may have weaker or no censorial character.
-- Intermediate cases may remain genuinely disputable.
-
-## 2.4 Epistemic shortcut
-
-- Contest leaves an ordering exposed to continued challenge through reasons, evidence, rebuttal, interpretation, and competing claims.
-- Censorial control may shift or stabilise an ordering without repeatedly prevailing through contest.
-- Shortcut is not mere institutional durability or absence of relitigation: reproduction must depend partly on selectively controlled participation conditions.
-- Counterfactual: relaxing that control while leaving substantive reasons/evidence unchanged would make reproduction more dependent on contest or more exposed to challenge.
-- Shortcut concerns relation between control and reproduction, not agent intention; may be partial, resisted, unsuccessful, or coexist with argument.
-- Descriptive only: no implication of truth, falsity, legitimacy, illegitimacy, efficiency, or conscious design.
+- Uniform application and benign intention can weaken some suspicions but do not by themselves exclude censorship; a uniformly applied rule can make an inherited ordering self-protecting.
+- Scarcity and institutional remit can justify selection without making criteria neutral or non-censorial by definition.
+- Position-dependent effects are objective features of differential contestability, not merely reports of feeling censored.
+- Competent applications may disagree where facts about leverage, substitutability, criterion function, or causal relation are uncertain.
 
 ---
 
-# 3. Operational Families and Responsive Pathway
+# 3. Operational Modes: Where Contestability Is Altered
 
-- Four primary families organise immediate participation effects: can the target participate (exclusion), how readily/effectively is it encountered (attenuation), what representation participates (transformation), or what surrounding field must it compete within (saturation).
-- They describe operations rather than actors, intentions, strategies, responses, or evaluations; overlap/composition and empirical revision remain possible.
-- Proximate performer may be institutional, technical, distributed, or the participant.
+Four revisable primary modes organise immediate participation effects. They are not claimed to be mathematically exhaustive and may overlap or compose.
 
-## 3.1 Exclusion
+## 3.1 Exclusion — presence
 
-- **Prevention**: blocks expression, publication, acquisition, access, or entry before occurrence.
-- **Erasure**: removes existing expression, records, traces, access, or recognised standing.
+Target cannot enter, remain in, or retain recognised standing within the relevant field.
 
-## 3.2 Attenuation
+- **Prevention**: blocks expression, publication, acquisition, access, entry, or recognition before occurrence.
+- **Erasure**: removes existing expression, records, traces, access, or standing.
 
-Target remains nominally present while practical access/reach/timeliness/discoverability/persistence/audience falls.
+## 3.2 Attenuation — effective reach
 
-- **Demotion/suppression**: reduced ranking, reach, recommendation, discoverability, circulation, persistence.
+Target remains nominally present while practical encounter, reach, timeliness, discoverability, persistence, standing, or audience falls.
+
+- **Demotion/suppression**: reduced ranking, recommendation, reach, discoverability, circulation, or persistence.
 - **Friction/delay**: increased time, effort, expertise, cost, or delay.
 - **Containment**: confinement to bounded or low-reach spaces.
 
 Support: `roberts2018`, `gillespie2022`, `howardkira2026`.
 
-## 3.3 Transformation
+## 3.3 Transformation — representation
 
-- **Modification**: changes content, framing, metadata, translation, redaction, classification, or representation while retaining continuity with an original.
-- **Substitution**: replaces contested expression, account, framing, representation, or record with an alternative that shifts or stabilises the ordering.
-- May compose with exclusion or attenuation.
+What participates is altered while retaining or replacing continuity with the target.
 
-## 3.4 Saturation / flooding
+- **Modification**: changes content, framing, metadata, translation, redaction, classification, or representation.
+- **Substitution**: replaces a contested expression, account, framing, representation, or record with an alternative.
 
-- Information environment makes target harder to find, attend to, distinguish, verify, or use without removal; mechanisms include noise, repetition, diversion, coordinated competing material, volume.
-- Separate from attenuation because the target may be untouched; the operative change is occupation/degradation of the surrounding field.
-- Possible stronger effect: degraded epistemic discrimination/resolution sufficient to induce disengagement, deference, or futility.
-- Need not install counter-belief. Ordinary contradiction remains contest; scaled/coordinated environmental occupation may become saturation or compose with attenuation.
+## 3.4 Saturation — surrounding field
+
+Target may remain untouched, but the informational field around it is altered so that it becomes harder to find, attend to, distinguish, verify, or use.
+
+- Mechanisms include noise, repetition, diversion, coordinated competing material, or volume.
+- Ordinary contradiction remains contest; saturation becomes censorially relevant when occupation of the field functions as control over another contribution's practical contestability.
+- Saturation may compose with attenuation.
 
 Support: `roberts2018`.
 
-## 3.5 Responsive self-censorship: response/reproduction pathway
+## 3.5 Responsive self-censorship — response pathway
 
-- Not a fifth primary family: a response pathway in which prevailing conditions elicit participant action and the participant becomes proximate performer.
-- Withholding, constraining, or altering expression usually instantiates exclusion, attenuation, or transformation on the participant's own expression.
-- Sources may include sanctions, incentives, norms, prior enforcement, opaque rules, learned expectations, or other environmental cues; no conscious inducing agent required.
-- Preference falsification is related but not identical; neither preference falsification nor ordinary private restraint is automatically censorial.
+- Not a fifth primary operation. Prevailing participation conditions induce the participant to become the proximate performer.
+- Withholding expression instantiates exclusion; constraining reach can instantiate attenuation; altering expression can instantiate transformation.
+- Anticipating rebuttal or disagreement is part of contest and is not enough. The censorial question concerns anticipated participation consequences such as sanction, exclusion, loss of standing, access, or other changed conditions of contestability.
+- Sources may include prior enforcement, incentives, norms, opaque rules, learned expectations, or distributed social cues; no conscious inducing agent required.
+- Preference falsification and ordinary private restraint are related but not automatically censorial.
 
 Support: `weeks2024`, `yuenlee2025`, `kuran1995`.
 
-## 3.6 Boundary-sensitive strategies and practices
+---
 
-Not primary families; classify by operative effect.
+# 4. Sedimentation, Norms, and Reproduction
 
-- **Delegitimation**: status/credibility attack; contest on merits unless producing a primary operation or censorial response pathway.
-- **Inversion**: reframing as harm, threat, pathology, disloyalty, extremism, etc.; relevant through effects on admissibility, standing, reach, access, or anticipated consequences.
-- **Contradiction**: ordinary rebuttal is contest; scaled/coordinated environmental suppression classifies by effect.
-- **Selection/curation**: editing, acquisition, moderation, ranking, curation may instantiate a family or no censorial operation.
+- A shortcut can become embedded in ranking, recommendation, classification, professional routines, archives, access rules, defaults, conventions, or social norms. Support: `bowkerstar1999`, `star1999`, `scott1998`, `pasquale2015`.
+- Once embedded, altered contestability may persist after the originating dispute, decision, actor, or justification has receded.
+- Existing settlements can then become conditions of future participation: what previously required active exclusion may be reproduced by routine procedure or expectation.
+- Responsive self-censorship is one reproduction path: participants anticipate the inherited conditions and perform exclusion, attenuation, or transformation on their own contributions. Support: `weeks2024`, `yuenlee2025`.
+- Overt enforcement may decline because the shortcut has become infrastructural or anticipatory; low visible enforcement does not establish consent, legitimacy, neutrality, or absence of censorship.
+- Revisability is diagnostically important: how practically possible is it to reopen the settlement to contest?
+- Sedimentation alone is not censorship. The relevant question remains whether inherited conditions selectively control contestability.
 
-Taxonomy: four revisable primary families plus responsive self-censorship as a cross-cutting response/reproduction pathway.
+## Settled norms as a hard case
+
+- Settled norms can serve positive functions: coordination, stability, civility, protection, predictability, or relief from continual relitigation.
+- The same settlement can be asymmetrical. A norm may be nearly invisible to participants who fit it while imposing additional costs, sanctions, justificatory burdens, or inadmissibility on those who contest it.
+- Example: inherited norms around acceptable family, gender, or sexuality may be experienced as ordinary social background by some participants while making queer identity or expression harder to articulate, legitimate, or sustain in the same field.
+- The censorial claim does not depend on malevolent intent or on the norm being normatively wrong. It depends on differential control of contestability.
+- This is position-dependent without being subjective: different participants encounter different structural participation conditions.
+
+Background on non-overt and infrastructural power: `foucault1977`, `lukes2005`, `bowkerstar1999`, `star1999`.
 
 ---
 
-# 4. Descriptive Dimensions
+# 5. Contextual Description
 
-Dimensions describe context; they are not operational families and need not be independent.
+These dimensions describe a case but do not define censorship.
 
-- **Scale**: individual; group/community; institutional; national; transnational/platform-scale.
-- **Power/channel control**: diffuse/majoritarian; concentrated institutional; elite minority; economic; technical/algorithmic; mixed/distributed. Support: `lukes2005`, `foucault1977`.
-- **Formation of ordering**: diffuse/emergent; institutionally shaped; explicitly prescribed; inherited; mixed/unclear.
-- **Persistence/revisability**: one-off/temporary; recurrent; persistent; entrenched/infrastructural.
-- **Visibility/opacity**: overt; implicit; opaque; indirectly inferable. Mechanism visibility may be position-dependent without making classification subjective. Support: `pasquale2015`.
-- **Justification regime**: moral/harm; legal/rights; safety/risk; professional/epistemic quality; technical/efficiency; economic/market; procedural/neutrality.
-- **Control surface/domain**: availability/access; circulation/distribution; timing; visibility/ranking/attention; legibility/classification; standing/admissibility; memory/archive. Support: `scott1998`, `bowkerstar1999`, `star1999`, `gillespie2022`, `howardkira2026`.
+- **Locus/power**: diffuse, institutional, economic, technical/algorithmic, state, mixed/distributed. Support: `lukes2005`, `foucault1977`.
+- **Scale**: individual, group/community, institutional, national, transnational/platform-scale.
+- **Visibility**: overt, implicit, opaque, indirectly inferable; visibility may itself be position-dependent. Support: `pasquale2015`.
+- **Persistence**: one-off, recurrent, embedded/infrastructural.
+- **Justification**: harm/safety, legal, professional/epistemic, procedural, technical, economic, moral, or other; justification does not settle structural classification.
 
 ---
 
-# 5. Persistence, Sedimentation, and Infrastructure
+# 6. Developed Boundary Cases
 
-- Possible progression: where selective control reduces reliance on contest, a shortcut arises; repeated/embedded participation controls may sediment into infrastructure/routines, allowing reproduction with less repeated overt intervention.
-- Censorial control can embed in ranking, recommendation, classification, professional routines, archives, access rules, and other infrastructure. Support: `bowkerstar1999`, `star1999`, `scott1998`, `pasquale2015`.
-- Sedimentation names persistence of earlier control/settlement after originating actors and arguments recede; it is not an independent censorial operation.
-- Later participants may inherit both an epistemic ordering and participation conditions that reproduce it.
-- Responsive self-censorship is a coupled reproduction path: inherited/current conditions elicit participant operations on their own expression that can further reproduce conditions and ordering. Support: `weeks2024`, `yuenlee2025`.
-- **Revisability**: practical capacity to reopen an inherited settlement to contest; low revisability can indicate infrastructural persistence but does not establish censorship.
-- Routines, defaults, expectations, and anticipatory behaviour may reduce overt enforcement burden; reduced enforcement does not establish consent, legitimacy, truth, neutrality, or voluntary acceptance.
-- Ordering, inheritance, rule, classification, convention, selection, infrastructure, or sedimentation alone does not establish censorship; boundary factors still apply.
-- Formal speech protections and regime type do not by themselves settle structural classification.
-- Background on discontinuous/non-overt power: `foucault1977`, `lukes2005`. Shortcut, sedimentation, and declining enforcement burden remain censorship-specific framework claims.
+Each case asks whether a participation decision remains part of epistemic contest or becomes a shortcut around it.
+
+## 6.1 Library acquisition
+
+- A university research library with finite resources declines an in-remit controversial monograph under a methodological-quality policy. Interlibrary loan exists but adds friction; the position is locally underrepresented; no censorial intent is assumed.
+- Non-acquisition alters presence, but scarcity makes some exclusion unavoidable.
+- If the methodology has been assessed under criteria genuinely open to contest and comparably applied, exclusion may be downstream of epistemic evaluation rather than a shortcut around it.
+- Harder case: a criterion such as conformity with established scholarly standing can convert the existing ordering into a condition of acquisition. Uniform and sincere application can then still reduce the contestability of positions that challenge that ordering.
+- Relevant evidence: criterion function, application pattern, realistic substitutes, channel leverage, and whether the criterion itself can be challenged.
+- Payoff: neither "selection" nor discriminatory intention decides the case; the theory locates the boundary in how acquisition criteria relate to future contest.
+
+Support: `asheim1953`, `kidd2009`.
+
+## 6.2 Editorial and peer-review rejection
+
+- Rejection for a demonstrated methodological or evidential failure can be part of structured epistemic contest: the claim is excluded because it has been engaged and found wanting.
+- Rejection because a conclusion is institutionally inconvenient, or because a "settled" question may not be reopened, uses control over publication to bypass the relevant contest.
+- Hard case: methodological standards are historically formed inside a dominant theoretical tradition. A rival framework fails them partly because it contests their assumptions.
+- Uniform professional judgment therefore does not end the inquiry. Ask whether standards are functioning as terms of engagement or as conditions preventing a rival position from becoming engageable.
+- Professional judgment and censorial control can coexist in the same decision.
+
+## 6.3 Search and recommendation ranking
+
+- Ranking is unavoidable where attention is scarce; reduced visibility alone cannot make all ranking censorship.
+- Relevance ranking may organise contest, while authority or engagement metrics can recursively convert prior visibility and institutional standing into future visibility.
+- A self-reinforcing ordering is still not sufficient: distributed popularity feedback without consequential selective control may be epistemic inequality rather than censorship.
+- Censorial character strengthens where ranking rules selectively and consequentially burden contestability, especially where the channel is dominant, substitutes are weak, or an inherited ordering is recursively encoded.
+- The case therefore supplies a lower bound on "control": not every feedback loop in communication is censorial.
+
+Support: `gillespie2022`, `howardkira2026`, `pasquale2015`.
+
+## 6.4 Moderation
+
+- Removal is an exclusion operation, but operational family does not determine censorial status.
+- Removing a substantive claim directly controls that claim's contestability; removing repeated abuse may instead preserve another participant's practical ability to remain in the contest.
+- A rule excluding claims because they undermine an accepted settlement is structurally different from a rule addressing conduct independently of viewpoint, even if both are transparently and consistently enforced.
+- Hard cases combine governance and contest control: moderation can simultaneously enable participation for some and constrain it for others.
+- Analysis therefore tracks whose contestability changes, by what rule, and in relation to what contest before moving to normative evaluation.
+
+Support: `gillespie2022`, `howardkira2026`.
+
+## 6.5 Counter-speech and saturation
+
+- Large amounts of rebuttal can make an original claim harder to find while remaining ordinary epistemic contest.
+- Flooding with irrelevant, repetitive, or diversionary material can produce the same visibility effect by altering the surrounding field rather than engaging the claim.
+- Hard case: coordinated participants sincerely repeat substantive rebuttals at a scale that also buries the target.
+- Contest and control can then be properties of the same activity in different relations. Censorial character captures the significance of the field-occupation effect without reclassifying disagreement itself as censorship.
+- The key distinction is not volume but whether environmental occupation functions as a shortcut around continued engagement with the target.
+
+Support: `roberts2018`.
+
+## 6.6 Responsive self-censorship
+
+- A participant who stays silent because they expect strong criticism is anticipating contest, not necessarily censorship.
+- A participant who stays silent because expression predictably triggers exclusion, sanction, loss of credentials, access, standing, or comparable participation consequences is responding to altered contestability.
+- Social reputation is a hard middle case: ordinary adverse judgment is unavoidable, but reputational response can become censorially relevant when coupled to consequential institutional or social participation conditions.
+- The participant may perform the immediate exclusion on their own expression while the inducing structure is distributed, inherited, or opaque.
+- This explains self-censorship without inventing an internal censor or treating every act of restraint as censorship.
+
+Support: `weeks2024`, `yuenlee2025`, `kuran1995`.
 
 ---
 
-# 6. Boundary Cases, Uses, and Limits
+# 7. Uses and Limits
 
-## 6.1 Classification sequence
+## Classification sequence
 
-1. Characterise relevant epistemic ordering without assuming a selecting subject; distinguish emergent settlement from explicit aims where possible.
-2. Identify consequential control surface, channel, or resource.
-3. Distinguish contest over merits from changed participation conditions; allow combinations.
-4. Ask how the intervention shifts or stabilises the ordering; do not infer censorship from ordering alone.
-5. Apply boundary factors; preserve ambiguity where warranted.
-6. Identify operational family/families and materially useful descriptive dimensions.
-7. Test shortcut, persistence, inherited settlement, revisability, positional visibility, and reproduction mechanism where relevant; do not infer consent from low overt enforcement.
-8. Move only then to normative, legal, professional, political, or practical evaluation.
+1. Identify the relevant epistemic contest and what is at stake in the ordering.
+2. Identify any change in contestability: presence, reach, representation, or surrounding field.
+3. Ask whether that change is part of engaging/organising the contest or selectively shortcuts it; allow mixtures.
+4. Test selectivity and leverage, including realistic substitutes and position-dependent burdens.
+5. Ask whether an existing ordering has become a condition of future participation.
+6. Where relevant, trace self-censoring response, sedimentation, persistence, and practical revisability.
+7. Only then evaluate lawfulness, ethics, proportionality, necessity, professional appropriateness, or political legitimacy.
 
-## 6.2 Worked stress test: library acquisition
+## Limits
 
-Hypothetical hard case; support for selection boundary: `asheim1953`, `kidd2009`.
-
-- A university research library, the principal local collection, declines an in-remit controversial monograph under a stated methodological-quality policy. Interlibrary loan exists but adds delay/friction; the position is underrepresented locally; no censorial intent is assumed.
-- **Operation**: non-acquisition is local prevention/exclusion, but family classification alone does not establish censorship.
-- **Boundary**: channel control is consequential but partly substitutable; relation to ordering is plausible. The critical uncertainty is mode: professional merits-based selection versus a quality criterion functioning as participation control.
-- Evidence that comparable methodological weaknesses are tolerated for better-established positions strengthens censorial character; consistent cross-position application and low-friction substitutes weaken it.
-- Result: genuinely intermediate on stated facts. Missing evidence is specific—application pattern, substitute burden, channel exclusivity, appeal/revisability—not generic hesitation.
-- Payoff: the framework identifies what would change the classification rather than labelling library selection as censorial or non-censorial by category.
-
-## 6.3 Additional stress tests
-
-- **Editorial rejection**: quality/evidentiary judgment versus consequential channel exclusion.
-- **Search/recommendation ranking**: necessary ordering of attention versus censorial attenuation. Support: `gillespie2022`, `howardkira2026`, `pasquale2015`.
-- **Moderation**: removal/demotion versus ordinary governance. Support: `gillespie2022`, `howardkira2026`.
-- **Counter-speech**: contest versus saturation.
-- **Responsive self-censorship / preference falsification**: ordinary restraint/public-private divergence versus response to censorial participation conditions. Support: `weeks2024`, `yuenlee2025`, `kuran1995`.
-
-## 6.4 Limits
-
-- No quantitative censoriality score; boundary cases may lack a unique correct classification.
-- Framework does not determine lawfulness, ethics, proportionality, necessity, democracy, professional appropriateness, or effectiveness.
-- Does not subsume propaganda, persuasion, education, curation, moderation, criticism, cultural ordering, or social coordination wholesale into censorship.
-- Scarcity, institutional constraints, and selection criteria are not assumed neutral.
-- Taxonomy remains open to empirical revision.
+- No quantitative censoriality score; some boundary cases may lack a unique classification.
+- The framework does not make perpetual openness to contest a normative requirement. Closure can be justified and censorial structure can be normatively defensible.
+- Does not subsume propaganda, persuasion, education, criticism, selection, curation, moderation, cultural ordering, or social coordination wholesale into censorship.
+- Does not assume scarcity, professional criteria, inherited norms, or institutional rules are neutral.
+- Taxonomy remains revisable if recurring cases fit poorly.
 
 ---
 
-# 7. Conclusion
+# 8. Conclusion
 
-- Identify censorship structurally through differential control of participation conditions, not actor identity or evaluative label.
-- Shortcut and sedimentation explain how an ordering may be stabilised and reproduced without continual success in contest or continual overt enforcement.
-- Primary-operation taxonomy, responsive pathway, and boundary analysis classify mechanisms without replacing normative evaluation.
+- Censorship is best understood as shortcutting epistemic contest through selective control of contestability, not by actor identity, intention, prohibition, or moral verdict.
+- This basis explains both overt suppression and distributed or emergent forms while preserving a boundary with ordinary contest, selection, and institutional ordering.
+- Exclusion, attenuation, transformation, and saturation describe where contestability is altered; responsive self-censorship describes one pathway by which the shortcut can be reproduced.
+- Sedimentation explains how initially active control can become routine, infrastructural, position-dependent, and less reliant on overt enforcement.
