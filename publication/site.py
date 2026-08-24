@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Small, deterministic helpers for censorship publication state.
 
-This module deliberately has no network or model dependencies.  The paid compiler
+This module deliberately has no network or model dependencies. The paid compiler
 runs before these helpers are invoked; this code only records provenance and
 updates a staged Pages tree.
 """
@@ -21,6 +21,7 @@ REQUIRED_PROVENANCE = (
     "compiled_prose_sha",
     "backend",
     "model",
+    "target",
     "workflow_run_id",
     "workflow_run_url",
     "publication_channel",
@@ -64,13 +65,18 @@ def write_provenance(args: argparse.Namespace) -> None:
         "compiled_prose_sha": args.compiler_sha,
         "backend": args.backend,
         "model": args.model,
+        "target": args.target,
         "workflow_run_id": args.run_id,
         "workflow_run_url": args.run_url,
         "publication_channel": args.channel,
         "build_timestamp": args.timestamp,
         "requested_temperature": args.requested_temperature,
         "requested_seed": args.requested_seed,
-        "effective_temperature": None if args.effective_temperature == "none" else args.effective_temperature,
+        "effective_temperature": (
+            None
+            if args.effective_temperature == "none"
+            else args.effective_temperature
+        ),
         "effective_seed": None if args.effective_seed == "none" else args.effective_seed,
         "variance_controls_note": args.variance_note,
         "pandoc_version": args.pandoc_version,
@@ -79,7 +85,9 @@ def write_provenance(args: argparse.Namespace) -> None:
     validate_provenance(data, args.channel)
     output = Path(args.output)
     output.parent.mkdir(parents=True, exist_ok=True)
-    output.write_text(json.dumps(data, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+    output.write_text(
+        json.dumps(data, indent=2, sort_keys=True) + "\n", encoding="utf-8"
+    )
 
 
 def _channel_summary(site_root: Path, channel: str) -> dict[str, Any] | None:
@@ -110,12 +118,14 @@ def render_root_index(site_root: Path) -> str:
         compiler = html.escape(str(data["compiled_prose_sha"]))
         built = html.escape(str(data["build_timestamp"]))
         model = html.escape(str(data["model"]))
+        target = html.escape(str(data["target"]))
         cards.append(
             f'<section class="channel"><h2><a href="{channel}/">{label}</a></h2>'
             f"<p>Built {built}</p>"
             f"<dl><dt>source</dt><dd><code>{source[:12]}</code></dd>"
             f"<dt>compiler</dt><dd><code>{compiler[:12]}</code></dd>"
-            f"<dt>model</dt><dd>{model}</dd></dl></section>"
+            f"<dt>model</dt><dd>{model}</dd>"
+            f"<dt>target</dt><dd>{target}</dd></dl></section>"
         )
     return """<!doctype html>
 <html lang="en">
@@ -158,7 +168,9 @@ def update_site(site_root: Path, channel: str, build_dir: Path) -> None:
         shutil.rmtree(target)
     staged.rename(target)
     (site_root / ".nojekyll").touch()
-    (site_root / "index.html").write_text(render_root_index(site_root), encoding="utf-8")
+    (site_root / "index.html").write_text(
+        render_root_index(site_root), encoding="utf-8"
+    )
 
 
 def main() -> None:
@@ -171,6 +183,7 @@ def main() -> None:
     prov.add_argument("--compiler-sha", required=True)
     prov.add_argument("--backend", required=True)
     prov.add_argument("--model", required=True)
+    prov.add_argument("--target", required=True)
     prov.add_argument("--run-id", required=True)
     prov.add_argument("--run-url", required=True)
     prov.add_argument("--channel", choices=CHANNELS, required=True)

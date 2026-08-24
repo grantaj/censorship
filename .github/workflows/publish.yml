@@ -1,5 +1,8 @@
 name: Publish compiled essay
 
+# Publication is intentionally keyless and separate from paid compilation. The
+# operator chooses a channel and target; this workflow promotes the newest
+# successful retained candidate for that target.
 on:
   workflow_dispatch:
     inputs:
@@ -10,252 +13,259 @@ on:
         options:
           - draft
           - release
-      source_ref:
-        description: Censorship branch, tag, or SHA to compile (release must be main)
+      target:
+        description: Target to publish from its latest successful compilation
         required: true
-        default: main
-        type: string
-      confirm_paid_run:
-        description: I approve this paid compiled-prose run
-        required: true
-        default: false
-        type: boolean
+        type: choice
+        default: journal_academic
+        options:
+          - journal_academic
+          - magazine_general
+          - explain_like_im_5
 
-# Manual publication is serialized so two successful builds cannot race while
-# updating the shared gh-pages branch.
+permissions:
+  contents: read
+  actions: read
+
 concurrency:
   group: censorship-publication
   cancel-in-progress: false
 
-permissions:
-  contents: read
-
-env:
-  COMPILED_PROSE_SHA: c6dc868a13c147812478ca9249aee9454838bf13
-  OPENAI_MODEL: gpt-5
-  OPENAI_TEMPERATURE: "0.2"
-  OPENAI_SEED: "42"
-
 jobs:
-  guard:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Enforce explicit paid-run and trusted-workflow gates
-        shell: bash
-        env:
-          WORKFLOW_REF: ${{ github.ref }}
-          CONFIRM_PAID_RUN: ${{ inputs.confirm_paid_run }}
-          PUBLICATION_CHANNEL: ${{ inputs.channel }}
-          SOURCE_REF: ${{ inputs.source_ref }}
-        run: |
-          set -euo pipefail
-          if [[ "$WORKFLOW_REF" != "refs/heads/main" ]]; then
-            echo "::error::Run this workflow from main so publication code is trusted."
-            exit 2
-          fi
-          if [[ "$CONFIRM_PAID_RUN" != "true" ]]; then
-            echo "::error::Paid compilation was not explicitly approved. No provider call will be made."
-            exit 3
-          fi
-          if [[ "$PUBLICATION_CHANNEL" == "release" && "$SOURCE_REF" != "main" ]]; then
-            echo "::error::Release publication is restricted to source_ref=main."
-            exit 4
-          fi
-
-  compile:
-    needs: guard
+  assemble:
+    if: ${{ github.actor == github.repository_owner && github.ref == 'refs/heads/main' }}
     runs-on: ubuntu-latest
     outputs:
-      source_sha: ${{ steps.inputs.outputs.source_sha }}
-      compiler_sha: ${{ steps.inputs.outputs.compiler_sha }}
-    environment: paid-compile
+      source_sha: ${{ steps.candidate.outputs.source_sha }}
     permissions:
       contents: read
+      actions: read
     steps:
       - name: Check out trusted publication infrastructure
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: ${{ github.sha }}
           path: infra
           persist-credentials: false
 
-      - name: Check out selected conceptual source as data only
-        uses: actions/checkout@v4
+      - name: Resolve latest successful retained candidate
+        id: retained
+        uses: actions/github-script@v8
+        env:
+          TARGET_ID: ${{ inputs.target }}
         with:
-          # A release is compiled from the exact trusted main commit that
-          # dispatched this workflow; drafts may select another source ref.
-          ref: ${{ inputs.channel == 'release' && github.sha || inputs.source_ref }}
-          path: source-input
-          persist-credentials: false
-          sparse-checkout: |
-            outline.md
-            references.bib
-          sparse-checkout-cone-mode: false
+          script: |
+            const { owner, repo } = context.repo;
+            const artifacts = await github.paginate(
+              github.rest.actions.listArtifactsForRepo,
+              { owner, repo, per_page: 100 }
+            );
+            const prefix = `censorship-candidate-${process.env.TARGET_ID}-`;
+            let newest = null;
+            for (const artifact of artifacts) {
+              if (
+                artifact.expired ||
+                !artifact.name.startsWith(prefix) ||
+                !artifact.workflow_run?.id
+              ) {
+                continue;
+              }
+              const { data: run } = await github.rest.actions.getWorkflowRun({
+                owner,
+                repo,
+                run_id: artifact.workflow_run.id,
+              });
+              if (
+                run.conclusion !== "success" ||
+                run.event !== "workflow_dispatch" ||
+                run.path !== ".github/workflows/compile.yml"
+              ) {
+                continue;
+              }
+              if (
+                !newest ||
+                Date.parse(run.created_at) > Date.parse(newest.run.created_at) ||
+                (run.created_at === newest.run.created_at && run.id > newest.run.id)
+              ) {
+                newest = { artifact, run };
+              }
+            }
+            if (!newest) {
+              core.setFailed(
+                `No successful retained compilation exists for target ${process.env.TARGET_ID}. ` +
+                "Run Compile essay candidate successfully first."
+              );
+              return;
+            }
+            core.info(
+              `Publishing ${process.env.TARGET_ID} from compilation run ${newest.run.id} ` +
+              `(${newest.artifact.name}).`
+            );
+            core.setOutput("run-id", String(newest.run.id));
+            core.setOutput("artifact", newest.artifact.name);
 
-      - name: Check out pinned compiled-prose
-        uses: actions/checkout@v4
+      - name: Download retained candidate
+        uses: actions/download-artifact@v4
         with:
-          repository: grantaj/compiled-prose
-          ref: ${{ env.COMPILED_PROSE_SHA }}
-          path: compiler
-          persist-credentials: false
+          name: ${{ steps.retained.outputs.artifact }}
+          path: candidate
+          run-id: ${{ steps.retained.outputs.run-id }}
+          github-token: ${{ github.token }}
+          repository: ${{ github.repository }}
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
-          python-version: "3.12"
+          python-version: "3.11"
 
-      - name: Resolve and validate exact inputs
-        id: inputs
-        shell: bash
+      - name: Validate retained candidate and release source
+        id: candidate
         env:
           PUBLICATION_CHANNEL: ${{ inputs.channel }}
-          TRUSTED_MAIN_SHA: ${{ github.sha }}
-        run: |
-          set -euo pipefail
-          source_sha=$(git -C source-input rev-parse HEAD)
-          compiler_sha=$(git -C compiler rev-parse HEAD)
-          if [[ "$compiler_sha" != "$COMPILED_PROSE_SHA" ]]; then
-            echo "::error::Compiler checkout did not resolve to the pinned SHA."
-            exit 10
-          fi
-          if [[ "$PUBLICATION_CHANNEL" == "release" && "$source_sha" != "$TRUSTED_MAIN_SHA" ]]; then
-            echo "::error::Release source did not resolve to the trusted workflow main commit."
-            exit 11
-          fi
-          for source_file in outline.md references.bib; do
-            mode_type=$(git -C source-input ls-tree "$source_sha" -- "$source_file" | awk '{print $1 " " $2}')
-            if [[ "$mode_type" != "100644 blob" && "$mode_type" != "100755 blob" ]]; then
-              echo "::error::Selected source $source_file must be a regular Git blob, not a symlink or special entry."
-              exit 12
-            fi
-            if [[ -L "source-input/$source_file" ]]; then
-              echo "::error::Selected source $source_file resolved to a symlink."
-              exit 12
-            fi
-          done
-          if [[ ! -s source-input/outline.md ]]; then
-            echo "::error::Selected source ref has no non-empty outline.md."
-            exit 13
-          fi
-          if [[ ! -f source-input/references.bib ]]; then
-            echo "::error::Selected source ref has no references.bib."
-            exit 14
-          fi
-          echo "source_sha=$source_sha" >> "$GITHUB_OUTPUT"
-          echo "compiler_sha=$compiler_sha" >> "$GITHUB_OUTPUT"
-
-      - name: Verify API credential is configured
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        shell: bash
-        run: |
-          if [[ -z "${OPENAI_API_KEY:-}" ]]; then
-            echo "::error::OPENAI_API_KEY is not configured; no provider call was made."
-            exit 15
-          fi
-
-      - name: Install compiler dependency
-        run: python -m pip install --disable-pip-version-check -r compiler/requirements.txt
-
-      - name: Compile full prose pipeline
-        id: compile
-        continue-on-error: true
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          TARGET_ID: ${{ inputs.target }}
+          CANDIDATE_RUN_ID: ${{ steps.retained.outputs.run-id }}
+        working-directory: infra
         shell: bash
         run: |
           set -euo pipefail
-          # The compiler repository may contain old generated build products.
-          # Always remove them so every approved run executes the full pipeline.
-          make -C compiler clobber
-          make -C compiler \
-            BACKEND=openai \
-            IN="$GITHUB_WORKSPACE/source-input/outline.md" \
-            OPENAI_MODEL="$OPENAI_MODEL" \
-            OPENAI_TEMPERATURE="$OPENAI_TEMPERATURE" \
-            OPENAI_SEED="$OPENAI_SEED" \
-            final
+          python - <<'PY'
+          import json
+          import os
+          import re
+          from pathlib import Path
 
-      - name: Summarize compiler failure
-        if: steps.compile.outcome == 'failure'
-        shell: bash
-        run: |
-          {
-            echo "## compiled-prose failed"
-            echo
-            echo "No publication state was modified."
-            echo
-            for diagnostic in compiler/build/errors/*.md; do
-              [[ -e "$diagnostic" ]] || continue
-              echo "### $(basename "$diagnostic")"
-              cat "$diagnostic"
-              echo
-            done
-          } >> "$GITHUB_STEP_SUMMARY"
+          root = Path("../candidate")
+          metadata_path = root / "metadata.json"
+          final_tex = root / "build/final.tex"
+          outline = root / "source/outline.md"
+          bibliography = root / "source/references.bib"
+          for required in (metadata_path, final_tex, outline, bibliography):
+              if not required.is_file():
+                  raise SystemExit(f"candidate is incomplete: missing {required}")
 
-      - name: Upload compiler output and diagnostics
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: compiled-prose-${{ github.run_id }}
-          path: compiler/build/
-          if-no-files-found: warn
-          retention-days: 14
+          metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
+          required_fields = {
+              "schema",
+              "censorship_source_sha",
+              "requested_source_ref",
+              "compiled_prose_sha",
+              "backend",
+              "model",
+              "target",
+              "workflow_run_id",
+              "workflow_run_url",
+              "compiled_at",
+              "requested_temperature",
+              "requested_seed",
+              "effective_temperature",
+              "effective_seed",
+              "variance_controls_note",
+              "openai_sdk_version",
+          }
+          missing = sorted(required_fields - metadata.keys())
+          if missing:
+              raise SystemExit("candidate metadata missing: " + ", ".join(missing))
+          if metadata["schema"] != "censorship-compiled-candidate/1":
+              raise SystemExit("candidate metadata has an unsupported schema")
+          if metadata["backend"] != "openai":
+              raise SystemExit("candidate backend is not supported for publication")
+          if metadata["target"] != os.environ["TARGET_ID"]:
+              raise SystemExit("candidate target does not match requested publication target")
+          if str(metadata["workflow_run_id"]) != os.environ["CANDIDATE_RUN_ID"]:
+              raise SystemExit("candidate run metadata does not match the retained workflow run")
+          for key in ("censorship_source_sha", "compiled_prose_sha"):
+              if not re.fullmatch(r"[0-9a-f]{40}", str(metadata[key])):
+                  raise SystemExit(f"candidate {key} is not a full Git SHA")
+          if os.environ["PUBLICATION_CHANNEL"] == "release":
+              if metadata["requested_source_ref"] != "main":
+                  raise SystemExit("release publication requires a candidate compiled from source_ref=main")
+              for candidate_path, current_path in (
+                  (outline, Path("outline.md")),
+                  (bibliography, Path("references.bib")),
+              ):
+                  if candidate_path.read_bytes() != current_path.read_bytes():
+                      raise SystemExit(
+                          f"release candidate {candidate_path.name} does not match current main"
+                      )
 
-      - name: Stop after compiler failure
-        if: steps.compile.outcome == 'failure'
-        run: exit 1
+          output = Path(os.environ["GITHUB_OUTPUT"])
+          with output.open("a", encoding="utf-8") as handle:
+              for key, value in {
+                  "source_sha": metadata["censorship_source_sha"],
+                  "compiler_sha": metadata["compiled_prose_sha"],
+                  "model": metadata["model"],
+                  "compile_run_id": str(metadata["workflow_run_id"]),
+                  "compile_run_url": metadata["workflow_run_url"],
+                  "compiled_at": metadata["compiled_at"],
+                  "requested_temperature": metadata["requested_temperature"],
+                  "requested_seed": metadata["requested_seed"],
+                  "effective_temperature": "none" if metadata["effective_temperature"] is None else metadata["effective_temperature"],
+                  "effective_seed": "none" if metadata["effective_seed"] is None else metadata["effective_seed"],
+                  "variance_note": metadata["variance_controls_note"],
+                  "openai_sdk_version": metadata["openai_sdk_version"],
+              }.items():
+                  print(f"{key}={value}", file=handle)
+          PY
 
       - name: Install Pandoc
         run: |
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends pandoc
+          pandoc --version
 
-      - name: Record provenance and render HTML
+      - name: Render selected candidate and record provenance
         env:
           PUBLICATION_CHANNEL: ${{ inputs.channel }}
-          SOURCE_SHA: ${{ steps.inputs.outputs.source_sha }}
-          COMPILED_PROSE_SHA: ${{ steps.inputs.outputs.compiler_sha }}
-          WORKFLOW_RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          TARGET_ID: ${{ inputs.target }}
+          SOURCE_SHA: ${{ steps.candidate.outputs.source_sha }}
+          COMPILED_PROSE_SHA: ${{ steps.candidate.outputs.compiler_sha }}
+          WORKFLOW_RUN_URL: ${{ steps.candidate.outputs.compile_run_url }}
+          BUILD_TIMESTAMP: ${{ steps.candidate.outputs.compiled_at }}
+          OPENAI_MODEL: ${{ steps.candidate.outputs.model }}
+          OPENAI_TEMPERATURE: ${{ steps.candidate.outputs.requested_temperature }}
+          OPENAI_SEED: ${{ steps.candidate.outputs.requested_seed }}
+          EFFECTIVE_TEMPERATURE: ${{ steps.candidate.outputs.effective_temperature }}
+          EFFECTIVE_SEED: ${{ steps.candidate.outputs.effective_seed }}
+          VARIANCE_NOTE: ${{ steps.candidate.outputs.variance_note }}
+          OPENAI_SDK_VERSION: ${{ steps.candidate.outputs.openai_sdk_version }}
+          COMPILE_RUN_ID: ${{ steps.candidate.outputs.compile_run_id }}
         shell: bash
         run: |
           set -euo pipefail
-          export BUILD_TIMESTAMP="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
           pandoc_version=$(pandoc --version | head -n1)
-          openai_sdk_version=$(python -c 'import openai; print(openai.__version__)')
+          infra/publication/render.sh \
+            candidate/build/final.tex \
+            candidate/source/references.bib \
+            publication-build
           python infra/publication/site.py provenance \
             --output publication-build/provenance.json \
             --source-sha "$SOURCE_SHA" \
             --compiler-sha "$COMPILED_PROSE_SHA" \
             --backend openai \
             --model "$OPENAI_MODEL" \
-            --run-id "${{ github.run_id }}" \
+            --target "$TARGET_ID" \
+            --run-id "$COMPILE_RUN_ID" \
             --run-url "$WORKFLOW_RUN_URL" \
             --channel "$PUBLICATION_CHANNEL" \
             --timestamp "$BUILD_TIMESTAMP" \
             --requested-temperature "$OPENAI_TEMPERATURE" \
             --requested-seed "$OPENAI_SEED" \
-            --effective-temperature none \
-            --effective-seed none \
-            --variance-note "compiled-prose ignores temperature for gpt-5 and seed for the Responses API" \
+            --effective-temperature "$EFFECTIVE_TEMPERATURE" \
+            --effective-seed "$EFFECTIVE_SEED" \
+            --variance-note "$VARIANCE_NOTE" \
             --pandoc-version "$pandoc_version" \
-            --openai-sdk-version "$openai_sdk_version"
-          infra/publication/render.sh \
-            compiler/build/final.tex \
-            source-input/references.bib \
-            publication-build
+            --openai-sdk-version "$OPENAI_SDK_VERSION"
 
-      - name: Upload rendered publication
+      - name: Upload rendered publication candidate
         uses: actions/upload-artifact@v4
         with:
-          name: publication-${{ github.run_id }}
+          name: censorship-publication-${{ github.run_id }}
           path: publication-build/
           if-no-files-found: error
-          retention-days: 14
+          retention-days: 90
 
   release-approval:
     if: inputs.channel == 'release'
-    needs: compile
+    needs: assemble
     runs-on: ubuntu-latest
     environment: publication-release
     steps:
@@ -263,25 +273,26 @@ jobs:
 
   publish:
     needs:
-      - compile
+      - assemble
       - release-approval
     if: >-
       always() &&
-      needs.compile.result == 'success' &&
+      needs.assemble.result == 'success' &&
       (inputs.channel == 'draft' || needs.release-approval.result == 'success')
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      actions: read
     steps:
       - name: Check out trusted publication updater
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: ${{ github.sha }}
           path: infra
           persist-credentials: false
 
       - name: Check out repository for gh-pages update
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: main
           path: site-repo
@@ -300,10 +311,10 @@ jobs:
             git rm -rf --ignore-unmatch .
           fi
 
-      - name: Download successful rendered build
+      - name: Download rendered publication candidate
         uses: actions/download-artifact@v4
         with:
-          name: publication-${{ github.run_id }}
+          name: censorship-publication-${{ github.run_id }}
           path: publication-build
 
       - name: Replace only requested publication channel
@@ -315,12 +326,12 @@ jobs:
             --channel "$PUBLICATION_CHANNEL" \
             --build-dir publication-build
 
-      - name: Commit and publish transactionally
+      - name: Commit publication transactionally
         shell: bash
         working-directory: site-repo
         env:
           PUBLICATION_CHANNEL: ${{ inputs.channel }}
-          SOURCE_SHA: ${{ needs.compile.outputs.source_sha }}
+          SOURCE_SHA: ${{ needs.assemble.outputs.source_sha }}
         run: |
           set -euo pipefail
           if [[ ! "$SOURCE_SHA" =~ ^[0-9a-f]{40}$ ]]; then
@@ -339,5 +350,6 @@ jobs:
           {
             echo "## Published $PUBLICATION_CHANNEL"
             echo
+            echo "Target: ${{ inputs.target }}"
             echo "Only docs/$PUBLICATION_CHANNEL/ was replaced; the other channel was preserved."
           } >> "$GITHUB_STEP_SUMMARY"

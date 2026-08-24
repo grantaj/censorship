@@ -16,7 +16,7 @@ def render_env() -> dict[str, str]:
             "SOURCE_SHA": "a" * 40,
             "COMPILED_PROSE_SHA": "b" * 40,
             "WORKFLOW_RUN_URL": "https://example.invalid/run/1",
-            "BUILD_TIMESTAMP": "2026-08-21T00:00:00Z",
+            "BUILD_TIMESTAMP": "2026-08-24T00:00:00Z",
         }
     )
     return env
@@ -24,7 +24,7 @@ def render_env() -> dict[str, str]:
 
 class WorkflowHardeningTests(unittest.TestCase):
     def test_selected_source_rejects_symlinks_and_full_pipeline_is_clean(self) -> None:
-        workflow = (ROOT / ".github/workflows/publish.yml").read_text(encoding="utf-8")
+        workflow = (ROOT / ".github/workflows/compile.yml").read_text(encoding="utf-8")
         self.assertIn('mode_type=$(git -C source-input ls-tree "$source_sha"', workflow)
         self.assertIn('[[ -L "source-input/$source_file" ]]', workflow)
         self.assertIn("make -C compiler clobber", workflow)
@@ -32,6 +32,27 @@ class WorkflowHardeningTests(unittest.TestCase):
             workflow.index("make -C compiler clobber"),
             workflow.index("make -C compiler \\\n            BACKEND=openai"),
         )
+        self.assertIn("VALIDATE_LATEX_STAGES=1", workflow)
+        self.assertIn("make -C compiler validate-latex", workflow)
+
+    def test_failure_artifact_cannot_match_publish_candidate_prefix(self) -> None:
+        compile_workflow = (ROOT / ".github/workflows/compile.yml").read_text(
+            encoding="utf-8"
+        )
+        publish_workflow = (ROOT / ".github/workflows/publish.yml").read_text(
+            encoding="utf-8"
+        )
+        self.assertIn("name: censorship-failure-", compile_workflow)
+        self.assertIn("name: censorship-candidate-", compile_workflow)
+        self.assertIn("const prefix = `censorship-candidate-", publish_workflow)
+
+    def test_release_approval_precedes_write_job(self) -> None:
+        workflow = (ROOT / ".github/workflows/publish.yml").read_text(encoding="utf-8")
+        approval = workflow.index("release-approval:")
+        publish = workflow.index("\n  publish:", approval)
+        self.assertLess(approval, publish)
+        self.assertIn("needs.release-approval.result == 'success'", workflow)
+        self.assertIn("contents: write", workflow[publish:])
 
     @unittest.skipUnless(shutil.which("pandoc"), "pandoc is not installed")
     def test_real_pandoc_resolves_citation_and_uses_native_math(self) -> None:
