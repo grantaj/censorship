@@ -145,10 +145,9 @@ Support: `roberts2018`.
 
 ## 3.5 Responsive self-censorship: response/reproduction pathway
 
-- Not a fifth primary family: environmental conditions recruit the participant as proximate performer.
-- Participant alters, withholds, or constrains expression in response to anticipated consequences; the act usually instantiates exclusion, attenuation, or transformation on the participant's own expression.
+- Not a fifth primary family: a response pathway in which prevailing conditions elicit participant action and the participant becomes proximate performer.
+- Withholding, constraining, or altering expression usually instantiates exclusion, attenuation, or transformation on the participant's own expression.
 - Sources may include sanctions, incentives, norms, prior enforcement, opaque rules, learned expectations, or other environmental cues; no conscious inducing agent required.
-- Layer distinction: environmental conditions elicit the response; the participant then performs the primary operation.
 - Preference falsification is related but not identical; neither preference falsification nor ordinary private restraint is automatically censorial.
 
 Support: `weeks2024`, `yuenlee2025`, `kuran1995`.
@@ -182,7 +181,7 @@ Dimensions describe context; they are not operational families and need not be i
 
 # 5. Persistence, Sedimentation, and Infrastructure
 
-- Possible progression: selective control creates a shortcut; repeated/embedded participation controls sediment into infrastructure/routines; sedimented conditions reproduce the ordering with less repeated overt intervention.
+- Possible progression: where selective control reduces reliance on contest, a shortcut arises; repeated/embedded participation controls may sediment into infrastructure/routines, allowing reproduction with less repeated overt intervention.
 - Censorial control can embed in ranking, recommendation, classification, professional routines, archives, access rules, and other infrastructure. Support: `bowkerstar1999`, `star1999`, `scott1998`, `pasquale2015`.
 - Sedimentation names persistence of earlier control/settlement after originating actors and arguments recede; it is not an independent censorial operation.
 - Later participants may inherit both an epistemic ordering and participation conditions that reproduce it.
@@ -210,13 +209,14 @@ Dimensions describe context; they are not operational families and need not be i
 
 ## 6.2 Worked stress test: library acquisition
 
-Same surface act can classify differently; support for selection boundary: `asheim1953`, `kidd2009`.
+Hypothetical hard case; support for selection boundary: `asheim1953`, `kidd2009`.
 
-- **Ordinary-selection variant**: finite-budget library declines an in-remit controversial title under criteria applied across viewpoints; comparable access exists elsewhere. Differential treatment exists, but consequential channel control and ordering relation are weak: weak or no censorial character.
-- **Censorial variant**: effectively exclusive relevant collection repeatedly excludes one position despite comparable fit under stated acquisition criteria and absent substitutes. Same act now constitutes consequential exclusion tied to relative standing: stronger censorial character without requiring censorial intent.
-- **Hard middle**: professional quality criteria partly track an inherited settlement. Classification turns on whether they principally evaluate merits or function as participation control making a position systematically inadmissible.
-- Name unresolved facts: application pattern, substitutability, channel exclusivity, relation of criterion to standing/viewpoint, appeal/revisability.
-- Payoff: classify the structural relation, not “library selection” as a category.
+- A university research library, the principal local collection, declines an in-remit controversial monograph under a stated methodological-quality policy. Interlibrary loan exists but adds delay/friction; the position is underrepresented locally; no censorial intent is assumed.
+- **Operation**: non-acquisition is local prevention/exclusion, but family classification alone does not establish censorship.
+- **Boundary**: channel control is consequential but partly substitutable; relation to ordering is plausible. The critical uncertainty is mode: professional merits-based selection versus a quality criterion functioning as participation control.
+- Evidence that comparable methodological weaknesses are tolerated for better-established positions strengthens censorial character; consistent cross-position application and low-friction substitutes weaken it.
+- Result: genuinely intermediate on stated facts. Missing evidence is specific—application pattern, substitute burden, channel exclusivity, appeal/revisability—not generic hesitation.
+- Payoff: the framework identifies what would change the classification rather than labelling library selection as censorial or non-censorial by category.
 
 ## 6.3 Additional stress tests
 
