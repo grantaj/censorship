@@ -44,7 +44,6 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  COMPILED_PROSE_SHA: a153c2b19f8b95ba5063947aeeccb072ba862bf6
   OPENAI_TEMPERATURE: "0.2"
   OPENAI_SEED: "42"
   OPENAI_MAX_OUTPUT_TOKENS: "10000"
@@ -103,11 +102,13 @@ jobs:
             references.bib
           sparse-checkout-cone-mode: false
 
-      - name: Check out pinned compiled-prose
+      # Intentionally follow compiled-prose main while the compiler is under active development.
+      # The resolved compiler commit is retained in candidate metadata for provenance.
+      - name: Check out compiled-prose main
         uses: actions/checkout@v7
         with:
           repository: grantaj/compiled-prose
-          ref: ${{ env.COMPILED_PROSE_SHA }}
+          ref: main
           path: compiler
           persist-credentials: false
 
@@ -122,10 +123,6 @@ jobs:
           set -euo pipefail
           source_sha=$(git -C source-input rev-parse HEAD)
           compiler_sha=$(git -C compiler rev-parse HEAD)
-          if [[ "$compiler_sha" != "$COMPILED_PROSE_SHA" ]]; then
-            echo "::error::Compiler checkout did not resolve to the pinned SHA."
-            exit 10
-          fi
           for source_file in outline.md references.bib; do
             mode_type=$(git -C source-input ls-tree "$source_sha" -- "$source_file" | awk '{print $1 " " $2}')
             if [[ "$mode_type" != "100644 blob" && "$mode_type" != "100755 blob" ]]; then
@@ -155,7 +152,7 @@ jobs:
           esac
           target_style="prompts/targets/$TARGET_ID.md"
           if [[ ! -f "compiler/$target_style" ]]; then
-            echo "::error::Pinned compiler lacks target $target_style."
+            echo "::error::Compiler lacks target $target_style."
             exit 16
           fi
           echo "source_sha=$source_sha" >> "$GITHUB_OUTPUT"
