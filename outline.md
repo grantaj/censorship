@@ -11,11 +11,11 @@
 
 - **Epistemic ordering**: relative standing of claims, topics, representations, or speakers by credibility, legitimacy, admissibility, visibility, salience, or entitlement to consideration.
 - **Epistemic contest**: attempts to change an ordering through claims, reasons, evidence, interpretation, criticism, rebuttal, or comparison.
-- **Contestability**: practical capacity of a claim, representation, or speaker to enter, remain in, be encountered within, and matter to that contest.
-- **Epistemic control**: intervention in conditions of contestability rather than merely another contribution to the contest.
-- **Censorship**: selective epistemic control that shortcuts contest by differentially altering contestability. The shortcut may be deliberate, institutional, distributed, emergent, or accidental; successful suppression is not required.
+- **Contestability**: practical opportunity for a claim, representation, or speaker to enter, remain in, be encountered, be represented, and receive consideration within that contest.
+- **Epistemic control**: alteration of conditions of contestability rather than change produced merely through engagement with what is at issue.
+- **Censorship**: selective epistemic control that shortcuts contest by differentially altering contestability. Selectivity describes the differential structure; it does not require a selecting subject. The shortcut may be deliberate, institutional, distributed, emergent, or accidental; successful suppression is not required.
 - **Censorial character**: strength and significance of the selective alteration of contestability in mixed or boundary cases; not a moral judgment or quantitative score.
-- **Sedimentation**: embedding of a censorial shortcut in rules, classifications, rankings, routines, infrastructure, expectations, or norms so that altered contestability can persist after originating actors or reasons recede.
+- **Sedimentation**: persistence or embedding of a censorial shortcut in rules, classifications, rankings, routines, infrastructure, expectations, or norms so that altered contestability can outlast particular interventions, actors, or reasons.
 
 Conceptual hierarchy:
 
@@ -65,14 +65,14 @@ Support: structural/constitutive boundary `muller2004`, `freshwater2004`, `bunn2
 - Contest leaves an ordering exposed to challenge; maintaining it may require continued success in argument, evidence, criticism, and comparison.
 - Control of contestability provides another route: prevent, burden, reshape, or overwhelm participation so that some contest is bypassed, pre-empted, or displaced.
 - This is the censorial shortcut. Motive does not define it: the same structural relation can arise from malevolent suppression, benevolent coordination, professional routines, optimisation, inherited convention, distributed behaviour, or path dependence.
-- Mechanism and success are distinct. A failed ban remains censorial because it controls contestability as a shortcut even if the ordering is not stabilised or the target gains attention.
+- Mechanism and success are distinct. A failed ban remains censorial because its mechanism bypasses contest by controlling contestability even if it fails to stabilise the ordering or instead increases attention to the target.
 - Where the shortcut succeeds, reproduction of an ordering becomes less dependent on continued victory within contest.
 
-## 2.3 Boundary: warranted closure versus censorial closure
+## 2.3 Boundary: organising contest versus shortcutting it
 
-Three questions organise difficult cases; none is a mechanical test.
+Three questions organise difficult cases; none is a mechanical test or normative verdict.
 
-1. **Relation to contest**: is disadvantage produced through engagement with the claim's reasons/evidence/merits, or by changing the practical conditions under which it can be engaged at all?
+1. **Relation to contest**: to what extent is disadvantage produced through engagement with the claim's reasons/evidence/merits, and to what extent by changing the practical conditions under which it can be engaged at all?
 2. **Selectivity and leverage**: does the relevant rule, resource, channel, sanction, ranking, or norm differentially and consequentially alter contestability, given realistic substitutes?
 3. **Recursive closure**: does an existing ordering itself become a condition of future participation, so that challenging the settlement requires first passing through rules that reproduce it?
 
