@@ -75,6 +75,7 @@ Support: structural/constitutive boundary `muller2004`, `freshwater2004`, `bunn2
 - **Simple expression**: censorship is a way of **winning an argument without fully having the argument**.
 - "Winning" means obtaining or preserving the practical ordering that would otherwise remain exposed to challenge, not necessarily persuading anyone; the preferred state is often an incumbent or apparently settled one.
 - The shortcut changes the conditions of contest so that a challenge is prevented, burdened, reshaped, or overwhelmed rather than defeated entirely within the contest. This matters especially where there is inertia or unwillingness to reopen a settlement perceived as resolved.
+- Purpose or justification does not define the shortcut: the same structural relation can arise in suppression, protection, coordination, professional practice, optimisation, inherited convention, or other settings.
 - Censorial intent is a separate question. A shortcut may be deliberate or unintended; likewise its production may be individual, institutional, distributed, or emergent.
 - Action is not required. Selective withholding, non-remediation, non-provision, or non-enforcement can alter contestability, but mere inaction or neglect is insufficient without a relevant baseline and consequential differential.
 - Mechanism and success are distinct. A failed ban remains censorial because its mechanism bypasses contest by controlling contestability even if it fails to stabilise the ordering or instead increases attention to the target.
