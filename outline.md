@@ -53,13 +53,13 @@ Conceptual hierarchy:
 - Library selection and other gatekeeping show why actor, institution, intention, and exclusion alone cannot settle the classification. Support: `asheim1953`, `kidd2009`, `garry2015`, `mooretudor2024`.
 - Access costs, diversion, burial, flooding, and visibility reduction show why control of contestability can matter without literal unavailability. Support: `roberts2018`, `gillespie2022`, `kingpanroberts2017`.
 - The account therefore needs two properties at once: breadth sufficient to capture indirect, distributed, transformative, and anticipatory control; discrimination sufficient not to redescribe ordinary criticism, selection, ranking, editing, or institutional ordering wholesale as censorship.
-- Actor identity, censorial intention, and surface operation cannot supply that boundary consistently. The proposed discriminator is relational: whether a participation condition merely organises how contributions are assessed, or functions as a means of securing or preserving an ordering by making practical participation depend on a contribution's relation to that ordering.
+- Actor identity, censorial intention, and surface operation cannot supply that boundary consistently. The proposed discriminator is relational: whether the relevant result stands through contest while the target remains comparably contestable, or instead depends on altering contestability so that participation control itself functions as the shortcut.
 - The operational taxonomy follows only after that classification. It describes where contestability is altered; it does not determine by itself whether an alteration is censorship.
 
 ## Contribution
 
 1. Recast censorship as shortcutting contest through selective control of contestability, without requiring a single censor, censorial intention, state action, or successful suppression.
-2. Explain the difficult boundary with ordinary selection and institutional ordering by asking what role altered participation conditions play in producing or preserving the ordering, rather than treating role names, motives, or the mere fact of gatekeeping as decisive.
+2. Explain the difficult boundary with ordinary selection and institutional ordering by asking whether the relevant ordering depends on changing a target's contestability, rather than treating role names, motives, merits-engagement, or the mere fact of gatekeeping as decisive.
 3. Organise recurring censorial operations by where contestability is altered: presence, effective reach, representation, or surrounding informational field.
 4. Explain how shortcuts can be deliberate or unintended, realised through action or non-action, and become sedimented, position-dependent, self-reproducing, and less reliant on overt enforcement.
 
@@ -72,9 +72,9 @@ Conceptual hierarchy:
 - Contest operates through reasons, evidence, criticism, interpretation, rebuttal, comparison, expression, representation, and challenges to standing or admissibility.
 - Every real communicative field also structures participation: attention is finite; journals reject; libraries select; platforms rank; editors transform; communities develop norms. Control of contestability is therefore not automatically censorship.
 - Organising a contest can itself exclude, rank, transform, or limit contributions. The central distinction is what work that participation condition does in relation to the ordering under analysis.
-- A participation consequence can remain within contest when it records or implements a result reached through assessment of the contribution: rejection for irrelevance, loss of standing after evidential failure, or correction for representational inaccuracy need not be the means by which a preferred substantive ordering is secured.
-- A censorial shortcut appears where control of participation functions as a means of producing or preserving the favoured or incumbent ordering: the target is prevented, burdened, reshaped, or overwhelmed so that its practical ability to challenge the ordering depends on where it stands relative to that ordering. The shortcut relation does not require the mechanism to succeed.
-- This is not a test of whether anyone considered the merits. A censor can engage a contribution and then suppress it; the suppression remains censorial if control of participation does additional shortcut work.
+- A participation consequence can remain within contest where the adverse judgment would stand even if the target remained comparably contestable: rejection for irrelevance, loss of standing after evidential failure, or correction for representational inaccuracy need not rely on making further participation harder.
+- A censorial shortcut appears where altered contestability is itself the route by which the favoured or incumbent ordering is produced or preserved: the target is prevented, burdened, reshaped, or overwhelmed so that the result depends on changing its practical ability to challenge the ordering. The shortcut relation does not require the mechanism to succeed.
+- This is not a test of whether anyone considered the merits. A censor can engage a contribution and then suppress it; if the practical result relies on the suppression rather than the substantive engagement alone, the suppression still does shortcut work.
 - Nor are declared rules or professional criteria automatically outside the account. A criterion can organise contest, but it can also become part of a shortcut where conformity with an incumbent ordering becomes a condition of effective participation.
 - General participation rules that apply independently of a contribution's position in the ordering under analysis can organise the field without choosing among those positions. Selectivity remains separately required for censorship.
 - The same rule or sequence can contain both relations. Censorial character is therefore capable of degree without requiring a scalar formula.
@@ -96,28 +96,28 @@ Support: structural/constitutive boundary `muller2004`, `freshwater2004`, `bunn2
 
 ## 2.3 Boundary: organising contest versus shortcutting it
 
-The core discriminator is structural and relational: **what work is the change in contestability doing?**
+The core discriminator is structural and relational: **does the relevant result depend on changing the target's contestability?**
 
-- If the participation consequence is downstream of contest or field-relevant assessment, it can remain part of organising the contest even when the consequence is exclusion, demotion, correction, or loss of standing.
-- If control of participation functions as a means of securing or preserving the ordering by making a target's ability to enter, remain, reach others, or be represented depend on its relation to that ordering, the control is doing shortcut work whether or not it ultimately succeeds.
-- "Downstream" is relational rather than merely temporal. A quick gatekeeping decision can still be contest-mediated, while a censor can first rebut a contribution and then use a participation sanction that independently helps prevent renewed challenge.
+- If an adverse judgment would stand while the target remained comparably able to enter, remain, reach others, or be represented, a resulting loss of standing can remain downstream of contest even where a gatekeeper records or implements it.
+- If the mechanism's route to producing or preserving the ordering depends on preventing, burdening, reshaping, or overwhelming the target's participation, altered contestability is doing the shortcut work. This remains true when the mechanism fails to achieve its intended or ordinary effect.
+- The distinction is relational rather than merely temporal. A quick gatekeeping decision can be contest-mediated, while a censor can first rebut a contribution and then impose a participation sanction on which the practical result additionally depends.
 - The distinction therefore does not turn on institutional role, benign purpose, professional justification, or whether the merits were discussed.
 - General participation constraints that do not depend on a contribution's position in the relevant ordering can organise contest without themselves selecting a winner; censorship still requires the separate relation of selectivity.
 
 Three probes organise hard cases without replacing the core discriminator:
 
-1. **Structural role**: is the participation consequence mainly recording or implementing an assessment of the contribution, or does the impairment function as the means of securing or preserving the favoured ordering?
+1. **Dependency on control**: hold the target's contestability fixed. Would the relevant adverse ordering still follow from the contest or assessment, or is altering contestability the mechanism's route to that result? Apply this to the structure of the mechanism, not merely its observed success.
 2. **Counterfactual symmetry**: holding other field-relevant features fixed, would a differently positioned contribution face a comparable participation condition? Asymmetry can reveal that participation depends on relation to the ordering, but does not by itself prove censorship.
 3. **Recursive closure**: has an existing ordering become a condition of future participation, so that challenging the settlement requires first passing through rules or expectations that reproduce it?
 
 Implications:
 
-- Severe or selective-looking gatekeeping is not automatically censorship; the issue is whether the participation condition itself functions to choose or preserve the ordering under analysis.
+- Severe or selective-looking gatekeeping is not automatically censorship; the issue is whether the ordering under analysis relies on changed contestability rather than merely on an adverse judgment reached within contest.
 - Uniform application and benign intention can weaken some suspicions but do not by themselves exclude censorship; a uniformly applied rule can make an inherited ordering self-protecting.
 - Scarcity and institutional remit can justify selection without making criteria neutral or non-censorial by definition.
 - Engagement with reasons, evidence, or representation can produce adverse outcomes without censorship; conversely, such engagement does not immunise a later or parallel participation shortcut.
 - Position-dependent effects are objective features of differential contestability, not merely reports of feeling censored.
-- Competent applications may disagree where facts about the relevant ordering, criterion function, structural role, or counterfactual baseline are uncertain.
+- Competent applications may disagree where facts about the relevant ordering, criterion function, dependency on participation control, or counterfactual baseline are uncertain.
 
 ---
 
@@ -319,7 +319,7 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`, `beagan2022`,
 
 1. Fix the unit of analysis: target contribution or participant; field or channel in which the target participates or ordinarily could participate and through which the mechanism has practical leverage; ordering at stake; and realistic comparator or baseline. Identify these from the concrete mechanism and practical context before classification, including representation, legitimacy, standing, or admissibility where relevant.
 2. Identify any change in contestability: presence, reach, representation, or surrounding field.
-3. Ask what work that change in contestability is doing: is the participation consequence mainly downstream of contest or field-relevant assessment, or does control of participation itself function as the means of securing or preserving the ordering by making effective participation depend on the target's relation to it? This shortcut role does not require success. Allow mixed sequences and analyse different participant relations separately.
+3. Ask whether the relevant result depends on that change in contestability: holding the target's practical opportunity to participate fixed, would the adverse ordering still follow from contest or assessment, or is altered contestability the mechanism's route to securing or preserving it? Apply this to mechanism structure rather than observed success. Allow mixed sequences and analyse different participant relations separately.
 4. Test selectivity and leverage, including realistic substitutes, position-dependent burdens, and where useful counterfactual symmetry across differently positioned contributions.
 5. Describe rather than infer intent, organisation, and action/non-action; none settles classification by itself.
 6. Ask whether an existing ordering has become a condition of future participation.
