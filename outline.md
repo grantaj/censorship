@@ -53,13 +53,13 @@ Conceptual hierarchy:
 - Library selection and other gatekeeping show why actor, institution, intention, and exclusion alone cannot settle the classification. Support: `asheim1953`, `kidd2009`, `garry2015`, `mooretudor2024`.
 - Access costs, diversion, burial, flooding, and visibility reduction show why control of contestability can matter without literal unavailability. Support: `roberts2018`, `gillespie2022`, `kingpanroberts2017`.
 - The account therefore needs two properties at once: breadth sufficient to capture indirect, distributed, transformative, and anticipatory control; discrimination sufficient not to redescribe ordinary criticism, selection, ranking, editing, or institutional ordering wholesale as censorship.
-- Actor identity, censorial intention, and surface operation cannot supply that boundary consistently. The proposed discriminator is relational: whether altered participation conditions engage or organise contest, or selectively shortcut it.
+- Actor identity, censorial intention, and surface operation cannot supply that boundary consistently. The proposed discriminator is relational: whether a participation condition merely organises how contributions are assessed, or itself helps secure or preserve an ordering by making practical participation depend on a contribution's relation to that ordering.
 - The operational taxonomy follows only after that classification. It describes where contestability is altered; it does not determine by itself whether an alteration is censorship.
 
 ## Contribution
 
 1. Recast censorship as shortcutting contest through selective control of contestability, without requiring a single censor, censorial intention, state action, or successful suppression.
-2. Explain the difficult boundary with ordinary selection and institutional ordering by asking how rules and interventions relate to contest, rather than treating role names or motives as decisive.
+2. Explain the difficult boundary with ordinary selection and institutional ordering by asking what role altered participation conditions play in producing or preserving the ordering, rather than treating role names, motives, or the mere fact of gatekeeping as decisive.
 3. Organise recurring censorial operations by where contestability is altered: presence, effective reach, representation, or surrounding informational field.
 4. Explain how shortcuts can be deliberate or unintended, realised through action or non-action, and become sedimented, position-dependent, self-reproducing, and less reliant on overt enforcement.
 
@@ -71,8 +71,12 @@ Conceptual hierarchy:
 
 - Contest operates through reasons, evidence, criticism, interpretation, rebuttal, comparison, expression, representation, and challenges to standing or admissibility.
 - Every real communicative field also structures participation: attention is finite; journals reject; libraries select; platforms rank; editors transform; communities develop norms. Control of contestability is therefore not automatically censorship.
-- The central distinction is relational: does an intervention principally participate in or organise the contest, or does it selectively alter who/what can contest and on what practical terms?
-- The same rule or institution can do both. Censorial character is therefore capable of degree without requiring a scalar formula.
+- Organising a contest can itself exclude, rank, transform, or limit contributions. The central distinction is what work that participation condition does in relation to the ordering under analysis.
+- A participation consequence can remain within contest when it records or implements a result reached through assessment of the contribution: rejection for irrelevance, loss of standing after evidential failure, or correction for representational inaccuracy need not be the means by which a preferred substantive ordering is secured.
+- A censorial shortcut appears where control of participation itself helps produce or preserve the preferred ordering: the target is prevented, burdened, reshaped, or overwhelmed so that its practical ability to challenge the ordering depends on where it stands relative to that ordering.
+- This is not a test of whether anyone considered the merits. A censor can engage a contribution and then suppress it; the suppression remains censorial if control of participation does additional work in securing or preserving the ordering.
+- Nor are declared rules or professional criteria automatically outside the account. A criterion can organise contest, but it can also become part of a shortcut where conformity with an incumbent ordering becomes a condition of effective participation.
+- The same rule or sequence can contain both relations. Censorial character is therefore capable of degree without requiring a scalar formula.
 - Closure may be benign, necessary, professionally justified, or socially useful and still have censorial character. Classification is separate from evaluation.
 
 Support: structural/constitutive boundary `muller2004`, `freshwater2004`, `bunn2015`; selection boundary `asheim1953`, `kidd2009`; power beyond overt coercion `lukes2005`, `foucault1977`.
@@ -91,20 +95,27 @@ Support: structural/constitutive boundary `muller2004`, `freshwater2004`, `bunn2
 
 ## 2.3 Boundary: organising contest versus shortcutting it
 
-Four questions organise difficult cases; none is a mechanical test or normative verdict.
+The core discriminator is causal and relational: **what work is the change in contestability doing?**
 
-1. **Relation to contest**: to what extent is disadvantage produced through engagement with the claim's reasons, evidence, representation, or merits, and to what extent by changing the practical conditions under which it can be engaged at all?
-2. **Selectivity and leverage**: does the relevant rule, resource, channel, sanction, ranking, norm, action, or non-action differentially and consequentially alter contestability, given realistic substitutes?
-3. **Counterfactual symmetry**: would an equivalent impairment affecting a differently positioned claim, representation, or speaker be comparably noticed, tolerated, repaired, enforced, or routed around? Asymmetry can reveal structure but does not by itself prove censorship.
-4. **Recursive closure**: does an existing ordering itself become a condition of future participation, so that challenging the settlement requires first passing through rules that reproduce it?
+- If the participation consequence is downstream of contest or field-relevant assessment, it can remain part of organising the contest even when the consequence is exclusion, demotion, correction, or loss of standing.
+- If control of participation itself helps secure or preserve the ordering by making a target's ability to enter, remain, reach others, or be represented depend on its relation to that ordering, the control is doing shortcut work.
+- "Downstream" is relational rather than merely temporal. A quick gatekeeping decision can still be contest-mediated, while a censor can first rebut a contribution and then use a participation sanction that independently helps prevent renewed challenge.
+- The distinction therefore does not turn on institutional role, benign purpose, professional justification, or whether the merits were discussed.
+
+Three probes organise hard cases without replacing the core discriminator:
+
+1. **Causal role**: is the participation consequence mainly recording or implementing an assessment of the contribution, or does the impairment itself help produce or preserve the preferred ordering?
+2. **Counterfactual symmetry**: holding other field-relevant features fixed, would a differently positioned contribution face a comparable participation condition? Asymmetry can reveal that participation depends on relation to the ordering, but does not by itself prove censorship.
+3. **Recursive closure**: has an existing ordering become a condition of future participation, so that challenging the settlement requires first passing through rules or expectations that reproduce it?
 
 Implications:
 
+- Severe or selective-looking gatekeeping is not automatically censorship; the issue is whether the participation condition itself helps choose or preserve the ordering under analysis.
 - Uniform application and benign intention can weaken some suspicions but do not by themselves exclude censorship; a uniformly applied rule can make an inherited ordering self-protecting.
 - Scarcity and institutional remit can justify selection without making criteria neutral or non-censorial by definition.
-- Unequal outcomes, omissions, bugs, and failures are not censorial merely because their burdens are uneven; the relevant differential must bear on practical contestability in the contest under analysis.
+- Engagement with reasons, evidence, or representation can produce adverse outcomes without censorship; conversely, such engagement does not immunise a later or parallel participation shortcut.
 - Position-dependent effects are objective features of differential contestability, not merely reports of feeling censored.
-- Competent applications may disagree where facts about leverage, substitutability, criterion function, counterfactual baselines, or causal relation are uncertain.
+- Competent applications may disagree where facts about the relevant ordering, criterion function, causal role, or counterfactual baseline are uncertain.
 
 ---
 
@@ -219,8 +230,8 @@ Background on non-overt and infrastructural power: `foucault1977`, `lukes2005`, 
 - Garry's mixed-method study of 120 Ohio public high-school libraries plus 12 librarian interviews found significantly fewer LGBTQ-themed books than titles with other controversial content. Support: `garry2015`.
 - Moore and Tudor found increased hesitancy among school librarians to add potentially controversial materials during a period of heightened book challenges; participants who had not personally experienced a challenge were less likely than those who had to purchase some controversial materials, including books with LGBTQIA+ characters. Support: `mooretudor2024`.
 - These findings do not make non-acquisition self-classifying as censorship. They show a route by which anticipated external challenge can become an internal selection condition, potentially converting environmental pressure into participant-performed exclusion.
-- The boundary remains whether acquisition criteria are principally downstream of epistemic/professional evaluation or function to make some positions harder to enter the collection and thus future contest.
-- Relevant evidence: criterion function, application pattern, realistic substitutes, channel leverage, anticipated consequences, and whether the criteria themselves can be challenged.
+- The boundary is whether non-acquisition is mainly downstream of ordinary collection evaluation, or whether anticipated challenge becomes a participation condition so that exclusion itself helps preserve an ordering from future contest.
+- Relevant evidence: criterion function, application pattern, realistic substitutes, channel leverage, anticipated consequences, and whether the criteria themselves encode the settlement being challenged.
 
 Support: `asheim1953`, `kidd2009`, `garry2015`, `mooretudor2024`.
 
@@ -228,10 +239,10 @@ Support: `asheim1953`, `kidd2009`, `garry2015`, `mooretudor2024`.
 
 - Casadevall and Fang explicitly distinguish ordinary peer review from censorship when controversial claims are aired and rejected through scientific evaluation, while warning that screening for consistency with prevailing dogma can blur that distinction. Support: `casadevallfang2009`.
 - A concrete negative control is the 2003 Nature retraction of Schön, Meng, and Bao's paper after an independent Bell Laboratories investigation reviewed concerns about the validity of the reported device-measurement data. The retraction records that it followed the committee's findings. Support: `beasley2002`, `schoen2003retraction`.
-- Under the framework, this is strong evidence that exclusion or loss of standing need not be censorship: where the adverse outcome is produced through inquiry into the evidential basis of the claim, the operation can remain downstream of contest. This classification is case-specific, not a rule that retraction is inherently non-censorial.
+- Under the framework, the Schön sequence shows why exclusion or loss of standing need not itself do censorial work: the investigation reached an evidential conclusion and the retraction records or implements that result. The adverse participation consequence is downstream of the evidential contest rather than the means by which the claim is defeated.
 - The 2017 *Third World Quarterly* publication of Bruce Gilley's "The Case for Colonialism" supplies the contrasting mixed sequence. The publisher's withdrawal notice states that the article had undergone double-blind peer review in accordance with journal policy and was later withdrawn after the editor received serious and credible threats of violence linked to publication. Support: `gilley2017`, `taylorfrancis2017withdrawal`.
-- The sequence separates relations that are easily collapsed: substantive scholarly criticism is contest; peer review is professional gatekeeping that may itself be part of contest; threats impose participation consequences outside the article's merits; withdrawal controls continuing publication.
-- The analytic task is therefore not to classify "peer review" or "retraction" categorically, but to identify which parts of a sequence engage the claim and which alter the conditions under which it can remain contestable.
+- The sequence separates relations that are easily collapsed: substantive scholarly criticism is contest; peer review is professional gatekeeping that may itself be part of contest; threats impose participation consequences outside the article's merits; withdrawal then changes continuing participation. Those latter conditions can do shortcut work even though scholarly engagement also occurred.
+- The analytic task is therefore not to classify "peer review" or "retraction" categorically, but to ask what role each participation consequence plays in producing or preserving the ordering.
 - Harder cases remain where methodological standards are historically formed inside a dominant theoretical tradition and rival approaches partly contest the standards used to judge their admissibility.
 
 ## 6.3 Editing and translation — representation versus transformation
@@ -240,7 +251,7 @@ Support: `asheim1953`, `kidd2009`, `garry2015`, `mooretudor2024`.
 - Zheng's corpus study of a Chinese translation about EU-Russia relations uses the in-house editor's manuscript and describes the editor both as a textual collaborator who corrects language and translation problems and improves readability, and as making directional revisions of the source author's political evaluations through modification or deletion. Criticism of Russia was generally softened while negative evaluation of the EU was strengthened. Support: `zheng2024`.
 - This gives a same-activity contrast: ordinary editorial transformation and directional alteration of the represented position occur within the same production process rather than being separated by actor or institutional role.
 - The case is useful because the contested contribution is not simply prevented from appearing. A version continues to circulate as a representation of the source while its evaluative stance is altered.
-- The framework therefore asks whether a transformation transparently performs an editorial/representational task or selectively changes the terms on which the target's own position can enter the contest.
+- Ordinary correction can be downstream of fidelity, clarity, or accuracy judgments. Directional substitution does different work when the represented contribution itself is reshaped toward a preferred ordering, reducing the source position's ability to participate on its own terms.
 - Modification and deletion can coexist in the same editorial sequence; operational decomposition remains preferable to classifying "editing" as censorial or non-censorial wholesale.
 - The empirical study supplies the reported revisions and production context; the framework's classification does not depend on adopting the author's definition of censorship or on taking a position on the underlying geopolitics.
 
@@ -306,7 +317,7 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`, `beagan2022`,
 
 1. Fix the unit of analysis: target contribution or participant; field or channel in which the target participates or ordinarily could participate and through which the mechanism has practical leverage; ordering at stake; and realistic comparator or baseline. Identify these from the concrete mechanism and practical context before classification, including representation, legitimacy, standing, or admissibility where relevant.
 2. Identify any change in contestability: presence, reach, representation, or surrounding field.
-3. Ask whether that change is part of engaging/organising the contest or selectively shortcuts it. Where one event changes different participants' contestability in different ways, analyse those relations separately.
+3. Ask what work that change in contestability is doing: is the participation consequence mainly downstream of contest or field-relevant assessment, or does control of participation itself help secure or preserve the ordering by making effective participation depend on the target's relation to it? Allow mixed sequences and analyse different participant relations separately.
 4. Test selectivity and leverage, including realistic substitutes, position-dependent burdens, and where useful counterfactual symmetry across differently positioned contributions.
 5. Describe rather than infer intent, organisation, and action/non-action; none settles classification by itself.
 6. Ask whether an existing ordering has become a condition of future participation.
