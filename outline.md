@@ -7,6 +7,8 @@
 - Structural, descriptive-first analysis: classify censorial structure before asking whether it is lawful, justified, beneficial, harmful, proportionate, or professionally appropriate.
 - Examples are analytic stress tests selected for boundary discrimination, not political case studies or historical survey.
 - Normative bracketing: classification of a mechanism as censorial neither condemns the intervention nor endorses the affected claim, speaker, representation, or cause; classification as non-censorial does neither the converse. Sensitive cases are useful because difficult boundaries between contest, protection, gatekeeping, closure, and suppression are unusually visible there.
+- Conceptual invariant: at its simplest, censorship is a way of **winning an argument without fully having the argument**: obtaining or preserving a preferred, often incumbent, ordering by altering the conditions of contest rather than prevailing through the contest itself.
+- Theory discipline: theoretical development should simplify this idea by exposing its consequences and boundary conditions. New concepts earn their place only if they clarify, test, or compress the shortcut account; avoid self-propelled theoretical accretion.
 
 ## Core conceptual spine
 
@@ -21,6 +23,8 @@
 Conceptual hierarchy:
 
 - Contest is the baseline mechanism by which an epistemic ordering remains exposed to challenge.
+- The intuitive core is rhetorical: censorship changes the conditions of the argument so that a preferred state can be reached or preserved without having to win on the same terms within the contest. Here "argument" is shorthand for the relevant contest, not only propositional debate.
+- Incumbent or settled orderings are an important case because inertia or unwillingness to reopen a matter can make control of contestability a way of preserving the settlement without exposing it to renewed challenge.
 - Control of contestability is the mechanism of censorship; shortcutting contest is the defining relation.
 - Intent, organisation, and action/non-action are independent descriptive dimensions: a shortcut may be deliberate or unintended; produced through individual, institutional, distributed, or emergent processes; and realised through action or selective non-action.
 - Changes in ordering, reduced need for repeated contest, self-censoring responses, sedimentation, and declining overt enforcement are possible consequences or reproduction paths, not additional defining criteria.
@@ -68,9 +72,9 @@ Support: structural/constitutive boundary `muller2004`, `freshwater2004`, `bunn2
 
 ## 2.2 The shortcut
 
-- Contest leaves an ordering exposed to challenge; maintaining it may require continued success in argument, evidence, criticism, comparison, or representation.
-- Control of contestability provides another route: prevent, burden, reshape, or overwhelm participation so that some contest is bypassed, pre-empted, or displaced.
-- This is the censorial shortcut. Purpose or justification does not define it: the same structural relation can arise in suppression, protection, coordination, professional practice, optimisation, inherited convention, or other settings.
+- **Simple expression**: censorship is a way of **winning an argument without fully having the argument**.
+- "Winning" means obtaining or preserving the practical ordering that would otherwise remain exposed to challenge, not necessarily persuading anyone; the preferred state is often an incumbent or apparently settled one.
+- The shortcut changes the conditions of contest so that a challenge is prevented, burdened, reshaped, or overwhelmed rather than defeated entirely within the contest. This matters especially where there is inertia or unwillingness to reopen a settlement perceived as resolved.
 - Censorial intent is a separate question. A shortcut may be deliberate or unintended; likewise its production may be individual, institutional, distributed, or emergent.
 - Action is not required. Selective withholding, non-remediation, non-provision, or non-enforcement can alter contestability, but mere inaction or neglect is insufficient without a relevant baseline and consequential differential.
 - Mechanism and success are distinct. A failed ban remains censorial because its mechanism bypasses contest by controlling contestability even if it fails to stabilise the ordering or instead increases attention to the target.
