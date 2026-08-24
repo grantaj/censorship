@@ -13,17 +13,22 @@
 
 ## Core conceptual spine
 
-- **Epistemic ordering**: relative standing of claims, topics, representations, or speakers by credibility, legitimacy, admissibility, visibility, salience, or entitlement to consideration.
-- **Epistemic contest**: attempts to establish, defend, or change an ordering through claims, reasons, evidence, interpretation, criticism, rebuttal, comparison, representation, or challenges to standing and admissibility. The relevant contest is not limited to propositional truth; it can concern what may be said, shown, recognised, represented, or treated as authoritative.
-- **Contestability**: practical opportunity for a claim, representation, or speaker to enter, remain in, be encountered, be represented, and receive consideration within that contest.
-- **Epistemic control**: alteration of conditions of contestability rather than change produced merely through engagement with what is at issue.
-- **Censorship**: selective epistemic control that shortcuts contest by differentially altering contestability. Selectivity describes a consequential differential in relation to the relevant ordering and realistic alternatives; unequal effects alone are insufficient and no selecting subject is required. Censorship does not require censorial intent, action rather than omission, a single censor, or successful suppression.
+- **Ordering**: relative standing within a field of claims, topics, representations, speakers, or forms of self-presentation by credibility, legitimacy, admissibility, visibility, salience, recognition, or authority.
+- **Contest**: the process through which such standing can be established, defended, or changed through expression, representation, claims, reasons, evidence, interpretation, criticism, rebuttal, comparison, or challenges to standing and admissibility. Contest is not limited to propositional argument: an artwork or form of self-presentation can enter it by being shown, encountered, represented, interpreted, or recognised without asserting a proposition or intending to argue.
+- **Contestability**: practical opportunity for a contribution or participant to enter, remain in, be encountered, be represented, and receive consideration within that field.
+- **Censorship**: selective control of contestability that shortcuts contest. Selectivity describes a consequential differential in relation to the relevant ordering and realistic alternatives; unequal effects alone are insufficient and no selecting subject is required. Censorship does not require censorial intent, action rather than omission, a single censor, or successful suppression.
 - **Censorial character**: strength and significance of the selective alteration of contestability in mixed or boundary cases; not a moral judgment or quantitative score.
 - **Sedimentation**: persistence or embedding of a censorial shortcut in rules, classifications, rankings, routines, infrastructure, expectations, or norms so that altered contestability can outlast particular interventions, actors, or reasons.
 
+Scope and unit of analysis:
+
+- Contest here concerns conditions under which expression, representation, or communicative participation can enter and remain in a field. A material or social inequality is not censorship merely because it indirectly affects someone's power or capacity to communicate; the mechanism under analysis must bear on participation conditions in the specified field.
+- Classification attaches to a specified relation, not to an act, actor, or institution wholesale. Fix before classification: the target contribution or participant; the field or channel in which the target participates or ordinarily could participate and through which the mechanism has practical leverage; the ordering at stake; and a realistic comparator or baseline. These should follow from the concrete mechanism and practical context, not be redrawn after the fact to obtain a preferred classification.
+- One event can instantiate multiple relations. A moderation decision, for example, can constrain the removed contribution while preserving or increasing another participant's opportunity to take part. Analyse those relations separately rather than forcing one global label to cancel the other.
+
 Conceptual hierarchy:
 
-- Contest is the baseline mechanism by which an epistemic ordering remains exposed to challenge.
+- Contest is the baseline mechanism by which an ordering remains exposed to challenge.
 - The intuitive core is rhetorical: censorship changes the conditions of the argument so that a preferred state can be reached or preserved without having to win on the same terms within the contest. Here "argument" is shorthand for the relevant contest, not only propositional debate.
 - Incumbent or settled orderings are an important case because inertia or unwillingness to reopen a matter can make control of contestability a way of preserving the settlement without exposing it to renewed challenge.
 - Control of contestability is the mechanism of censorship; shortcutting contest is the defining relation.
@@ -48,24 +53,24 @@ Conceptual hierarchy:
 - Library selection and other gatekeeping show why actor, institution, intention, and exclusion alone cannot settle the classification. Support: `asheim1953`, `kidd2009`, `garry2015`, `mooretudor2024`.
 - Access costs, diversion, burial, flooding, and visibility reduction show why control of contestability can matter without literal unavailability. Support: `roberts2018`, `gillespie2022`, `kingpanroberts2017`.
 - The account therefore needs two properties at once: breadth sufficient to capture indirect, distributed, transformative, and anticipatory control; discrimination sufficient not to redescribe ordinary criticism, selection, ranking, editing, or institutional ordering wholesale as censorship.
-- Actor identity, censorial intention, and surface operation cannot supply that boundary consistently. The proposed discriminator is relational: whether altered participation conditions engage or organise epistemic contest, or selectively shortcut it.
+- Actor identity, censorial intention, and surface operation cannot supply that boundary consistently. The proposed discriminator is relational: whether altered participation conditions engage or organise contest, or selectively shortcut it.
 - The operational taxonomy follows only after that classification. It describes where contestability is altered; it does not determine by itself whether an alteration is censorship.
 
 ## Contribution
 
-1. Recast censorship as shortcutting epistemic contest through selective control of contestability, without requiring a single censor, censorial intention, state action, or successful suppression.
-2. Explain the difficult boundary with ordinary selection and institutional ordering by asking how rules and interventions relate to epistemic contest, rather than treating role names or motives as decisive.
+1. Recast censorship as shortcutting contest through selective control of contestability, without requiring a single censor, censorial intention, state action, or successful suppression.
+2. Explain the difficult boundary with ordinary selection and institutional ordering by asking how rules and interventions relate to contest, rather than treating role names or motives as decisive.
 3. Organise recurring censorial operations by where contestability is altered: presence, effective reach, representation, or surrounding informational field.
 4. Explain how shortcuts can be deliberate or unintended, realised through action or non-action, and become sedimented, position-dependent, self-reproducing, and less reliant on overt enforcement.
 
 ---
 
-# 2. Shortcutting Epistemic Contest
+# 2. Shortcutting Contest
 
 ## 2.1 Contest, control, and closure
 
-- Contest operates through reasons, evidence, criticism, interpretation, rebuttal, comparison, representation, and challenges to standing or admissibility.
-- Every real epistemic system also structures participation: attention is finite; journals reject; libraries select; platforms rank; editors transform; communities develop norms. Control of contestability is therefore not automatically censorship.
+- Contest operates through reasons, evidence, criticism, interpretation, rebuttal, comparison, expression, representation, and challenges to standing or admissibility.
+- Every real communicative field also structures participation: attention is finite; journals reject; libraries select; platforms rank; editors transform; communities develop norms. Control of contestability is therefore not automatically censorship.
 - The central distinction is relational: does an intervention principally participate in or organise the contest, or does it selectively alter who/what can contest and on what practical terms?
 - The same rule or institution can do both. Censorial character is therefore capable of degree without requiring a scalar formula.
 - Closure may be benign, necessary, professionally justified, or socially useful and still have censorial character. Classification is separate from evaluation.
@@ -174,7 +179,7 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`.
 
 - Settled norms can serve positive functions: coordination, stability, civility, protection, predictability, or relief from continual relitigation.
 - The same settlement can be asymmetrical. A norm may be nearly invisible to participants who fit it while imposing additional costs, sanctions, justificatory burdens, or inadmissibility on those who contest it.
-- The relevant epistemic ordering need not concern the truth of an explicit proposition. It can concern which identities, descriptions, representations, topics, or forms of self-presentation are treated as ordinary, admissible, professional, or in need of justification.
+- The relevant ordering need not concern the truth of an explicit proposition. It can concern which identities, descriptions, representations, topics, or forms of self-presentation are treated as ordinary, admissible, professional, or in need of justification.
 - Reported workplace evidence supplies a proximate case. Beagan et al. interviewed 13 LGBTQ+ Canadian health professionals and found disclosure decisions shaped by heteronormative professional contexts, including perceptions that disclosure to patients or clients could be unprofessional; participants engaged in continuing strategic concealment/disclosure decisions. Support: `beagan2022`.
 - A separate study of 319 LGBQ employees found concealment from coworkers and supervisors statistically related to perceived workplace climate and identity centrality, reinforcing that disclosure conditions vary with social and institutional position rather than simply with formal rules. Support: `holman2022`.
 - These studies do not by themselves establish censorship. Their analytic value is that apparently ordinary professional and workplace norms can differentially structure what must be disclosed, concealed, justified, or risked by differently positioned participants.
@@ -223,7 +228,7 @@ Support: `asheim1953`, `kidd2009`, `garry2015`, `mooretudor2024`.
 
 - Casadevall and Fang explicitly distinguish ordinary peer review from censorship when controversial claims are aired and rejected through scientific evaluation, while warning that screening for consistency with prevailing dogma can blur that distinction. Support: `casadevallfang2009`.
 - A concrete negative control is the 2003 Nature retraction of Schön, Meng, and Bao's paper after an independent Bell Laboratories investigation reviewed concerns about the validity of the reported device-measurement data. The retraction records that it followed the committee's findings. Support: `beasley2002`, `schoen2003retraction`.
-- Under the framework, this is strong evidence that exclusion or loss of standing need not be censorship: where the adverse outcome is produced through inquiry into the evidential basis of the claim, the operation can remain downstream of epistemic contest. This classification is case-specific, not a rule that retraction is inherently non-censorial.
+- Under the framework, this is strong evidence that exclusion or loss of standing need not be censorship: where the adverse outcome is produced through inquiry into the evidential basis of the claim, the operation can remain downstream of contest. This classification is case-specific, not a rule that retraction is inherently non-censorial.
 - The 2017 *Third World Quarterly* publication of Bruce Gilley's "The Case for Colonialism" supplies the contrasting mixed sequence. The publisher's withdrawal notice states that the article had undergone double-blind peer review in accordance with journal policy and was later withdrawn after the editor received serious and credible threats of violence linked to publication. Support: `gilley2017`, `taylorfrancis2017withdrawal`.
 - The sequence separates relations that are easily collapsed: substantive scholarly criticism is contest; peer review is professional gatekeeping that may itself be part of contest; threats impose participation consequences outside the article's merits; withdrawal controls continuing publication.
 - The analytic task is therefore not to classify "peer review" or "retraction" categorically, but to identify which parts of a sequence engage the claim and which alter the conditions under which it can remain contestable.
@@ -265,7 +270,7 @@ Support: `gillespie2022`, `howardkira2026`, `chandrasekharan2017`.
 
 ## 6.6 Counter-speech and saturation — rebuttal versus environmental occupation
 
-- Large amounts of rebuttal can make an original claim harder to find while remaining ordinary epistemic contest. Volume, coordination, and reduced visibility are therefore insufficient by themselves.
+- Large amounts of rebuttal can make an original claim harder to find while remaining ordinary contest. Volume, coordination, and reduced visibility are therefore insufficient by themselves.
 - King, Pan, and Roberts provide a strong empirical contrast. Their large-scale analysis of Chinese government-directed social-media posting estimated roughly 448 million fabricated comments per year and found that the operation largely avoided argument with critics; instead it used coordinated positive material to distract attention and change the subject. Support: `kingpanroberts2017`.
 - This is close to the saturation mechanism: the target need not be removed or refuted if the surrounding informational field can be occupied so that continued engagement is displaced.
 - Hard case: coordinated participants sincerely repeat substantive rebuttals at a scale that also buries the target. Contest and control can then be properties of the same activity in different relations.
@@ -299,9 +304,9 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`, `beagan2022`,
 
 ## Classification sequence
 
-1. Identify the relevant epistemic contest and what is at stake in the ordering, including questions of representation, legitimacy, standing, or admissibility where relevant.
+1. Fix the unit of analysis: target contribution or participant; field or channel in which the target participates or ordinarily could participate and through which the mechanism has practical leverage; ordering at stake; and realistic comparator or baseline. Identify these from the concrete mechanism and practical context before classification, including representation, legitimacy, standing, or admissibility where relevant.
 2. Identify any change in contestability: presence, reach, representation, or surrounding field.
-3. Ask whether that change is part of engaging/organising the contest or selectively shortcuts it; allow mixtures.
+3. Ask whether that change is part of engaging/organising the contest or selectively shortcuts it. Where one event changes different participants' contestability in different ways, analyse those relations separately.
 4. Test selectivity and leverage, including realistic substitutes, position-dependent burdens, and where useful counterfactual symmetry across differently positioned contributions.
 5. Describe rather than infer intent, organisation, and action/non-action; none settles classification by itself.
 6. Ask whether an existing ordering has become a condition of future participation.
@@ -321,7 +326,7 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`, `beagan2022`,
 
 # 8. Conclusion
 
-- Censorship is best understood as shortcutting epistemic contest through selective control of contestability, not by actor identity, intention, prohibition, surface operation, or moral verdict.
+- Censorship is best understood as shortcutting contest through selective control of contestability, not by actor identity, intention, prohibition, surface operation, or moral verdict.
 - This basis explains overt suppression as well as deliberate or unintended, distributed, emergent, action-based, and non-action-based forms while preserving a boundary with ordinary contest, selection, editing, and institutional ordering.
 - Exclusion, attenuation, transformation, and saturation describe where contestability is altered; responsive self-censorship describes one pathway by which the shortcut can be reproduced.
 - Boundary cases and negative controls show why the same surface operation can be censorial in one relation and part of ordinary contest or governance in another.
