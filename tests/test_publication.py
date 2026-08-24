@@ -14,16 +14,17 @@ sys.path.insert(0, str(ROOT))
 from publication.site import update_site  # noqa: E402
 
 
-def provenance(channel: str, source: str = "a" * 40) -> dict[str, str]:
+def provenance(channel: str, source: str = "a" * 40) -> dict[str, object]:
     return {
         "censorship_source_sha": source,
         "compiled_prose_sha": "b" * 40,
         "backend": "openai",
-        "model": "gpt-5",
+        "model": "gpt-5.6-sol",
+        "target": "journal_academic",
         "workflow_run_id": "123",
         "workflow_run_url": "https://example.invalid/run/123",
         "publication_channel": channel,
-        "build_timestamp": "2026-08-21T00:00:00Z",
+        "build_timestamp": "2026-08-24T00:00:00Z",
         "requested_temperature": "0.2",
         "requested_seed": "42",
         "effective_temperature": None,
@@ -59,6 +60,7 @@ class SiteUpdateTests(unittest.TestCase):
             index = (site / "index.html").read_text()
             self.assertIn('href="draft/"', index)
             self.assertIn('href="release/"', index)
+            self.assertIn("journal_academic", index)
 
     def test_release_update_preserves_draft(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
@@ -137,7 +139,7 @@ class RenderTests(unittest.TestCase):
                     "SOURCE_SHA": "a" * 40,
                     "COMPILED_PROSE_SHA": "b" * 40,
                     "WORKFLOW_RUN_URL": "https://example.invalid/run/1",
-                    "BUILD_TIMESTAMP": "2026-08-21T00:00:00Z",
+                    "BUILD_TIMESTAMP": "2026-08-24T00:00:00Z",
                 }
             )
             subprocess.run(
@@ -158,23 +160,48 @@ class RenderTests(unittest.TestCase):
 
 
 class WorkflowSafetyTests(unittest.TestCase):
-    def test_paid_workflow_is_manual_only_and_pins_compiler(self) -> None:
+    def test_paid_compile_is_manual_only_pinned_and_separate(self) -> None:
+        compile_workflow = (ROOT / ".github/workflows/compile.yml").read_text(
+            encoding="utf-8"
+        )
+        publish_workflow = (ROOT / ".github/workflows/publish.yml").read_text(
+            encoding="utf-8"
+        )
+        self.assertIn("workflow_dispatch:", compile_workflow)
+        self.assertNotIn("\n  push:", compile_workflow)
+        self.assertNotIn("\n  pull_request:", compile_workflow)
+        self.assertIn("confirm_paid_run", compile_workflow)
+        self.assertIn(
+            "a153c2b19f8b95ba5063947aeeccb072ba862bf6", compile_workflow
+        )
+        self.assertNotIn("grantaj/compiled-prose@main", compile_workflow)
+        self.assertIn('WORKFLOW_REF: ${{ github.ref }}', compile_workflow)
+        self.assertIn('SOURCE_REF: ${{ inputs.source_ref }}', compile_workflow)
+        self.assertIn("environment: paid-compile", compile_workflow)
+        self.assertIn("OPENAI_API_KEY", compile_workflow)
+        self.assertNotIn("OPENAI_API_KEY", publish_workflow)
+        self.assertIn(
+            'BIBLIOGRAPHY="$GITHUB_WORKSPACE/compiler/build/references.bib"',
+            compile_workflow,
+        )
+        self.assertIn('TARGET_STYLE="$TARGET_STYLE"', compile_workflow)
+        self.assertIn("gpt-5.6-sol", compile_workflow)
+        self.assertIn("journal_academic", compile_workflow)
+
+    def test_publish_promotes_retained_candidate_without_provider_access(self) -> None:
         workflow = (ROOT / ".github/workflows/publish.yml").read_text(encoding="utf-8")
         self.assertIn("workflow_dispatch:", workflow)
         self.assertNotIn("\n  push:", workflow)
         self.assertNotIn("\n  pull_request:", workflow)
-        self.assertIn("confirm_paid_run", workflow)
-        self.assertIn("c6dc868a13c147812478ca9249aee9454838bf13", workflow)
-        self.assertNotIn("grantaj/compiled-prose@main", workflow)
-        self.assertIn('WORKFLOW_REF: ${{ github.ref }}', workflow)
-        self.assertIn('SOURCE_REF: ${{ inputs.source_ref }}', workflow)
-        self.assertNotIn('[[ "${{ inputs.source_ref }}"', workflow)
-        self.assertNotIn("needs.compile.outputs.source_sha || inputs.source_ref", workflow)
-        self.assertIn("SOURCE_SHA: ${{ needs.compile.outputs.source_sha }}", workflow)
-        self.assertIn('[[ ! "$SOURCE_SHA" =~ ^[0-9a-f]{40}$ ]]', workflow)
-        self.assertIn("inputs.channel == 'release' && github.sha || inputs.source_ref", workflow)
-        self.assertIn("environment: paid-compile", workflow)
+        self.assertIn("actions/github-script@v8", workflow)
+        self.assertIn('run.path !== ".github/workflows/compile.yml"', workflow)
+        self.assertIn("censorship-candidate-${process.env.TARGET_ID}-", workflow)
         self.assertIn("environment: publication-release", workflow)
+        self.assertIn('metadata["requested_source_ref"] != "main"', workflow)
+        self.assertIn("candidate_path.read_bytes() != current_path.read_bytes()", workflow)
+        self.assertIn("SOURCE_SHA: ${{ needs.assemble.outputs.source_sha }}", workflow)
+        self.assertIn('[[ ! "$SOURCE_SHA" =~ ^[0-9a-f]{40}$ ]]', workflow)
+        self.assertNotIn("confirm_paid_run", workflow)
 
 
 if __name__ == "__main__":
