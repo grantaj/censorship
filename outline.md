@@ -39,7 +39,7 @@ Conceptual hierarchy:
 - Incumbent or settled orderings are an important case because inertia or unwillingness to reopen a matter can make altered contestability a way of preserving the settlement without exposing it to renewed challenge.
 - Altered contestability is the mechanism of censorship; shortcutting contest is the defining relation; selectivity distinguishes an ordering-linked participation mechanism from incidental impairment.
 - Intent, organisation, and action/non-action are independent descriptive dimensions: a shortcut may be deliberate or unintended; produced through individual, institutional, distributed, or emergent processes; and realised through action or selective non-action.
-- Changes in ordering, reduced need for repeated contest, anticipatory restraint, sedimentation, and declining overt enforcement are possible consequences or reproduction paths, not additional defining criteria.
+- Changes in ordering, reduced need for repeated contest, self-censoring responses, sedimentation, and declining overt enforcement are possible consequences or reproduction paths, not additional defining criteria.
 
 ## Source discipline
 
@@ -190,7 +190,7 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`.
 - A shortcut can become embedded in ranking, recommendation, classification, professional routines, archives, access rules, defaults, conventions, or social norms. Support: `bowkerstar1999`, `star1999`, `scott1998`, `pasquale2015`.
 - Once embedded, altered contestability may persist after the originating dispute, decision, actor, or justification has receded.
 - Existing settlements can then become conditions of future participation: what previously required active exclusion may be reproduced by routine procedure, omission, expectation, or self-adjustment.
-- Anticipatory restraint is one reproduction path: participants respond to inherited participation conditions by performing exclusion, attenuation, or transformation on their own contributions. Support: `weeks2024`, `yuenlee2025`, `wangmayer2023`.
+- Responsive self-censorship is one reproduction path: participants anticipate the inherited conditions and perform exclusion, attenuation, or transformation on their own contributions. Support: `weeks2024`, `yuenlee2025`, `wangmayer2023`.
 - Overt enforcement may decline because the shortcut has become infrastructural or anticipatory; low visible enforcement does not establish consent, legitimacy, neutrality, or absence of censorship.
 - Revisability is diagnostically important: how practically possible is it to reopen the settlement to contest?
 - Sedimentation alone is not censorship. The relevant question remains whether inherited conditions selectively alter contestability as a shortcut.
@@ -332,7 +332,7 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`, `beagan2022`,
 4. Test selectivity: does the mechanism or participation condition make contestability depend on the target's relation to the relevant ordering rather than merely produce an uneven or correlated outcome? Use realistic substitutes, genuinely comparable cases, leverage, and counterfactual symmetry where useful.
 5. Describe rather than infer intent, organisation, and action/non-action; none settles classification by itself. For non-action, identify the field-grounded descriptive baseline rather than inferring censorship from the mere possibility of assistance.
 6. Ask whether an existing ordering has become a condition of future participation.
-7. Where relevant, trace anticipatory restraint, sedimentation, persistence, and practical revisability.
+7. Where relevant, trace self-censoring response, sedimentation, persistence, and practical revisability.
 8. Only then evaluate lawfulness, ethics, proportionality, necessity, professional appropriateness, or political legitimacy.
 
 ## Limits
