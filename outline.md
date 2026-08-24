@@ -18,7 +18,7 @@
 - **Contestability**: practical opportunity for a contribution or participant to enter, remain in, be encountered, be represented, and receive consideration within that field.
 - **Censorship**: selective alteration of contestability that shortcuts contest. An alteration is selective when the participation condition or mechanism makes contestability depend on a target's relation to the relevant ordering. That dependence can be mediated by rules, proxies, routines, or infrastructure, but correlation alone is insufficient and no selecting subject is required. Censorship does not require censorial intent, action rather than omission, a single censor, or successful suppression.
 - **Censorial character**: strength and significance of the selective alteration of contestability in mixed or boundary cases; not a moral judgment or quantitative score.
-- **Sedimentation**: persistence or embedding of a censorial shortcut in rules, classifications, rankings, routines, infrastructure, expectations, or norms so that altered contestability can outlast particular interventions, actors, or reasons.
+- **Sedimentation**: embedding of a censorial shortcut in ambient participation conditions such as rules, classifications, rankings, routines, infrastructure, expectations, or norms, allowing the shortcut to be reproduced after particular interventions, actors, or reasons recede.
 
 Scope and unit of analysis:
 
@@ -39,12 +39,12 @@ Conceptual hierarchy:
 - Incumbent or settled orderings are an important case because inertia or unwillingness to reopen a matter can make altered contestability a way of preserving the settlement without exposing it to renewed challenge.
 - Altered contestability is the mechanism of censorship; shortcutting contest is the defining relation; selectivity distinguishes an ordering-linked participation mechanism from incidental impairment.
 - Intent, organisation, and action/non-action are independent descriptive dimensions: a shortcut may be deliberate or unintended; produced through individual, institutional, distributed, or emergent processes; and realised through action or selective non-action.
-- Changes in ordering, reduced need for repeated contest, self-censoring responses, sedimentation, and declining overt enforcement are possible consequences or reproduction paths, not additional defining criteria.
+- Changes in ordering, reduced need for repeated contest, anticipatory restraint, sedimentation, and reduced dependence on fresh intervention are possible consequences or reproduction paths, not additional defining criteria.
 
 ## Source discipline
 
 - Prior-literature, empirical, historical, and attributed claims require verified support; hypothetical stress tests need no citation absent case-specific facts.
-- Framework-specific proposals remain visibly authored. Contestability, shortcut, operational taxonomy, sedimentation, position-dependent censoriality, declining enforcement burden, and counterfactual symmetry must not be attributed wholesale to background sources.
+- Framework-specific proposals remain visibly authored. Contestability, shortcut, operational taxonomy, sedimentation, position-dependent censoriality, reduced dependence on fresh intervention, and counterfactual symmetry must not be attributed wholesale to background sources.
 - Empirical cases anchor observed mechanisms and conditions; their authors' terminology does not predetermine classification under this framework.
 
 ---
@@ -67,7 +67,7 @@ Conceptual hierarchy:
 1. Recast censorship as shortcutting contest through selective alteration of contestability, without requiring a single censor, censorial intention, state action, or successful suppression.
 2. Explain the difficult boundary with ordinary selection and institutional ordering by asking whether the relevant ordering depends on changing a target's contestability, rather than treating role names, motives, merits-engagement, or the mere fact of gatekeeping as decisive.
 3. Organise recurring effects on contestability by presence, effective reach, and representation, while distinguishing indirect pathways such as saturation that alter the surrounding field rather than the target itself.
-4. Explain how shortcuts can be deliberate or unintended, realised through action or non-action, and become sedimented, position-dependent, self-reproducing, and less reliant on overt enforcement.
+4. Explain how shortcuts can be deliberate or unintended, realised through action or non-action, and become sedimented, position-dependent, self-reproducing, and less dependent on fresh overt intervention.
 
 ---
 
@@ -185,24 +185,24 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`.
 
 ---
 
-# 4. Sedimentation, Norms, and Reproduction
+# 4. Sedimentation, Ambient Conditions, and Reproduction
 
-- A shortcut can become embedded in ranking, recommendation, classification, professional routines, archives, access rules, defaults, conventions, or social norms. Support: `bowkerstar1999`, `star1999`, `scott1998`, `pasquale2015`.
-- Once embedded, altered contestability may persist after the originating dispute, decision, actor, or justification has receded.
-- Existing settlements can then become conditions of future participation: what previously required active exclusion may be reproduced by routine procedure, omission, expectation, or self-adjustment.
-- Responsive self-censorship is one reproduction path: participants anticipate the inherited conditions and perform exclusion, attenuation, or transformation on their own contributions. Support: `weeks2024`, `yuenlee2025`, `wangmayer2023`.
-- Overt enforcement may decline because the shortcut has become infrastructural or anticipatory; low visible enforcement does not establish consent, legitimacy, neutrality, or absence of censorship.
-- Revisability is diagnostically important: how practically possible is it to reopen the settlement to contest?
-- Sedimentation alone is not censorship. The relevant question remains whether inherited conditions selectively alter contestability as a shortcut.
+- Sedimentation is not mere persistence. It occurs when a censorial shortcut, whether deliberately produced or emergent, becomes embedded in ambient participation conditions such as rules, routines, infrastructure, classifications, expectations, or norms.
+- Embedding matters because later participation is then conditioned by the inherited structure rather than only by repeated fresh interventions. The originating actor, decision, dispute, or rationale may recede or be unrecoverable while the participation condition remains operative.
+- The inherited condition is not censorial merely because it is durable. It must still satisfy the same shortcut and selectivity relations: generic institutionalisation, path dependence, stable inequality, or a persistent neutral rule are not sedimented censorship by persistence alone.
+- Anticipatory restraint is one possible reproduction pathway. Participants may learn, consciously or habitually, that some contributions carry position-dependent participation costs and respond by withholding, reducing reach, or altering what they contribute. "Self-censorship" describes that response; the ambient participation condition remains the explanatory object.
+- Yuen and Lee found that post-NSL Hong Kong respondents reported more self-censorship when they received cautionary reminders from family or peers and when more acquaintances were themselves self-censoring, with effects partly mediated by risk perception and emotional response. This supports social transmission and observational learning as reproduction pathways, not a claim that self-restraint is independently censorial. Support: `yuenlee2025`.
+- Fresh overt intervention may become less necessary when participants, routines, or infrastructure reproduce the shortcut. This is a possible shift in the burden of reproduction, not a prediction that visible enforcement must decline; continued or increased enforcement is compatible with sedimentation, and low enforcement does not prove it.
+- Practical revisability is diagnostic of reproduction rather than a separate criterion: can the inherited participation condition be challenged without first passing through the same position-linked costs that help preserve the ordering?
 
-## Settled norms as a hard case
+## Settled norms as a boundary case
 
 - Settled norms can serve positive functions: coordination, stability, civility, protection, predictability, or relief from continual relitigation.
 - The same settlement can be asymmetrical. A norm may be nearly invisible to participants who fit it while imposing additional costs, sanctions, justificatory burdens, or inadmissibility on those who contest it.
 - The relevant ordering need not concern the truth of an explicit proposition. It can concern which identities, descriptions, representations, topics, or forms of self-presentation are treated as ordinary, admissible, professional, or in need of justification.
 - Reported workplace evidence supplies a proximate case. Beagan et al. interviewed 13 LGBTQ+ Canadian health professionals and found disclosure decisions shaped by heteronormative professional contexts, including perceptions that disclosure to patients or clients could be unprofessional; participants engaged in continuing strategic concealment/disclosure decisions. Support: `beagan2022`.
 - A separate study of 319 LGBQ employees found concealment from coworkers and supervisors statistically related to perceived workplace climate and identity centrality, reinforcing that disclosure conditions vary with social and institutional position rather than simply with formal rules. Support: `holman2022`.
-- These studies do not by themselves establish censorship. Their analytic value is that apparently ordinary professional and workplace norms can differentially structure what must be disclosed, concealed, justified, or risked by differently positioned participants.
+- These studies establish position-dependent ambient conditions and disclosure responses. They do not by themselves establish that a particular shortcut became sedimented; their role is to test whether an inherited norm can itself structure contestability without a discrete current ban.
 - The censorial claim therefore does not depend on malevolent intent or on the norm being normatively wrong. It depends on a position-linked alteration of contestability that does shortcut work.
 - This is position-dependent without being subjective: different participants encounter different structural participation conditions.
 
@@ -332,7 +332,7 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`, `beagan2022`,
 4. Test selectivity: does the mechanism or participation condition make contestability depend on the target's relation to the relevant ordering rather than merely produce an uneven or correlated outcome? Use realistic substitutes, genuinely comparable cases, leverage, and counterfactual symmetry where useful.
 5. Describe rather than infer intent, organisation, and action/non-action; none settles classification by itself. For non-action, identify the field-grounded descriptive baseline rather than inferring censorship from the mere possibility of assistance.
 6. Ask whether an existing ordering has become a condition of future participation.
-7. Where relevant, trace self-censoring response, sedimentation, persistence, and practical revisability.
+7. Where relevant, trace embedding in ambient participation conditions, anticipatory restraint, persistence, and practical revisability.
 8. Only then evaluate lawfulness, ethics, proportionality, necessity, professional appropriateness, or political legitimacy.
 
 ## Limits
@@ -352,4 +352,4 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`, `beagan2022`,
 - This basis explains overt suppression as well as deliberate or unintended, distributed, emergent, action-based, and non-action-based forms while preserving a boundary with ordinary contest, selection, editing, and institutional ordering.
 - Exclusion, attenuation, and transformation describe target effects on presence, effective reach, and representation; saturation describes an indirect field pathway, while anticipatory restraint describes a response pathway to ambient participation conditions.
 - Boundary cases and negative controls show why the same surface operation can be censorial in one relation and part of ordinary contest or governance in another.
-- Sedimentation explains how initially active alteration of contestability can become routine, infrastructural, position-dependent, and less reliant on overt enforcement.
+- Sedimentation describes a shortcut becoming embedded in ambient participation conditions so that it can be reproduced with less dependence on fresh intervention; persistence or low visible enforcement alone does not establish censorship.
