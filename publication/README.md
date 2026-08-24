@@ -26,13 +26,14 @@ Run **Actions → Compile essay candidate → Run workflow** from `main`.
 - Tick **I approve this paid compiled-prose run**. Without that explicit
   confirmation the workflow fails before any provider call.
 
-The workflow checks out `grantaj/compiled-prose` at the exact SHA pinned in
-`compile.yml`, passes `references.bib` explicitly to the compiler, runs the full
-pipeline, validates generated LaTeX stages, and produces a final PDF. A
-successful run retains a self-contained candidate for 90 days containing the
-complete compiler build, the exact source files, and machine-readable metadata
-for the source SHA, compiler SHA, model, target, source ref, workflow run, and
-variance controls. A successful compilation does **not** publish anything.
+The workflow checks out `grantaj/compiled-prose` from its `main` branch, records
+the exact compiler commit that resolves for the run, passes `references.bib`
+explicitly to the compiler, runs the full pipeline, validates generated LaTeX
+stages, and produces a final PDF. A successful run retains a self-contained
+candidate for 90 days containing the complete compiler build, the exact source
+files, and machine-readable metadata for the source SHA, compiler SHA, model,
+target, source ref, workflow run, and variance controls. A successful compilation
+does **not** publish anything.
 
 Failed compilations retain diagnostics and any partial build evidence, but they
 are never eligible for publication.
@@ -71,18 +72,28 @@ A compiler or renderer failure never touches `gh-pages`. On publication success,
 only the chosen channel is replaced, the other channel is preserved, and the
 change is pushed as one publication commit.
 
-## Updating the compiler pin
+## Compiler tracking during active development
 
-Changing `COMPILED_PROSE_SHA` is a dependency update and should receive explicit
-review. Do not replace it with a floating branch. If a compilation needs a
-project-specific prompt or compiler workaround, fix the generic compiler
-instead of adding hidden prompt configuration here.
+For now the compile workflow deliberately follows `grantaj/compiled-prose@main`
+rather than pinning a particular commit. This makes it possible to fix the
+compiler and immediately iterate on this essay without a dependency-pin update
+for every compiler change. The exact resolved compiler SHA is still captured in
+every candidate, so a particular result remains auditable and reproducible from
+its provenance.
+
+Because `compiled-prose/main` is executable code in the paid compile job, changes
+to that branch are part of the trusted compilation surface. Once the compiler is
+stable enough that rapid cross-repository iteration is no longer useful, the
+workflow can return to an explicit compiler pin.
+
+Project-specific prompt or compiler workarounds should still be fixed in the
+generic compiler rather than added as hidden prompt configuration here.
 
 ## Provenance and variance controls
 
 Each published channel includes `provenance.json` with the exact censorship and
 compiled-prose commits, compilation run, backend/model, selected target,
-renderer versions, and variance settings. The pinned compiler omits temperature
-for GPT-5-family models and the OpenAI Responses API does not accept seed, so
+renderer versions, and variance settings. The compiler omits temperature for
+GPT-5-family models and the OpenAI Responses API does not accept seed, so
 provenance records the requested values while explicitly recording their
 effective values as `null` rather than implying deterministic generation.
