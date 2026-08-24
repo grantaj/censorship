@@ -194,17 +194,7 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`.
 - Yuen and Lee found that post-NSL Hong Kong respondents reported more self-censorship when they received cautionary reminders from family or peers and when more acquaintances were themselves self-censoring, with effects partly mediated by risk perception and emotional response. This supports social transmission and observational learning as reproduction pathways, not a claim that self-restraint is independently censorial. Support: `yuenlee2025`.
 - Fresh overt intervention may become less necessary when participants, routines, or infrastructure reproduce the shortcut. This is a possible shift in the burden of reproduction, not a prediction that visible enforcement must decline; continued or increased enforcement is compatible with sedimentation, and low enforcement does not prove it.
 - Practical revisability is diagnostic of reproduction rather than a separate criterion: can the inherited participation condition be challenged without first passing through the same position-linked costs that help preserve the ordering?
-
-## Settled norms as a boundary case
-
-- Settled norms can serve positive functions: coordination, stability, civility, protection, predictability, or relief from continual relitigation.
-- The same settlement can be asymmetrical. A norm may be nearly invisible to participants who fit it while imposing additional costs, sanctions, justificatory burdens, or inadmissibility on those who contest it.
-- The relevant ordering need not concern the truth of an explicit proposition. It can concern which identities, descriptions, representations, topics, or forms of self-presentation are treated as ordinary, admissible, professional, or in need of justification.
-- Reported workplace evidence supplies a proximate case. Beagan et al. interviewed 13 LGBTQ+ Canadian health professionals and found disclosure decisions shaped by heteronormative professional contexts, including perceptions that disclosure to patients or clients could be unprofessional; participants engaged in continuing strategic concealment/disclosure decisions. Support: `beagan2022`.
-- A separate study of 319 LGBQ employees found concealment from coworkers and supervisors statistically related to perceived workplace climate and identity centrality, reinforcing that disclosure conditions vary with social and institutional position rather than simply with formal rules. Support: `holman2022`.
-- These studies establish position-dependent ambient conditions and disclosure responses. They do not by themselves establish that a particular shortcut became sedimented; their role is to test whether an inherited norm can itself structure contestability without a discrete current ban.
-- The censorial claim therefore does not depend on malevolent intent or on the norm being normatively wrong. It depends on a position-linked alteration of contestability that does shortcut work.
-- This is position-dependent without being subjective: different participants encounter different structural participation conditions.
+- Settled norms are a boundary test rather than evidence of sedimentation by themselves; their empirical treatment is kept with the regression suite in Section 6.9.
 
 Background on non-overt and infrastructural power: `foucault1977`, `lukes2005`, `bowkerstar1999`, `star1999`.
 
@@ -228,97 +218,103 @@ Background on non-overt and infrastructural power: `foucault1977`, `lukes2005`, 
 
 # 6. Developed Boundary Tests
 
-- These cases are a stress-test suite for the demarcation claim, not a catalogue of approved or disapproved causes.
-- Each pairs censorship with a nearby activity sharing some surface operation: selection versus anticipatory exclusion; evidential rejection versus withdrawal under external pressure; editing versus directional transformation; ranking versus selective attenuation; moderation as simultaneous enablement and constraint; rebuttal versus saturation; criticism-induced restraint versus restraint under selectively costly participation conditions; random failure versus asymmetric non-remediation.
-- Negative and near-negative controls are as important as positive cases. A useful framework must explain not only why a case can be censorial but why structurally similar cases can remain ordinary contest, governance, or error.
-- Empirical anchors establish reported mechanisms and conditions; classification remains the work of the framework.
+- These cases are regression tests for the demarcation claim, not a catalogue of approved or disapproved causes.
+- Each test fixes the relevant target and field, separates reported facts from framework classification, and asks whether altered contestability selectively does work that contest would otherwise have to do.
+- **Positive**, **negative**, **mixed**, and **indeterminate** verdicts refer only to the specified censorial relation; none is a moral judgment.
+- Simple invariant check: a positive relation should be intelligible as obtaining or preserving a practical ordering without fully having to win the relevant contest on its own terms. Do not add theory to rescue a case that fails this test.
 
 ## 6.1 Library acquisition — selection versus anticipatory exclusion
 
-- Selection is unavoidable under finite budgets and remit; ordinary criterion-based non-acquisition is therefore a necessary near-negative control rather than presumptive censorship.
+- **Unit**: a title's acquisition into a school-library collection; the relevant ordering is what students can practically encounter through that collection.
+- **Negative control**: non-acquisition under budget, remit, duplication, format, or other field-operational criteria applied independently of the title's position remains ordinary selection.
 - Garry's mixed-method study of 120 Ohio public high-school libraries plus 12 librarian interviews found significantly fewer LGBTQ-themed books than titles with other controversial content. Support: `garry2015`.
 - Moore and Tudor found increased hesitancy among school librarians to add potentially controversial materials during a period of heightened book challenges; participants who had not personally experienced a challenge were less likely than those who had to purchase some controversial materials, including books with LGBTQIA+ characters. Support: `mooretudor2024`.
-- These findings do not make non-acquisition self-classifying as censorship. They show a route by which anticipated external challenge can become an internal selection condition, potentially converting environmental pressure into participant-performed exclusion.
-- The boundary is whether non-acquisition is mainly downstream of ordinary collection evaluation, or whether anticipated challenge becomes a participation condition so that exclusion itself helps preserve an ordering from future contest.
-- Relevant evidence: criterion function, application pattern, realistic substitutes, channel leverage, anticipated consequences, and whether the criteria themselves encode the settlement being challenged.
+- A potential shortcut appears where anticipated challenge becomes an acquisition condition, so exclusion rather than collection evaluation protects an incumbent ordering from future contest. Selectivity would require the acquisition mechanism to depend on the title's position, not controversy or scarcity in the abstract.
+- **Regression verdict: indeterminate on current evidence.** The studies establish differential holdings, hesitancy, and a plausible ambient-pressure pathway, but do not supply enough decision-level evidence about criterion function, comparators, or realistic substitutes to classify non-acquisition wholesale as censorship.
 
 Support: `asheim1953`, `kidd2009`, `garry2015`, `mooretudor2024`.
 
 ## 6.2 Editorial and peer-review rejection — evidential rejection versus withdrawal under external pressure
 
+- **Unit**: a contribution's scientific or scholarly standing and continuing publication within the relevant research field.
 - Casadevall and Fang explicitly distinguish ordinary peer review from censorship when controversial claims are aired and rejected through scientific evaluation, while warning that screening for consistency with prevailing dogma can blur that distinction. Support: `casadevallfang2009`.
-- A concrete negative control is the 2003 Nature retraction of Schön, Meng, and Bao's paper after an independent Bell Laboratories investigation reviewed concerns about the validity of the reported device-measurement data. The retraction records that it followed the committee's findings. Support: `beasley2002`, `schoen2003retraction`.
-- Under the framework, the Schön sequence shows why exclusion or loss of standing need not itself do censorial work: the investigation directly tested the evidential basis of the contribution within the scientific contest, and the resulting scientific standing is itself the practical ordering at issue in that field. The retraction can therefore record or implement a contest-mediated result rather than supply the means by which the claim is defeated.
-- The 2017 *Third World Quarterly* publication of Bruce Gilley's "The Case for Colonialism" supplies the contrasting mixed sequence. The publisher's withdrawal notice states that the article had undergone double-blind peer review in accordance with journal policy and was later withdrawn after the editor received serious and credible threats of violence linked to publication. Support: `gilley2017`, `taylorfrancis2017withdrawal`.
-- The sequence separates relations that are easily collapsed: substantive scholarly criticism is contest; peer review directly assesses the contribution within that scholarly field and may itself be part of contest; threats impose participation consequences outside the article's merits; withdrawal then changes the article's continuing publication and availability. Neither prior scholarly criticism nor a decision about whether withdrawal is justified substitutes for the contest the article would otherwise continue to enter.
-- The analytic task is therefore not to classify "peer review" or "retraction" categorically, but to ask what role each participation consequence plays in producing or preserving the practical ordering in the relevant field.
-- Harder cases remain where methodological standards are historically formed inside a dominant theoretical tradition and rival approaches partly contest the standards used to judge their admissibility.
+- The 2003 Nature retraction of Schön, Meng, and Bao's paper followed an independent Bell Laboratories investigation into the validity of the reported device-measurement data. Support: `beasley2002`, `schoen2003retraction`.
+- **Negative verdict for the Schön relation**: the investigation directly tested the evidential basis of the contribution within scientific contest; the retraction can record the resulting loss of scientific standing rather than make reduced contestability the means of defeat.
+- The 2017 *Third World Quarterly* publication of Bruce Gilley's "The Case for Colonialism" had undergone double-blind peer review and was later withdrawn after the editor received serious and credible threats of violence linked to publication. Support: `gilley2017`, `taylorfrancis2017withdrawal`.
+- **Mixed verdict for the Gilley sequence, with a positive censorial withdrawal relation**: peer review and substantive scholarly criticism remain contest, while the threat/withdrawal sequence makes continuing publication depend on the article's position and removes it without defeating the contribution within that scholarly contest. The safety rationale may matter normatively but does not erase the exclusion relation.
+- Methodological standards formed inside dominant traditions remain a genuinely harder case where the evidence must show whether a criterion tests the contribution within contest or makes conformity with the incumbent ordering a condition of participation.
 
 ## 6.3 Editing and translation — representation versus transformation
 
-- Editing and translation necessarily alter expression; fidelity cannot mean absence of transformation.
-- Zheng's corpus study of a Chinese translation about EU-Russia relations uses the in-house editor's manuscript and describes the editor both as a textual collaborator who corrects language and translation problems and improves readability, and as making directional revisions of the source author's political evaluations through modification or deletion. Criticism of Russia was generally softened while negative evaluation of the EU was strengthened. Support: `zheng2024`.
-- This gives a same-activity contrast: ordinary editorial transformation and directional alteration of the represented position occur within the same production process rather than being separated by actor or institutional role.
-- The case is useful because the contested contribution is not simply prevented from appearing. A version continues to circulate as a representation of the source while its evaluative stance is altered.
-- Ordinary correction can be downstream of fidelity, clarity, or accuracy judgments. Directional substitution does different work when the represented contribution itself is reshaped toward a preferred ordering, reducing the source position's ability to participate on its own terms.
-- Modification and deletion can coexist in the same editorial sequence; operational decomposition remains preferable to classifying "editing" as censorial or non-censorial wholesale.
-- The empirical study supplies the reported revisions and production context; the framework's classification does not depend on adopting the author's definition of censorship or on taking a position on the underlying geopolitics.
+- **Unit**: the source position as represented to a target-language audience through the translated work.
+- **Negative control**: correction for language, fidelity, clarity, or accuracy can transform expression while remaining downstream of representational assessment rather than selecting a substantive position.
+- Zheng's corpus study of a Chinese translation about EU-Russia relations uses the in-house editor's manuscript and reports both ordinary textual corrections and directional changes to political evaluations: criticism of Russia was generally softened while negative evaluation of the EU was strengthened. Support: `zheng2024`.
+- The directionally edited version continues to circulate as a representation of the source, so the relevant effect is transformation rather than exclusion.
+- **Regression verdict: positive for the reported directional revisions as a censorial transformation relation.** The consistent direction of substantive changes supplies selectivity, while alteration of the version that stands for the source is the route by which the source position participates on changed terms. Continued availability of the original may reduce leverage in some contexts but does not undo the representational relation in the translated channel.
 
 Support: `zheng2024`.
 
-## 6.4 Search and recommendation ranking — ordering versus attenuation
+## 6.4 Search and recommendation ranking — visibility effects without established censorship
 
-- Ranking is unavoidable where attention is scarce; reduced visibility alone cannot make all ranking censorship.
-- Rieder, Matamoros-Fernández, and Coromina's longitudinal study of YouTube search describes visibility as a distributed accomplishment of "ranking cultures," involving platform features, users, issue-specific practices, and content rather than a single easily isolated ranking agent. Support: `rieder2018`.
-- Kacperski et al.'s audit of Google Scholar and Semantic Scholar found that confirmation-biased queries targeting benefits or risks produced corresponding disparities in search results. Support: `kacperski2024`.
-- These are proximate rather than dispositive censorship cases. They show that visibility and evidential encounter can be recursively shaped by query framing, platform mechanisms, prior standing, and distributed behaviour without a straightforward censorial decision.
-- A self-reinforcing ordering is still not sufficient: distributed feedback can produce unequal visibility without making contestability depend on a contribution's position in the relevant ordering. This may be epistemic inequality rather than censorship.
-- Censorial character strengthens where a ranking mechanism makes contestability position-dependent and that altered contestability does shortcut work, especially where the channel is dominant or realistic substitutes are weak.
+- **Unit**: a contribution's practical encounter within a ranked search or recommendation channel.
+- **Negative control**: ranking by relevance, quality, recency, query fit, or other field-operational criteria does not become censorship merely because some contributions receive less visibility.
+- Rieder, Matamoros-Fernández, and Coromina describe YouTube search visibility as a distributed accomplishment of ranking cultures involving platform features, users, issue-specific practices, and content. Support: `rieder2018`.
+- Kacperski et al. found that confirmation-biased queries targeting benefits or risks produced corresponding disparities in Google Scholar and Semantic Scholar results. Support: `kacperski2024`.
+- **Regression verdict: censorship is not established by these studies.** They demonstrate distributed or query-dependent visibility effects, but not that the ranking mechanism makes a target's contestability depend on its position in the relevant ordering and uses that attenuation to preserve the ordering. Unequal encounter or self-reinforcing visibility can therefore remain epistemic inequality rather than censorship.
+- The case is retained as a deliberately unresolved stress test: verified position-linked demotion could instantiate censorial attenuation, but the operational category does not substitute for evidence of shortcut and selectivity.
 
 Support: `gillespie2022`, `howardkira2026`, `pasquale2015`, `rieder2018`, `kacperski2024`.
 
-## 6.5 Moderation — constraint and enablement in the same field
+## 6.5 Moderation — censorial constraint and simultaneous enablement
 
-- Removal is an exclusion operation, but operational family does not determine censorial status.
+- **Unit**: the removed community or material's participation on Reddit; effects on other participants are separate relations in the same field.
+- **Near-negative control**: moderation for spam, format, rate limits, or other participation criteria independent of position can organise a channel without selecting among substantive positions.
 - Reddit's 2015 bans of `r/fatpeoplehate` and `r/CoonTown` provide a reported exclusion case with measurable downstream effects. Analysing more than 100 million posts and comments, Chandrasekharan et al. found that users who remained on Reddit reduced hate-speech usage by at least 80%, while receiving subreddits showed no significant increase in hate speech. Support: `chandrasekharan2017`.
-- The case demonstrates why the fact of exclusion cannot settle either normative or structural analysis: a platform can reduce one group's participation while changing participation conditions for others, and the consequences need not simply relocate the excluded conduct.
-- A moderation act can reduce the removed material's contestability while simultaneously preserving or increasing another participant's ability to enter or remain in the field. These are different relations and can coexist; neither cancels the other.
-- The Reddit study supports the exclusion mechanism and downstream behavioural effects, not a general inference that hate-speech moderation is censorial or non-censorial.
-- Analysis therefore tracks whose contestability changes, by what rule, with what substitutes and effects, and in relation to what contest before moving to normative evaluation.
+- **Regression verdict: positive censorial relation toward the removed material, alongside an enabling relation for other participants.** The bans make continued participation depend on the targeted content/community category and secure the platform's admissibility ordering through exclusion rather than contest with the removed material. The same intervention can improve others' participation conditions; that consequence neither cancels the censorial relation nor makes it normatively wrongful.
+- The empirical study supports the exclusion and downstream behavioural effects. The framework supplies the structural classification and remains neutral on whether the moderation was justified.
 
 Support: `gillespie2022`, `howardkira2026`, `chandrasekharan2017`.
 
 ## 6.6 Counter-speech and saturation — rebuttal versus environmental occupation
 
-- Large amounts of rebuttal can make an original claim harder to find while remaining ordinary contest. Volume, coordination, and reduced visibility are therefore insufficient by themselves.
-- King, Pan, and Roberts provide a strong empirical contrast. Their large-scale analysis of Chinese government-directed social-media posting estimated roughly 448 million fabricated comments per year and found that the operation largely avoided argument with critics; instead it used coordinated positive material to distract attention and change the subject. Support: `kingpanroberts2017`.
-- This is close to saturation as a field pathway: the target need not be removed or refuted if the surrounding informational field can be occupied so that continued engagement is displaced. Its usual target-level effect is attenuation of encounter or attention rather than a fourth independent kind of alteration.
-- Hard case: coordinated participants sincerely repeat substantive rebuttals at a scale that also buries the target. Contest and altered contestability can then be properties of the same activity in different relations.
-- The key distinction is therefore not volume or coordination alone but whether environmental occupation functions as a shortcut around continued engagement with the target.
+- **Unit**: critical or collective-action discussion competing for attention in the relevant Chinese social-media field.
+- **Negative control**: even large amounts of substantive rebuttal can reduce a claim's relative visibility while remaining contest; volume and coordination alone are insufficient.
+- King, Pan, and Roberts estimate roughly 448 million Chinese government-fabricated comments per year and find that the operation largely avoids argument with critics, instead using coordinated positive material to distract attention and change the subject. They infer a strategy of redirecting attention from discussions or events with collective-action potential. Support: `kingpanroberts2017`.
+- **Regression verdict: positive censorial saturation relation for the reported strategic-distraction mechanism.** The operation occupies the surrounding field rather than defeating the targeted discussion on its own terms; its censorial effect is attenuation of encounter, and its focus on discussions with collective-action potential supplies the ordering-linked selectivity.
+- Coordinated participants sincerely repeating substantive rebuttals remain a harder mixed case: the same activity may constitute contest while also producing incidental burial, and burial alone does not convert it into censorship.
 
 Support: `roberts2018`, `kingpanroberts2017`.
 
 ## 6.7 Anticipatory restraint — criticism versus ambient participation costs
 
-- A participant who stays silent because they expect strong criticism is anticipating contest, not necessarily censorship; this is the negative control.
+- **Unit**: politically sensitive expression by Hong Kong users in the social-media field under the National Security Law; the restraint itself is a response, not the censorial object.
+- **Negative control**: staying silent because one expects strong criticism, embarrassment, or rebuttal is an ordinary response to contest unless the surrounding participation conditions independently satisfy shortcut and selectivity.
 - Wang and Mayer studied roughly seven million historical tweets around Hong Kong's 2020 National Security Law. Compared with controls, Hong Kong users became more likely to delete past activity or restrict accounts and posted less about politically sensitive topics after enactment. Support: `wangmayer2023`.
-- The case demonstrates the response pathway: the law changes ambient participation consequences, while users themselves perform erasure, withdrawal, or reduced expression.
-- The censorial question concerns those surrounding participation conditions, not whether the resulting restraint is conscious, rational, habitual, or unwitting.
-- Social reputation remains a harder middle case: ordinary adverse judgment is unavoidable, but reputational response can become censorially relevant when coupled to consequential institutional or social participation conditions.
-- The settled-norm evidence above supplies a less overt comparison in which professional and workplace climates structure disclosure decisions without a discrete speech ban. Support: `beagan2022`, `holman2022`.
+- **Regression verdict: positive for the ambient legal participation condition in the relation tested; the observed restraint is evidence of response.** Position-linked legal consequences make some political participation selectively costly and can preserve an ordering by inducing exclusion or attenuation before renewed contest occurs. The study supports behavioural change around the law, not a claim about every user's motive.
+- Social reputation remains a harder middle case: ordinary adverse judgment is unavoidable, while reputational pressure becomes censorially relevant only where it connects to consequential position-linked participation conditions.
 
-Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`, `beagan2022`, `holman2022`.
+Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`.
 
 ## 6.8 Unintended impairment — random failure versus asymmetric remediation
 
-- A software fault, administrative mistake, or broken process that happens to hide material is not censorial merely because suppression occurred. If the failure mechanism is unrelated to the target's position in the ordering, the impairment is incidental rather than selective.
-- Selectivity concerns the mechanism or participation condition around the failure, not merely the fact that different targets fare differently. The surrounding system may matter through detection, escalation, remediation, redundancy, substitutes, tolerance, or enforcement.
-- A shortcut can arise around a non-censorial initiating failure where an established response pathway operates differently in a way linked to the ordering: for example, comparable failures affecting incumbent contributions are reliably detected or repaired while challenges predictably receive weaker remediation or redundancy.
-- The baseline is descriptive rather than moral. Relevant evidence can come from an explicit decision rule, established rule or workflow, a service or role, system design, an existing remediation pathway, or the treatment of genuinely comparable failures.
-- A one-off missed repair or instance of neglect does not become censorship merely because its burden is unequal. A single explicit position-linked decision can establish selectivity; in unintended or distributed cases, a recurrent pattern, architecture, or counterfactual dependence may be needed to establish that the differential belongs to the mechanism rather than chance.
-- The initiating failure can therefore remain non-censorial while subsequent action, non-action, or surrounding infrastructure supplies the selective shortcut.
-- The same reasoning constrains omission generally: failure to assist, repair, acquire, enforce, or provide access is not enough without a field-grounded baseline, an ordering-linked differential, and a shortcut relation.
-- This case is a hypothetical structural stress test, not an empirical claim.
+- **Unit**: the affected contribution in the relevant technical or administrative channel, including the established pathway for detecting and repairing impairment.
+- **Negative verdict for the initiating random fault**: a software bug, administrative mistake, or broken process that hides material is not censorial when the failure mechanism is unrelated to the target's position in the ordering.
+- A different relation arises where an established response pathway treats comparable failures according to position: for example, incumbent contributions are reliably detected or repaired while challenges predictably receive weaker remediation or redundancy.
+- **Positive verdict only for the stipulated position-linked remediation relation**: where asymmetric detection, repair, redundancy, or non-remediation is itself ordering-dependent and keeps a challenge less contestable, the surrounding response mechanism supplies the shortcut even though the initiating fault remains non-censorial.
+- A one-off missed repair, unequal burden, or mere possibility of assistance remains insufficient. The baseline must come from an actual rule, workflow, service, system design, remediation pathway, or genuinely comparable cases.
+- This is a hypothetical structural regression test, not an empirical claim.
+
+## 6.9 Settled norms — coordination versus ambient closure
+
+- **Unit**: identity or self-presentation within a professional or workplace field; the relevant ordering concerns what is treated as ordinary, admissible, professional, or in need of justification.
+- **Negative control**: durable norms of coordination, civility, procedure, or professional conduct are not censorial merely because they constrain behaviour or are costly to challenge; the participation condition must still be selectively ordering-linked and do shortcut work.
+- Beagan et al. interviewed 13 LGBTQ+ Canadian health professionals and found disclosure decisions shaped by heteronormative professional contexts, including perceptions that disclosure to patients or clients could be unprofessional; participants described continuing concealment/disclosure decisions. Support: `beagan2022`.
+- Holman et al.'s study of 319 LGBQ employees found concealment from coworkers and supervisors statistically related to perceived workplace climate and identity centrality. Support: `holman2022`.
+- These studies establish position-dependent ambient conditions and disclosure responses, but do not by themselves show whether the relevant costs function as a selective shortcut rather than as broader stigma, ordinary professional convention, or another social mechanism; nor do they establish a sedimentation history.
+- **Regression verdict: indeterminate on current evidence.** The case remains valuable because it identifies the exact evidential burden for a positive classification: show that the ambient norm selectively makes the differently positioned representation harder to express or sustain, and that this altered contestability helps preserve the incumbent ordering without renewed contest.
+- Normative evaluation remains separate: a norm can be socially useful, harmful, benign, or justified without settling this structural question.
+
+Support: `beagan2022`, `holman2022`; background `foucault1977`, `lukes2005`, `bowkerstar1999`, `star1999`.
 
 ---
 
