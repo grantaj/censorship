@@ -160,7 +160,7 @@ class RenderTests(unittest.TestCase):
 
 
 class WorkflowSafetyTests(unittest.TestCase):
-    def test_paid_compile_is_manual_only_pinned_and_separate(self) -> None:
+    def test_paid_compile_is_manual_only_tracks_compiler_main_and_separate(self) -> None:
         compile_workflow = (ROOT / ".github/workflows/compile.yml").read_text(
             encoding="utf-8"
         )
@@ -172,9 +172,15 @@ class WorkflowSafetyTests(unittest.TestCase):
         self.assertNotIn("\n  pull_request:", compile_workflow)
         self.assertIn("confirm_paid_run", compile_workflow)
         self.assertIn(
+            "repository: grantaj/compiled-prose\n          ref: main", compile_workflow
+        )
+        self.assertNotIn("COMPILED_PROSE_SHA:", compile_workflow)
+        self.assertNotIn(
             "a153c2b19f8b95ba5063947aeeccb072ba862bf6", compile_workflow
         )
-        self.assertNotIn("grantaj/compiled-prose@main", compile_workflow)
+        self.assertIn(
+            'compiler_sha=$(git -C compiler rev-parse HEAD)', compile_workflow
+        )
         self.assertIn('WORKFLOW_REF: ${{ github.ref }}', compile_workflow)
         self.assertIn('SOURCE_REF: ${{ inputs.source_ref }}', compile_workflow)
         self.assertIn("environment: paid-compile", compile_workflow)
