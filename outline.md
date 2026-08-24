@@ -16,7 +16,7 @@
 - **Ordering**: relative standing within a field of claims, topics, representations, speakers, or forms of self-presentation by credibility, legitimacy, admissibility, visibility, salience, recognition, or authority.
 - **Contest**: the process through which such standing can be established, defended, or changed through expression, representation, claims, reasons, evidence, interpretation, criticism, rebuttal, comparison, or challenges to standing and admissibility. Contest is not limited to propositional argument: an artwork or form of self-presentation can enter it by being shown, encountered, represented, interpreted, or recognised without asserting a proposition or intending to argue.
 - **Contestability**: practical opportunity for a contribution or participant to enter, remain in, be encountered, be represented, and receive consideration within that field.
-- **Censorship**: selective control of contestability that shortcuts contest. Selectivity describes a consequential differential in relation to the relevant ordering and realistic alternatives; unequal effects alone are insufficient and no selecting subject is required. Censorship does not require censorial intent, action rather than omission, a single censor, or successful suppression.
+- **Censorship**: selective alteration of contestability that shortcuts contest. An alteration is selective when the participation condition or mechanism makes contestability depend on a target's relation to the relevant ordering, directly or through a condition that systematically tracks that relation; an uneven outcome alone is insufficient and no selecting subject is required. Censorship does not require censorial intent, action rather than omission, a single censor, or successful suppression.
 - **Censorial character**: strength and significance of the selective alteration of contestability in mixed or boundary cases; not a moral judgment or quantitative score.
 - **Sedimentation**: persistence or embedding of a censorial shortcut in rules, classifications, rankings, routines, infrastructure, expectations, or norms so that altered contestability can outlast particular interventions, actors, or reasons.
 
@@ -26,12 +26,18 @@ Scope and unit of analysis:
 - Classification attaches to a specified relation, not to an act, actor, or institution wholesale. Fix before classification: the target contribution or participant; the field or channel in which the target participates or ordinarily could participate and through which the mechanism has practical leverage; the ordering at stake; and a realistic comparator or baseline. These should follow from the concrete mechanism and practical context, not be redrawn after the fact to obtain a preferred classification.
 - One event can instantiate multiple relations. A moderation decision, for example, can constrain the removed contribution while preserving or increasing another participant's opportunity to take part. Analyse those relations separately rather than forcing one global label to cancel the other.
 
+Selectivity and mechanism:
+
+- `Control` need not be a separate theoretical primitive or imply a controller. It can remain ordinary-language shorthand for contestability being shaped by a decision, rule, practice, infrastructure, incentive, or recurrent response rather than merely varying by accident.
+- Selectivity belongs to that mechanism or participation condition, not to the observed outcome alone. A position-linked rule can be selective in a single case; an unintended or distributed mechanism may instead be evidenced by a stable pattern, response architecture, or counterfactual asymmetry. Mere correlation or one-off unevenness is insufficient.
+- Non-action is analysed against a field-grounded descriptive baseline, not a general duty to assist. Relevant baselines can come from an established rule, workflow, service, role, remediation or enforcement pathway, system design, or treatment of genuinely comparable cases.
+
 Conceptual hierarchy:
 
 - Contest is the baseline mechanism by which an ordering remains exposed to challenge.
 - The intuitive core is rhetorical: censorship changes the conditions of the argument so that a preferred state can be reached or preserved without having to win on the same terms within the contest. Here "argument" is shorthand for the relevant contest, not only propositional debate.
-- Incumbent or settled orderings are an important case because inertia or unwillingness to reopen a matter can make control of contestability a way of preserving the settlement without exposing it to renewed challenge.
-- Control of contestability is the mechanism of censorship; shortcutting contest is the defining relation.
+- Incumbent or settled orderings are an important case because inertia or unwillingness to reopen a matter can make altered contestability a way of preserving the settlement without exposing it to renewed challenge.
+- Altered contestability is the mechanism of censorship; shortcutting contest is the defining relation; selectivity distinguishes an ordering-linked participation mechanism from incidental impairment.
 - Intent, organisation, and action/non-action are independent descriptive dimensions: a shortcut may be deliberate or unintended; produced through individual, institutional, distributed, or emergent processes; and realised through action or selective non-action.
 - Changes in ordering, reduced need for repeated contest, self-censoring responses, sedimentation, and declining overt enforcement are possible consequences or reproduction paths, not additional defining criteria.
 
@@ -51,14 +57,14 @@ Conceptual hierarchy:
 - Broader structural and constitutive theories already extend censorship beyond overt state prohibition. The proposed contribution is therefore not that breadth itself is new, but that shortcutting contest may provide a discriminator within that broader field. Support: `jansen1988`, `freshwater2004`, `bunn2015`.
 - Structural accounts face a demarcation problem if censorship becomes coextensive with communication, selection, or social control. Support: `muller2004`, `freshwater2004`, `bunn2015`.
 - Library selection and other gatekeeping show why actor, institution, intention, and exclusion alone cannot settle the classification. Support: `asheim1953`, `kidd2009`, `garry2015`, `mooretudor2024`.
-- Access costs, diversion, burial, flooding, and visibility reduction show why control of contestability can matter without literal unavailability. Support: `roberts2018`, `gillespie2022`, `kingpanroberts2017`.
+- Access costs, diversion, burial, flooding, and visibility reduction show why altered contestability can matter without literal unavailability. Support: `roberts2018`, `gillespie2022`, `kingpanroberts2017`.
 - The account therefore needs two properties at once: breadth sufficient to capture indirect, distributed, transformative, and anticipatory control; discrimination sufficient not to redescribe ordinary criticism, selection, ranking, editing, or institutional ordering wholesale as censorship.
 - Actor identity, censorial intention, and surface operation cannot supply that boundary consistently. The proposed discriminator is relational: whether the relevant result stands through contest while the target remains comparably contestable, or instead depends on altering contestability so that participation control itself functions as the shortcut.
 - The operational taxonomy follows only after that classification. It describes where contestability is altered; it does not determine by itself whether an alteration is censorship.
 
 ## Contribution
 
-1. Recast censorship as shortcutting contest through selective control of contestability, without requiring a single censor, censorial intention, state action, or successful suppression.
+1. Recast censorship as shortcutting contest through selective alteration of contestability, without requiring a single censor, censorial intention, state action, or successful suppression.
 2. Explain the difficult boundary with ordinary selection and institutional ordering by asking whether the relevant ordering depends on changing a target's contestability, rather than treating role names, motives, merits-engagement, or the mere fact of gatekeeping as decisive.
 3. Organise recurring censorial operations by where contestability is altered: presence, effective reach, representation, or surrounding informational field.
 4. Explain how shortcuts can be deliberate or unintended, realised through action or non-action, and become sedimented, position-dependent, self-reproducing, and less reliant on overt enforcement.
@@ -67,10 +73,10 @@ Conceptual hierarchy:
 
 # 2. Shortcutting Contest
 
-## 2.1 Contest, control, and closure
+## 2.1 Contest, participation conditions, and closure
 
 - Contest operates through reasons, evidence, criticism, interpretation, rebuttal, comparison, expression, representation, and challenges to standing or admissibility.
-- Every real communicative field also structures participation: attention is finite; journals reject; libraries select; platforms rank; editors transform; communities develop norms. Control of contestability is therefore not automatically censorship.
+- Every real communicative field also structures participation: attention is finite; journals reject; libraries select; platforms rank; editors transform; communities develop norms. Structuring contestability is therefore not automatically censorship.
 - Organising a contest can itself exclude, rank, transform, or limit contributions. The central distinction is what work that participation condition does in relation to the ordering under analysis.
 - A participation consequence can remain within contest where the adverse judgment would stand even if the target remained comparably contestable: rejection for irrelevance, loss of standing after evidential failure, or correction for representational inaccuracy need not rely on making further participation harder.
 - A censorial shortcut appears where altered contestability is itself the route by which the favoured or incumbent ordering is produced or preserved: the target is prevented, burdened, reshaped, or overwhelmed so that the result depends on changing its practical ability to challenge the ordering. The shortcut relation does not require the mechanism to succeed.
@@ -90,8 +96,8 @@ Support: structural/constitutive boundary `muller2004`, `freshwater2004`, `bunn2
 - The shortcut changes the conditions of contest so that a challenge is prevented, burdened, reshaped, or overwhelmed rather than defeated entirely within the contest. This matters especially where there is inertia or unwillingness to reopen a settlement perceived as resolved.
 - Purpose or justification does not define the shortcut: the same structural relation can arise in suppression, protection, coordination, professional practice, optimisation, inherited convention, or other settings.
 - Censorial intent is a separate question. A shortcut may be deliberate or unintended; likewise its production may be individual, institutional, distributed, or emergent.
-- Action is not required. Selective withholding, non-remediation, non-provision, or non-enforcement can alter contestability, but mere inaction or neglect is insufficient without a relevant baseline and consequential differential.
-- Mechanism and success are distinct. A failed ban remains censorial because its mechanism bypasses contest by controlling contestability even if it fails to stabilise the ordering or instead increases attention to the target.
+- Action is not required. Withholding, non-remediation, non-provision, or non-enforcement can participate in a shortcut when departure from a field-grounded baseline selectively alters contestability; mere inaction, neglect, or failure to provide assistance is insufficient.
+- Mechanism and success are distinct. A failed ban remains censorial because its mechanism bypasses contest by altering contestability even if it fails to stabilise the ordering or instead increases attention to the target.
 - Where the shortcut succeeds, reproduction of an ordering becomes less dependent on continued victory within contest.
 
 ## 2.3 Boundary: organising contest versus shortcutting it
@@ -106,8 +112,8 @@ The core discriminator is structural and relational: **does the relevant result 
 
 Three probes organise hard cases without replacing the core discriminator:
 
-1. **Dependency on control**: hold the target's contestability fixed. Would the relevant adverse ordering still follow from the contest or assessment, or is altering contestability the mechanism's route to that result? Apply this to the structure of the mechanism, not merely its observed success.
-2. **Counterfactual symmetry**: holding other field-relevant features fixed, would a differently positioned contribution face a comparable participation condition? Asymmetry can reveal that participation depends on relation to the ordering, but does not by itself prove censorship.
+1. **Dependency on altered contestability**: hold the target's contestability fixed. Would the relevant adverse ordering still follow from the contest or assessment, or is altering contestability the mechanism's route to that result? Apply this to the structure of the mechanism, not merely its observed success.
+2. **Selectivity**: does the participation condition or mechanism make practical treatment depend on the target's relation to the ordering under analysis? Counterfactual symmetry across genuinely comparable cases can reveal such dependence, but outcome asymmetry alone does not establish it.
 3. **Recursive closure**: has an existing ordering become a condition of future participation, so that challenging the settlement requires first passing through rules or expectations that reproduce it?
 
 Implications:
@@ -117,7 +123,7 @@ Implications:
 - Scarcity and institutional remit can justify selection without making criteria neutral or non-censorial by definition.
 - Engagement with reasons, evidence, or representation can produce adverse outcomes without censorship; conversely, such engagement does not immunise a later or parallel participation shortcut.
 - Position-dependent effects are objective features of differential contestability, not merely reports of feeling censored.
-- Competent applications may disagree where facts about the relevant ordering, criterion function, dependency on participation control, or counterfactual baseline are uncertain.
+- Competent applications may disagree where facts about the relevant ordering, criterion function, dependency on altered contestability, selectivity, or baseline are uncertain.
 
 ---
 
@@ -161,7 +167,7 @@ Support: `zheng2024`.
 Target may remain untouched, but the informational field around it is altered so that it becomes harder to find, attend to, distinguish, verify, or use.
 
 - Mechanisms include noise, repetition, diversion, coordinated competing material, or volume.
-- Ordinary contradiction remains contest; saturation becomes censorially relevant when occupation of the field functions as control over another contribution's practical contestability.
+- Ordinary contradiction remains contest; saturation becomes censorially relevant when occupation of the field functions as a shortcut by reducing another contribution's practical contestability.
 - Saturation may compose with attenuation.
 
 Support: `roberts2018`, `kingpanroberts2017`.
@@ -186,7 +192,7 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`.
 - Responsive self-censorship is one reproduction path: participants anticipate the inherited conditions and perform exclusion, attenuation, or transformation on their own contributions. Support: `weeks2024`, `yuenlee2025`, `wangmayer2023`.
 - Overt enforcement may decline because the shortcut has become infrastructural or anticipatory; low visible enforcement does not establish consent, legitimacy, neutrality, or absence of censorship.
 - Revisability is diagnostically important: how practically possible is it to reopen the settlement to contest?
-- Sedimentation alone is not censorship. The relevant question remains whether inherited conditions selectively control contestability.
+- Sedimentation alone is not censorship. The relevant question remains whether inherited conditions selectively alter contestability as a shortcut.
 
 ## Settled norms as a hard case
 
@@ -196,7 +202,7 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`.
 - Reported workplace evidence supplies a proximate case. Beagan et al. interviewed 13 LGBTQ+ Canadian health professionals and found disclosure decisions shaped by heteronormative professional contexts, including perceptions that disclosure to patients or clients could be unprofessional; participants engaged in continuing strategic concealment/disclosure decisions. Support: `beagan2022`.
 - A separate study of 319 LGBQ employees found concealment from coworkers and supervisors statistically related to perceived workplace climate and identity centrality, reinforcing that disclosure conditions vary with social and institutional position rather than simply with formal rules. Support: `holman2022`.
 - These studies do not by themselves establish censorship. Their analytic value is that apparently ordinary professional and workplace norms can differentially structure what must be disclosed, concealed, justified, or risked by differently positioned participants.
-- The censorial claim therefore does not depend on malevolent intent or on the norm being normatively wrong. It depends on differential control of contestability.
+- The censorial claim therefore does not depend on malevolent intent or on the norm being normatively wrong. It depends on a position-linked alteration of contestability that does shortcut work.
 - This is position-dependent without being subjective: different participants encounter different structural participation conditions.
 
 Background on non-overt and infrastructural power: `foucault1977`, `lukes2005`, `bowkerstar1999`, `star1999`.
@@ -210,7 +216,7 @@ Background on non-overt and infrastructural power: `foucault1977`, `lukes2005`, 
 
 - **Intent**: deliberate, unintended. Absence of premeditated censorial intent does not settle structural classification.
 - **Organisation/production**: individual, institutional, distributed, emergent, mixed. An emergent result need not have a coordinating censor.
-- **Action/non-action**: commission, omission, selective non-remediation, mixed. Mere non-action is insufficient; analysis requires a relevant baseline and a consequential differential in contestability.
+- **Action/non-action**: commission, omission, non-remediation, non-provision, non-enforcement, mixed. Non-action can enter the analysis only against a field-grounded descriptive baseline such as an established rule, workflow, service, role, existing response pathway, system design, or treatment of comparable cases; mere failure to help is insufficient.
 - **Locus/power**: diffuse, institutional, economic, technical/algorithmic, state, mixed/distributed. Support: `lukes2005`, `foucault1977`.
 - **Scale**: individual, group/community, institutional, national, transnational/platform-scale.
 - **Visibility**: overt, implicit, opaque, indirectly inferable; visibility may itself be position-dependent. Support: `pasquale2015`.
@@ -265,8 +271,8 @@ Support: `zheng2024`.
 - Rieder, Matamoros-Fernández, and Coromina's longitudinal study of YouTube search describes visibility as a distributed accomplishment of "ranking cultures," involving platform features, users, issue-specific practices, and content rather than a single easily isolated ranking agent. Support: `rieder2018`.
 - Kacperski et al.'s audit of Google Scholar and Semantic Scholar found that confirmation-biased queries targeting benefits or risks produced corresponding disparities in search results. Support: `kacperski2024`.
 - These are proximate rather than dispositive censorship cases. They show that visibility and evidential encounter can be recursively shaped by query framing, platform mechanisms, prior standing, and distributed behaviour without a straightforward censorial decision.
-- A self-reinforcing ordering is still not sufficient: distributed feedback without consequential selective control may be epistemic inequality rather than censorship.
-- Censorial character strengthens where ranking rules selectively and consequentially burden contestability, especially where the channel is dominant, substitutes are weak, or an inherited ordering is recursively encoded.
+- A self-reinforcing ordering is still not sufficient: distributed feedback can produce unequal visibility without making contestability depend on a contribution's position in the relevant ordering. This may be epistemic inequality rather than censorship.
+- Censorial character strengthens where a ranking mechanism makes contestability position-dependent and that altered contestability does shortcut work, especially where the channel is dominant or realistic substitutes are weak.
 
 Support: `gillespie2022`, `howardkira2026`, `pasquale2015`, `rieder2018`, `kacperski2024`.
 
@@ -275,7 +281,7 @@ Support: `gillespie2022`, `howardkira2026`, `pasquale2015`, `rieder2018`, `kacpe
 - Removal is an exclusion operation, but operational family does not determine censorial status.
 - Reddit's 2015 bans of `r/fatpeoplehate` and `r/CoonTown` provide a reported exclusion case with measurable downstream effects. Analysing more than 100 million posts and comments, Chandrasekharan et al. found that users who remained on Reddit reduced hate-speech usage by at least 80%, while receiving subreddits showed no significant increase in hate speech. Support: `chandrasekharan2017`.
 - The case demonstrates why the fact of exclusion cannot settle either normative or structural analysis: a platform can reduce one group's participation while changing participation conditions for others, and the consequences need not simply relocate the excluded conduct.
-- A moderation act can control the removed material's contestability while simultaneously preserving or increasing another participant's ability to enter or remain in the field. These are different relations and can coexist; neither cancels the other.
+- A moderation act can reduce the removed material's contestability while simultaneously preserving or increasing another participant's ability to enter or remain in the field. These are different relations and can coexist; neither cancels the other.
 - The Reddit study supports the exclusion mechanism and downstream behavioural effects, not a general inference that hate-speech moderation is censorial or non-censorial.
 - Analysis therefore tracks whose contestability changes, by what rule, with what substitutes and effects, and in relation to what contest before moving to normative evaluation.
 
@@ -286,7 +292,7 @@ Support: `gillespie2022`, `howardkira2026`, `chandrasekharan2017`.
 - Large amounts of rebuttal can make an original claim harder to find while remaining ordinary contest. Volume, coordination, and reduced visibility are therefore insufficient by themselves.
 - King, Pan, and Roberts provide a strong empirical contrast. Their large-scale analysis of Chinese government-directed social-media posting estimated roughly 448 million fabricated comments per year and found that the operation largely avoided argument with critics; instead it used coordinated positive material to distract attention and change the subject. Support: `kingpanroberts2017`.
 - This is close to the saturation mechanism: the target need not be removed or refuted if the surrounding informational field can be occupied so that continued engagement is displaced.
-- Hard case: coordinated participants sincerely repeat substantive rebuttals at a scale that also buries the target. Contest and control can then be properties of the same activity in different relations.
+- Hard case: coordinated participants sincerely repeat substantive rebuttals at a scale that also buries the target. Contest and altered contestability can then be properties of the same activity in different relations.
 - The key distinction is therefore not volume or coordination alone but whether environmental occupation functions as a shortcut around continued engagement with the target.
 
 Support: `roberts2018`, `kingpanroberts2017`.
@@ -304,11 +310,13 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`, `beagan2022`,
 
 ## 6.8 Unintended impairment — random failure versus asymmetric remediation
 
-- A software fault, administrative mistake, or broken process that happens to hide material is not censorial merely because suppression occurred without intent.
-- An unintended impairment can nevertheless expose censorial structure through what happens around it: which failures are noticed, escalated, tolerated, repaired, provided substitutes, or allowed to persist.
-- Counterfactual probe: if an equivalent failure impaired a differently positioned or settled contribution, would it predictably receive the same detection, remediation, redundancy, and tolerance?
-- The initiating failure can therefore be non-censorial while subsequent action or selective non-action alters contestability. The relevant shortcut may lie in asymmetric remediation rather than in the bug itself.
-- The same reasoning constrains omission generally: failure to assist, repair, acquire, enforce, or provide access is not enough without a relevant ordinary baseline, differential treatment, leverage, and relation to the contest.
+- A software fault, administrative mistake, or broken process that happens to hide material is not censorial merely because suppression occurred. If the failure mechanism is unrelated to the target's position in the ordering, the impairment is incidental rather than selective.
+- Selectivity concerns the mechanism or participation condition around the failure, not merely the fact that different targets fare differently. The surrounding system may matter through detection, escalation, remediation, redundancy, substitutes, tolerance, or enforcement.
+- A shortcut can arise around a non-censorial initiating failure where an established response pathway operates differently in a way linked to the ordering: for example, comparable failures affecting incumbent contributions are reliably detected or repaired while challenges predictably receive weaker remediation or redundancy.
+- The baseline is descriptive rather than moral. Relevant evidence can come from an established rule or workflow, a service or role, system design, an existing remediation pathway, or the treatment of genuinely comparable failures.
+- A one-off missed repair or instance of neglect does not become censorship merely because its burden is unequal. A single explicit position-linked decision can establish selectivity; in unintended or distributed cases, a recurrent pattern, architecture, or counterfactual dependence may be needed to establish that the differential belongs to the mechanism rather than chance.
+- The initiating failure can therefore remain non-censorial while subsequent action, non-action, or surrounding infrastructure supplies the selective shortcut.
+- The same reasoning constrains omission generally: failure to assist, repair, acquire, enforce, or provide access is not enough without a field-grounded baseline, an ordering-linked differential, and a shortcut relation.
 - This case is a hypothetical structural stress test, not an empirical claim.
 
 ---
@@ -320,8 +328,8 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`, `beagan2022`,
 1. Fix the unit of analysis: target contribution or participant; field or channel in which the target participates or ordinarily could participate and through which the mechanism has practical leverage; ordering at stake; and realistic comparator or baseline. Identify these from the concrete mechanism and practical context before classification, including representation, legitimacy, standing, or admissibility where relevant.
 2. Identify any change in contestability: presence, reach, representation, or surrounding field.
 3. Ask whether the relevant result depends on that change in contestability: holding the target's practical opportunity to participate fixed, would the adverse ordering still follow from contest or assessment, or is altered contestability the mechanism's route to securing or preserving it? Apply this to mechanism structure rather than observed success. Allow mixed sequences and analyse different participant relations separately.
-4. Test selectivity and leverage, including realistic substitutes, position-dependent burdens, and where useful counterfactual symmetry across differently positioned contributions.
-5. Describe rather than infer intent, organisation, and action/non-action; none settles classification by itself.
+4. Test selectivity: does the mechanism or participation condition make contestability depend on the target's relation to the relevant ordering rather than merely produce an uneven outcome? Use realistic substitutes, genuinely comparable cases, leverage, and counterfactual symmetry where useful.
+5. Describe rather than infer intent, organisation, and action/non-action; none settles classification by itself. For non-action, identify the field-grounded descriptive baseline rather than inferring censorship from the mere possibility of assistance.
 6. Ask whether an existing ordering has become a condition of future participation.
 7. Where relevant, trace self-censoring response, sedimentation, persistence, and practical revisability.
 8. Only then evaluate lawfulness, ethics, proportionality, necessity, professional appropriateness, or political legitimacy.
@@ -332,15 +340,15 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`, `beagan2022`,
 - The framework does not make perpetual openness to contest a normative requirement. Closure can be justified and censorial structure can be normatively defensible.
 - Does not subsume propaganda, persuasion, education, criticism, selection, curation, moderation, editing, cultural ordering, or social coordination wholesale into censorship.
 - Does not assume scarcity, professional criteria, inherited norms, institutional rules, omissions, or technical failures are neutral; neither does their existence establish censorship.
-- Unintended effects and non-action require the same relational analysis as deliberate interventions; outcome asymmetry alone is insufficient.
+- Unintended effects and non-action require the same shortcut and selectivity relations as deliberate interventions; outcome asymmetry alone is insufficient.
 - Taxonomy remains revisable if recurring cases fit poorly.
 
 ---
 
 # 8. Conclusion
 
-- Censorship is best understood as shortcutting contest through selective control of contestability, not by actor identity, intention, prohibition, surface operation, or moral verdict.
+- Censorship is best understood as shortcutting contest through selective alteration of contestability, not by actor identity, intention, prohibition, surface operation, or moral verdict.
 - This basis explains overt suppression as well as deliberate or unintended, distributed, emergent, action-based, and non-action-based forms while preserving a boundary with ordinary contest, selection, editing, and institutional ordering.
 - Exclusion, attenuation, transformation, and saturation describe where contestability is altered; responsive self-censorship describes one pathway by which the shortcut can be reproduced.
 - Boundary cases and negative controls show why the same surface operation can be censorial in one relation and part of ordinary contest or governance in another.
-- Sedimentation explains how initially active control can become routine, infrastructural, position-dependent, and less reliant on overt enforcement.
+- Sedimentation explains how initially active alteration of contestability can become routine, infrastructural, position-dependent, and less reliant on overt enforcement.
