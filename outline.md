@@ -27,6 +27,7 @@ Conceptual hierarchy:
 
 - Prior-literature, empirical, historical, and attributed claims require verified support; hypothetical stress tests need no citation absent case-specific facts.
 - Framework-specific proposals remain visibly authored. Contestability, shortcut, operational taxonomy, sedimentation, position-dependent censoriality, and declining enforcement burden must not be attributed wholesale to background sources.
+- Empirical cases anchor observed mechanisms and conditions; their authors' terminology does not predetermine classification under this framework.
 
 ---
 
@@ -36,8 +37,8 @@ Conceptual hierarchy:
 
 - Explicit prohibition is non-exhaustive; scholarship includes structural, self-censoring, frictional, and flooding forms. Support: `muller2004`, `freshwater2004`, `bunn2015`, `roberts2018`.
 - Structural accounts face a demarcation problem if censorship becomes coextensive with communication, selection, or social control. Support: `muller2004`, `freshwater2004`, `bunn2015`.
-- Library selection and other gatekeeping show why actor, institution, intention, and exclusion alone cannot settle the classification. Support: `asheim1953`, `kidd2009`.
-- Access costs, diversion, burial, flooding, and visibility reduction show why control of contestability can matter without literal unavailability. Support: `roberts2018`, `gillespie2022`.
+- Library selection and other gatekeeping show why actor, institution, intention, and exclusion alone cannot settle the classification. Support: `asheim1953`, `kidd2009`, `garry2015`, `mooretudor2024`.
+- Access costs, diversion, burial, flooding, and visibility reduction show why control of contestability can matter without literal unavailability. Support: `roberts2018`, `gillespie2022`, `kingpanroberts2017`.
 
 ## Contribution
 
@@ -121,7 +122,7 @@ Target may remain untouched, but the informational field around it is altered so
 - Ordinary contradiction remains contest; saturation becomes censorially relevant when occupation of the field functions as control over another contribution's practical contestability.
 - Saturation may compose with attenuation.
 
-Support: `roberts2018`.
+Support: `roberts2018`, `kingpanroberts2017`.
 
 ## 3.5 Responsive self-censorship — response pathway
 
@@ -131,7 +132,7 @@ Support: `roberts2018`.
 - Sources may include prior enforcement, incentives, norms, opaque rules, learned expectations, or distributed social cues; no conscious inducing agent required.
 - Preference falsification and ordinary private restraint are related but not automatically censorial.
 
-Support: `weeks2024`, `yuenlee2025`, `kuran1995`.
+Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`.
 
 ---
 
@@ -140,7 +141,7 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`.
 - A shortcut can become embedded in ranking, recommendation, classification, professional routines, archives, access rules, defaults, conventions, or social norms. Support: `bowkerstar1999`, `star1999`, `scott1998`, `pasquale2015`.
 - Once embedded, altered contestability may persist after the originating dispute, decision, actor, or justification has receded.
 - Existing settlements can then become conditions of future participation: what previously required active exclusion may be reproduced by routine procedure or expectation.
-- Responsive self-censorship is one reproduction path: participants anticipate the inherited conditions and perform exclusion, attenuation, or transformation on their own contributions. Support: `weeks2024`, `yuenlee2025`.
+- Responsive self-censorship is one reproduction path: participants anticipate the inherited conditions and perform exclusion, attenuation, or transformation on their own contributions. Support: `weeks2024`, `yuenlee2025`, `wangmayer2023`.
 - Overt enforcement may decline because the shortcut has become infrastructural or anticipatory; low visible enforcement does not establish consent, legitimacy, neutrality, or absence of censorship.
 - Revisability is diagnostically important: how practically possible is it to reopen the settlement to contest?
 - Sedimentation alone is not censorship. The relevant question remains whether inherited conditions selectively control contestability.
@@ -149,8 +150,10 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`.
 
 - Settled norms can serve positive functions: coordination, stability, civility, protection, predictability, or relief from continual relitigation.
 - The same settlement can be asymmetrical. A norm may be nearly invisible to participants who fit it while imposing additional costs, sanctions, justificatory burdens, or inadmissibility on those who contest it.
-- Example: inherited norms around acceptable family, gender, or sexuality may be experienced as ordinary social background by some participants while making queer identity or expression harder to articulate, legitimate, or sustain in the same field.
-- The censorial claim does not depend on malevolent intent or on the norm being normatively wrong. It depends on differential control of contestability.
+- Reported workplace evidence supplies a proximate case. Beagan et al. interviewed 13 LGBTQ+ Canadian health professionals and found disclosure decisions shaped by heteronormative professional contexts, including perceptions that disclosure to patients or clients could be unprofessional; participants engaged in continuing strategic concealment/disclosure decisions. Support: `beagan2022`.
+- A separate study of 319 LGBQ employees found concealment from coworkers and supervisors statistically related to perceived workplace climate and identity centrality, reinforcing that disclosure conditions vary with social and institutional position rather than simply with formal rules. Support: `holman2022`.
+- These studies do not by themselves establish censorship. Their analytic value is that apparently ordinary professional and workplace norms can differentially structure what must be disclosed, concealed, justified, or risked by differently positioned participants.
+- The censorial claim therefore does not depend on malevolent intent or on the norm being normatively wrong. It depends on differential control of contestability.
 - This is position-dependent without being subjective: different participants encounter different structural participation conditions.
 
 Background on non-overt and infrastructural power: `foucault1977`, `lukes2005`, `bowkerstar1999`, `star1999`.
@@ -171,66 +174,69 @@ These dimensions describe a case but do not define censorship.
 
 # 6. Developed Boundary Cases
 
-Each case asks whether a participation decision remains part of epistemic contest or becomes a shortcut around it.
+Each case asks whether a participation decision remains part of epistemic contest or becomes a shortcut around it. Empirical anchors establish reported mechanisms and conditions; classification remains the work of the framework.
 
 ## 6.1 Library acquisition
 
-- A university research library with finite resources declines an in-remit controversial monograph under a methodological-quality policy. Interlibrary loan exists but adds friction; the position is locally underrepresented; no censorial intent is assumed.
-- Non-acquisition alters presence, but scarcity makes some exclusion unavoidable.
-- If the methodology has been assessed under criteria genuinely open to contest and comparably applied, exclusion may be downstream of epistemic evaluation rather than a shortcut around it.
-- Harder case: a criterion such as conformity with established scholarly standing can convert the existing ordering into a condition of acquisition. Uniform and sincere application can then still reduce the contestability of positions that challenge that ordering.
-- Relevant evidence: criterion function, application pattern, realistic substitutes, channel leverage, and whether the criterion itself can be challenged.
-- Payoff: neither "selection" nor discriminatory intention decides the case; the theory locates the boundary in how acquisition criteria relate to future contest.
+- Selection is unavoidable under finite budgets and remit, but empirical work shows that anticipatory pressure can enter collection development before any formal ban occurs.
+- Garry's mixed-method study of 120 Ohio public high-school libraries plus 12 librarian interviews found significantly fewer LGBTQ-themed books than titles with other controversial content. Support: `garry2015`.
+- Moore and Tudor found increased hesitancy among school librarians to add potentially controversial materials during a period of heightened book challenges; participants who had not personally experienced a challenge were less likely than those who had to purchase some controversial materials, including books with LGBTQIA+ characters. Support: `mooretudor2024`.
+- These findings do not make non-acquisition self-classifying as censorship. They show a route by which anticipated external challenge can become an internal selection condition, potentially converting environmental pressure into participant-performed exclusion.
+- The boundary remains whether acquisition criteria are principally downstream of epistemic/professional evaluation or function to make some positions harder to enter the collection and thus future contest.
+- Relevant evidence: criterion function, application pattern, realistic substitutes, channel leverage, anticipated consequences, and whether the criteria themselves can be challenged.
 
-Support: `asheim1953`, `kidd2009`.
+Support: `asheim1953`, `kidd2009`, `garry2015`, `mooretudor2024`.
 
 ## 6.2 Editorial and peer-review rejection
 
-- Rejection for a demonstrated methodological or evidential failure can be part of structured epistemic contest: the claim is excluded because it has been engaged and found wanting.
-- Rejection because a conclusion is institutionally inconvenient, or because a "settled" question may not be reopened, uses control over publication to bypass the relevant contest.
-- Hard case: methodological standards are historically formed inside a dominant theoretical tradition. A rival framework fails them partly because it contests their assumptions.
-- Uniform professional judgment therefore does not end the inquiry. Ask whether standards are functioning as terms of engagement or as conditions preventing a rival position from becoming engageable.
-- Professional judgment and censorial control can coexist in the same decision.
+- Casadevall and Fang explicitly distinguish ordinary peer review from censorship when controversial claims are aired and rejected through scientific evaluation, while warning that screening for consistency with prevailing dogma can blur that distinction. Support: `casadevallfang2009`.
+- The 2017 *Third World Quarterly* publication of Bruce Gilley's "The Case for Colonialism" provides a messy real sequence rather than a clean hypothetical. The publisher's withdrawal notice states that the article had undergone double-blind peer review in accordance with journal policy and was later withdrawn after the editor received serious and credible threats of violence linked to publication. Support: `gilley2017`, `taylorfrancis2017withdrawal`.
+- The case separates several relations that are easily collapsed: substantive scholarly criticism is contest; peer review is professional gatekeeping that may itself be part of contest; threats impose participation consequences outside the article's merits; withdrawal controls continuing publication.
+- It therefore should not be reduced to a verdict about whether "peer review" or "retraction" is censorship. The analytic task is to identify which parts of the sequence engage the claim and which alter the conditions under which it can remain contestable.
+- Harder cases remain where methodological standards are historically formed inside a dominant theoretical tradition and rival approaches partly contest the standards used to judge their admissibility.
 
 ## 6.3 Search and recommendation ranking
 
 - Ranking is unavoidable where attention is scarce; reduced visibility alone cannot make all ranking censorship.
-- Relevance ranking may organise contest, while authority or engagement metrics can recursively convert prior visibility and institutional standing into future visibility.
-- A self-reinforcing ordering is still not sufficient: distributed popularity feedback without consequential selective control may be epistemic inequality rather than censorship.
+- Rieder, Matamoros-Fernández, and Coromina's longitudinal study of YouTube search describes visibility as a distributed accomplishment of "ranking cultures," involving platform features, users, issue-specific practices, and content rather than a single easily isolated ranking agent. Support: `rieder2018`.
+- Kacperski et al.'s audit of Google Scholar and Semantic Scholar found that confirmation-biased queries targeting benefits or risks produced corresponding disparities in search results. Support: `kacperski2024`.
+- These are proximate rather than dispositive censorship cases. They show that visibility and evidential encounter can be recursively shaped by query framing, platform mechanisms, prior standing, and distributed behaviour without a straightforward censorial decision.
+- A self-reinforcing ordering is still not sufficient: distributed feedback without consequential selective control may be epistemic inequality rather than censorship.
 - Censorial character strengthens where ranking rules selectively and consequentially burden contestability, especially where the channel is dominant, substitutes are weak, or an inherited ordering is recursively encoded.
-- The case therefore supplies a lower bound on "control": not every feedback loop in communication is censorial.
 
-Support: `gillespie2022`, `howardkira2026`, `pasquale2015`.
+Support: `gillespie2022`, `howardkira2026`, `pasquale2015`, `rieder2018`, `kacperski2024`.
 
 ## 6.4 Moderation
 
 - Removal is an exclusion operation, but operational family does not determine censorial status.
-- Removing a substantive claim directly controls that claim's contestability; removing repeated abuse may instead preserve another participant's practical ability to remain in the contest.
-- A rule excluding claims because they undermine an accepted settlement is structurally different from a rule addressing conduct independently of viewpoint, even if both are transparently and consistently enforced.
+- Reddit's 2015 bans of `r/fatpeoplehate` and `r/CoonTown` provide a reported exclusion case with measurable downstream effects. Analysing more than 100 million posts and comments, Chandrasekharan et al. found that users who remained on Reddit reduced hate-speech usage by at least 80%, while receiving subreddits showed no significant increase in hate speech. Support: `chandrasekharan2017`.
+- The case demonstrates why the fact of exclusion cannot settle the normative or structural analysis: a platform can reduce one group's participation while changing conditions for the broader field, and the consequences need not simply relocate the excluded conduct.
+- Removing a substantive claim directly controls that claim's contestability; removing repeated abuse may instead preserve another participant's practical ability to remain in the contest. The Reddit study supports the moderation mechanism and its downstream effects, not that latter inference by itself.
 - Hard cases combine governance and contest control: moderation can simultaneously enable participation for some and constrain it for others.
-- Analysis therefore tracks whose contestability changes, by what rule, and in relation to what contest before moving to normative evaluation.
+- Analysis therefore tracks whose contestability changes, by what rule, with what substitutes and effects, and in relation to what contest before moving to normative evaluation.
 
-Support: `gillespie2022`, `howardkira2026`.
+Support: `gillespie2022`, `howardkira2026`, `chandrasekharan2017`.
 
 ## 6.5 Counter-speech and saturation
 
 - Large amounts of rebuttal can make an original claim harder to find while remaining ordinary epistemic contest.
-- Flooding with irrelevant, repetitive, or diversionary material can produce the same visibility effect by altering the surrounding field rather than engaging the claim.
-- Hard case: coordinated participants sincerely repeat substantive rebuttals at a scale that also buries the target.
-- Contest and control can then be properties of the same activity in different relations. Censorial character captures the significance of the field-occupation effect without reclassifying disagreement itself as censorship.
-- The key distinction is not volume but whether environmental occupation functions as a shortcut around continued engagement with the target.
+- King, Pan, and Roberts provide a strong empirical contrast. Their large-scale analysis of Chinese government-directed social-media posting estimated roughly 448 million fabricated comments per year and found that the operation largely avoided argument with critics; instead it used coordinated positive material to distract attention and change the subject. Support: `kingpanroberts2017`.
+- This is close to the saturation mechanism: the target need not be removed or refuted if the surrounding informational field can be occupied so that continued engagement is displaced.
+- Hard case: coordinated participants sincerely repeat substantive rebuttals at a scale that also buries the target. Contest and control can then be properties of the same activity in different relations.
+- The key distinction is therefore not volume or coordination alone but whether environmental occupation functions as a shortcut around continued engagement with the target.
 
-Support: `roberts2018`.
+Support: `roberts2018`, `kingpanroberts2017`.
 
 ## 6.6 Responsive self-censorship
 
 - A participant who stays silent because they expect strong criticism is anticipating contest, not necessarily censorship.
-- A participant who stays silent because expression predictably triggers exclusion, sanction, loss of credentials, access, standing, or comparable participation consequences is responding to altered contestability.
-- Social reputation is a hard middle case: ordinary adverse judgment is unavoidable, but reputational response can become censorially relevant when coupled to consequential institutional or social participation conditions.
-- The participant may perform the immediate exclusion on their own expression while the inducing structure is distributed, inherited, or opaque.
-- This explains self-censorship without inventing an internal censor or treating every act of restraint as censorship.
+- Wang and Mayer studied roughly seven million historical tweets around Hong Kong's 2020 National Security Law. Compared with controls, Hong Kong users became more likely to delete past activity or restrict accounts and posted less about politically sensitive topics after enactment. Support: `wangmayer2023`.
+- The case cleanly demonstrates the response pathway: the law changes anticipated participation consequences, while users themselves perform erasure, withdrawal, or reduced expression.
+- The mechanism also clarifies why no internal "censor" is needed. The proximate operation can be self-performed while the inducing condition is legal, institutional, social, distributed, or inherited.
+- Social reputation remains a harder middle case: ordinary adverse judgment is unavoidable, but reputational response can become censorially relevant when coupled to consequential institutional or social participation conditions.
+- The settled-norm evidence above supplies a less overt comparison in which professional and workplace climates structure disclosure decisions without a discrete speech ban. Support: `beagan2022`, `holman2022`.
 
-Support: `weeks2024`, `yuenlee2025`, `kuran1995`.
+Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`, `beagan2022`, `holman2022`.
 
 ---
 
