@@ -22,7 +22,7 @@ Conceptual hierarchy:
 
 - Contest is the baseline mechanism by which an epistemic ordering remains exposed to challenge.
 - Control of contestability is the mechanism of censorship; shortcutting contest is the defining relation.
-- Intent, organisation, and action/non-action are independent descriptive dimensions: a shortcut may be deliberate or unintended; individually, institutionally, distributedly, or emergently produced; and realised through action or through selective non-action.
+- Intent, organisation, and action/non-action are independent descriptive dimensions: a shortcut may be deliberate or unintended; produced through individual, institutional, distributed, or emergent processes; and realised through action or selective non-action.
 - Changes in ordering, reduced need for repeated contest, self-censoring responses, sedimentation, and declining overt enforcement are possible consequences or reproduction paths, not additional defining criteria.
 
 ## Source discipline
@@ -30,7 +30,6 @@ Conceptual hierarchy:
 - Prior-literature, empirical, historical, and attributed claims require verified support; hypothetical stress tests need no citation absent case-specific facts.
 - Framework-specific proposals remain visibly authored. Contestability, shortcut, operational taxonomy, sedimentation, position-dependent censoriality, declining enforcement burden, and counterfactual symmetry must not be attributed wholesale to background sources.
 - Empirical cases anchor observed mechanisms and conditions; their authors' terminology does not predetermine classification under this framework.
-- Case selection is analytically rather than politically driven. Sources establish reported facts and mechanisms, not approval or disapproval of the substantive positions involved.
 
 ---
 
@@ -51,7 +50,7 @@ Conceptual hierarchy:
 1. Recast censorship as shortcutting epistemic contest through selective control of contestability, without requiring a single censor, censorial intention, state action, or successful suppression.
 2. Explain the difficult boundary with ordinary selection and institutional ordering by asking how rules and interventions relate to epistemic contest, rather than treating role names or motives as decisive.
 3. Organise recurring censorial operations by where contestability is altered: presence, effective reach, representation, or surrounding informational field.
-4. Explain how shortcuts can be deliberate or unintended, active or omissive, and how they can become sedimented, position-dependent, self-reproducing, and less reliant on overt enforcement.
+4. Explain how shortcuts can be deliberate or unintended, realised through action or non-action, and become sedimented, position-dependent, self-reproducing, and less reliant on overt enforcement.
 
 ---
 
@@ -71,7 +70,7 @@ Support: structural/constitutive boundary `muller2004`, `freshwater2004`, `bunn2
 
 - Contest leaves an ordering exposed to challenge; maintaining it may require continued success in argument, evidence, criticism, comparison, or representation.
 - Control of contestability provides another route: prevent, burden, reshape, or overwhelm participation so that some contest is bypassed, pre-empted, or displaced.
-- This is the censorial shortcut. Normative motive does not define it: the same structural relation can arise in suppression, protection, coordination, professional practice, optimisation, inherited convention, or other settings.
+- This is the censorial shortcut. Purpose or justification does not define it: the same structural relation can arise in suppression, protection, coordination, professional practice, optimisation, inherited convention, or other settings.
 - Censorial intent is a separate question. A shortcut may be deliberate or unintended; likewise its production may be individual, institutional, distributed, or emergent.
 - Action is not required. Selective withholding, non-remediation, non-provision, or non-enforcement can alter contestability, but mere inaction or neglect is insufficient without a relevant baseline and consequential differential.
 - Mechanism and success are distinct. A failed ban remains censorial because its mechanism bypasses contest by controlling contestability even if it fails to stabilise the ordering or instead increases attention to the target.
@@ -127,7 +126,7 @@ What participates is altered while retaining or replacing continuity with the ta
 - Transformation becomes censorially relevant where alteration selectively changes the practical terms on which the target's own claim, position, identity, or representation can participate, rather than merely engaging with or transparently representing it.
 - **Modification**: changes content, framing, metadata, translation, redaction, classification, or representation.
 - **Substitution**: replaces a contested expression, account, framing, representation, or record with an alternative.
-- The boundary is especially visible when the transformed output continues to stand as the target's contribution while directional changes are not themselves the object of contest.
+- The boundary is especially visible when the transformed output continues to stand as the target's contribution while its substantive position is directionally altered.
 
 Support: `zheng2024`.
 
@@ -183,7 +182,7 @@ Background on non-overt and infrastructural power: `foucault1977`, `lukes2005`, 
 - Operational modes describe **what happens to contestability**. Contextual dimensions describe **how, where, by whom, and under what conditions it happens**. They are deliberately orthogonal: none is a substitute definition of censorship.
 - Context can strengthen or weaken an analysis of selectivity, leverage, substitutes, and persistence without making state action, intent, opacity, scale, or justification necessary conditions.
 
-- **Intent**: deliberate, knowingly tolerated, unintended. Absence of premeditated censorial intent does not settle structural classification.
+- **Intent**: deliberate, unintended. Absence of premeditated censorial intent does not settle structural classification.
 - **Organisation/production**: individual, institutional, distributed, emergent, mixed. An emergent result need not have a coordinating censor.
 - **Action/non-action**: commission, omission, selective non-remediation, mixed. Mere non-action is insufficient; analysis requires a relevant baseline and a consequential differential in contestability.
 - **Locus/power**: diffuse, institutional, economic, technical/algorithmic, state, mixed/distributed. Support: `lukes2005`, `foucault1977`.
@@ -197,9 +196,9 @@ Background on non-overt and infrastructural power: `foucault1977`, `lukes2005`, 
 # 6. Developed Boundary Tests
 
 - These cases are a stress-test suite for the demarcation claim, not a catalogue of approved or disapproved causes.
-- Each pairs censorship with a nearby activity sharing some surface operation: selection versus anticipatory exclusion; evidential rejection versus extra-merit exclusion; editing versus directional transformation; ranking versus selective attenuation; moderation as simultaneous enablement and constraint; rebuttal versus saturation; criticism-induced restraint versus induced self-censorship; random failure versus asymmetric non-remediation.
+- Each pairs censorship with a nearby activity sharing some surface operation: selection versus anticipatory exclusion; evidential rejection versus withdrawal under external pressure; editing versus directional transformation; ranking versus selective attenuation; moderation as simultaneous enablement and constraint; rebuttal versus saturation; criticism-induced restraint versus induced self-censorship; random failure versus asymmetric non-remediation.
 - Negative and near-negative controls are as important as positive cases. A useful framework must explain not only why a case can be censorial but why structurally similar cases can remain ordinary contest, governance, or error.
-- Empirical anchors establish reported mechanisms and conditions; classification remains the work of the framework. Sensitive subject matter is used because boundary conditions are often clearest where competing interests are strong, not to endorse or condemn the positions represented.
+- Empirical anchors establish reported mechanisms and conditions; classification remains the work of the framework.
 
 ## 6.1 Library acquisition — selection versus anticipatory exclusion
 
@@ -212,7 +211,7 @@ Background on non-overt and infrastructural power: `foucault1977`, `lukes2005`, 
 
 Support: `asheim1953`, `kidd2009`, `garry2015`, `mooretudor2024`.
 
-## 6.2 Editorial and peer-review rejection — evidential rejection versus extra-merit exclusion
+## 6.2 Editorial and peer-review rejection — evidential rejection versus withdrawal under external pressure
 
 - Casadevall and Fang explicitly distinguish ordinary peer review from censorship when controversial claims are aired and rejected through scientific evaluation, while warning that screening for consistency with prevailing dogma can blur that distinction. Support: `casadevallfang2009`.
 - A concrete negative control is the 2003 Nature retraction of Schön, Meng, and Bao's paper after an independent Bell Laboratories investigation reviewed concerns about the validity of the reported device-measurement data. The retraction records that it followed the committee's findings. Support: `beasley2002`, `schoen2003retraction`.
@@ -224,8 +223,9 @@ Support: `asheim1953`, `kidd2009`, `garry2015`, `mooretudor2024`.
 
 ## 6.3 Editing and translation — representation versus transformation
 
-- Editing and translation necessarily alter expression; fidelity cannot mean absence of transformation. Ordinary correction, compression, translation choice, and explicit editorial disagreement are therefore near-negative controls.
-- Zheng's corpus study of a Chinese translation about EU-Russia relations uses a tagged corpus of the in-house editor's manuscript and reports directional revisions of the source author's political evaluations through modification or deletion: criticism of Russia was generally softened while negative evaluation of the EU was strengthened. Support: `zheng2024`.
+- Editing and translation necessarily alter expression; fidelity cannot mean absence of transformation.
+- Zheng's corpus study of a Chinese translation about EU-Russia relations uses the in-house editor's manuscript and describes the editor both as a textual collaborator who corrects language and translation problems and improves readability, and as making directional revisions of the source author's political evaluations through modification or deletion. Criticism of Russia was generally softened while negative evaluation of the EU was strengthened. Support: `zheng2024`.
+- This gives a same-activity contrast: ordinary editorial transformation and directional alteration of the represented position occur within the same production process rather than being separated by actor or institutional role.
 - The case is useful because the contested contribution is not simply prevented from appearing. A version continues to circulate as a representation of the source while its evaluative stance is altered.
 - The framework therefore asks whether a transformation transparently performs an editorial/representational task or selectively changes the terms on which the target's own position can enter the contest.
 - Modification and deletion can coexist in the same editorial sequence; operational decomposition remains preferable to classifying "editing" as censorial or non-censorial wholesale.
@@ -314,7 +314,7 @@ Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`, `beagan2022`,
 # 8. Conclusion
 
 - Censorship is best understood as shortcutting epistemic contest through selective control of contestability, not by actor identity, intention, prohibition, surface operation, or moral verdict.
-- This basis explains overt suppression as well as deliberate or unintended, distributed, emergent, active, and omissive forms while preserving a boundary with ordinary contest, selection, editing, and institutional ordering.
+- This basis explains overt suppression as well as deliberate or unintended, distributed, emergent, action-based, and non-action-based forms while preserving a boundary with ordinary contest, selection, editing, and institutional ordering.
 - Exclusion, attenuation, transformation, and saturation describe where contestability is altered; responsive self-censorship describes one pathway by which the shortcut can be reproduced.
 - Boundary cases and negative controls show why the same surface operation can be censorial in one relation and part of ordinary contest or governance in another.
 - Sedimentation explains how initially active control can become routine, infrastructural, position-dependent, and less reliant on overt enforcement.
