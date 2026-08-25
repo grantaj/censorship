@@ -21,10 +21,10 @@
 
 ## Problem and lineage
 
-- Censorship scholarship already extends beyond overt prohibition to structural/constitutive, self-censoring, frictional, and flooding forms; breadth beyond bans is not the novelty claim. Support: `jansen1988`, `muller2004`, `freshwater2004`, `bunn2015`, `roberts2018`.
-- Demarcation problem: once censorship is broadened beyond identifiable prohibitions, mere restriction or structuring of communicative possibility cannot by itself distinguish censorship from communication, selection, or social organisation. Schauer makes the ontological version of this problem explicit; Müller, Freshwater, and Bunn trace the corresponding regulatory/constitutive dispute. Support: `schauer1998`, `muller2004`, `freshwater2004`, `bunn2015`.
+- Censorship scholarship already extends beyond overt prohibition to structural/constitutive, self-censoring, frictional, and flooding forms; breadth beyond bans is not the novelty claim. Support: `jansen1988`, `butler1998`, `muller2004`, `freshwater2004`, `bunn2015`, `roberts2018`, `debaets2026`.
+- Demarcation problem: once censorship is broadened beyond identifiable prohibitions, mere restriction or structuring of communicative possibility cannot by itself distinguish censorship from communication, selection, or social organisation. Schauer makes the ontological version of this problem explicit; Butler supplies a primary constitutive/implicit-censorship account; Müller, Freshwater, and Bunn trace the regulatory/constitutive dispute; De Baets still presents it explicitly as a demarcation debate in 2026. Support: `schauer1998`, `butler1998`, `muller2004`, `freshwater2004`, `bunn2015`, `debaets2026`.
 - Steward supplies a close antecedent to the core intuition: censorship can be understood as criticism gone wrong, the foreclosure or frustration of inquiry, and consensus can reflect a short-circuit of inquiry without censorship becoming equivalent to criticism or ubiquitous. Support: `steward2014`, especially introduction pp. 2--4.
-- This account develops that intuition in two directions. First, **contestability** extends the analytic vocabulary to cases where the relevant object is representation, visibility, artistic expression, self-presentation, attention, or standing as well as inquiry over claims. Second, **selectivity** constrains that extension so that ordinary structuring of communication, assessment, and organisation does not thereby become censorship.
+- This account develops that intuition by generalising **inquiry** to **contest**: field-specific processes through which practical ordering can be exposed to change, including representation, visibility, artistic expression, self-presentation, attention, and standing as well as argument over claims. **Contestability** names the practical conditions of participation in that contest; **selectivity** constrains when alteration of those conditions is censorially significant rather than ordinary structuring of communication, assessment, or organisation.
 - Boundary pressure: ordinary gatekeeping cannot be understood by actor, institution, intention, or exclusion alone; indirect costs, diversion, burial, flooding, and visibility reduction show why literal unavailability is also too narrow. Support: `asheim1953`, `kidd2009`, `garry2015`, `mooretudor2024`, `roberts2018`, `gillespie2022`, `kingpanroberts2017`.
 
 ## Proposed contribution
@@ -43,7 +43,7 @@
 
 ## 2.1 Ordering, contest, and contestability
 
-- **Ordering**: relative standing within a field by credibility, legitimacy, admissibility, visibility, salience, recognition, or authority.
+- **Ordering**: the practical distribution of field-specific standing, such as credibility, legitimacy, admissibility, visibility, salience, recognition, or authority. It need not be a total ranking or explicit hierarchy; it names what participation in the field can establish, preserve, or change.
 - **Contest**: field-specific process through which the specified ordering can be established, defended, or changed through expression, representation, claims, reasons, evidence, interpretation, criticism, rebuttal, comparison, or challenges to standing/admissibility; includes art and self-presentation without requiring propositional content or intent to argue.
 - Contest is not synonymous with communication, participation, or any decision about admission; it must have an independently specifiable connection to the ordering at issue.
 - Analytic discipline: identify the field, practical ordering, and ordinary contest/assessment by which that ordering is exposed to change independently of the disputed intervention. If these can be identified only by reference to the alleged censorship, the shortcut description is circular.
@@ -66,24 +66,19 @@
 - Merits engagement and professional criteria do not immunise a later or parallel shortcut; equally, general position-independent participation constraints can remain ordinary organisation.
 - Position-dependence is structural, not a report of feeling censored.
 - Intent, actor unity, action, and success are non-defining: relations may be deliberate/unintended; individual/institutional/distributed/emergent; active or based in selective non-action; successful or failed.
-- Non-action requires a field-grounded descriptive baseline: rule, workflow, service, role, remediation/enforcement pathway, system design, or genuinely comparable cases; there is no general duty to assist.
+- Absence of assistance alone is insufficient; non-action requires a field-grounded descriptive baseline such as a rule, workflow, service, role, remediation/enforcement pathway, system design, or genuinely comparable cases.
 - Purpose/justification is orthogonal to structural description; a censorial relation can be justified, beneficial, or necessary.
-- Mixed cases may have stronger or weaker **censorial character** depending on the significance of selective alteration; this is not a moral score.
 
-Support: demarcation/structural boundary `schauer1998`, `steward2014`, `muller2004`, `freshwater2004`, `bunn2015`; selection boundary `asheim1953`, `kidd2009`; non-overt power background `lukes2005`, `foucault1977`.
+Support: demarcation/structural boundary `schauer1998`, `butler1998`, `steward2014`, `muller2004`, `freshwater2004`, `bunn2015`, `debaets2026`; selection boundary `asheim1953`, `kidd2009`; non-overt power background `lukes2005`, `foucault1977`.
 
 ## 2.3 Questions for analysis
 
-- What is the target, field/channel, practical ordering, realistic comparator/baseline, and ordinary contest/assessment? These should be identifiable independently of the disputed intervention.
-- How, if at all, can the target bear on the specified ordering? What participation conditions belong to ordinary eligibility or assessment in this field?
-- How have the target's participation conditions changed, and what work does that change do in obtaining or preserving the ordering relative to contest/assessment itself?
-- Does the participation condition track the target's relation to the ordering? Counterfactual symmetry, substitutes, leverage, decision records, stable patterns, and comparable cases may help answer this.
-- What happens operationally to the target or field: exclusion, attenuation, transformation, saturation, anticipatory restraint, or some combination?
-- What context matters without defining censorship: intent; organisation/production; action/non-action; locus/power; scale; visibility; persistence; justification? Support for locus/power: `lukes2005`, `foucault1977`; visibility: `pasquale2015`.
-- Has the relation become embedded or reproduced through rules, infrastructure, classifications, expectations, or norms?
-- Only after the structural account is clear need lawfulness, ethics, proportionality, necessity, professional appropriateness, or legitimacy be evaluated.
+- **Field and contest:** what target, field/channel, practical ordering, ordinary contest/assessment, and realistic baseline are involved? These should be identifiable independently of the disputed intervention.
+- **Altered participation:** how can the target bear on that ordering, how have its participation conditions changed, and what work does the change do relative to contest/assessment itself?
+- **Selectivity:** does the alteration track the target's relation to the ordering? Counterfactual symmetry, substitutes, leverage, decision records, stable patterns, and comparable cases may help answer this.
+- **Consequences and context:** what happens to target or field—exclusion, attenuation, transformation, saturation, anticipatory restraint, or some combination—and what surrounding features matter without defining censorship: intent, organisation, action/non-action, locus/power, scale, visibility, persistence, justification, or later embedding? Support for locus/power: `lukes2005`, `foucault1977`; visibility: `pasquale2015`.
 
-The account can be conceptually clear while a particular case remains empirically underdetermined because ordering, contest, criterion function, dependency, selectivity, baseline, or substitutes are unclear.
+Only after the structural account is clear need lawfulness, ethics, proportionality, necessity, professional appropriateness, or legitimacy be evaluated. The account can be conceptually clear while a particular case remains empirically underdetermined because ordering, contest, criterion function, dependency, selectivity, baseline, or substitutes are unclear.
 
 ---
 
@@ -133,79 +128,50 @@ The account can be conceptually clear while a particular case remains empiricall
 
 ---
 
-# 4. Boundary Cases and Conceptual Contrasts
+# 4. Cases and Conceptual Contrasts
 
-- Role: use difficult cases to expose what the account explains, where ordinary contest/organisation differs, and where several relations coexist. The goal is not to force every episode into a binary verdict.
-- Recurring structural contrast: does a practical ordering depend materially on selective alteration of participation conditions, or does it emerge through the relevant contest/assessment and ordinary field constraints?
+- Cases illuminate different parts of the account rather than serving as equal demonstrations or forcing whole episodes into binary labels.
 
-## 4.1 Library acquisition — selection versus anticipatory exclusion
-
-- **Relation in view**: title acquisition in a school-library collection; student encounter through that collection.
-- **Evidence**: Garry—120 Ohio public high-school libraries + 12 librarian interviews; fewer LGBTQ-themed books than other controversial-content titles. Moore/Tudor—greater acquisition hesitancy during heightened book challenges, including LGBTQIA+ material. Support: `garry2015`, `mooretudor2024`.
-- **Contrast**: ordinary budget, remit, duplication, format, and other position-independent collection criteria are forms of selection; anticipated challenge becomes structurally different if it operates as a position-linked acquisition condition. Background: `asheim1953`, `kidd2009`.
-- **What the case reveals**: aggregate holdings and reported hesitancy make ambient pressure visible but do not by themselves reveal the criterion operating in particular acquisition decisions. The framework identifies the missing evidence—comparators, substitutes, decision criteria, and selectivity—rather than manufacturing a categorical answer.
-
-## 4.2 Editorial and peer review — evidential rejection versus pressure-linked withdrawal
+## 4.1 Contest and external pressure — editorial and peer review
 
 - **Relation in view**: a contribution's scientific/scholarly standing and continuing publication.
 - **Contrast**: Casadevall/Fang distinguish ordinary scientific evaluation from dogma-screening. Schön retraction followed Bell Labs investigation into reported measurement validity; evidential defeat within scientific contest can make retraction record the result rather than supply the defeat. Support: `casadevallfang2009`, `beasley2002`, `schoen2003retraction`.
 - **Mixed episode**: Gilley's "The Case for Colonialism" passed double-blind peer review, then was withdrawn after serious/credible threats to the editor. Scholarly criticism and threat-linked withdrawal are analytically different relations within the same episode: one engages the merits contest, the other changes participation conditions outside it. Support: `gilley2017`, `taylorfrancis2017withdrawal`.
 - **Hard edge**: dominant methodological standards themselves may be contested; understanding the relation requires evidence distinguishing substantive assessment from conformity with incumbent ordering as a participation condition.
 
-## 4.3 Editing and translation — representation versus transformation
+## 4.2 Transformation — editing and translation
 
 - **Relation in view**: a source position as represented to a target-language audience.
 - **Contrast**: fidelity, clarity, and accuracy correction may transform expression without selecting a substantive position.
 - **Evidence**: Zheng's Chinese EU–Russia translation study reports ordinary corrections plus directional political revisions—criticism of Russia generally softened; negative evaluation of EU strengthened. Support: `zheng2024`.
 - **What the case reveals**: directional revisions can change the terms on which a source participates in the target-language field while the altered text continues to stand for that source. Original availability affects leverage but does not erase the representational relation.
 
-## 4.4 Search and recommendation ranking — visibility and distributed ordering
-
-- **Relation in view**: practical encounter within a ranked search/recommendation channel.
-- **Contrast**: relevance, quality, recency, query fit, and other position-independent ranking criteria can produce unequal visibility without implying censorial shortcutting.
-- **Evidence**: Rieder et al.—YouTube visibility as distributed ranking culture; Kacperski et al.—confirmation-biased benefits/risks queries produced corresponding Google Scholar/Semantic Scholar disparities. Support: `rieder2018`, `kacperski2024`; background `gillespie2022`, `howardkira2026`, `pasquale2015`.
-- **What the case reveals**: distributed/query-dependent visibility is not enough to infer a position-linked shortcut. The interesting question is what the ranking mechanism is responsive to and how that response bears on the ordering; in opaque systems this may remain empirically unresolved.
-
-## 4.5 Moderation — constraint and enablement
-
-- **Relation in view**: removed community/material's participation on Reddit, considered separately from effects on other participants.
-- **Evidence**: 2015 bans of `r/fatpeoplehate` and `r/CoonTown` under anti-harassment policy; Chandrasekharan et al. (>100m posts/comments) report ≥80% hate-speech reduction among remaining users and no significant receiving-subreddit increase. Support: `chandrasekharan2017`.
-- **Tension**: exclusion reduces the removed material's contestability, while anti-harassment can also be a behavioural participation condition that protects others' ability to participate. The ban alone does not reveal whether the relevant selectivity is substantive-position linked. Background: `gillespie2022`, `howardkira2026`.
-- **What the case reveals**: one intervention can contain several relations at once—constraint for some participants, possible enablement for others, and a disputed boundary between conduct regulation and substantive ordering. The framework is useful precisely because these need not collapse into one label.
-
-## 4.6 Counter-speech and saturation — rebuttal versus environmental occupation
+## 4.3 Saturation — rebuttal versus environmental occupation
 
 - **Relation in view**: critical/collective-action discussion competing for attention in the Chinese social-media field.
 - **Contrast**: even large-scale substantive rebuttal can remain contest; volume or coordination alone does not establish a shortcut.
 - **Evidence**: King/Pan/Roberts estimate ~448m government-fabricated comments/year; the operation largely avoids arguing with critics and redirects attention from collective-action discussions/events. Support: `kingpanroberts2017`.
 - **What the case reveals**: strategic distraction works on the surrounding attention environment rather than by defeating criticism on its merits. Saturation therefore helps explain a censorial relation whose immediate target-level effect is attenuation rather than removal. Sincere coordinated rebuttal would instantiate a different relation. Background: `roberts2018`.
 
-## 4.7 Anticipatory restraint — criticism versus ambient participation costs
+## 4.4 Anticipatory restraint — ambient participation costs
 
 - **Relation in view**: politically sensitive Hong Kong social-media expression under National Security Law; restraint is a response, not itself the censorial object.
 - **Contrast**: silence motivated by expected criticism, embarrassment, or rebuttal can be an ordinary response to contest absent independently censorial participation conditions.
 - **Evidence**: Wang/Mayer ~7m historical tweets; after NSL, Hong Kong users were more likely to delete past activity/restrict accounts and posted less on politically sensitive topics. Support: `wangmayer2023`.
 - **What the case reveals**: position-linked legal consequences can alter participation conditions before a new expression enters contest, producing exclusion or attenuation through anticipation. Behavioural evidence does not establish every user's motive, and social-reputational pressure remains a harder middle case. Background: `weeks2024`, `yuenlee2025`, `kuran1995`.
 
-## 4.8 Unintended impairment — random failure versus asymmetric remediation
+## 4.5 Compact boundary contrasts
 
-- **Relation in view**: an affected contribution in a technical/administrative channel, including an established detection/repair pathway.
-- **Contrast**: a random software bug, administrative mistake, or broken process unrelated to target position does not become censorship merely because participation is impaired.
-- **Hypothetical contrast**: if an established detection, repair, redundancy, or non-remediation pathway treats comparable failures differently according to relation to the practical ordering, the structurally interesting relation lies in the surrounding response mechanism rather than the initiating fault.
-- **What the case reveals**: unintended origins do not settle the question. The relevant evidence concerns the architecture that reproduces or remedies impairment; one-off missed repair, unequal burden, or mere possibility of assistance is insufficient.
-
-## 4.9 Settled norms — coordination versus ambient closure
-
-- **Relation in view**: identity/self-presentation in a professional/workplace field; ordering of ordinary/admissible/professional presentation.
-- **Contrast**: durable coordination, civility, procedure, and professional-conduct norms are not censorial merely because they constrain or are costly to challenge.
-- **Evidence**: Beagan et al.—13 LGBTQ+ Canadian health professionals; disclosure/concealment shaped by heteronormative professional contexts and perceived professionalism. Holman et al.—319 LGBQ employees; concealment associated with workplace climate and identity centrality. Support: `beagan2022`, `holman2022`.
-- **What the case reveals**: the evidence establishes position-dependent ambient conditions and responses, but does not by itself distinguish selective shortcutting from stigma, convention, coordination, or other social mechanisms. Historical origin matters only to a reproduction account, not to understanding the current relation. Background: `foucault1977`, `bowkerstar1999`, `star1999`.
+- **Library acquisition — selection versus anticipatory exclusion.** Garry reports fewer LGBTQ-themed books than other controversial-content titles across 120 Ohio public high-school libraries; Moore/Tudor report greater acquisition hesitancy amid heightened book challenges, including LGBTQIA+ material. Ordinary budget, remit, duplication, format, and other position-independent collection criteria remain selection. The evidence makes ambient pressure visible but does not establish the criterion operating in particular acquisition decisions; comparators, substitutes, decision criteria, and selectivity remain the important missing facts. Support: `garry2015`, `mooretudor2024`; background `asheim1953`, `kidd2009`.
+- **Search and recommendation — visibility and distributed ordering.** Rieder et al. describe YouTube visibility as distributed ranking culture; Kacperski et al. find query-dependent disparities in academic search. Relevance, quality, recency, query fit, and other position-independent criteria can also produce unequal visibility. The case therefore exposes the importance—and empirical difficulty—of identifying what a ranking mechanism is responsive to rather than inferring censorship from disparity. Support: `rieder2018`, `kacperski2024`; background `gillespie2022`, `howardkira2026`, `pasquale2015`.
+- **Moderation — constraint and enablement.** Chandrasekharan et al. report large reductions in hate speech after Reddit's 2015 bans of `r/fatpeoplehate` and `r/CoonTown`. Exclusion reduces contestability for removed material, while anti-harassment rules can protect others' participation; the same intervention can therefore contain several relations, and the ban alone does not establish whether the relevant selectivity is substantive-position linked. Support: `chandrasekharan2017`; background `gillespie2022`, `howardkira2026`.
+- **Settled norms — coordination versus ambient closure.** Beagan et al. and Holman et al. show identity concealment/disclosure varying with professional or workplace climate. Durable coordination, civility, procedure, and professional-conduct norms are not censorial merely because they constrain. The evidence establishes position-dependent ambient conditions and responses but does not by itself distinguish selective shortcutting from stigma, convention, coordination, or other social mechanisms. Support: `beagan2022`, `holman2022`; background `foucault1977`, `bowkerstar1999`, `star1999`.
 
 ---
 
 # 5. Limits
 
-- The framework is not a universal decision procedure or quantitative censoriality score; some cases will remain empirically underdetermined even where the conceptual questions are clear.
+- The account is not a universal decision procedure or quantitative censoriality score; some cases will remain empirically underdetermined even where the conceptual questions are clear.
 - Classification can follow from the analysis, but it is a consequence rather than the central purpose; the aim is to expose structure, mixtures, pathways, and relevant contrasts.
 - No normative requirement of perpetual openness; justified closure may still have censorial structure.
 - The account does not subsume propaganda, persuasion, education, criticism, selection, curation, moderation, editing, cultural ordering, or social coordination wholesale.
