@@ -24,7 +24,7 @@
 - This is the demarcation problem: mere restriction or structuring of communicative possibility cannot by itself distinguish censorship from communication, selection, or social organisation. Support: `schauer1998`, `butler1998`, `muller2004`, `freshwater2004`, `bunn2015`, `debaets2026`.
 - Steward supplies a close antecedent to the core intuition: censorship can foreclose or frustrate inquiry, so apparent consensus can reflect a short-circuit of inquiry rather than successful contest. Support: `steward2014`, especially introduction pp. 2--4.
 - This account generalises **inquiry** to **contest**: field-specific processes through which practical ordering can be established, defended, or changed, including representation, visibility, artistic expression, self-presentation, attention, and standing as well as argument over claims.
-- `Contestability` is not introduced as a new term. Democratic and contestatory theories use it for the effective openness of governments or public policies to challenge, including citizens' practical opportunity to participate in public contestation and the possibility that formally open systems can remain weakly contestable. Digital-governance work also applies contestability to content moderation. Support: `girard2015`, `trantidis2017`, `vaccaro2021`.
+- `Contestability` is not introduced as a new term. Democratic and contestatory theories use it for the effective openness of governments or public policies to challenge, including citizens' practical opportunity to participate in public contestation and the possibility that formally open systems can remain weakly contestable. Content-moderation research also applies contestability to platform decisions. Support: `girard2015`, `trantidis2017`, `vaccaro2021`.
 - The present use is field-relative and target-relative rather than a criterion of democratic legitimacy: it specifies the target's practical opportunity to participate in the contest through which an identifiable ordering can change. The contribution lies in relating selective alteration of that opportunity to censorship, not in the term `contestability` itself.
 
 ## Proposed contribution
@@ -79,7 +79,7 @@
 
 - The cases form a developmental sequence. They move from a relatively direct departure from an identifiable contest toward increasingly indirect alterations of the conditions under which contest occurs.
 - The sequence successively removes assumptions that censorship requires exclusion, alteration of the target itself, or expression already having entered contest. The later boundary cases test whether the account still distinguishes censorship from ordinary selection, ranking, moderation, and social coordination.
-- Sections 4.1--4.4 are deliberately asymmetric positive demonstrations: the common relation is carried by case-specific evidence rather than a repeated analytical template. Section 4.5 instead tests underdetermination, where plausible participation effects are not yet enough to establish a censorial relation.
+- The positive cases are deliberately asymmetric: withdrawal isolates bypass of a merits process, translation altered representation, saturation altered surroundings, and anticipatory restraint altered entry. Their common relation is carried by those differences rather than a repeated analytical template. Section 4.5 instead tests underdetermination, where plausible participation effects are not yet enough to establish a censorial relation.
 
 ## 4.1 Contest and circumvention — peer review and withdrawal
 
@@ -91,7 +91,7 @@
 
 - Translation shows why censorship need not require exclusion: a source may remain available while participating through an altered representation.
 - Zheng reports ordinary corrections alongside directional political revisions in Chinese translations concerning EU--Russia relations: criticism of Russia was generally softened while negative evaluation of the EU was strengthened. Support: `zheng2024`.
-- The relevant ordering is the target-language distribution of legitimacy and blame attached to Russia and the EU. Directional revision changes the version through which the source can affect that ordering before readers assess the source's position, while the revised text still stands for that source. The target remains present, but its participation is transformed rather than excluded.
+- The relevant ordering is how legitimacy and blame are assigned to Russia and the EU in the target-language discourse. Directional revision changes the version through which the source can affect that ordering before readers assess the source's position, while the revised text still stands for that source. The target remains present, but its participation is transformed rather than excluded.
 
 ## 4.3 Altering the field rather than the target — saturation
 
