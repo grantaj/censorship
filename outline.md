@@ -12,7 +12,7 @@
 
 - Literature, empirical, historical, and attributed claims require verified support; hypothetical structural tests do not.
 - Antecedents to structural censorship and to the idea that censorship can foreclose, frustrate, or short-circuit inquiry are acknowledged explicitly; novelty is not claimed for breadth beyond prohibition or for the shortcut intuition by itself.
-- Framework-specific proposals remain visibly authored: the relation-specific contestability discriminator, selectivity test, analytic sequence, operational account, sedimentation, reduced dependence on fresh intervention, and counterfactual-symmetry diagnostics.
+- Framework-specific proposals remain visibly authored: the relation-specific contestability discriminator, selectivity test, analytic sequence, operational account, account of embedded reproduction, reduced dependence on fresh intervention, and counterfactual-symmetry diagnostics.
 - Empirical cases supply observed mechanisms/conditions; source terminology does not predetermine framework classification.
 
 ---
@@ -34,7 +34,7 @@
 - Proposed contribution: a relation-specific test intended to admit indirect, distributed, infrastructural, representational, and anticipatory censorship while distinguishing ordinary criticism, selection, ranking, editing, moderation, institutional ordering, and error.
 - The discriminator does not require a single censor, censorial intent, state action, literal removal, or successful suppression.
 - Downstream description: target effects on presence, effective reach, and representation; indirect/response pathways including saturation and anticipatory restraint.
-- Reproduction: sedimentation and anticipatory restraint remain consequences/pathways of an already-censorial shortcut, not additional definitions.
+- Reproduction: embedding/persistence of an already-censorial relation remains downstream; anticipatory restraint remains a response pathway, not an additional definition.
 
 ---
 
@@ -43,10 +43,13 @@
 ## 2.1 Ordering, contest, and contestability
 
 - **Ordering**: relative standing within a field by credibility, legitimacy, admissibility, visibility, salience, recognition, or authority.
-- **Contest**: process through which standing can be established, defended, or changed through expression, representation, claims, reasons, evidence, interpretation, criticism, rebuttal, comparison, or challenges to standing/admissibility; includes art and self-presentation without requiring propositional content or intent to argue.
+- **Contest**: field-specific process through which the specified ordering can be established, defended, or changed through expression, representation, claims, reasons, evidence, interpretation, criticism, rebuttal, comparison, or challenges to standing/admissibility; includes art and self-presentation without requiring propositional content or intent to argue.
+- Contest is not synonymous with communication, participation, or any decision about admission; it must have an independently specifiable connection to the ordering at issue.
+- **Independent-specification rule**: identify the field, practical ordering, and ordinary contest/assessment by which that ordering is exposed to change before classifying the disputed intervention. If these can be identified only by reference to the alleged censorial act, shortcutting has not been established.
 - **Contestability**: practical opportunity to enter, remain in, be encountered, be represented, and receive consideration within the field.
 - Scope boundary: general material/social inequality is insufficient; the mechanism must bear on participation conditions in the specified field.
-- Unit fixed before classification: target; field/channel with practical leverage; practical ordering affected; realistic comparator/baseline.
+- Unit fixed before classification: target; field/channel with practical leverage; practical ordering affected; realistic comparator/baseline; ordinary contest/assessment relevant to that ordering.
+- Eligibility, remit, format, evidential, and behavioural conditions may legitimately structure participation; they are not censorial merely because they exclude or burden contributions.
 - Meta-contest guardrail: a process deciding whether participation should be restricted is not, by that fact, the contest the target would otherwise enter; antecedent contest-mediated justification must engage the contribution within the same field ordering.
 - Classification is relation-specific; one event may instantiate different relations for different participants.
 
@@ -56,7 +59,9 @@
 - **Shortcut**: a practical ordering is obtained or preserved partly by selectively changing the conditions under which the target can participate, rather than through the relevant contest/assessment alone.
 - Altering contestability is not sufficient: all real fields structure participation through rejection, selection, ranking, editing, norms, and other constraints.
 - **Shortcut test**: hold target contestability fixed; would the practical ordering still follow from contest/assessment, or is preventing, burdening, reshaping, or overwhelming participation the route to that result?
-- **Selectivity**: mechanism/participation condition makes contestability depend on the target’s relation to the relevant ordering. Position-linked rule may establish this in one case; distributed/unintended cases may require stable pattern, response architecture, or counterfactual asymmetry. Outcome disparity/correlation alone insufficient.
+- **Selectivity**: holding relevant non-position attributes constant, the mechanism/participation condition makes contestability depend on the target’s relation to the relevant ordering. Position-linked rule may establish this in one case; distributed/unintended cases may require stable pattern, response architecture, or counterfactual asymmetry. Outcome disparity/correlation alone insufficient.
+- **Counterfactual symmetry**: ask whether an otherwise comparable contribution differently related to the ordering would face the same participation condition. Asymmetry supports selectivity; facially uniform application does not prove neutrality if the criterion itself tracks relation to the ordering.
+- Content sensitivity alone is not position selectivity: relevance, scope, format, evidence, and conduct can structure participation without shortcutting the ordering they help administer.
 - Guardrails: merits engagement and professional criteria do not immunise a later/parallel shortcut; general position-independent participation constraints can remain ordinary organisation; uniform application does not prove neutrality.
 - Position-dependence is structural, not a report of feeling censored.
 - Intent, actor unity, action, and success are non-defining: deliberate/unintended; individual/institutional/distributed/emergent; action/selective non-action; failed attempts included.
@@ -68,15 +73,16 @@ Support: demarcation/structural boundary `schauer1998`, `steward2014`, `muller20
 
 ## 2.3 Analytic sequence and context
 
-1. Fix target, field/channel, practical ordering, comparator/baseline.
-2. Test shortcut dependency.
-3. Test selectivity; use counterfactual symmetry, substitutes, leverage, and comparable cases where informative.
-4. Only after classification, identify target effect/pathway: presence, effective reach, representation, saturation, anticipatory restraint, or composition.
-5. Describe context, not as definition: intent; organisation/production; action/non-action; locus/power; scale; visibility; persistence; justification. Support for locus/power: `lukes2005`, `foucault1977`; visibility: `pasquale2015`.
-6. Where relevant, trace reproduction: embedding, recursive closure, anticipatory restraint, persistence, revisability.
-7. Evaluate lawfulness, ethics, proportionality, necessity, professional appropriateness, or legitimacy only after structural classification.
+1. Fix target, field/channel, practical ordering, comparator/baseline, and ordinary contest/assessment independently of the alleged censorial act.
+2. Confirm that the target can bear on the specified ordering; distinguish ordinary eligibility/assessment conditions from the alteration at issue.
+3. Test shortcut dependency.
+4. Test selectivity; use counterfactual symmetry, substitutes, leverage, and comparable cases where informative.
+5. Only after classification, identify target effect/pathway: presence, effective reach, representation, saturation, anticipatory restraint, or composition.
+6. Describe context, not as definition: intent; organisation/production; action/non-action; locus/power; scale; visibility; persistence; justification. Support for locus/power: `lukes2005`, `foucault1977`; visibility: `pasquale2015`.
+7. Where relevant, trace reproduction: embedding, recursive closure, anticipatory restraint, persistence, revisability.
+8. Evaluate lawfulness, ethics, proportionality, necessity, professional appropriateness, or legitimacy only after structural classification.
 
-Uncertainty may remain where ordering, criterion function, dependency, selectivity, baseline, or substitutes are empirically unclear.
+Uncertainty may remain where ordering, contest, criterion function, dependency, selectivity, baseline, or substitutes are empirically unclear.
 
 ---
 
@@ -121,12 +127,14 @@ Uncertainty may remain where ordering, criterion function, dependency, selectivi
 
 ---
 
-# 4. Sedimentation and Reproduction
+# 4. Embedding and Reproduction
 
-- **Sedimentation**: embedding of an already-censorial shortcut in ambient participation conditions—rules, classifications, rankings, routines, infrastructure, expectations, norms—so reproduction is not tied to the same fresh intervention, actor, or rationale.
-- Not mere persistence: institutionalisation, path dependence, stable inequality, or durable neutral rules remain insufficient without shortcut + selectivity.
-- **Recursive closure**: existing ordering becomes a condition of future participation; reproduction pattern, not additional censorship criterion.
-- Anticipatory restraint can reproduce embedded participation costs; Yuen and Lee report post-NSL self-censorship associated with cautionary reminders and acquaintances’ restraint, partly mediated by risk/emotional response—consistent with social transmission/observational learning, not proof of the full sedimentation sequence. Support: `yuenlee2025`.
+- An already-censorial relation can become embedded in ambient participation conditions—rules, classifications, rankings, routines, infrastructure, expectations, norms—and be reproduced without the same fresh intervention, actor, or rationale.
+- Embedding/reproduction is downstream, not a separate criterion or type of censorship; a current participation condition must still satisfy shortcut + selectivity to be classified as censorial.
+- **No origin inheritance**: a censorial origin does not permanently make a later condition censorial, and a current ambient condition can be censorial even when its historical origin is unknown.
+- **No persistence inference**: institutionalisation, path dependence, stable inequality, inherited norms, or durable neutral rules remain insufficient without shortcut + selectivity in the relation being classified.
+- **Recursive closure**: existing ordering becomes a condition of future participation; a reproduction pattern, not an additional censorship criterion.
+- Anticipatory restraint can reproduce embedded participation costs; Yuen and Lee report post-NSL self-censorship associated with cautionary reminders and acquaintances’ restraint, partly mediated by risk/emotional response—consistent with social transmission/observational learning, not proof of an embedding sequence. Support: `yuenlee2025`.
 - Reproduction may become less dependent on fresh overt intervention; visible enforcement need not decline, and low enforcement is not evidence by itself.
 - Revisability diagnostic: can the inherited participation condition be challenged without passing through the same position-linked costs that preserve the ordering?
 - Background: `foucault1977`, `lukes2005`, `bowkerstar1999`, `star1999`.
@@ -199,7 +207,7 @@ Uncertainty may remain where ordering, criterion function, dependency, selectivi
 - **Unit**: identity/self-presentation in professional/workplace field; ordering of ordinary/admissible/professional presentation.
 - **Negative**: durable coordination, civility, procedure, professional-conduct norms are not censorial merely because they constrain or are costly to challenge.
 - **Evidence**: Beagan et al.—13 LGBTQ+ Canadian health professionals; disclosure/concealment shaped by heteronormative professional contexts and perceived professionalism. Holman et al.—319 LGBQ employees; concealment associated with workplace climate and identity centrality. Support: `beagan2022`, `holman2022`.
-- **Verdict**: indeterminate; evidence establishes position-dependent ambient conditions/responses, not whether costs are a selective shortcut rather than stigma/convention/other social mechanism, nor a sedimentation history. Positive case would require ordering-linked participation costs doing shortcut work. Background: `foucault1977`, `lukes2005`, `bowkerstar1999`, `star1999`.
+- **Verdict**: indeterminate; evidence establishes position-dependent ambient conditions/responses, not whether costs are a selective shortcut rather than stigma/convention/other social mechanism. Historical origin is relevant only to a reproduction claim, not current classification. Positive case would require ordering-linked participation costs doing shortcut work. Background: `foucault1977`, `lukes2005`, `bowkerstar1999`, `star1999`.
 
 ---
 
@@ -208,8 +216,10 @@ Uncertainty may remain where ordering, criterion function, dependency, selectivi
 - No quantitative censoriality score; some cases may remain indeterminate.
 - No normative requirement of perpetual openness; justified closure may still have censorial structure.
 - Does not subsume propaganda, persuasion, education, criticism, selection, curation, moderation, editing, cultural ordering, or social coordination wholesale.
+- The relevant contest and ordering must be independently specifiable; not every restriction on participation or content-sensitive criterion counts as shortcutting contest.
 - Scarcity, professional criteria, inherited norms, institutional rules, omissions, technical failures, and unequal outcomes are neither presumed neutral nor sufficient for censorship.
 - Unintended effects/non-action face the same shortcut + selectivity burden as deliberate interventions.
+- Embedding or persistence does not inherit censorial status automatically; the reproduced relation must continue to satisfy the discriminator.
 - Operational effects/pathways remain revisable if recurring cases fit poorly.
 
 ---
