@@ -1,9 +1,13 @@
 # Censorship
 
-Censorship understood through mechanisms and operations.
+This repository contains the source for an essay about censorship.
 
-This repository develops an academic essay toward a structural account of censorship. The central proposal is that censorial phenomena can be understood as **shortcutting contest through selective alteration of contestability**: changing the conditions under which a contribution can enter, remain in, be encountered, or be represented in a field, such that a practical ordering is obtained or preserved partly outside the contest that would otherwise expose it to challenge.
+The repository is deliberately small:
 
-The aim is explanatory rather than to provide a universal censorship detector. Demarcation matters because a structural account must still distinguish censorship from ordinary criticism, selection, ranking, editing, moderation, institutional ordering, and error. Boundary cases are used to expose those differences and the mixtures that occur in real situations.
+- `outline.md` is the conceptual source and the input to `grantaj/compiled-prose`.
+- `references.bib` supplies bibliographic metadata for citations authored in the outline.
+- `.github/`, `publication/`, and `tests/` are build, verification, rendering, and publication infrastructure.
 
-The authoritative source for the argument is [`outline.md`](outline.md), with bibliography in [`references.bib`](references.bib). Generated prose is produced through the `compiled-prose` workflow rather than maintained as source material here.
+The conceptual framework, scope choices, definitions, taxonomy, and final judgments are human-authored. The ideas emerged from a visual art practice that has been concerned with censorship over the last few years. This practice has also been deeply concerned with [collaborating with machines](https://grantaj.github.io/anthroponormativity). AI tools assisted with structure, consistency checks, adversarial review, citation organisation, and [prose rendering](https://grantaj.github.io/compiled-prose).
+
+Generated prose, LaTeX, HTML, PDFs, review outputs, and other publication artefacts are build products. They are not tracked on `main`; successful explicitly approved builds are published by the repository's publication workflow.
