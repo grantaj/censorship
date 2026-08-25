@@ -30,7 +30,6 @@
 
 - Core proposal: **a censorial relation arises where contestability is selectively altered in a way that materially changes the target's capacity to affect a practical ordering, so that participation conditions do work that would otherwise be done through the relevant contest or assessment**.
 - The contribution is explanatory and demarcational: show a common relation across overt, indirect, distributed, representational, and anticipatory phenomena while preserving meaningful differences from ordinary criticism, selection, ranking, editing, moderation, organisation, and error.
-- The relation does not require a single censor, censorial intent, state action, literal removal, or successful suppression.
 
 ---
 
@@ -51,8 +50,7 @@
 - Labels such as relevance, quality, evidence, or conduct do not settle that question by themselves; what matters is the role the criterion actually plays in the specified contest.
 - Evidence may include explicit rules, process traces, temporal changes, or credible comparators: for example, whether otherwise comparable contributions that bear differently on the ordering face different participation conditions. Outcome disparity or correlation alone is insufficient.
 - Where the target's relation to the ordering cannot be separated from what the ordinary contest itself evaluates, the case may remain empirically underdetermined rather than being resolved by definition.
-- Intent, unified agency, deliberate action, and success are not defining. A relation may be deliberate or unintended, individual or distributed, active or based in selective non-action, successful or failed.
-- Structural description is distinct from justification: a censorial relation may be justified, beneficial, or necessary.
+- Intent, unified agency, deliberate action, and success are not defining: a relation can be intentional or emergent, individual or distributed, active or produced through selective non-action, successful or failed.
 
 ## 2.3 Questions for analysis
 
@@ -118,7 +116,6 @@
 - The account is not a universal decision procedure or quantitative censoriality score; some cases will remain empirically underdetermined.
 - Structural description does not determine lawfulness, ethics, proportionality, necessity, professional appropriateness, or legitimacy.
 - Restriction, inequality, content sensitivity, institutional criteria, inherited norms, omission, technical failure, or unequal outcomes are not sufficient by themselves.
-- Intent, unified agency, deliberate action, and successful suppression are not necessary.
 
 ---
 
