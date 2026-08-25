@@ -42,11 +42,12 @@
 - **Contestability**: practical opportunity to enter, remain in, be encountered, be represented, and receive consideration within that contest.
 - The field, ordering, and ordinary contest or assessment must be identifiable independently of the disputed intervention. Otherwise the claim that contest has been short-circuited is circular.
 - Ordinary fields necessarily structure participation through remit, format, evidence, conduct, selection, ranking, and scarcity. Such conditions are not censorial merely because they restrict participation.
+- An access or admissibility process is not automatically the relevant contest merely because an institution treats it as assessment; the distinction is whether it evaluates the contribution within the practical ordering or instead sets the terms on which that contest may occur.
 
 ## 2.2 Censorial relations
 
 - Shortcutting occurs when altered participation conditions themselves help determine the target's practical ability to affect the ordering, rather than the ordering being produced through the ordinary contest or assessment alone.
-- **Selectivity** asks whether those participation conditions vary with how the target bears on the ordering, rather than merely with differences that the ordinary contest itself is assessing.
+- **Selectivity** asks whether those participation conditions track the relation of a target, class of targets, topic, or channel to the ordering, rather than merely differences that the ordinary contest itself is assessing.
 - Labels such as relevance, quality, evidence, or conduct do not settle that question by themselves; what matters is the role the criterion actually plays in the specified contest.
 - Evidence may include explicit rules, process traces, temporal changes, or credible comparators: for example, whether otherwise comparable contributions that bear differently on the ordering face different participation conditions. Outcome disparity or correlation alone is insufficient.
 - Where the target's relation to the ordering cannot be separated from what the ordinary contest itself evaluates, the case may remain empirically underdetermined rather than being resolved by definition.
@@ -56,7 +57,7 @@
 
 - What field, practical ordering, and ordinary contest or assessment are involved?
 - How have participation conditions changed, and what evidence shows that the change affects the target's practical capacity to affect the ordering?
-- Does that alteration track how the target bears on the ordering rather than a distinction the ordinary contest itself is assessing?
+- Does that alteration track the relation of a target, class, topic, or channel to the ordering rather than a distinction the ordinary contest itself is assessing?
 - What follows from the relation: exclusion, reduced reach, altered representation, a changed surrounding field, anticipatory restraint, or some combination?
 
 ---
