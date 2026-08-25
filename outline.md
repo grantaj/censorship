@@ -47,7 +47,7 @@
 ## 2.2 Censorial relations
 
 - Shortcutting occurs when altered participation conditions themselves help determine the target's practical ability to affect the ordering, rather than the ordering being produced through the ordinary contest or assessment alone.
-- **Selectivity** asks whether those participation conditions track the relation of a target, class of targets, topic, or channel to the ordering, rather than merely differences that the ordinary contest itself is assessing.
+- **Selectivity** asks whether participation conditions are altered in relation to the ordering, rather than merely tracking differences the ordinary contest itself assesses. That relation may operate through a target, topic, or channel; pairwise differential treatment is not required.
 - Labels such as relevance, quality, evidence, or conduct do not settle that question by themselves; what matters is the role the criterion actually plays in the specified contest.
 - Evidence may include explicit rules, process traces, temporal changes, or credible comparators: for example, whether otherwise comparable contributions that bear differently on the ordering face different participation conditions. Outcome disparity or correlation alone is insufficient.
 - Where the target's relation to the ordering cannot be separated from what the ordinary contest itself evaluates, the case may remain empirically underdetermined rather than being resolved by definition.
@@ -57,7 +57,7 @@
 
 - What field, practical ordering, and ordinary contest or assessment are involved?
 - How have participation conditions changed, and what evidence shows that the change affects the target's practical capacity to affect the ordering?
-- Does that alteration track the relation of a target, class, topic, or channel to the ordering rather than a distinction the ordinary contest itself is assessing?
+- Is the alteration related to the ordering itself, through a target, topic, or channel, or to a distinction the ordinary contest itself is assessing?
 - What follows from the relation: exclusion, reduced reach, altered representation, a changed surrounding field, anticipatory restraint, or some combination?
 
 ---
