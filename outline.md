@@ -3,7 +3,6 @@
 ## Global constraints
 
 - Scope: censorship; not a general theory of morality, social control, political legitimacy, deliberative democracy, propaganda, persuasion, or social shortcuts.
-- Origin: sustained art practice concerned with censorship; essay formalises recurring structural questions.
 - Descriptive first: classify censorial structure before evaluating lawfulness, justification, benefit, harm, proportionality, or professional appropriateness.
 - Cases are boundary stress tests; sensitive cases are used because difficult boundaries are unusually visible, not as political case studies or a historical survey.
 - Normative bracketing: censorial/non-censorial classification neither condemns nor endorses interventions, claims, speakers, representations, or causes.
@@ -12,7 +11,8 @@
 ### Source discipline
 
 - Literature, empirical, historical, and attributed claims require verified support; hypothetical structural tests do not.
-- Framework-specific proposals remain visibly authored; background sources do not own the shortcut, operational account, sedimentation, position-dependence, reduced dependence on fresh intervention, or counterfactual-symmetry claims.
+- Antecedents to structural censorship and to the idea that censorship can foreclose, frustrate, or short-circuit inquiry are acknowledged explicitly; novelty is not claimed for breadth beyond prohibition or for the shortcut intuition by itself.
+- Framework-specific proposals remain visibly authored: the relation-specific contestability discriminator, selectivity test, analytic sequence, operational account, sedimentation, reduced dependence on fresh intervention, and counterfactual-symmetry diagnostics.
 - Empirical cases supply observed mechanisms/conditions; source terminology does not predetermine framework classification.
 
 ---
@@ -21,16 +21,18 @@
 
 ## Problem and lineage
 
-- Censorship literature already extends beyond overt prohibition to structural, self-censoring, frictional, and flooding forms; breadth beyond bans is not the novelty claim. Support: `muller2004`, `freshwater2004`, `bunn2015`, `jansen1988`, `roberts2018`.
-- Demarcation problem: structural accounts risk making censorship coextensive with communication, selection, or social control. Support: `muller2004`, `freshwater2004`, `bunn2015`.
+- Censorship scholarship already extends beyond overt prohibition to structural/constitutive, self-censoring, frictional, and flooding forms; breadth beyond bans is not the novelty claim. Support: `jansen1988`, `muller2004`, `freshwater2004`, `bunn2015`, `roberts2018`.
+- Demarcation problem: once censorship is broadened beyond identifiable prohibitions, mere restriction or structuring of communicative possibility cannot by itself distinguish censorship from communication, selection, or social organisation. Schauer makes the ontological version of this problem explicit; Müller, Freshwater, and Bunn trace the corresponding regulatory/constitutive dispute. Support: `schauer1998`, `muller2004`, `freshwater2004`, `bunn2015`.
+- Close antecedent: Steward defines censorship as criticism gone wrong, the foreclosure or frustration of inquiry, and warns that consensus can reflect a short-circuit of inquiry; he explicitly seeks broader descriptive reach without making censorship equivalent to criticism or ubiquitous. Support: `steward2014`, especially introduction pp. 2--4.
 - Boundary pressure: ordinary gatekeeping cannot be classified by actor, institution, intention, or exclusion alone; indirect costs, diversion, burial, flooding, and visibility reduction show why literal unavailability is also too narrow. Support: `asheim1953`, `kidd2009`, `garry2015`, `mooretudor2024`, `roberts2018`, `gillespie2022`, `kingpanroberts2017`.
-- Jumping-off point: Lukianoff and Schlott on rhetorical tactics that win without actually winning the argument. Support: `lukianoffschlott2023`, especially p. 9.
-- Antecedent: Mill on opinions surviving contest versus being protected from refutation. Support: `mill1859`, ch. II.
+- Point of departure from Steward: rather than defining censorship through frustration of inquiry, this account tests a relation among target, field, practical ordering, and participation conditions. Contest therefore includes non-propositional expression, representation, and self-presentation as well as argument or inquiry.
 
 ## Proposed contribution
 
-- Candidate discriminator: **shortcutting contest** through selective alteration of contestability.
-- Intended boundary: distinguish censorial relations from ordinary criticism, selection, ranking, editing, moderation, institutional ordering, and error without requiring a single censor, censorial intent, state action, or successful suppression.
+- Novelty claim is demarcational and operational, not the discovery that censorship can be structural or that it can short-circuit inquiry.
+- Candidate discriminator: **shortcutting contest through selective alteration of contestability**.
+- Proposed contribution: a relation-specific test intended to admit indirect, distributed, infrastructural, representational, and anticipatory censorship while distinguishing ordinary criticism, selection, ranking, editing, moderation, institutional ordering, and error.
+- The discriminator does not require a single censor, censorial intent, state action, literal removal, or successful suppression.
 - Downstream description: target effects on presence, effective reach, and representation; indirect/response pathways including saturation and anticipatory restraint.
 - Reproduction: sedimentation and anticipatory restraint remain consequences/pathways of an already-censorial shortcut, not additional definitions.
 
@@ -51,8 +53,7 @@
 ## 2.2 Censorship as shortcutting contest
 
 - **Censorship**: selective alteration of contestability that shortcuts contest.
-- Simple expression: a way of **winning an argument without fully having the argument**; “argument” means the relevant contest. Support: `lukianoffschlott2023`, especially p. 9; antecedent `mill1859`, ch. II.
-- “Winning”: obtaining/preserving the practical ordering that would otherwise remain exposed to challenge; incumbent/apparently settled orderings are an important case.
+- **Shortcut**: a practical ordering is obtained or preserved partly by selectively changing the conditions under which the target can participate, rather than through the relevant contest/assessment alone.
 - Altering contestability is not sufficient: all real fields structure participation through rejection, selection, ranking, editing, norms, and other constraints.
 - **Shortcut test**: hold target contestability fixed; would the practical ordering still follow from contest/assessment, or is preventing, burdening, reshaping, or overwhelming participation the route to that result?
 - **Selectivity**: mechanism/participation condition makes contestability depend on the target’s relation to the relevant ordering. Position-linked rule may establish this in one case; distributed/unintended cases may require stable pattern, response architecture, or counterfactual asymmetry. Outcome disparity/correlation alone insufficient.
@@ -63,7 +64,7 @@
 - Purpose/justification is orthogonal to structural classification; censorial character can be present in justified or beneficial closure.
 - **Censorial character**: strength/significance of selective alteration in mixed/boundary relations; not a moral score.
 
-Support: structural boundary `muller2004`, `freshwater2004`, `bunn2015`; selection boundary `asheim1953`, `kidd2009`; non-overt power background `lukes2005`, `foucault1977`.
+Support: demarcation/structural boundary `schauer1998`, `steward2014`, `muller2004`, `freshwater2004`, `bunn2015`; selection boundary `asheim1953`, `kidd2009`; non-overt power background `lukes2005`, `foucault1977`.
 
 ## 2.3 Analytic sequence and context
 
@@ -135,7 +136,7 @@ Uncertainty may remain where ordering, criterion function, dependency, selectivi
 # 5. Developed Boundary Tests
 
 - Role: regression tests for demarcation; verdicts are relation-specific and normatively bracketed.
-- Positive case invariant: practical ordering obtained/preserved without fully winning the relevant contest on its own terms; no extra theory to rescue failed cases.
+- Positive case invariant: practical ordering depends on selective alteration of participation conditions rather than contest/assessment alone; no extra theory to rescue failed cases.
 
 ## 5.1 Library acquisition — selection versus anticipatory exclusion
 
