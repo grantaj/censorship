@@ -50,21 +50,20 @@
 ## 2.2 Censorial relations
 
 - Shortcutting occurs when participation conditions do more than organise the circumstances of contest and instead substitute for, prejudge, or foreclose ordering-relevant work that would otherwise remain to the processes through which the ordering is ordinarily established, defended, or changed.
-- The diagnostic intuition is functional: does the condition structure, route, or conduct contest, or does it help produce the practical consequence that contest would otherwise have had to produce without that contest occurring?
-- Causal or outcome dependence is insufficient. A useful counterfactual asks whether, if the condition performed only its independently established organising function, the target's standing would still remain to be determined through contest or assessment. Genuine routing, formatting, or jurisdiction can leave that work unresolved; exceeding a word limit is not censorial merely because compliance would have changed the immediate eligibility outcome.
-- The ordinary organising function must itself be established independently of the disputed application. Institutional labels such as scope, relevance, quality, evidence, conduct, or compliance are evidence, not authoritative definitions; explicit rules, stated remit, established practice, process traces, temporal changes, comparators, and established alternative forums can help identify what the condition is doing.
-- **Selectivity** asks whether the shortcut tracks the target's bearing on the ordering through a target, topic, position, or channel. Pairwise differential treatment is not required. Where meaningful comparators exist, a complementary counterfactual asks whether, holding fixed the features that independently account for the condition's ordinary application, its operation would change if the target's bearing on the ordering changed.
+- The explanatory intuition is functional: a condition may structure, route, or conduct contest, or its operation may help produce a practical consequence that contest would otherwise have had to produce without that contest occurring.
+- Causal or outcome dependence is insufficient. Counterfactual comparison can sometimes clarify whether a condition leaves the standing at issue open to contest or takes over some of that work, but no single counterfactual is constitutive of a censorial relation.
+- The ordinary organising function must itself be established independently of the disputed application. Institutional labels such as scope, relevance, quality, evidence, conduct, or compliance are evidence, not authoritative definitions; explicit rules, stated remit, established practice, process traces, temporal changes, comparators, and established alternative forums can help explain what the condition is doing.
+- **Selectivity** asks how the shortcut tracks the target's bearing on the ordering through a target, topic, position, or channel. Pairwise differential treatment is not required. Where meaningful comparators exist, they may help reveal whether apparently ordinary grounds account for the condition's operation or whether its operation varies with the target's bearing on the ordering.
 - Outcome disparity or correlation alone is insufficient. Where the organising function, jurisdiction, or relation to the ordering cannot be independently established, the case may remain empirically underdetermined rather than being resolved by definition.
 - Intent, unified agency, deliberate action, and success are not defining: a relation can be intentional or emergent, individual or distributed, active or produced through selective non-action, successful or failed.
 
-## 2.3 Questions for analysis
+## 2.3 Questions for explanation
 
 - What field and practical ordering are involved, and through what processes is that ordering ordinarily established, defended, or changed?
-- What organising function does the participation condition ordinarily perform, and can that function be identified independently of the disputed application?
-- Is the disputed gate itself part of the field's ordinary assessment of standing, or does it set conditions under which that assessment can occur?
-- Does the condition merely structure, route, or conduct contest, leaving the ordering-relevant work open, or does its operation substitute for, prejudge, or foreclose some of that work?
-- Is that shortcut selective through a target, topic, position, or channel, and what counterfactual or comparative evidence supports the relation?
-- What follows from the relation: exclusion, reduced reach, altered representation, a changed surrounding field, anticipatory restraint, or some combination?
+- What role does the participation condition play in those processes, and how can that role be characterised independently of the disputed application?
+- How does the disputed operation alter the target's participation: does it organise, route, or conduct contest, or take over ordering-relevant work that would otherwise remain open within it?
+- How is the alteration related to the target's bearing on the ordering through a target, topic, position, or channel, and what evidence supports that account?
+- What form does the relation take, what practical consequences follow, and what remains uncertain or underdetermined?
 
 ---
 
@@ -84,7 +83,7 @@
 
 - The cases form a developmental sequence. They move from a relatively direct departure from an identifiable contest toward increasingly indirect alterations of the conditions under which contest occurs.
 - The sequence successively removes assumptions that censorship requires exclusion, alteration of the target itself, or expression already having entered contest. The later boundary cases test whether the account still distinguishes censorship from ordinary selection, ranking, moderation, and social coordination.
-- The positive cases are deliberately asymmetric: withdrawal isolates bypass of a merits process, translation altered representation, saturation altered surroundings, and anticipatory restraint altered entry. The common test is whether each altered condition takes ordering-relevant work away from contest; the mechanisms differ and should not be forced into a repeated template. Section 4.5 instead tests underdetermination, where plausible participation effects are not yet enough to establish a censorial relation.
+- The positive cases are deliberately asymmetric: withdrawal isolates bypass of a merits process, translation altered representation, saturation altered surroundings, and anticipatory restraint altered entry. Their common explanatory relation is that altered conditions can take ordering-relevant work away from contest; the mechanisms differ and should not be forced into a repeated template. Section 4.5 instead examines underdetermination, where plausible participation effects are not yet enough to support a censorial account.
 
 ## 4.1 Contest and circumvention — peer review and withdrawal
 
@@ -123,6 +122,7 @@
 # 5. Limits
 
 - The account is not a universal decision procedure or quantitative censoriality score; some cases will remain empirically underdetermined.
+- Counterfactuals, comparators, and other probes are aids to explanation, not necessary or sufficient tests for censorship.
 - Structural description does not determine lawfulness, ethics, proportionality, necessity, professional appropriateness, or legitimacy.
 - Restriction, inequality, content sensitivity, institutional criteria, inherited norms, omission, technical failure, or unequal outcomes are not sufficient by themselves.
 
