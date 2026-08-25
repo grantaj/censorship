@@ -100,7 +100,7 @@
 
 - Translation shows why censorship need not require exclusion: a source may remain available while participating through an altered representation.
 - Zheng reports ordinary corrections alongside directional political revisions in Chinese translations concerning EU--Russia relations: criticism of Russia was generally softened while negative evaluation of the EU was strengthened. Support: `zheng2024`.
-- Directional revision changes the version through which the source can bear on judgments of legitimacy and blame before target-language readers assess the source's position, while the revised text still stands for that source. The target remains present, but its participation is transformed rather than excluded.
+- Here the ordering is the evaluative standing assigned to Russia and the EU in the translated source. Directional revision changes the version through which the source can bear on judgments of legitimacy and blame before target-language readers assess the source's position, while the revised text still stands for that source. The target remains present, but its participation is transformed rather than excluded.
 
 ## 4.3 Altering the field rather than the target — saturation
 
