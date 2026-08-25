@@ -12,7 +12,7 @@
 
 - Literature, empirical, historical, and attributed claims require verified support; hypothetical structural comparisons do not.
 - Antecedents to structural censorship and to the idea that censorship can foreclose, frustrate, or short-circuit inquiry are acknowledged explicitly; novelty is not claimed for breadth beyond prohibition or for the shortcut intuition by itself.
-- Framework-specific proposals remain visibly authored: the relation-specific account of contestability and selectivity, the analytic questions, the operational vocabulary, and counterfactual-symmetry diagnostics.
+- Framework-specific proposals remain visibly authored: the relation-specific account of contestability and selectivity, the analytic questions, the organisation of familiar censorship vocabulary around contestability, and counterfactual-symmetry diagnostics.
 - Empirical cases supply observed mechanisms/conditions; source terminology does not predetermine the framework's interpretation.
 
 ---
@@ -34,7 +34,7 @@
 - The account aims to show a common relation across indirect, distributed, infrastructural, representational, and anticipatory phenomena while preserving meaningful differences from ordinary criticism, selection, ranking, editing, moderation, institutional ordering, and error.
 - Demarcation constrains the explanation: without it, structural breadth risks making censorship coextensive with communication or social ordering. Producing a binary label for every case is not the aim.
 - The core relation does not require a single censor, censorial intent, state action, literal removal, or successful suppression.
-- Operational vocabulary describes effects on presence, effective reach, and representation, plus field/response pathways including saturation and anticipatory restraint.
+- Descriptive vocabulary connects the structural account to familiar effects on presence, effective reach, and representation, plus field-level phenomena such as saturation and responses such as anticipatory restraint; these terms are coverage, not additional criteria or novelty claims.
 - Embedding and reproduction are downstream consequences: a censorial relation may become carried by rules, infrastructure, classifications, expectations, or norms without becoming a separate type or definition of censorship.
 
 ---
@@ -82,16 +82,18 @@ Only after the structural account is clear need lawfulness, ethics, proportional
 
 ---
 
-# 3. Operational Effects and Pathways
+# 3. Descriptive Vocabulary and Coverage
 
-- The following vocabulary describes what happens once the structural relation is in view; effects/pathways are non-exhaustive and may overlap.
+- Familiar censorship vocabulary is retained to show where the structural account meets established phenomena, not to propose a new exhaustive taxonomy or claim novelty for the individual labels.
+- The terms below are descriptive rather than criterial, non-exhaustive, and overlapping. A single censorial relation may involve several at once, and none by itself establishes censorship.
+- At the target level, presence, effective reach, and representation provide useful coordinates. Other familiar phenomena operate primarily through the surrounding field or as responses to anticipated participation conditions.
 
-## 3.1 Exclusion — presence
+## 3.1 Target presence — exclusion
 
 - **Prevention**: blocks expression, publication, acquisition, access, entry, recognition.
 - **Erasure**: removes existing expression, records, traces, access, standing.
 
-## 3.2 Attenuation — effective reach
+## 3.2 Target reach — attenuation
 
 - Target remains present; practical encounter/reach/timeliness/discoverability/persistence/standing/audience falls.
 - **Demotion/suppression**: reduced ranking, recommendation, reach, discoverability, circulation, or persistence.
@@ -99,31 +101,31 @@ Only after the structural account is clear need lawfulness, ethics, proportional
 - **Containment**: bounded or low-reach spaces.
 - Support: `roberts2018`, `gillespie2022`, `howardkira2026`.
 
-## 3.3 Transformation — representation
+## 3.3 Target representation — transformation
 
 - Target participates through an altered version or substitute.
 - Forms: modification of content/framing/metadata/translation/redaction/classification/representation; substitution of an alternative expression/account/framing/record.
 - Ordinary editing/translation/summarisation/criticism are not self-classifying; censorial relevance arises where alteration selectively changes the terms on which the target's own position participates, especially where altered output still stands for the target.
 - Support: `zheng2024`.
 
-## 3.4 Saturation — field pathway
+## 3.4 Surrounding field — saturation
 
 - Target may remain unchanged while the surrounding field is altered through noise, repetition, diversion, coordinated competing material, or volume.
-- Not a fourth target dimension; usual target-level effect is attenuation.
+- Saturation is one important field-level form rather than a fourth target dimension; its usual target-level effect is attenuation.
 - Ordinary contradiction, volume, coordination, or reduced visibility alone is insufficient.
 - Support: `roberts2018`, `kingpanroberts2017`.
 
-## 3.5 Anticipatory restraint — response pathway
+## 3.5 Anticipatory participation — restraint and self-censorship
 
 - Explanatory object: ambient participation condition, not self-restraint itself.
-- Selectively costly participation may produce conscious or habitual withholding, reduced reach, or altered contribution; "self-censorship" names a possible response.
+- Selectively costly participation may produce conscious or habitual withholding, reduced reach, or altered contribution; "self-censorship" names a possible response rather than an additional structural criterion.
 - Expected rebuttal/disagreement alone remains ordinary contest; the surrounding conditions must themselves instantiate the shortcut/selectivity relation.
 - Conditions may be legal, institutional, social, distributed, inherited, or emergent; no conscious inducing agent is required.
 - Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`.
 
-**Downstream implication — embedding and reproduction.** A censorial relation can become embedded in rules, classifications, rankings, routines, infrastructure, expectations, or norms and thereby be reproduced without the same fresh intervention, actor, or rationale.
+**Across time — embedding and reproduction.** A censorial relation can become embedded in rules, classifications, rankings, routines, infrastructure, expectations, or norms and thereby be reproduced without the same fresh intervention, actor, or rationale.
 
-- Embedding is not a second criterion: present structure matters. A censorial origin does not permanently taint a later position-neutral condition, and historical origin need not be known for a current relation to have censorial structure.
+- Embedding/reproduction describes persistence of the relation rather than another censorial form or criterion. A censorial origin does not permanently taint a later position-neutral condition, and historical origin need not be known for a current relation to have censorial structure.
 - Reproduction may become less dependent on fresh overt intervention; anticipatory restraint and inherited participation conditions are possible mechanisms. Support/background: `yuenlee2025`, `foucault1977`, `bowkerstar1999`, `star1999`.
 
 ---
@@ -183,7 +185,7 @@ Only after the structural account is clear need lawfulness, ethics, proportional
 - Scarcity, professional criteria, inherited norms, institutional rules, omissions, technical failures, and unequal outcomes are neither presumed neutral nor sufficient for censorship.
 - Unintended effects and non-action deserve the same structural scrutiny as deliberate interventions, but neither intention nor absence of intention settles the relation.
 - Embedding or persistence does not inherit censorial status automatically; the reproduced relation must retain the relevant structural features.
-- Operational effects/pathways remain revisable if recurring cases fit poorly.
+- The descriptive coverage map remains revisable if recurring cases fit poorly.
 
 ---
 
