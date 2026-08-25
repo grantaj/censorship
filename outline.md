@@ -111,7 +111,7 @@
 
 ## 4.5 Boundary contrasts
 
-- These are negative and boundary tests rather than incomplete positive classifications: each identifies a plausible effect on participation but withholds the censorship conclusion where ordinary field criteria or competing explanations have not been separated from relation to the ordering.
+- These are negative and boundary cases rather than incomplete positive classifications: each identifies a plausible effect on participation but withholds the censorship conclusion where ordinary field criteria or competing explanations have not been separated from relation to the ordering.
 - **Library acquisition:** unequal holdings and acquisition hesitancy can reveal ambient pressure, but budget, remit, duplication, format, and collection criteria can also explain selection. Evidence about actual decision criteria and credible comparators is needed. Support: `garry2015`, `mooretudor2024`; background `asheim1953`, `kidd2009`.
 - **Search and recommendation:** visibility disparities can arise from relevance, quality, recency, query fit, or other ranking criteria. The important question is what the mechanism is responsive to, not disparity by itself. Support: `rieder2018`, `kacperski2024`; background `gillespie2022`, `howardkira2026`, `pasquale2015`.
 - **Moderation:** one intervention can reduce contestability for some material while protecting participation for others. Chandrasekharan et al. report large reductions in hate speech after Reddit's 2015 bans of `r/fatpeoplehate` and `r/CoonTown`; the ban itself does not settle which relations are censorial. Support: `chandrasekharan2017`; background `gillespie2022`, `howardkira2026`.
