@@ -4,7 +4,7 @@
 
 - Scope: censorship; not a general theory of morality, social control, political legitimacy, deliberative democracy, propaganda, persuasion, or social shortcuts.
 - Descriptive first: understand censorial structure before evaluating lawfulness, justification, benefit, harm, proportionality, or professional appropriateness.
-- Cases are conceptual contrasts and boundary stress cases; sensitive cases are used because difficult boundaries are unusually visible, not as political case studies or a historical survey.
+- Cases are conceptual contrasts and boundary cases; sensitive cases are used because difficult boundaries are unusually visible, not as political case studies or a historical survey.
 - Normative bracketing: describing a relation as censorial neither condemns nor endorses interventions, claims, speakers, representations, or causes.
 - Theory discipline: retain concepts only where they clarify, constrain, or compress the shortcut account.
 
@@ -132,8 +132,8 @@ The account can be conceptually clear while a particular case remains empiricall
 
 - An already-censorial relation can become embedded in ambient participation conditions—rules, classifications, rankings, routines, infrastructure, expectations, norms—and be reproduced without the same fresh intervention, actor, or rationale.
 - Embedding/reproduction is downstream, not a separate criterion or type of censorship; what matters is whether the present relation still has the shortcut/selectivity structure.
-- **No origin inheritance**: a censorial origin does not permanently make a later condition censorial, and a current ambient condition can have censorial structure even when its historical origin is unknown.
-- **No persistence inference**: institutionalisation, path dependence, stable inequality, inherited norms, or durable neutral rules do not by themselves establish censorial reproduction.
+- A censorial origin does not permanently make a later condition censorial, and a current ambient condition can have censorial structure even when its historical origin is unknown.
+- Institutionalisation, path dependence, stable inequality, inherited norms, or durable neutral rules do not by themselves establish censorial reproduction.
 - **Recursive closure**: an existing ordering can become a condition of future participation, helping reproduce the same asymmetry of contestability; this is a reproduction pattern, not another definition of censorship.
 - Anticipatory restraint can reproduce embedded participation costs; Yuen and Lee report post-NSL self-censorship associated with cautionary reminders and acquaintances' restraint, partly mediated by risk/emotional response—consistent with social transmission/observational learning, not proof of an embedding sequence. Support: `yuenlee2025`.
 - Reproduction may become less dependent on fresh overt intervention; visible enforcement need not decline, and low enforcement is not evidence by itself.
@@ -208,7 +208,7 @@ The account can be conceptually clear while a particular case remains empiricall
 - **Relation in view**: identity/self-presentation in a professional/workplace field; ordering of ordinary/admissible/professional presentation.
 - **Contrast**: durable coordination, civility, procedure, and professional-conduct norms are not censorial merely because they constrain or are costly to challenge.
 - **Evidence**: Beagan et al.—13 LGBTQ+ Canadian health professionals; disclosure/concealment shaped by heteronormative professional contexts and perceived professionalism. Holman et al.—319 LGBQ employees; concealment associated with workplace climate and identity centrality. Support: `beagan2022`, `holman2022`.
-- **What the case reveals**: the evidence establishes position-dependent ambient conditions and responses, but does not by itself distinguish selective shortcutting from stigma, convention, coordination, or other social mechanisms. Historical origin matters only to a reproduction account, not to understanding the current relation. Background: `foucault1977`, `lukes2005`, `bowkerstar1999`, `star1999`.
+- **What the case reveals**: the evidence establishes position-dependent ambient conditions and responses, but does not by itself distinguish selective shortcutting from stigma, convention, coordination, or other social mechanisms. Historical origin matters only to a reproduction account, not to understanding the current relation. Background: `foucault1977`, `bowkerstar1999`, `star1999`.
 
 ---
 
