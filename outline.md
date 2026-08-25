@@ -131,7 +131,7 @@ Only after the structural account is clear need lawfulness, ethics, proportional
 # 4. Cases and Conceptual Contrasts
 
 - The cases form a developmental sequence rather than parallel demonstrations. They move from a relatively direct departure from an identifiable contest toward increasingly indirect alterations of the conditions under which contest occurs.
-- Each developed case removes an assumption that might otherwise seem necessary to censorship: first that the relevant ordering must be changed through the merits process; then that shortcutting requires exclusion; then that the target itself must be altered; finally that expression must already have entered contest.
+- The first establishes the distinction between an ordering changing through contest and participation conditions doing some of that work instead. The next three successively remove assumptions that shortcutting requires exclusion, alteration of the target itself, or expression already having entered contest.
 - The later boundary contrasts do different work: they mark places where structural similarity is visible but the evidence does not support collapsing ordinary selection, ranking, moderation, or social coordination into censorship.
 
 ## 4.1 Contest and its circumvention — peer review and withdrawal
@@ -139,28 +139,28 @@ Only after the structural account is clear need lawfulness, ethics, proportional
 - Scientific and scholarly evaluation provides a comparatively clear starting point because the relevant contest is institutionally legible. Casadevall/Fang distinguish ordinary scientific evaluation from dogma-screening; the Schön retractions followed an investigation into reported measurement validity, so evidential defeat within scientific contest can make withdrawal record the result of contest rather than substitute for it. Support: `casadevallfang2009`, `beasley2002`, `schoen2003retraction`.
 - Gilley's "The Case for Colonialism" exposes a different relation within the same kind of field. The paper passed double-blind peer review and was later withdrawn after serious/credible threats to the editor. Criticism of the paper belongs to scholarly contest; threat-linked withdrawal changes the conditions of continuing participation outside that merits process. Support: `gilley2017`, `taylorfrancis2017withdrawal`.
 - The contrast establishes the basic shortcut intuition without making peer review itself presumptively censorial. A harder version remains where methodological standards are themselves disputed and evidence must distinguish substantive assessment from conformity with incumbent ordering as a participation condition.
-- **Developmental step:** shortcutting need not mean that contest never occurs; it can enter alongside or after contest and alter what remains practically contestable. The next case removes a further assumption: exclusion is not required.
+- Shortcutting therefore need not mean that contest never occurs; it can enter alongside or after contest and alter what remains practically contestable. Translation removes a further assumption: exclusion is not required.
 
 ## 4.2 Presence without faithful participation — translation
 
 - Translation makes the object of censorship less intuitive because the source can remain present and accessible while its position participates through an altered representation. Ordinary changes for fidelity, clarity, or accuracy therefore cannot be treated as censorial merely because they transform expression.
 - Zheng's study of Chinese translations concerning EU–Russia relations reports ordinary corrections alongside directional political revisions: criticism of Russia was generally softened while negative evaluation of the EU was strengthened. Support: `zheng2024`.
 - Here the structural interest lies in representation rather than disappearance. Directional revision can change the terms on which a source position participates in the target-language field while the resulting text continues to stand for that source. Availability of the original affects the leverage of the translated channel, not the existence of the representational relation.
-- **Developmental step:** a target can remain present yet participate on altered terms. The next case moves one level outward again: the target need not be altered at all.
+- A target can thus remain present yet participate on altered terms. Saturation moves one level outward again: the target need not be altered at all.
 
 ## 4.3 Altering the field rather than the target — saturation
 
 - Counter-speech provides the limiting contrast. Even very large-scale or coordinated rebuttal can remain contest if it engages the relevant claims; volume and coordination alone do not establish a shortcut.
 - King, Pan, and Roberts estimate roughly 448 million government-fabricated social-media comments per year and find that the operation largely avoids arguing with critics, instead redirecting attention away from collective-action discussions and events. Support: `kingpanroberts2017`.
 - The censorially interesting mechanism therefore lies in the surrounding attention environment. Strategic distraction can attenuate a target's practical reach without deleting or modifying it, while sincere coordinated rebuttal would instantiate a different relation. Background: `roberts2018`.
-- **Developmental step:** shortcutting can operate by reorganising the field around an unchanged target. The final developed case moves earlier still, to conditions that act before a contribution enters contest at all.
+- Shortcutting can therefore operate by reorganising the field around an unchanged target. Anticipatory restraint moves earlier still, to conditions that act before a contribution enters contest at all.
 
 ## 4.4 Before contest begins — anticipatory restraint
 
 - Anticipated criticism, embarrassment, or rebuttal can rationally discourage expression without being censorship; those costs can belong to ordinary contest. The question changes when surrounding participation conditions themselves selectively raise the cost of entering the field.
 - Wang and Mayer analyse roughly seven million historical tweets around Hong Kong's National Security Law and report that, after the law, Hong Kong users were more likely to delete past activity or restrict accounts and posted less on politically sensitive topics. Support: `wangmayer2023`.
 - This case shifts the explanatory object away from the later act of withholding. Position-linked legal consequences can alter contestability before new expression appears, producing exclusion or attenuation through anticipation. Behavioural evidence does not establish every user's motive, and social-reputational pressure remains a harder middle case. Background: `weeks2024`, `yuenlee2025`, `kuran1995`.
-- **Developmental landing:** the sequence now spans circumvention of an identifiable merits process, altered representation, alteration of the surrounding field, and ambient conditions operating before participation. What unifies them is not a common censoring act but the work done by selective alteration of contestability.
+- The sequence now spans circumvention of an identifiable merits process, altered representation, alteration of the surrounding field, and ambient conditions operating before participation. What unifies them is not a common censoring act but the work done by selective alteration of contestability.
 
 ## 4.5 Boundary contrasts — where the account should hesitate
 
@@ -169,7 +169,7 @@ Only after the structural account is clear need lawfulness, ethics, proportional
 - **Search and recommendation:** Rieder et al. describe YouTube visibility as distributed ranking culture; Kacperski et al. find query-dependent disparities in academic search. Relevance, quality, recency, query fit, and other position-independent criteria can also produce unequal visibility. The case therefore exposes the importance—and empirical difficulty—of identifying what a ranking mechanism is responsive to rather than inferring censorship from disparity. Support: `rieder2018`, `kacperski2024`; background `gillespie2022`, `howardkira2026`, `pasquale2015`.
 - **Moderation:** Chandrasekharan et al. report large reductions in hate speech after Reddit's 2015 bans of `r/fatpeoplehate` and `r/CoonTown`. Exclusion reduces contestability for removed material, while anti-harassment rules can protect others' participation; the same intervention can therefore contain several relations, and the ban alone does not establish whether the relevant selectivity is substantive-position linked. Support: `chandrasekharan2017`; background `gillespie2022`, `howardkira2026`.
 - **Settled norms:** Beagan et al. and Holman et al. show identity concealment/disclosure varying with professional or workplace climate. Durable coordination, civility, procedure, and professional-conduct norms are not censorial merely because they constrain. The evidence establishes position-dependent ambient conditions and responses but does not by itself distinguish selective shortcutting from stigma, convention, coordination, or other social mechanisms. Support: `beagan2022`, `holman2022`; background `foucault1977`, `bowkerstar1999`, `star1999`.
-- Taken together, the boundary contrasts return the argument to demarcation: breadth is useful only if the account can also say where evidence of altered contestability remains insufficient to explain an ordering as censorially shortcut.
+- Taken together, the boundary contrasts return the argument to demarcation: breadth is useful only if the account can also say where evidence of altered contestability remains insufficient to explain an ordering as a censorial shortcut.
 
 ---
 
