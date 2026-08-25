@@ -24,13 +24,13 @@
 - Censorship scholarship already extends beyond overt prohibition to structural/constitutive, self-censoring, frictional, and flooding forms; breadth beyond bans is not the novelty claim. Support: `jansen1988`, `muller2004`, `freshwater2004`, `bunn2015`, `roberts2018`.
 - Demarcation problem: once censorship is broadened beyond identifiable prohibitions, mere restriction or structuring of communicative possibility cannot by itself distinguish censorship from communication, selection, or social organisation. Schauer makes the ontological version of this problem explicit; Müller, Freshwater, and Bunn trace the corresponding regulatory/constitutive dispute. Support: `schauer1998`, `muller2004`, `freshwater2004`, `bunn2015`.
 - Steward supplies a close antecedent to the core intuition: censorship can be understood as criticism gone wrong, the foreclosure or frustration of inquiry, and consensus can reflect a short-circuit of inquiry without censorship becoming equivalent to criticism or ubiquitous. Support: `steward2014`, especially introduction pp. 2--4.
-- This account develops that intuition in two directions. First, **contest** generalises beyond inquiry to cases where what is at stake is representation, visibility, artistic expression, self-presentation, attention, or standing rather than a proposition alone. Second, **selectivity** constrains that generalisation so that ordinary structuring of communication, assessment, and organisation does not thereby become censorship.
+- This account develops that intuition in two directions. First, **contestability** extends the analytic vocabulary to cases where the relevant object is representation, visibility, artistic expression, self-presentation, attention, or standing as well as inquiry over claims. Second, **selectivity** constrains that extension so that ordinary structuring of communication, assessment, and organisation does not thereby become censorship.
 - Boundary pressure: ordinary gatekeeping cannot be understood by actor, institution, intention, or exclusion alone; indirect costs, diversion, burial, flooding, and visibility reduction show why literal unavailability is also too narrow. Support: `asheim1953`, `kidd2009`, `garry2015`, `mooretudor2024`, `roberts2018`, `gillespie2022`, `kingpanroberts2017`.
 
 ## Proposed contribution
 
 - Novelty claim is explanatory and demarcational, not the discovery that censorship can be structural or that it can short-circuit inquiry.
-- Core proposal: **a censorial relation arises where contestability is selectively altered such that a practical ordering is established or preserved partly by avoiding, burdening, reshaping, or overwhelming the contest to which it would otherwise be exposed**.
+- Core proposal: **a censorial relation arises where contestability is selectively altered such that a practical ordering is established or preserved partly through avoiding, burdening, reshaping, or overwhelming the target's participation in the relevant contest/assessment rather than through that contest/assessment alone**.
 - The account aims to show a common relation across indirect, distributed, infrastructural, representational, and anticipatory phenomena while preserving meaningful differences from ordinary criticism, selection, ranking, editing, moderation, institutional ordering, and error.
 - Demarcation constrains the explanation: without it, structural breadth risks making censorship coextensive with communication or social ordering. Producing a binary label for every case is not the aim.
 - The core relation does not require a single censor, censorial intent, state action, literal removal, or successful suppression.
@@ -56,7 +56,7 @@
 
 ## 2.2 Censorial relations as shortcutting contest
 
-- **Censorial relation**: contestability is selectively altered such that a practical ordering is established or preserved partly by avoiding, burdening, reshaping, or overwhelming the contest to which it would otherwise be exposed.
+- **Censorial relation**: contestability is selectively altered such that a practical ordering is established or preserved partly through avoiding, burdening, reshaping, or overwhelming the target's participation in the relevant contest/assessment rather than through that contest/assessment alone.
 - **Shortcut** names the explanatory role of that alteration: some of the work of establishing or preserving the ordering is done through changed participation conditions rather than through the relevant contest/assessment alone.
 - Altering contestability is not sufficient: all real fields structure participation through rejection, selection, ranking, editing, norms, and other constraints.
 - Central counterfactual question: holding target contestability fixed, would the practical ordering still follow from contest/assessment, or is preventing, burdening, reshaping, or overwhelming participation doing material work in producing/preserving it?
@@ -126,9 +126,10 @@ The account can be conceptually clear while a particular case remains empiricall
 - Conditions may be legal, institutional, social, distributed, inherited, or emergent; no conscious inducing agent is required.
 - Support: `weeks2024`, `yuenlee2025`, `kuran1995`, `wangmayer2023`.
 
-- Beyond these immediate effects and pathways, a censorial relation can become embedded in rules, classifications, rankings, routines, infrastructure, expectations, or norms and thereby be reproduced without the same fresh intervention, actor, or rationale.
+**Downstream implication — embedding and reproduction.** A censorial relation can become embedded in rules, classifications, rankings, routines, infrastructure, expectations, or norms and thereby be reproduced without the same fresh intervention, actor, or rationale.
+
 - Embedding is not a second criterion: present structure matters. A censorial origin does not permanently taint a later position-neutral condition, and historical origin need not be known for a current relation to have censorial structure.
-- Such reproduction may become less dependent on fresh overt intervention; anticipatory restraint and inherited participation conditions are possible mechanisms. Support/background: `yuenlee2025`, `foucault1977`, `bowkerstar1999`, `star1999`.
+- Reproduction may become less dependent on fresh overt intervention; anticipatory restraint and inherited participation conditions are possible mechanisms. Support/background: `yuenlee2025`, `foucault1977`, `bowkerstar1999`, `star1999`.
 
 ---
 
