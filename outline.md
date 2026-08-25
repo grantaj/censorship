@@ -97,13 +97,13 @@
 
 - Counter-speech is the limiting contrast: even large-scale or coordinated rebuttal can remain contest if it engages the relevant claims.
 - King, Pan, and Roberts estimate roughly 448 million government-fabricated social-media comments per year and find that the operation largely avoids arguing with critics, instead redirecting attention away from collective-action discussions and events. Support: `kingpanroberts2017`.
-- Here the practical ordering is public attention and salience around politically consequential topics, while criticism, rebuttal, and counter-speech are part of the ordinary contest. The mechanism of interest is therefore not mere volume but diversion that changes encounter conditions and practical reach without deleting, modifying, or engaging the target. Background: `roberts2018`.
+- Here the practical ordering is public attention and salience around collective-action discussions and events, while criticism, rebuttal, and counter-speech are part of the ordinary contest. The mechanism of interest is therefore not mere volume but diversion that changes encounter conditions and practical reach without deleting, modifying, or engaging the target. Background: `roberts2018`.
 
 ## 4.4 Before contest begins — anticipatory restraint
 
 - Anticipated criticism, embarrassment, or rebuttal can rationally discourage expression while remaining part of ordinary contest. The structural question concerns ambient conditions that selectively change the cost or possibility of entering it.
 - Wang and Mayer analyse roughly seven million historical tweets around Hong Kong's National Security Law and report increased deletion or account restriction and reduced politically sensitive posting after the law. Support: `wangmayer2023`.
-- In this case the practical ordering concerns the public availability and salience of politically sensitive positions. The law changes conditions of entry before posting, response, criticism, and disagreement can occur; the observed removal and reduced posting therefore show diminished practical participation without establishing every user's motive. Social and reputational pressure remains a harder middle case. Background: `weeks2024`, `yuenlee2025`, `kuran1995`.
+- In this case the practical ordering concerns the public availability and salience of politically sensitive positions. The law changes conditions of entry before posting, response, criticism, and disagreement can occur; the observed removal and reduced posting are evidence of diminished practical participation without establishing every user's motive. Social and reputational pressure remains a harder middle case. Background: `weeks2024`, `yuenlee2025`, `kuran1995`.
 
 ## 4.5 Boundary contrasts
 
