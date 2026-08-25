@@ -5,7 +5,7 @@
 - Scope: censorship; not a general theory of morality, social control, political legitimacy, deliberative democracy, propaganda, persuasion, or social shortcuts.
 - Origin: sustained art practice concerned with censorship; essay formalises recurring structural questions.
 - Descriptive first: classify censorial structure before evaluating lawfulness, justification, benefit, harm, proportionality, or professional appropriateness.
-- Cases are boundary stress tests, not political case studies or a historical survey.
+- Cases are boundary stress tests; sensitive cases are used because difficult boundaries are unusually visible, not as political case studies or a historical survey.
 - Normative bracketing: censorial/non-censorial classification neither condemns nor endorses interventions, claims, speakers, representations, or causes.
 - Theory discipline: retain concepts only where they clarify, test, or compress the shortcut account.
 
@@ -91,7 +91,9 @@ Uncertainty may remain where ordering, criterion function, dependency, selectivi
 ## 3.2 Attenuation — effective reach
 
 - Target remains present; practical encounter/reach/timeliness/discoverability/persistence/standing/audience falls.
-- Forms: demotion/suppression; friction/delay; containment.
+- **Demotion/suppression**: reduced ranking, recommendation, reach, discoverability, circulation, or persistence.
+- **Friction/delay**: increased time, effort, expertise, cost, or delay.
+- **Containment**: bounded or low-reach spaces.
 - Support: `roberts2018`, `gillespie2022`, `howardkira2026`.
 
 ## 3.3 Transformation — representation
