@@ -29,7 +29,7 @@
 
 ## Proposed contribution
 
-- Core proposal: **a censorial relation arises where contestability is selectively altered in a way that materially changes the target's capacity to affect a practical ordering, so that participation conditions do work that would otherwise be done through the relevant contest or assessment**.
+- Core proposal: **a censorial relation arises where contestability is selectively altered in a way that materially changes the target's capacity to affect a practical ordering, so that participation conditions substitute for, prejudge, or foreclose work that would otherwise remain to the processes by which that ordering is ordinarily established, defended, or changed**.
 - The contribution is explanatory and demarcational: show a common relation across overt, indirect, distributed, representational, and anticipatory phenomena while preserving meaningful differences from ordinary criticism, selection, ranking, editing, moderation, organisation, and error.
 
 ---
@@ -41,24 +41,29 @@
 - **Ordering**: the practical distribution of field-specific standing such as credibility, legitimacy, admissibility, visibility, salience, recognition, or authority.
 - **Contest**: the field-specific process through which that ordering is established, defended, or changed through expression, representation, claims, reasons, evidence, interpretation, criticism, rebuttal, comparison, or challenges to standing or admissibility. It includes art and self-presentation without requiring propositional argument.
 - **Contestability**: practical opportunity to enter, remain in, be encountered, be represented, and receive consideration within that contest.
-- The field, ordering, and ordinary contest or assessment must be identifiable independently of the disputed intervention. Otherwise the claim that contest has been short-circuited is circular.
-- Ordinary fields necessarily structure participation through remit, format, evidence, conduct, selection, ranking, and scarcity. Such conditions are not censorial merely because they restrict participation.
-- An access or admissibility process is not automatically the relevant contest merely because an institution treats it as assessment; the distinction is whether it evaluates the contribution within the practical ordering or instead sets the terms on which that contest may occur.
+- The field, ordering, and processes by which that ordering is ordinarily established, defended, or changed must be identifiable independently of the disputed intervention. Otherwise the claim that contest has been short-circuited is circular.
+- Ordinary fields necessarily structure participation through remit, format, evidence, conduct, selection, ranking, jurisdiction, and scarcity. Such conditions are not censorial merely because they restrict participation or determine an immediate eligibility outcome.
+- A participation process cannot define the ordering merely by determining its own output. Administrative eligibility, jurisdiction, formatting compliance, or other conditions may determine whether and how contest proceeds while leaving the standing at issue unresolved.
+- A gate can itself be part of the contest when it is the independently identifiable process by which the field ordinarily assesses the standing at issue; it is not a shortcut merely because contest occurs at a gate.
+- No class of participation condition is intrinsically outside the analysis: formal, procedural, jurisdictional, evidentiary, classificatory, temporal, or other conditions can either organise contest or, in their operation, become part of a shortcut around it.
 
 ## 2.2 Censorial relations
 
-- Shortcutting occurs when altered participation conditions themselves help determine the target's practical ability to affect the ordering, rather than the ordering being produced through the ordinary contest or assessment alone.
-- **Selectivity** asks whether participation conditions are altered in relation to the ordering, rather than merely tracking differences the ordinary contest itself assesses. That relation may operate through a target, topic, or channel; pairwise differential treatment is not required.
-- Labels such as relevance, quality, evidence, or conduct do not settle that question by themselves; what matters is the role the criterion actually plays in the specified contest.
-- Evidence may include explicit rules, process traces, temporal changes, or credible comparators: for example, whether otherwise comparable contributions that bear differently on the ordering face different participation conditions. Outcome disparity or correlation alone is insufficient.
-- Where the target's relation to the ordering cannot be separated from what the ordinary contest itself evaluates, the case may remain empirically underdetermined rather than being resolved by definition.
+- Shortcutting occurs when participation conditions do more than organise the circumstances of contest and instead substitute for, prejudge, or foreclose ordering-relevant work that would otherwise remain to the processes through which the ordering is ordinarily established, defended, or changed.
+- The diagnostic intuition is functional: does the condition structure, route, or conduct contest, or does it help produce the practical consequence that contest would otherwise have had to produce without that contest occurring?
+- Causal or outcome dependence is insufficient. A useful counterfactual asks whether, if the condition performed only its independently established organising function, the target's standing would still remain to be determined through contest or assessment. Genuine routing, formatting, or jurisdiction can leave that work unresolved; exceeding a word limit is not censorial merely because compliance would have changed the immediate eligibility outcome.
+- The ordinary organising function must itself be established independently of the disputed application. Institutional labels such as scope, relevance, quality, evidence, conduct, or compliance are evidence, not authoritative definitions; explicit rules, stated remit, established practice, process traces, temporal changes, comparators, and established alternative forums can help identify what the condition is doing.
+- **Selectivity** asks whether the shortcut tracks the target's bearing on the ordering through a target, topic, position, or channel. Pairwise differential treatment is not required. A complementary counterfactual asks whether, holding fixed the features that independently account for the condition's ordinary application, its operation would change if the target's bearing on the ordering changed.
+- Outcome disparity or correlation alone is insufficient. Where the organising function, jurisdiction, or relation to the ordering cannot be independently established, the case may remain empirically underdetermined rather than being resolved by definition.
 - Intent, unified agency, deliberate action, and success are not defining: a relation can be intentional or emergent, individual or distributed, active or produced through selective non-action, successful or failed.
 
 ## 2.3 Questions for analysis
 
-- What field, practical ordering, and ordinary contest or assessment are involved?
-- How have participation conditions changed, and what evidence shows that the change affects the target's practical capacity to affect the ordering?
-- Is the alteration related to the ordering itself, through a target, topic, or channel, or to a distinction the ordinary contest itself is assessing?
+- What field and practical ordering are involved, and through what processes is that ordering ordinarily established, defended, or changed?
+- What organising function does the participation condition ordinarily perform, and can that function be identified independently of the disputed application?
+- Is the disputed gate itself part of the field's ordinary assessment of standing, or does it set conditions under which that assessment can occur?
+- Does the condition merely structure, route, or conduct contest, leaving the ordering-relevant work open, or does its operation substitute for, prejudge, or foreclose some of that work?
+- Is that shortcut selective through a target, topic, position, or channel, and what counterfactual or comparative evidence supports the relation?
 - What follows from the relation: exclusion, reduced reach, altered representation, a changed surrounding field, anticipatory restraint, or some combination?
 
 ---
@@ -91,11 +96,11 @@
 
 - Translation shows why censorship need not require exclusion: a source may remain available while participating through an altered representation.
 - Zheng reports ordinary corrections alongside directional political revisions in Chinese translations concerning EU--Russia relations: criticism of Russia was generally softened while negative evaluation of the EU was strengthened. Support: `zheng2024`.
-- The relevant ordering is how legitimacy and blame are assigned to Russia and the EU in the target-language discourse. Directional revision changes the version through which the source can affect that ordering before readers assess the source's position, while the revised text still stands for that source. The target remains present, but its participation is transformed rather than excluded.
+- The ordering at issue is how legitimacy and blame are assigned to Russia and the EU in the target-language discourse. Directional revision changes the version through which the source can affect that ordering before readers assess the source's position, while the revised text still stands for that source. The target remains present, but its participation is transformed rather than excluded.
 
 ## 4.3 Altering the field rather than the target — saturation
 
-- Counter-speech is the limiting contrast: even large-scale or coordinated rebuttal can remain contest if it engages the relevant claims.
+- Counter-speech is the limiting contrast: even large-scale or coordinated rebuttal can remain contest if it engages the claims at issue.
 - King, Pan, and Roberts estimate roughly 448 million government-fabricated social-media comments per year and find that the operation largely avoids arguing with critics, instead redirecting attention away from collective-action discussions and events. Support: `kingpanroberts2017`.
 - Here the practical ordering is public attention and salience around collective-action discussions and events, while criticism, rebuttal, and counter-speech are part of the ordinary contest. The mechanism of interest is therefore not mere volume but diversion that changes encounter conditions and practical reach without deleting, modifying, or engaging the target. Background: `roberts2018`.
 
@@ -126,4 +131,4 @@
 # 6. Conclusion
 
 - Selective alteration of contestability can explain common structure across overt, indirect, distributed, representational, and anticipatory phenomena without making all constrained communication censorial.
-- The strongest result is explanatory compression: difficult cases become comparable without being made identical, and uncertainty is located in the relevant relations and evidence rather than hidden by a binary label.
+- The strongest result is explanatory compression: difficult cases become comparable without being made identical, and uncertainty is located in the specified relations and evidence rather than hidden by a binary label.
