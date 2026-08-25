@@ -12,7 +12,7 @@
 
 - Literature, empirical, historical, and attributed claims require verified support; hypothetical structural comparisons do not.
 - Antecedents to structural censorship and to the idea that censorship can foreclose, frustrate, or short-circuit inquiry are acknowledged explicitly; novelty is not claimed for breadth beyond prohibition or for the shortcut intuition by itself.
-- Framework-specific proposals remain visibly authored: the relation-specific account of contestability and selectivity, the analytic questions, the organisation of familiar censorship vocabulary around contestability, and counterfactual-symmetry diagnostics.
+- Framework-specific proposals remain visibly authored: the relation-specific use of contestability and selectivity, the analytic questions, the organisation of familiar censorship vocabulary around contestability, and counterfactual-symmetry diagnostics; novelty is not claimed for the term `contestability` itself.
 - Empirical cases supply observed mechanisms/conditions; source terminology does not predetermine the framework's interpretation.
 
 ---
@@ -25,12 +25,13 @@
 - Demarcation problem: once censorship is broadened beyond identifiable prohibitions, mere restriction or structuring of communicative possibility cannot by itself distinguish censorship from communication, selection, or social organisation. Schauer makes the ontological version of this problem explicit; Butler supplies a primary constitutive/implicit-censorship account; Müller, Freshwater, and Bunn trace the regulatory/constitutive dispute; De Baets still presents it explicitly as a demarcation debate in 2026. Support: `schauer1998`, `butler1998`, `muller2004`, `freshwater2004`, `bunn2015`, `debaets2026`.
 - Steward supplies a close antecedent to the core intuition: censorship can be understood as criticism gone wrong, the foreclosure or frustration of inquiry, and consensus can reflect a short-circuit of inquiry without censorship becoming equivalent to criticism or ubiquitous. Support: `steward2014`, especially introduction pp. 2--4.
 - This account develops that intuition by generalising **inquiry** to **contest**: field-specific processes through which practical ordering can be exposed to change, including representation, visibility, artistic expression, self-presentation, attention, and standing as well as argument over claims. **Contestability** names the practical conditions of participation in that contest; **selectivity** constrains when alteration of those conditions is censorially significant rather than ordinary structuring of communication, assessment, or organisation.
+- `Contestability` has adjacent established uses in human-computer interaction and algorithmic decision-making. Vaccaro et al. use it in content moderation for users' ability to shape and influence how moderation decisions are made. Here the object is different: the target's practical opportunity to participate in the field-level contest through which an ordering can change. The senses can interact but are not equivalent; a moderation procedure may be contestable in Vaccaro et al.'s sense while target contestability in the present sense remains low, or vice versa. Support: `vaccaro2021`.
 - Boundary pressure: ordinary gatekeeping cannot be understood by actor, institution, intention, or exclusion alone; indirect costs, diversion, burial, flooding, and visibility reduction show why literal unavailability is also too narrow. Support: `asheim1953`, `kidd2009`, `garry2015`, `mooretudor2024`, `roberts2018`, `gillespie2022`, `kingpanroberts2017`.
 
 ## Proposed contribution
 
 - Novelty claim is explanatory and demarcational, not the discovery that censorship can be structural or that it can short-circuit inquiry.
-- Core proposal: **a censorial relation arises where contestability is selectively altered such that a practical ordering is established or preserved partly through avoiding, burdening, reshaping, or overwhelming the target's participation in the relevant contest/assessment rather than through that contest/assessment alone**.
+- Core proposal: **a censorial relation arises where contestability is selectively altered in a way that materially changes the target's capacity to affect a practical ordering, so that participation conditions do work that would otherwise be done through the relevant contest/assessment**.
 - The account aims to show a common relation across indirect, distributed, infrastructural, representational, and anticipatory phenomena while preserving meaningful differences from ordinary criticism, selection, ranking, editing, moderation, institutional ordering, and error.
 - Demarcation constrains the explanation: without it, structural breadth risks making censorship coextensive with communication or social ordering. Producing a binary label for every case is not the aim.
 - The core relation does not require a single censor, censorial intent, state action, literal removal, or successful suppression.
@@ -47,7 +48,7 @@
 - **Contest**: field-specific process through which the specified ordering can be established, defended, or changed through expression, representation, claims, reasons, evidence, interpretation, criticism, rebuttal, comparison, or challenges to standing/admissibility; includes art and self-presentation without requiring propositional content or intent to argue.
 - Contest is not synonymous with communication, participation, or any decision about admission; it must have an independently specifiable connection to the ordering at issue.
 - Analytic discipline: identify the field, practical ordering, and ordinary contest/assessment by which that ordering is exposed to change independently of the disputed intervention. If these can be identified only by reference to the alleged censorship, the shortcut description is circular.
-- **Contestability**: practical opportunity to enter, remain in, be encountered, be represented, and receive consideration within the field.
+- **Contestability**: practical opportunity to enter, remain in, be encountered, be represented, and receive consideration within the field. This differs from procedural contestability in content-moderation and algorithmic-decision literature, where the term concerns users' ability to challenge, shape, or influence system decisions; the two senses can interact but are not interchangeable. Support: `vaccaro2021`.
 - General material/social inequality is insufficient; the mechanism of interest must bear on participation conditions in the specified field.
 - The relevant relation ordinarily requires attention to target; field/channel with practical leverage; practical ordering affected; realistic comparator/baseline; and the ordinary contest/assessment relevant to that ordering.
 - Eligibility, remit, format, evidential, and behavioural conditions may structure participation without thereby being censorial.
@@ -56,10 +57,11 @@
 
 ## 2.2 Censorial relations as shortcutting contest
 
-- **Censorial relation**: contestability is selectively altered such that a practical ordering is established or preserved partly through avoiding, burdening, reshaping, or overwhelming the target's participation in the relevant contest/assessment rather than through that contest/assessment alone.
-- **Shortcut** names the explanatory role of that alteration: some of the work of establishing or preserving the ordering is done through changed participation conditions rather than through the relevant contest/assessment alone.
+- **Censorial relation**: contestability is selectively altered in a way that materially changes the target's capacity to affect a practical ordering, so that participation conditions do work that would otherwise be done through the relevant contest/assessment.
+- **Shortcut** names that explanatory dependence: the altered participation condition forms part of the mechanism changing the target's practical capacity to affect the ordering rather than merely accompanying an ordering produced through contest/assessment.
 - Altering contestability is not sufficient: all real fields structure participation through rejection, selection, ranking, editing, norms, and other constraints.
-- Central counterfactual question: holding target contestability fixed, would the practical ordering still follow from contest/assessment, or is preventing, burdening, reshaping, or overwhelming participation doing material work in producing/preserving it?
+- **Material work**: holding the relevant contest/assessment and other salient conditions fixed, changing the participation condition would make a non-trivial practical difference to the target's capacity to affect the ordering in that field. The condition need not be necessary, sufficient, or ultimately successful; countervailing contest or other mechanisms may defeat it.
+- Evidence for that dependence can include explicit rules or decision criteria, process traces showing how the condition operates, matched comparators or position substitution, temporal changes around an intervention, or stable repeated asymmetry. No single form is mandatory; where neither mechanism evidence nor a credible counterfactual supports that dependence, the case remains empirically underdetermined rather than becoming censorial by correlation or outcome disparity alone.
 - **Selectivity**: holding relevant non-position attributes constant, the participation condition varies with the target's relation to the relevant ordering. An explicit position-linked rule may make this obvious; distributed or unintended cases may require stable pattern, response architecture, comparators, or counterfactual asymmetry. Outcome disparity/correlation alone is insufficient.
 - **Counterfactual symmetry**: ask whether an otherwise comparable contribution differently related to the ordering would face the same participation condition. Asymmetry is evidence of selectivity; facially uniform application does not establish neutrality if the criterion itself tracks relation to the ordering.
 - Content sensitivity alone is not position selectivity: relevance, scope, format, evidence, and conduct can structure participation without shortcutting the ordering they help administer.
@@ -74,11 +76,11 @@ Support: demarcation/structural boundary `schauer1998`, `butler1998`, `steward20
 ## 2.3 Questions for analysis
 
 - **Field and contest:** what target, field/channel, practical ordering, ordinary contest/assessment, and realistic baseline are involved? These should be identifiable independently of the disputed intervention.
-- **Altered participation:** how can the target bear on that ordering, how have its participation conditions changed, and what work does the change do relative to contest/assessment itself?
+- **Altered participation:** how can the target bear on that ordering, how have its participation conditions changed, and what evidence shows that the change materially alters the target's capacity to affect the ordering rather than merely accompanying the outcome?
 - **Selectivity:** does the alteration track the target's relation to the ordering? Counterfactual symmetry, substitutes, leverage, decision records, stable patterns, and comparable cases may help answer this.
 - **Consequences and context:** what happens to target or field—exclusion, attenuation, transformation, saturation, anticipatory restraint, or some combination—and what surrounding features matter without defining censorship: intent, organisation, action/non-action, locus/power, scale, visibility, persistence, justification, or later embedding? Support for locus/power: `lukes2005`, `foucault1977`; visibility: `pasquale2015`.
 
-Only after the structural account is clear need lawfulness, ethics, proportionality, necessity, professional appropriateness, or legitimacy be evaluated. The account can be conceptually clear while a particular case remains empirically underdetermined because ordering, contest, criterion function, dependency, selectivity, baseline, or substitutes are unclear.
+Only after the structural account is clear need lawfulness, ethics, proportionality, necessity, professional appropriateness, or legitimacy be evaluated. The account can be conceptually clear while a particular case remains empirically underdetermined because ordering, contest, criterion function, explanatory dependency, selectivity, baseline, or substitutes are unclear.
 
 ---
 
@@ -191,5 +193,5 @@ Only after the structural account is clear need lawfulness, ethics, proportional
 
 # 6. Conclusion
 
-- Landing requirement: show that selective shortcutting of contestability illuminates a common structure across overt, indirect, distributed, emergent, representational, and anticipatory phenomena while preserving meaningful differences from ordinary contest, gatekeeping, moderation, organisation, and error.
+- Landing requirement: show that selective alteration of contestability can materially change a target's capacity to affect an ordering across overt, indirect, distributed, emergent, representational, and anticipatory phenomena while preserving meaningful differences from ordinary contest, gatekeeping, moderation, organisation, and error.
 - The strongest outcome is explanatory compression: disparate phenomena become comparable without being made identical, and difficult cases reveal which relations and evidence matter rather than being forced into a binary classification.
