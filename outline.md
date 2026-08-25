@@ -61,7 +61,7 @@
 - Declared rules or professional criteria are not exemptions either. A criterion can organise contest, or it can become part of a shortcut where conformity with an incumbent ordering becomes a condition of effective participation.
 - General participation constraints that apply independently of a contribution's position in the relevant ordering can organise a field without selecting among those positions.
 - **Selectivity**: the participation condition or mechanism makes contestability depend on the target's relation to the relevant ordering. A position-linked rule can establish this in a single case; distributed or unintended mechanisms may instead require evidence such as stable pattern, response architecture, or counterfactual asymmetry. Outcome disparity or correlation with a general field criterion is insufficient.
-- `Control` need not be a separate theoretical primitive or imply a controller; it can remain ordinary-language shorthand for contestability being shaped by a decision, rule, practice, infrastructure, incentive, or recurrent response rather than merely varying by accident.
+- Uniform application does not settle selectivity: a rule can be applied consistently while still making participation depend on conformity with an incumbent ordering. Position-dependence is a structural relation, not merely a report of feeling censored.
 - Censorial intent, action, a single censor, and success are not required. A shortcut may be deliberate or unintended; individual, institutional, distributed, or emergent; action-based or realised through selective non-action. A failed ban remains censorial in mechanism even if it fails to stabilise the ordering.
 - Non-action requires a field-grounded descriptive baseline rather than a general duty to assist. Relevant baselines can come from an explicit or established rule, workflow, service, role, remediation or enforcement pathway, system design, or treatment of genuinely comparable cases.
 - Purpose and justification do not define the relation. Closure can be benign, necessary, professionally justified, or socially useful and still have censorial character.
@@ -268,7 +268,7 @@ Support: `beagan2022`, `holman2022`; background `foucault1977`, `lukes2005`, `bo
 
 ---
 
-# 6. Uses and Limits
+# 6. Limits
 
 - No quantitative censoriality score; some boundary cases may lack a unique classification.
 - The framework does not make perpetual openness to contest a normative requirement. Closure can be justified and censorial structure can be normatively defensible.
@@ -282,5 +282,5 @@ Support: `beagan2022`, `holman2022`; background `foucault1977`, `lukes2005`, `bo
 # 7. Conclusion
 
 - Censorship is analysed as a selective alteration of contestability that obtains or preserves a practical ordering by shortcutting the relevant contest.
-- Exclusion, attenuation, transformation, saturation, anticipatory restraint, and sedimentation describe effects or reproduction pathways only after that relational classification.
+- Exclusion, attenuation, transformation, saturation, anticipatory restraint, and sedimentation describe effects and downstream pathways only after that relational classification.
 - The boundary suite tests whether this discriminator captures overt, indirect, distributed, emergent, and anticipatory cases while leaving ordinary contest, gatekeeping, moderation, and error outside when shortcut or selectivity is not established.
