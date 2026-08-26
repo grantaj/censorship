@@ -1,27 +1,9 @@
-name: Publish compiled essay
+name: Publish paper
 
-# Publication is intentionally keyless and separate from paid compilation. The
-# operator chooses a channel and target; this workflow promotes the newest
-# successful retained candidate for that target.
+# Publication is keyless and separate from paid compilation. A manual run
+# promotes the newest successful academic candidate from current main.
 on:
   workflow_dispatch:
-    inputs:
-      channel:
-        description: Publication channel
-        required: true
-        type: choice
-        options:
-          - draft
-          - release
-      target:
-        description: Target to publish from its latest successful compilation
-        required: true
-        type: choice
-        default: journal_academic
-        options:
-          - journal_academic
-          - magazine_general
-          - explain_like_im_5
 
 permissions:
   contents: read
@@ -40,6 +22,8 @@ jobs:
     permissions:
       contents: read
       actions: read
+    env:
+      TARGET_ID: journal_academic
     steps:
       - name: Check out trusted publication infrastructure
         uses: actions/checkout@v7
@@ -51,8 +35,6 @@ jobs:
       - name: Resolve latest successful retained candidate
         id: retained
         uses: actions/github-script@v8
-        env:
-          TARGET_ID: ${{ inputs.target }}
         with:
           script: |
             const { owner, repo } = context.repo;
@@ -117,11 +99,9 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Validate retained candidate and release source
+      - name: Validate retained candidate against current main
         id: candidate
         env:
-          PUBLICATION_CHANNEL: ${{ inputs.channel }}
-          TARGET_ID: ${{ inputs.target }}
           CANDIDATE_RUN_ID: ${{ steps.retained.outputs.run-id }}
         working-directory: infra
         shell: bash
@@ -169,23 +149,22 @@ jobs:
           if metadata["backend"] != "openai":
               raise SystemExit("candidate backend is not supported for publication")
           if metadata["target"] != os.environ["TARGET_ID"]:
-              raise SystemExit("candidate target does not match requested publication target")
+              raise SystemExit("candidate target does not match the academic publication target")
           if str(metadata["workflow_run_id"]) != os.environ["CANDIDATE_RUN_ID"]:
               raise SystemExit("candidate run metadata does not match the retained workflow run")
           for key in ("censorship_source_sha", "compiled_prose_sha"):
               if not re.fullmatch(r"[0-9a-f]{40}", str(metadata[key])):
                   raise SystemExit(f"candidate {key} is not a full Git SHA")
-          if os.environ["PUBLICATION_CHANNEL"] == "release":
-              if metadata["requested_source_ref"] != "main":
-                  raise SystemExit("release publication requires a candidate compiled from source_ref=main")
-              for candidate_path, current_path in (
-                  (outline, Path("outline.md")),
-                  (bibliography, Path("references.bib")),
-              ):
-                  if candidate_path.read_bytes() != current_path.read_bytes():
-                      raise SystemExit(
-                          f"release candidate {candidate_path.name} does not match current main"
-                      )
+          if metadata["requested_source_ref"] != "main":
+              raise SystemExit("publication requires a candidate compiled from source_ref=main")
+          for candidate_path, current_path in (
+              (outline, Path("outline.md")),
+              (bibliography, Path("references.bib")),
+          ):
+              if candidate_path.read_bytes() != current_path.read_bytes():
+                  raise SystemExit(
+                      f"publication candidate {candidate_path.name} does not match current main"
+                  )
 
           output = Path(os.environ["GITHUB_OUTPUT"])
           with output.open("a", encoding="utf-8") as handle:
@@ -212,10 +191,8 @@ jobs:
           sudo apt-get install -y --no-install-recommends pandoc
           pandoc --version
 
-      - name: Render selected candidate and record provenance
+      - name: Render paper and record provenance
         env:
-          PUBLICATION_CHANNEL: ${{ inputs.channel }}
-          TARGET_ID: ${{ inputs.target }}
           SOURCE_SHA: ${{ steps.candidate.outputs.source_sha }}
           COMPILED_PROSE_SHA: ${{ steps.candidate.outputs.compiler_sha }}
           WORKFLOW_RUN_URL: ${{ steps.candidate.outputs.compile_run_url }}
@@ -245,7 +222,6 @@ jobs:
             --target "$TARGET_ID" \
             --run-id "$COMPILE_RUN_ID" \
             --run-url "$WORKFLOW_RUN_URL" \
-            --channel "$PUBLICATION_CHANNEL" \
             --timestamp "$BUILD_TIMESTAMP" \
             --requested-temperature "$OPENAI_TEMPERATURE" \
             --requested-seed "$OPENAI_SEED" \
@@ -264,12 +240,11 @@ jobs:
           retention-days: 90
 
   release-approval:
-    if: inputs.channel == 'release'
     needs: assemble
     runs-on: ubuntu-latest
     environment: publication-release
     steps:
-      - run: echo "Release publication approved."
+      - run: echo "Paper publication approved."
 
   publish:
     needs:
@@ -278,7 +253,7 @@ jobs:
     if: >-
       always() &&
       needs.assemble.result == 'success' &&
-      (inputs.channel == 'draft' || needs.release-approval.result == 'success')
+      needs.release-approval.result == 'success'
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -317,20 +292,16 @@ jobs:
           name: censorship-publication-${{ github.run_id }}
           path: publication-build
 
-      - name: Replace only requested publication channel
-        env:
-          PUBLICATION_CHANNEL: ${{ inputs.channel }}
+      - name: Replace published paper
         run: |
           python infra/publication/site.py update \
             --site-root site-repo/docs \
-            --channel "$PUBLICATION_CHANNEL" \
             --build-dir publication-build
 
       - name: Commit publication transactionally
         shell: bash
         working-directory: site-repo
         env:
-          PUBLICATION_CHANNEL: ${{ inputs.channel }}
           SOURCE_SHA: ${{ needs.assemble.outputs.source_sha }}
         run: |
           set -euo pipefail
@@ -345,11 +316,11 @@ jobs:
             echo "Publication content is unchanged; nothing to push." >> "$GITHUB_STEP_SUMMARY"
             exit 0
           fi
-          git commit -m "Publish $PUBLICATION_CHANNEL from $SOURCE_SHA"
+          git commit -m "Publish paper from $SOURCE_SHA"
           git push origin HEAD:gh-pages
           {
-            echo "## Published $PUBLICATION_CHANNEL"
+            echo "## Published paper"
             echo
-            echo "Target: ${{ inputs.target }}"
-            echo "Only docs/$PUBLICATION_CHANNEL/ was replaced; the other channel was preserved."
+            echo "Target: journal_academic"
+            echo "The site root now contains this publication."
           } >> "$GITHUB_STEP_SUMMARY"
