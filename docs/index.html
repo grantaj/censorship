@@ -1,17 +1,1083 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Censorship — publications</title>
-<style>
-:root{color-scheme:light dark;--bg:#f8f7f3;--fg:#171717;--muted:#666;--line:#d6d2c8;--card:#fff}
-@media(prefers-color-scheme:dark){:root{--bg:#111;--fg:#eceae4;--muted:#aaa;--line:#393939;--card:#181818}}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.55 system-ui,sans-serif}
-main{max-width:760px;margin:0 auto;padding:9vh 24px}h1{font:700 clamp(2.3rem,8vw,4.6rem)/.98 Georgia,serif;margin:0 0 .5rem}
-.intro{color:var(--muted);max-width:56ch;margin-bottom:3rem}.channels{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1rem}
-.channel{background:var(--card);border:1px solid var(--line);padding:1.2rem 1.3rem}.channel h2{margin:.1rem 0 .8rem}.channel a{color:inherit}
-dl{display:grid;grid-template-columns:auto 1fr;gap:.25rem .7rem;margin:0;color:var(--muted)}dt{font-weight:600}dd{margin:0}.unavailable{color:var(--muted)}
-</style>
-</head><body><main><h1>Censorship</h1><p class="intro">Published compiled-prose builds. Draft and release are independent channels; failed builds leave the previous publication untouched.</p>
-<div class="channels"><section class="channel unavailable"><h2>Draft</h2><p>No successful publication yet.</p></section><section class="channel"><h2><a href="release/">Release</a></h2><p>Built 2026-08-26T10:06:29Z</p><dl><dt>source</dt><dd><code>8a07e9e115db</code></dd><dt>compiler</dt><dd><code>8d6e098513e4</code></dd><dt>model</dt><dd>gpt-5.6-sol</dd><dt>target</dt><dd>journal_academic</dd></dl></section></div></main></body></html>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self' data:; script-src 'none'; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <title>Censorship as Shortcut</title>
+  <meta name="description" content="<p>Censorship cannot be identified
+with prohibition alone, but expanding the concept to encompass any
+structural constraint on communication risks erasing the distinction
+between censorship and the ordinary organisation of communicative
+practices. This article proposes a demarcational and explanatory
+account: censorship is a shortcut around contest. It occurs where
+participation is controlled in a way that substitutes for, prejudges, or
+forecloses contest over something that would otherwise remain open.
+Contest includes the processes through which credibility, legitimacy,
+admissibility, visibility, recognition, authority, and other forms of
+standing are established, defended, or changed. Participation in such
+processes is practical rather than merely formal: contributions must be
+able to become available, enter, remain, be encountered, be faithfully
+represented, and receive consideration. The account explains how
+exclusion, attenuation, transformation, saturation, self-censorship,
+source control, and computational filtering can exhibit a common
+censorial structure without making each of those phenomena independently
+sufficient for censorship. A developmental sequence of cases—from
+withdrawal after peer review through selective translation, strategic
+distraction, source-base redaction, and algorithmic filtering—shows how
+censorship can operate by altering the conditions under which contest
+proceeds. Boundary cases involving ordinary gatekeeping, popularity
+feedback, personalised curation, jurisdiction, moderation, and
+constitutive norms clarify the account’s limits. The resulting framework
+is descriptive rather than justificatory and is intended to preserve
+uncertainty where the available evidence does not establish a
+bypass.</p>">
+  <link rel="stylesheet" href="style.css">
+  
+</head>
+<body>
+  <main class="essay">
+    <header class="essay-header">
+      <h1>Censorship as Shortcut</h1>
+      
+      
+    </header>
+    <section class="abstract"><h2>Abstract</h2><p>Censorship cannot be
+identified with prohibition alone, but expanding the concept to
+encompass any structural constraint on communication risks erasing the
+distinction between censorship and the ordinary organisation of
+communicative practices. This article proposes a demarcational and
+explanatory account: censorship is a shortcut around contest. It occurs
+where participation is controlled in a way that substitutes for,
+prejudges, or forecloses contest over something that would otherwise
+remain open. Contest includes the processes through which credibility,
+legitimacy, admissibility, visibility, recognition, authority, and other
+forms of standing are established, defended, or changed. Participation
+in such processes is practical rather than merely formal: contributions
+must be able to become available, enter, remain, be encountered, be
+faithfully represented, and receive consideration. The account explains
+how exclusion, attenuation, transformation, saturation, self-censorship,
+source control, and computational filtering can exhibit a common
+censorial structure without making each of those phenomena independently
+sufficient for censorship. A developmental sequence of cases—from
+withdrawal after peer review through selective translation, strategic
+distraction, source-base redaction, and algorithmic filtering—shows how
+censorship can operate by altering the conditions under which contest
+proceeds. Boundary cases involving ordinary gatekeeping, popularity
+feedback, personalised curation, jurisdiction, moderation, and
+constitutive norms clarify the account’s limits. The resulting framework
+is descriptive rather than justificatory and is intended to preserve
+uncertainty where the available evidence does not establish a
+bypass.</p></section>
+    <nav id="TOC" class="toc"><h2>Contents</h2><ul>
+<li><a href="#introduction" id="toc-introduction">Introduction</a></li>
+<li><a href="#contest-participation-and-the-shortcut"
+id="toc-contest-participation-and-the-shortcut">Contest, Participation,
+and the Shortcut</a>
+<ul>
+<li><a href="#what-contest-requires" id="toc-what-contest-requires">What
+contest requires</a></li>
+<li><a href="#ordinary-structuring-and-censorial-control"
+id="toc-ordinary-structuring-and-censorial-control">Ordinary structuring
+and censorial control</a></li>
+</ul></li>
+<li><a href="#forms-effects-and-persistence"
+id="toc-forms-effects-and-persistence">Forms, Effects, and
+Persistence</a></li>
+<li><a href="#a-developmental-sequence-of-cases"
+id="toc-a-developmental-sequence-of-cases">A Developmental Sequence of
+Cases</a>
+<ul>
+<li><a href="#scientific-assessment-and-its-circumvention"
+id="toc-scientific-assessment-and-its-circumvention">Scientific
+assessment and its circumvention</a></li>
+<li><a href="#presence-without-faithful-participation"
+id="toc-presence-without-faithful-participation">Presence without
+faithful participation</a></li>
+<li><a href="#saturation-burden-and-displacement"
+id="toc-saturation-burden-and-displacement">Saturation, burden, and
+displacement</a></li>
+<li><a href="#before-speech-and-evidence-enter-contest"
+id="toc-before-speech-and-evidence-enter-contest">Before speech and
+evidence enter contest</a></li>
+<li><a href="#mechanised-participation-ranking-and-recommendation"
+id="toc-mechanised-participation-ranking-and-recommendation">Mechanised
+participation: ranking and recommendation</a></li>
+</ul></li>
+<li><a href="#boundary-contrasts" id="toc-boundary-contrasts">Boundary
+Contrasts</a>
+<ul>
+<li><a href="#jurisdiction-and-venue"
+id="toc-jurisdiction-and-venue">Jurisdiction and venue</a></li>
+<li><a href="#moderation" id="toc-moderation">Moderation</a></li>
+<li><a href="#settled-norms-and-constitutive-structures"
+id="toc-settled-norms-and-constitutive-structures">Settled norms and
+constitutive structures</a></li>
+</ul></li>
+<li><a href="#explanatory-and-evidential-limits"
+id="toc-explanatory-and-evidential-limits">Explanatory and Evidential
+Limits</a></li>
+<li><a href="#conclusion" id="toc-conclusion">Conclusion</a></li>
+</ul></nav>
+    <article class="prose"><h1 id="introduction">Introduction</h1>
+<p>Censorship scholarship has long extended beyond overt prohibition.
+Structural and constitutive constraints, self-censorship, friction,
+flooding, and other indirect forms all complicate any definition
+restricted to explicit bans or removals <span class="citation"
+data-cites="jansen1988 bourdieu1991 butler1998 muller2004 freshwater2004 bunn2015 roberts2018 debaets2026">(Jansen
+1988; Bourdieu 1991; Butler 1998; Müller 2004; Freshwater 2004; Bunn
+2015; Roberts 2018; De Baets 2026)</span>. Bourdieu’s account, for
+example, shows how the structure of a field may govern both access to
+expression and the forms expression can take <span class="citation"
+data-cites="bourdieu1991">(Bourdieu 1991)</span>. Yet conceptual breadth
+creates a demarcation problem. As <span class="citation"
+data-cites="moore2013">Moore (2013)</span> observes, sufficiently
+expansive structural accounts can make the ordinary conditions under
+which communication occurs difficult to distinguish from censorship.
+Every communicative practice restricts and structures possibility in
+some way. Restriction or structuring alone therefore cannot classify a
+relation as censorial.</p>
+<p>A second line of work suggests how this problem might be addressed.
+<span class="citation" data-cites="steward2014">Steward (2014)</span>
+argues that censorship can foreclose or frustrate inquiry, with the
+result that apparent consensus may reflect a short-circuit of inquiry
+rather than successful contestation. <span class="citation"
+data-cites="atkinson1994">Atkinson (1994)</span> identifies a related
+structure in scientific gatekeeping, while <span class="citation"
+data-cites="bachrachbaratz1962 bachrachbaratz1963">Bachrach and Baratz
+(1962, 1963)</span> show more generally how outcomes may be produced
+upstream by limiting what reaches decision. This article generalises the
+relevant object from <em>inquiry</em> to <em>contest</em>. Contest
+comprises the processes through which practical questions of
+credibility, legitimacy, admissibility, visibility, recognition,
+authority, and other forms of standing are established, defended, or
+changed. It need not consist in propositional argument. Representation,
+artistic expression, self-presentation, the allocation of attention, and
+challenges to standing may all participate in contest.</p>
+<p>The emphasis on participation also draws on democratic theory,
+content-moderation research, and theories of free speech and silencing.
+Work on contestability understands practical openness to challenge as a
+feature of democratic and governance arrangements <span class="citation"
+data-cites="girard2015 trantidis2017 vaccaro2021">(Girard 2015;
+Trantidis 2017; Vaccaro et al. 2021)</span>. Relational accounts of free
+speech, illocutionary and testimonial silencing, and theories of
+inclusion similarly demonstrate that formal permission to speak is not
+equivalent to effective participation <span class="citation"
+data-cites="bonottiseglow2022 bishopforthcoming hornsbylangton1998 dotson2011 young2000 bejan2020 aikincasey2023">(Bonotti
+and Seglow 2022; Bishop forthcoming; Hornsby and Langton 1998; Dotson
+2011; Young 2000; Bejan 2020; Aikin and Casey 2023)</span>. <span
+class="citation" data-cites="anttiladominguezarmas2025">Anttila and
+Domínguez-Armas (2025)</span> provide a particularly close
+participation-side antecedent through their analysis of argumentative
+exclusion. The present account differs in two respects. The relevant
+contribution need not be an argument, or even realised speech, and
+impaired participation is not sufficient for censorship. The further
+question is whether participation has been controlled so as to bypass
+the contest through which the matter would otherwise be worked out.</p>
+<p>Algorithmic and infrastructural research moves the same problem
+upstream. <span class="citation" data-cites="cobbe2021">Cobbe
+(2021)</span> emphasises the reach, interventionist capacity, private
+ordering, and structural power involved in algorithmic censorship, while
+<span class="citation" data-cites="elkinkoren2020">Elkin-Koren
+(2020)</span> develops contestation as a governance response to
+artificial-intelligence filtering. <span class="citation"
+data-cites="xinzhengni2026">Xin, Zheng, and Ni (2026)</span> describe
+“discursive preclusion”: infrastructural conditions shape what becomes
+visible or expressible before post-hoc moderation occurs. Their account
+is a particularly close upstream neighbour to the present proposal.
+Where proprietary mechanisms cannot be observed directly, however, the
+causal account remains diagnostic. Neither implementation nor timing nor
+opacity establishes by itself that contest has been bypassed.</p>
+<p>The account developed here consequently occupies a middle position
+between theories centred on overt censorial acts and theories on which
+constitutive constraint readily becomes censorship <span
+class="citation"
+data-cites="bourdieu1991 butler1998 moore2013">(Bourdieu 1991; Butler
+1998; Moore 2013)</span>. Its core proposal is that <em>censorship is a
+shortcut around contest: it occurs where participation is controlled in
+a way that substitutes for, prejudges, or forecloses contest over
+something that would otherwise remain open</em>. Structural conditions
+may therefore be censorial, but not every condition that shapes
+communication is censorship.</p>
+<p>This proposal is explanatory and demarcational. It is not novel
+merely in recognising structural censorship or in suggesting that
+censorship can foreclose inquiry; both ideas have clear antecedents. Its
+contribution lies in the account developed from those insights and in
+the explanatory compression the account provides. A single relation can
+illuminate overt, indirect, distributed, representational,
+self-censoring, upstream, and mechanised phenomena while preserving
+meaningful distinctions between censorship and ordinary criticism,
+selection, ranking, editing, moderation, organisation, and error. The
+inquiry is descriptive before it is evaluative. Identifying censorial
+structure does not determine whether an intervention is justified,
+beneficial, harmful, proportionate, lawful, necessary, professionally
+appropriate, or legitimate.</p>
+<h1 id="contest-participation-and-the-shortcut">Contest, Participation,
+and the Shortcut</h1>
+<h2 id="what-contest-requires">What contest requires</h2>
+<p>Contest is the process through which the matter at issue is
+established, defended, or changed by means of reasons, evidence,
+interpretation, criticism, representation, comparison, response, or
+challenges to standing and admissibility. The matter at issue must be
+specified in terms appropriate to the case. It may concern scientific
+credibility, political legitimacy, public visibility, historical
+interpretation, admissibility, or some other form of standing. Without
+such specification, it is impossible to determine whether an
+intervention has displaced contest or has simply constituted one of its
+ordinary operations.</p>
+<p>Participation in contest is practical rather than merely formal.
+Depending on the relevant process, a contribution may need to become
+available, enter the contest, remain available, be encountered, be
+represented faithfully, and receive consideration. Control may
+accordingly operate before any present act of speech or debate,
+including through the sources from which later contest proceeds <span
+class="citation" data-cites="debaets2026 tiffert2019">(De Baets 2026;
+Tiffert 2019)</span>. The object of control need not be an utterance
+already made.</p>
+<p>The account can also encompass unrealised expression or absent
+records, but only under a constraint. An established practice, process,
+or duty must make clear what would otherwise have been available. A
+merely imaginable absence does not establish a contribution whose
+participation has been controlled. Correspondingly, what would otherwise
+have remained open to contest must be identifiable independently of the
+disputed interference. If the relevant openness can be described only by
+already classifying the interference as censorial, the account becomes
+circular.</p>
+<p>These requirements distinguish the proposal from a general theory of
+social control or communicative opportunity. Contest may be shaped by
+power, convention, resources, institutional design, and inherited
+classification without every such influence becoming censorship. The
+account asks a narrower question: whether control of participation has
+taken over something that would otherwise have remained for contest to
+establish, defend, or change.</p>
+<h2 id="ordinary-structuring-and-censorial-control">Ordinary structuring
+and censorial control</h2>
+<p>All practical contests organise participation. They operate through
+remits, formats, evidential standards, rules of conduct, selection,
+ranking, jurisdiction, scarcity, and burdens of compliance. Restriction,
+burden, exclusion, unequal treatment, and dependence of outcomes on
+institutional design therefore cannot by themselves distinguish
+censorship from ordinary organisation. A journal rejects submissions; a
+court excludes inadmissible evidence; a forum imposes conduct rules; a
+search system ranks results. The mere fact that these operations alter
+participation does not determine whether they are censorial.</p>
+<p>The central distinction is functional. A rule, decision, or practice
+may apply grounds relevant to the matter being contested, even where
+doing so excludes or defeats a contribution. It becomes a shortcut when
+control of participation prevents those grounds from operating on the
+contribution, or permits them to operate only on a substituted or
+materially altered version of it <span class="citation"
+data-cites="casadevallfang2009 dormandygrimley2024 hauswald2026">(Casadevall
+and Fang 2009; Dormandy and Grimley 2024; Hauswald 2026)</span>. The
+contrast is not between selection and non-selection. It is between an
+operation within the relevant contest and an intervention that takes
+over work that the contest would otherwise have to perform.</p>
+<p>The same intervention can therefore be ordinary with respect to one
+question while shortcutting another. A rule limiting a journal’s
+disciplinary scope may determine whether a submission fits that journal
+without determining the submission’s broader scientific credibility. If
+control over the relevant venues prevents a claim from reaching serious
+scientific assessment at all, however, the same vocabulary of scope or
+venue may conceal a different functional relation. Jurisdiction and
+relocation are thus neither intrinsically censorial nor intrinsically
+non-censorial <span class="citation"
+data-cites="pralle2003 gieryn1983">(Pralle 2003; Gieryn 1983)</span>.
+Their classification depends on what the relevant forum is deciding and
+whether control of that forum displaces a question that should otherwise
+remain substantively open.</p>
+<p>The interference must bear on the contribution because of its
+relation to the matter at issue. That relation may run through the
+speaker, source, topic, position, or channel. Pairwise differential
+treatment is not required, nor is censorial intent. A shortcut may be
+explicit or emergent, individual or distributed, active or produced
+through selective non-action. It may succeed or fail. These variations
+concern how the relation is produced, not its underlying structure.</p>
+<p>Nor must one condition perform the shortcut alone. Several ordinary
+conditions may combine so that their joint operation takes over
+something that would otherwise remain to contest. Yet accumulation is
+not sufficient. A collection of restrictions, burdens, or inequalities
+becomes censorial on this account only where the combined operation
+produces the relevant bypass.</p>
+<p>The evidential burden follows from this functional analysis. Evidence
+must support the alleged bypass rather than merely identify an unwanted
+outcome. Administrative labels such as scope, relevance, quality,
+safety, conduct, or compliance do not settle what an operation is doing.
+Conversely, correlation and aggregate disparity do not alone establish
+censorship. Reasons actually given, process evidence, temporal changes,
+appropriate comparators, appeal routes, and the availability of
+alternative forums may help to identify the relation. In some cases they
+will not resolve it, and classification should remain empirically
+underdetermined.</p>
+<h1 id="forms-effects-and-persistence">Forms, Effects, and
+Persistence</h1>
+<p>Familiar censorship vocabulary remains useful so long as it is
+treated descriptively rather than as a set of independent criteria.
+<em>Exclusion</em> blocks or removes a contribution.
+<em>Attenuation</em> leaves it present but makes it harder to encounter
+or sustain. <em>Transformation</em> changes the version through which it
+participates. <em>Saturation</em> changes its surroundings through
+burden or displacement <span class="citation"
+data-cites="debaets2026 tiffert2019 roberts2018 gillespie2022 howardkira2026 zheng2024 kingpanroberts2017">(De
+Baets 2026; Tiffert 2019; Roberts 2018; Gillespie 2022; Howard and Kira
+2026; Zheng 2025; King, Pan, and Roberts 2017)</span>. These terms
+describe operations or effects. None establishes censorship without the
+further shortcut relation.</p>
+<p>The same point applies to self-censorship and chilling. They are
+responses to surrounding conditions, not separate criteria for
+censorship. Expected criticism, embarrassment, disagreement, or rebuttal
+may rationally discourage speech while remaining part of ordinary
+contest. If the surrounding conditions themselves shortcut contest,
+however, people may respond by withholding expression or changing what
+they say. The relevant effect need not be silence <span class="citation"
+data-cites="penney2022 dotson2011 weeks2024 yuenlee2025 kuran1995 wangmayer2023">(Penney
+2022; Dotson 2011; Weeks, Halversen, and Neubaum 2024; Yuen and Lee
+2025; Kuran 1995; Wang and Mayer 2023)</span>.</p>
+<p>Censorial relations may persist through formal rules,
+classifications, rankings, routines, infrastructure, expectations, or
+norms. Persistence, institutionalisation, and historical origin do not
+create distinct types of censorship <span class="citation"
+data-cites="yuenlee2025 foucault1977 bowkerstar1999 star1999">(Yuen and
+Lee 2025; Foucault 1977; Bowker and Star 1999; Star 1999)</span>. They
+identify possible vehicles through which participation is controlled.
+Whether they are censorial still depends on whether they settle,
+prejudge, or foreclose something that would otherwise remain open to
+contest.</p>
+<p>The following cases develop this argument in sequence. They are not a
+checklist of necessary instances. The sequence moves from a direct
+departure from an identifiable contest toward increasingly indirect
+changes in the conditions under which contest occurs. It successively
+removes assumptions that censorship must involve exclusion, alteration
+of the contribution itself, or speech already present in a current
+contest, and then asks whether mechanisation changes the underlying
+relation or chiefly its scale and implementation. The cases are
+deliberately asymmetric. Selective translation, source-base redaction,
+and explicit political search filtering provide the strongest positive
+applications. Withdrawal isolates the circumvention of scholarly
+assessment; saturation develops burden and displacement;
+self-censorship, popularity feedback, personalised curation,
+jurisdiction, moderation, and constitutive norms test either conceptual
+boundaries or evidential insufficiency.</p>
+<h1 id="a-developmental-sequence-of-cases">A Developmental Sequence of
+Cases</h1>
+<h2 id="scientific-assessment-and-its-circumvention">Scientific
+assessment and its circumvention</h2>
+<p>Scientific evaluation supplies a useful opening contrast because
+exclusion can occur through scientific assessment or around it. The
+retractions associated with Hendrik Schön followed investigation into
+the validity of reported measurements <span class="citation"
+data-cites="beasley2002 schoen2003retraction">(Beasley et al. 2002;
+Schön, Meng, and Bao 2003)</span>. Measurement validity bears directly
+on the scientific standing of the claims. The papers’ status therefore
+changed through the application of scientific grounds rather than
+through a bypass of scientific evaluation. Exclusion was the outcome,
+but exclusion alone does not make the process censorship <span
+class="citation" data-cites="casadevallfang2009">(Casadevall and Fang
+2009)</span>.</p>
+<p>The peer-review and gatekeeping literature makes the distinction
+explicit. Rejecting a paper after relevant scientific reasons have been
+applied against it can remain an operation within scientific contest,
+notwithstanding the resulting exclusion. A rule of journal scope can
+likewise allocate venue without deciding the larger question of
+scientific credibility. Gatekeeping becomes structurally different where
+it prevents theories, objections, or evidence from receiving serious
+consideration for reasons that control participation instead of engaging
+the relevant scientific merits <span class="citation"
+data-cites="atkinson1994 casadevallfang2009 dormandygrimley2024 hauswald2026">(Atkinson
+1994; Casadevall and Fang 2009; Dormandy and Grimley 2024; Hauswald
+2026)</span>.</p>
+<p>The withdrawal of Bruce Gilley’s “The Case for Colonialism” isolates
+this difference. The article passed double-blind peer review and was
+subsequently withdrawn after serious or credible threats to the editor
+<span class="citation"
+data-cites="gilley2017 taylorfrancis2017withdrawal">(Gilley 2017; Taylor
+&amp; Francis 2017)</span>. Whatever the article’s scholarly merits, the
+threat did not engage them. It determined the article’s continued
+availability after scholarly evaluation had occurred. The case therefore
+exemplifies circumvention without implying that peer review is
+non-selective or free of gatekeeping. The relevant distinction is
+between assessment on scientific grounds and control that determines
+participation without applying those grounds.</p>
+<h2 id="presence-without-faithful-participation">Presence without
+faithful participation</h2>
+<p>Translation removes the assumption that censorship requires
+exclusion. A source may remain available while participating through a
+materially altered representation. The conceptual difficulty is to
+distinguish censorial alteration from the selection and transformation
+unavoidable in translation itself.</p>
+<p>Translation Studies has addressed this demarcation problem directly.
+The 2012 <em>Translation Studies</em> Forum asks whether broad,
+constitutive conceptions of censorship risk collapsing translation’s
+unavoidable selectivity and transformation into censorship <span
+class="citation" data-cites="baermullerstpierreocuilleanain2012">(Baer
+et al. 2012)</span>. <span class="citation"
+data-cites="karoubi2025">Karoubi (2025)</span> similarly argues that
+constitutive theories can make exclusion and control indiscriminately
+censorial and proposes a Bourdieusian field account to disambiguate
+censorship in translation. The shortcut account shares this
+demarcational aim but locates the boundary differently. Transformation
+as such is not censorship. The relevant question is whether selective
+intervention changes what a source can contribute before readers are
+able to engage it.</p>
+<p><span class="citation" data-cites="zheng2024">Zheng (2025)</span>
+reports both ordinary corrections and directional political revisions in
+Chinese translations concerning relations between the European Union and
+Russia. Criticism of Russia was generally softened, while negative
+evaluation of the European Union was strengthened. The asymmetry is
+important because it differentiates the operation from transformation
+understood merely as an unavoidable feature of translation.</p>
+<p>The translated source remains present and is represented as bearing
+on readers’ judgments concerning legitimacy and blame in relation to
+Russia and the European Union. Politically selective revision
+nevertheless changes what that source can contribute before readers
+encounter and assess its presented position. The source participates
+only through a substituted version whose directional alterations have
+already prejudged part of the relevant assessment. This claim is local
+to the represented contribution. It does not require the stronger
+conclusion that the translations determined the wider downstream
+standing of Russia or the European Union.</p>
+<h2 id="saturation-burden-and-displacement">Saturation, burden, and
+displacement</h2>
+<p>Saturation shows that a shortcut can act on the surroundings of
+contest without removing or modifying the contribution. It may operate
+through burden or displacement. Burden makes filtering, checking,
+answering, or recovering the matter at issue costly without resolving
+it. Displacement redirects attention and response toward another
+matter.</p>
+<p>Legal discovery provides an analogy for the burden structure.
+Scholarship and case law describe burdensome requests and productions as
+strategic means of imposing costs, including productions in which
+responsive material is submerged among irrelevant documents <span
+class="citation" data-cites="sharpe2009 arbor2016">(Sharpe 2009;
+<span>“<span class="nocase">Arbor Realty Funding, LLC v. Herrick,
+Feinstein LLP</span>”</span> 2016)</span>. The relevant operation need
+not refute, remove, or alter the responsive material. It can instead
+make practical recovery and assessment costly by transforming the
+conditions in which that material must be found.</p>
+<p>Counter-speech provides the limiting contrast. Even overwhelming
+rebuttal may remain part of contest where the resulting difficulty
+arises from substantive engagement with the matter at issue. Volume is
+not itself a shortcut. Saturation becomes censorially relevant when
+surrounding burdens or distractions substitute for engagement rather
+than intensify it.</p>
+<p><span class="citation" data-cites="kingpanroberts2017">King, Pan, and
+Roberts (2017)</span> estimate that the Chinese government fabricates
+roughly 448 million social-media comments each year. They find that the
+operation largely avoids arguing with critics and infer a strategy of
+distraction around collective-action discussions and events. The
+evidence strongly supports a strategy fitted to displacement: rather
+than defeating criticism through engaged response, the operation
+redirects attention around matters associated with collective action. It
+does not, however, prove that every deployment successfully displaced
+practical attention. The distinction between a strategy adapted to a
+shortcut and evidence of its success should therefore remain visible
+<span class="citation" data-cites="roberts2018">(Roberts
+2018)</span>.</p>
+<h2 id="before-speech-and-evidence-enter-contest">Before speech and
+evidence enter contest</h2>
+<p>The next set of cases removes the assumption that a contribution must
+already be present in a current contest. Anticipated criticism,
+embarrassment, disagreement, or rebuttal can discourage or alter
+expression while remaining ordinary features of contest. Self-censorship
+becomes relevant to the shortcut account only where surrounding
+conditions themselves bypass contest and thereby induce people to
+withhold or reshape a contribution before the matter can be
+contested.</p>
+<p>This formulation also avoids equating self-censorship with silence.
+Dotson’s account of testimonial smothering and Penney’s analysis of
+chilling as conformity show why speakers may modify expression rather
+than cease speaking altogether <span class="citation"
+data-cites="dotson2011 penney2022">(Dotson 2011; Penney 2022)</span>.
+Preference falsification supplies a related background for understanding
+altered public expression <span class="citation"
+data-cites="kuran1995">(Kuran 1995)</span>. What matters here is not the
+behavioural form alone, but the structure of the conditions to which the
+behaviour responds.</p>
+<p><span class="citation" data-cites="wangmayer2023">Wang and Mayer
+(2023)</span> report increased deletion or account restriction and
+reduced politically sensitive posting around Hong Kong’s National
+Security Law. Their evidence supports a population-level response to the
+legal environment. It does not establish every individual’s motive, nor
+does it make every decision not to post a distinct instance of
+censorship. Research on fear of social sanctions, social influence, and
+preference falsification further explains why behavioural responses can
+be heterogeneous and why the observation of reduced expression does not
+by itself identify the causal structure of each case <span
+class="citation" data-cites="weeks2024 yuenlee2025 kuran1995">(Weeks,
+Halversen, and Neubaum 2024; Yuen and Lee 2025; Kuran 1995)</span>.</p>
+<p>Upstream control need not act on a speaker at all. It may act on the
+records from which subsequent inquiry proceeds. <span class="citation"
+data-cites="tiffert2019">Tiffert (2019)</span> documents stealth
+redaction of Chinese digital historical databases and reverse-engineers
+a politically sanitising pattern of removal. Records capable of bearing
+on historical claims are selectively removed before scholars can contest
+their credibility or significance. This is a stronger source-base case
+because the evidence reaches the intervention rather than merely
+establishing a downstream absence <span class="citation"
+data-cites="debaets2026">(De Baets 2026)</span>. The missing records are
+not merely imaginable contributions; their prior availability and
+patterned removal identify what would otherwise have been available for
+historical contest.</p>
+<h2 id="mechanised-participation-ranking-and-recommendation">Mechanised
+participation: ranking and recommendation</h2>
+<p>Computational mediation may alter the scale, speed, persistence,
+opacity, personalisation, reach, and interventionist capacity of control
+without changing the criterion by which it becomes censorship <span
+class="citation" data-cites="cobbe2021 elkinkoren2020">(Cobbe 2021;
+Elkin-Koren 2020)</span>. A position in a ranking is not automatically
+the larger matter at issue. The question is whether software controls
+what may participate in broader contests over visibility, salience,
+credibility, authority, or another form of standing.</p>
+<p>Explicit political filtering provides the strongest positive
+mechanised case. <span class="citation"
+data-cites="knockelkatodirks2023">Knockel, Kato, and Dirks (2023)</span>
+identify more than 60,000 censorship rules across eight search platforms
+accessible in China. These include hard censorship, which returns no
+results, and soft censorship, which restricts results to selected or
+authorised sources. Query-sensitive political and religious rules
+determine source eligibility before retrieval and ranking. Disallowed
+sources therefore cannot bear on public encounter with the issue. The
+mechanism controls participation upstream rather than merely assigning
+comparative rank among eligible results.</p>
+<p>Ambient popularity feedback illustrates why algorithmic inequality is
+insufficient. <span class="citation" data-cites="choroy2004">Cho and Roy
+(2004)</span> show that popularity-first ranking can reinforce existing
+popularity and delay discovery of new pages. <span class="citation"
+data-cites="intronanissenbaum2000">Introna and Nissenbaum (2000)</span>
+identify systematic patterns of prominence and exclusion that may arise
+either by design or accidentally. Existing prominence may thus feed into
+future visibility without censorial intent. Yet unequal attention is not
+censorship simply because it is unequal. Unless the feedback can be
+shown to take over something that would otherwise remain open in a
+relevant contest, it establishes structured visibility rather than a
+censorial shortcut.</p>
+<p>Personalised curation supplies a second boundary case. <span
+class="citation" data-cites="gonzalezbailon2023">González-Bailón et al.
+(2023)</span> show that Facebook’s computational curation materially
+changed the ideological composition of political news actually
+encountered relative to what was potentially available. This finding
+establishes that computational systems structure the informational
+arena. It does not by itself establish censorship, downstream belief
+change, or the bypass of a specified contest. A change in exposure is
+evidence requiring analysis, not a self-classifying censorial
+outcome.</p>
+<p>The concept of discursive preclusion sharpens this evidential limit.
+<span class="citation" data-cites="xinzhengni2026">Xin, Zheng, and Ni
+(2026)</span> find strong political–non-political and cross-platform
+differences in visible discourse and use them to diagnose
+infrastructural structuring. Where proprietary filtering mechanisms
+remain unobserved, however, the mechanism producing those patterns
+remains underdetermined. Mechanisation may make control of participation
+exceptionally powerful while still failing to make every mediated
+outcome censorship. The shortcut account therefore neither excludes
+infrastructural cases nor treats opacity, scale, or timing as
+sufficient.</p>
+<h1 id="boundary-contrasts">Boundary Contrasts</h1>
+<h2 id="jurisdiction-and-venue">Jurisdiction and venue</h2>
+<p>Arena choice can change strategic prospects without shortcutting
+contest. At the same time, institutional boundaries may be actively
+drawn to allocate membership, authority, or resources <span
+class="citation" data-cites="pralle2003 gieryn1983">(Pralle 2003; Gieryn
+1983)</span>. Relocation accordingly establishes neither censorship nor
+its absence. The question is whether control of the forum itself takes
+over something that would otherwise remain for substantive contest.</p>
+<p>This distinction follows the earlier contrast between journal fit and
+scientific credibility. Moving a claim from one venue to another may
+leave the relevant assessment available elsewhere. Alternatively,
+control over the set of viable venues may prevent the claim from
+entering any process capable of assessing the standing at issue. The
+formal description of both operations as jurisdictional does not resolve
+their function.</p>
+<h2 id="moderation">Moderation</h2>
+<p>Moderation demonstrates how one intervention may legitimately decide
+one question while shortcutting another. A conduct rule may settle what
+behaviour a forum permits. The same intervention may also control
+whether a position can participate in a distinct contest over public
+credibility or legitimacy. Classification therefore requires specifying
+the relation being analysed rather than deciding whether moderation is
+censorial in the abstract.</p>
+<p>For example, the finding that Reddit’s 2015 bans reduced hate speech
+establishes an effect of the bans <span class="citation"
+data-cites="chandrasekharan2017">(Chandrasekharan et al. 2017)</span>.
+It does not by itself determine which contest, if any, was bypassed, nor
+whether the relevant moderation relation should be classified as
+censorial. Work on reduction and demotion similarly shows that
+moderation extends beyond removal, but the descriptive form of the
+intervention does not settle its conceptual status <span
+class="citation" data-cites="gillespie2022 howardkira2026">(Gillespie
+2022; Howard and Kira 2026)</span>.</p>
+<h2 id="settled-norms-and-constitutive-structures">Settled norms and
+constitutive structures</h2>
+<p>Stigma, convention, coordination, civility, professional norms, and
+constitutive constraints may all shape participation without being
+censorship. Studies of identity concealment in professional and
+workplace settings, for example, document the importance of ambient
+social conditions for disclosure and participation <span
+class="citation" data-cites="beagan2022 holman2022">(Beagan et al. 2022;
+Holman, Ogolsky, and Oswald 2022)</span>. Such pressure may be socially
+consequential without satisfying the present classification.</p>
+<p>Structural and constitutive theories explain why ambient conditions
+cannot simply be ignored <span class="citation"
+data-cites="bourdieu1991 butler1998 foucault1977 bowkerstar1999 star1999">(Bourdieu
+1991; Butler 1998; Foucault 1977; Bowker and Star 1999; Star
+1999)</span>. The demarcational concern is that treating every
+constitutive influence as censorship deprives the category of contrast
+<span class="citation" data-cites="moore2013">(Moore 2013)</span>.
+Ambient pressure is therefore evidence to analyse, not a censorship
+label. Where the matter bypassed and the operation by which surrounding
+conditions performed that work cannot be identified, the effect remains
+outside the present classification even if its social importance is
+substantial.</p>
+<h1 id="explanatory-and-evidential-limits">Explanatory and Evidential
+Limits</h1>
+<p>The shortcut account is not a universal decision procedure, nor does
+it yield a quantitative score of censoriality. Counterfactuals,
+comparators, process traces, and related probes may aid explanation, but
+they are not individually necessary or sufficient tests. Their role is
+to support an account of how participation was controlled and what that
+control displaced.</p>
+<p>Hard cases are to be expected. The practices that set the terms of
+participation may be entangled with the contest itself, making it
+difficult to separate an operation within contest from an intervention
+around it. In other cases, available evidence may establish an outcome
+without establishing the process that produced it. The appropriate
+response is to locate the uncertainty rather than force a binary
+classification. This is particularly important in algorithmic and
+infrastructural settings, where visible disparities may coexist with
+limited access to the underlying mechanisms.</p>
+<p>The possibility of system-level censorship introduces a further
+complication. Interacting conditions may jointly produce a shortcut even
+though no component is independently censorial. This possibility does
+not make accumulation sufficient. The analysis must still show how the
+combined conditions take over something that would otherwise remain open
+to contest.</p>
+<p>The level at which the shortcut occurs also need not correspond to
+the level at which downstream discourse is measured. Compensation,
+resistance, amplification, or backfire may coexist with locally reduced
+participation <span class="citation" data-cites="simpson2024">(Simpson
+2024)</span>. A shortcut at one point in a communicative process is not
+disproved merely because effects measured at another level are muted or
+reversed. Conversely, a downstream disparity does not establish where,
+or whether, a shortcut occurred.</p>
+<p>These limits reinforce the descriptive priority of the account.
+Identifying control of participation as a shortcut does not settle its
+lawfulness, ethical status, proportionality, necessity, professional
+appropriateness, or legitimacy. Nor does failure to classify a practice
+as censorship vindicate it. The framework is confined to identifying
+censorial structure and should not be treated as a general theory of
+morality, political legitimacy, propaganda, persuasion, or social
+control.</p>
+<h1 id="conclusion">Conclusion</h1>
+<p>Censorship can be understood as a shortcut around contest. It occurs
+where participation is controlled in a way that substitutes for,
+prejudges, or forecloses a process through which credibility,
+legitimacy, admissibility, visibility, recognition, authority, or
+another form of standing would otherwise remain open to establishment,
+defence, or change. This formulation explains a common structure across
+overt, indirect, distributed, representational, self-censoring,
+upstream, and mechanised phenomena without classifying all constrained
+communication as censorial.</p>
+<p>The central distinction is between what happens within contest and
+interventions that take over something the contest would otherwise have
+to do. Scientific rejection based on relevant evidential grounds can
+remain part of scientific contest, while threats that determine an
+article’s continued availability may circumvent that assessment. A
+translation can remain present while participating through a politically
+altered representation. Saturation may displace attention without
+modifying the contribution itself. Chilling conditions may reshape
+expression before it occurs, and source-base redaction may determine the
+evidential materials from which later inquiry begins. Explicit political
+search filtering can reproduce the same shortcut through mechanised
+control of source eligibility. Yet unequal visibility, personalised
+curation, moderation, venue selection, and constitutive norms do not
+become censorship merely because they structure participation.</p>
+<p>Exclusion, attenuation, transformation, saturation, self-censorship,
+source control, and computational filtering are therefore neither rival
+theories nor independent criteria. They are forms and effects whose
+censorial significance depends on their relation to contest. The
+resulting explanatory compression makes difficult cases comparable
+without making them identical. It also preserves uncertainty where
+evidence identifies an outcome or a structured environment but does not
+establish a bypass. The account should consequently be assessed by
+whether it clarifies more cases with less conceptual machinery, not by
+whether it eliminates every boundary dispute or closes every possible
+objection.</p>
+<div id="refs" class="references csl-bib-body hanging-indent"
+role="list">
+<div id="ref-aikincasey2023" class="csl-entry" role="listitem">
+Aikin, Scott F., and John Casey. 2023. <span>“Free Speech Fallacies as
+Meta-Argumentative Errors.”</span> <em>Argumentation</em> 37 (2):
+295–305. <a
+href="https://doi.org/10.1007/s10503-023-09601-0">https://doi.org/10.1007/s10503-023-09601-0</a>.
+</div>
+<div id="ref-anttiladominguezarmas2025" class="csl-entry"
+role="listitem">
+Anttila, Solmu, and Álvaro Domínguez-Armas. 2025. <span>“Argumentative
+Exclusion and the Case of Online Hate Speech.”</span> <em>Topoi</em> 44
+(3): 695–705. <a
+href="https://doi.org/10.1007/s11245-025-10165-9">https://doi.org/10.1007/s11245-025-10165-9</a>.
+</div>
+<div id="ref-arbor2016" class="csl-entry" role="listitem">
+<span>“<span class="nocase">Arbor Realty Funding, LLC v. Herrick,
+Feinstein LLP</span>.”</span> 2016. <a
+href="https://law.justia.com/cases/new-york/appellate-division-first-department/2016/2543-651079-11-601122-12-651623-11.html">https://law.justia.com/cases/new-york/appellate-division-first-department/2016/2543-651079-11-601122-12-651623-11.html</a>.
+</div>
+<div id="ref-atkinson1994" class="csl-entry" role="listitem">
+Atkinson, Malcolm. 1994. <span>“Regulation of Science by <span>‘Peer
+Review’</span>.”</span> <em>Studies in History and Philosophy of Science
+Part A</em> 25 (2): 147–58. <a
+href="https://doi.org/10.1016/0039-3681(94)90025-6">https://doi.org/10.1016/0039-3681(94)90025-6</a>.
+</div>
+<div id="ref-bachrachbaratz1962" class="csl-entry" role="listitem">
+Bachrach, Peter, and Morton S. Baratz. 1962. <span>“Two Faces of
+Power.”</span> <em>American Political Science Review</em> 56 (4):
+947–52. <a
+href="https://doi.org/10.2307/1952796">https://doi.org/10.2307/1952796</a>.
+</div>
+<div id="ref-bachrachbaratz1963" class="csl-entry" role="listitem">
+———. 1963. <span>“Decisions and Nondecisions: An Analytical
+Framework.”</span> <em>American Political Science Review</em> 57 (3):
+632–42. <a
+href="https://doi.org/10.2307/1952568">https://doi.org/10.2307/1952568</a>.
+</div>
+<div id="ref-baermullerstpierreocuilleanain2012" class="csl-entry"
+role="listitem">
+Baer, Brian James, Beate Müller, Paul St-Pierre, and Cormac Ó
+Cuilleanáin. 2012. <span>“Translation Studies Forum: Translation and
+Censorship.”</span> <em>Translation Studies</em> 5 (1): 95–110. <a
+href="https://doi.org/10.1080/14781700.2012.628819">https://doi.org/10.1080/14781700.2012.628819</a>.
+</div>
+<div id="ref-beagan2022" class="csl-entry" role="listitem">
+Beagan, Brenda L., Stephanie R. Bizzeth, Tara M. Pride, and Kaitlin R.
+Sibbald. 2022. <span>“<span>LGBTQ+</span> Identity Concealment and
+Disclosure Within the (Heteronormative) Health Professions: <span>‘Do i?
+Do i Not? And What Are the Potential Consequences?’</span>”</span>
+<em>SSM - Qualitative Research in Health</em> 2: 100114. <a
+href="https://doi.org/10.1016/j.ssmqr.2022.100114">https://doi.org/10.1016/j.ssmqr.2022.100114</a>.
+</div>
+<div id="ref-beasley2002" class="csl-entry" role="listitem">
+Beasley, Malcolm R., Supriyo Datta, Herwig Kogelnik, Herbert Kroemer,
+and Don Monroe. 2002. <span>“Report of the Investigation Committee on
+the Possibility of Scientific Misconduct in the Work of Hendrik Schön
+and Coauthors.”</span> Bell Laboratories, Lucent Technologies. <a
+href="https://doi.org/10.1103/APS.Reports.Lucent">https://doi.org/10.1103/APS.Reports.Lucent</a>.
+</div>
+<div id="ref-bejan2020" class="csl-entry" role="listitem">
+Bejan, Teresa M. 2020. <span>“Free Expression or Equal Speech?”</span>
+<em>Social Philosophy and Policy</em> 37 (2): 153–69. <a
+href="https://doi.org/10.1017/S0265052521000091">https://doi.org/10.1017/S0265052521000091</a>.
+</div>
+<div id="ref-bishopforthcoming" class="csl-entry" role="listitem">
+Bishop, Sebastien. forthcoming. <span>“Relational Free Speech
+Reconsidered.”</span> <em>The Journal of Ethics</em>, forthcoming. <a
+href="https://philarchive.org/rec/BISRFS">https://philarchive.org/rec/BISRFS</a>.
+</div>
+<div id="ref-bonottiseglow2022" class="csl-entry" role="listitem">
+Bonotti, Matteo, and Jonathan Seglow. 2022. <span>“Freedom of Speech: A
+Relational Defence.”</span> <em>Philosophy &amp; Social Criticism</em>
+48 (4): 515–29. <a
+href="https://doi.org/10.1177/01914537211073782">https://doi.org/10.1177/01914537211073782</a>.
+</div>
+<div id="ref-bourdieu1991" class="csl-entry" role="listitem">
+Bourdieu, Pierre. 1991. <span>“Censorship and the Imposition of
+Form.”</span> In <em>Language and Symbolic Power</em>, edited by John B.
+Thompson, translated by Gino Raymond and Matthew Adamson, 137–59.
+Cambridge, MA: Harvard University Press.
+</div>
+<div id="ref-bowkerstar1999" class="csl-entry" role="listitem">
+Bowker, Geoffrey C., and Susan Leigh Star. 1999. <em>Sorting Things Out:
+Classification and Its Consequences</em>. Cambridge, MA: MIT Press.
+</div>
+<div id="ref-bunn2015" class="csl-entry" role="listitem">
+Bunn, Matthew. 2015. <span>“Reimagining Repression: New Censorship
+Theory and After.”</span> <em>History and Theory</em> 54 (1): 25–44. <a
+href="https://doi.org/10.1111/hith.10739">https://doi.org/10.1111/hith.10739</a>.
+</div>
+<div id="ref-butler1998" class="csl-entry" role="listitem">
+Butler, Judith. 1998. <span>“Ruled Out: Vocabularies of the
+Censor.”</span> In <em>Censorship and Silencing: Practices of Cultural
+Regulation</em>, edited by Robert C. Post, 247–59. Los Angeles: Getty
+Research Institute for the History of Art; the Humanities.
+</div>
+<div id="ref-casadevallfang2009" class="csl-entry" role="listitem">
+Casadevall, Arturo, and Ferric C. Fang. 2009. <span>“Is Peer Review
+Censorship?”</span> <em>Infection and Immunity</em> 77 (4): 1273–74. <a
+href="https://doi.org/10.1128/IAI.00018-09">https://doi.org/10.1128/IAI.00018-09</a>.
+</div>
+<div id="ref-chandrasekharan2017" class="csl-entry" role="listitem">
+Chandrasekharan, Eshwar, Umashanthi Pavalanathan, Anirudh Srinivasan,
+Adam Glynn, Jacob Eisenstein, and Eric Gilbert. 2017. <span>“You Can’t
+Stay Here: The Efficacy of <span>Reddit</span>’s 2015 Ban Examined
+Through Hate Speech.”</span> <em>Proceedings of the ACM on
+Human-Computer Interaction</em> 1 (CSCW): 31:1–22. <a
+href="https://doi.org/10.1145/3134666">https://doi.org/10.1145/3134666</a>.
+</div>
+<div id="ref-choroy2004" class="csl-entry" role="listitem">
+Cho, Junghoo, and Sourashis Roy. 2004. <span>“Impact of Search Engines
+on Page Popularity.”</span> In <em>Proceedings of the 13th International
+Conference on World Wide Web</em>, 20–29. ACM. <a
+href="https://doi.org/10.1145/988672.988676">https://doi.org/10.1145/988672.988676</a>.
+</div>
+<div id="ref-cobbe2021" class="csl-entry" role="listitem">
+Cobbe, Jennifer. 2021. <span>“Algorithmic Censorship by Social
+Platforms: Power and Resistance.”</span> <em>Philosophy &amp;
+Technology</em> 34: 739–66. <a
+href="https://doi.org/10.1007/s13347-020-00429-0">https://doi.org/10.1007/s13347-020-00429-0</a>.
+</div>
+<div id="ref-debaets2026" class="csl-entry" role="listitem">
+De Baets, Antoon. 2026. <em>Censorship of History</em>. Elements in
+Historical Theory and Practice. Cambridge University Press. <a
+href="https://www.cambridge.org/core/elements/censorship-of-history/137D02286268AE71499EF0890C11A043">https://www.cambridge.org/core/elements/censorship-of-history/137D02286268AE71499EF0890C11A043</a>.
+</div>
+<div id="ref-dormandygrimley2024" class="csl-entry" role="listitem">
+Dormandy, Katherine, and Bruce Grimley. 2024. <span>“Gatekeeping in
+Science: Lessons from the Case of Psychology and Neuro-Linguistic
+Programming.”</span> <em>Social Epistemology</em> 38 (3): 392–412. <a
+href="https://doi.org/10.1080/02691728.2024.2326828">https://doi.org/10.1080/02691728.2024.2326828</a>.
+</div>
+<div id="ref-dotson2011" class="csl-entry" role="listitem">
+Dotson, Kristie. 2011. <span>“Tracking Epistemic Violence, Tracking
+Practices of Silencing.”</span> <em>Hypatia</em> 26 (2): 236–57. <a
+href="https://doi.org/10.1111/j.1527-2001.2011.01177.x">https://doi.org/10.1111/j.1527-2001.2011.01177.x</a>.
+</div>
+<div id="ref-elkinkoren2020" class="csl-entry" role="listitem">
+Elkin-Koren, Niva. 2020. <span>“Contesting Algorithms: Restoring the
+Public Interest in Content Filtering by Artificial Intelligence.”</span>
+<em>Big Data &amp; Society</em> 7 (2). <a
+href="https://doi.org/10.1177/2053951720932296">https://doi.org/10.1177/2053951720932296</a>.
+</div>
+<div id="ref-foucault1977" class="csl-entry" role="listitem">
+Foucault, Michel. 1977. <em>Discipline and Punish: The Birth of the
+Prison</em>. Translated by Alan Sheridan. New York: Pantheon Books.
+</div>
+<div id="ref-freshwater2004" class="csl-entry" role="listitem">
+Freshwater, Helen. 2004. <span>“Towards a Redefinition of
+Censorship.”</span> In <em>Censorship &amp; Cultural Regulation in the
+Modern Age</em>, edited by Beate Müller, 22:217–37. Critical Studies.
+Amsterdam; New York: Rodopi. <a
+href="https://doi.org/10.1163/9789401200950_010">https://doi.org/10.1163/9789401200950_010</a>.
+</div>
+<div id="ref-gieryn1983" class="csl-entry" role="listitem">
+Gieryn, Thomas F. 1983. <span>“Boundary-Work and the Demarcation of
+Science from Non-Science: Strains and Interests in Professional
+Ideologies of Scientists.”</span> <em>American Sociological Review</em>
+48 (6): 781–95. <a
+href="https://doi.org/10.2307/2095325">https://doi.org/10.2307/2095325</a>.
+</div>
+<div id="ref-gillespie2022" class="csl-entry" role="listitem">
+Gillespie, Tarleton. 2022. <span>“Do Not Recommend? Reduction as a Form
+of Content Moderation.”</span> <em>Social Media + Society</em> 8 (3). <a
+href="https://doi.org/10.1177/20563051221117552">https://doi.org/10.1177/20563051221117552</a>.
+</div>
+<div id="ref-gilley2017" class="csl-entry" role="listitem">
+Gilley, Bruce. 2017. <span>“The Case for Colonialism.”</span> <em>Third
+World Quarterly</em>. <a
+href="https://doi.org/10.1080/01436597.2017.1369037">https://doi.org/10.1080/01436597.2017.1369037</a>.
+</div>
+<div id="ref-girard2015" class="csl-entry" role="listitem">
+Girard, Charles. 2015. <span>“Making Democratic Contestation Possible:
+Public Deliberation and Mass Media Regulation.”</span> <em>Policy
+Studies</em> 36 (3): 283–97. <a
+href="https://doi.org/10.1080/01442872.2015.1065968">https://doi.org/10.1080/01442872.2015.1065968</a>.
+</div>
+<div id="ref-gonzalezbailon2023" class="csl-entry" role="listitem">
+González-Bailón, Sandra, David Lazer, Pablo Barberá, Meiqing Zhang, Hunt
+Allcott, Taylor Brown, Adriana Crespo-Tenorio, et al. 2023.
+<span>“Asymmetric Ideological Segregation in Exposure to Political News
+on Facebook.”</span> <em>Science</em> 381 (6656): 392–98. <a
+href="https://doi.org/10.1126/science.ade7138">https://doi.org/10.1126/science.ade7138</a>.
+</div>
+<div id="ref-hauswald2026" class="csl-entry" role="listitem">
+Hauswald, Rico. 2026. <span>“Gatekeeping Failures, Degenerative
+Consensus Dynamics, and Undue Deference to Science.”</span>
+<em>Synthese</em> 207. <a
+href="https://doi.org/10.1007/s11229-025-05423-7">https://doi.org/10.1007/s11229-025-05423-7</a>.
+</div>
+<div id="ref-holman2022" class="csl-entry" role="listitem">
+Holman, Elizabeth Grace, Brian G. Ogolsky, and Ramona Faith Oswald.
+2022. <span>“Concealment of a Sexual Minority Identity in the Workplace:
+The Role of Workplace Climate and Identity Centrality.”</span>
+<em>Journal of Homosexuality</em> 69 (9): 1467–84. <a
+href="https://doi.org/10.1080/00918369.2021.1917219">https://doi.org/10.1080/00918369.2021.1917219</a>.
+</div>
+<div id="ref-hornsbylangton1998" class="csl-entry" role="listitem">
+Hornsby, Jennifer, and Rae Langton. 1998. <span>“Free Speech and
+Illocution.”</span> <em>Legal Theory</em> 4 (1): 21–37. <a
+href="https://doi.org/10.1017/S1352325200000902">https://doi.org/10.1017/S1352325200000902</a>.
+</div>
+<div id="ref-howardkira2026" class="csl-entry" role="listitem">
+Howard, Jeffrey W., and Beatriz Kira. 2026. <span>“Remove or Reduce:
+Demotion, Content Moderation, and Human Rights.”</span> <em>Law and
+Philosophy</em> 45 (4): 483–513. <a
+href="https://doi.org/10.1007/s10982-026-09557-8">https://doi.org/10.1007/s10982-026-09557-8</a>.
+</div>
+<div id="ref-intronanissenbaum2000" class="csl-entry" role="listitem">
+Introna, Lucas D., and Helen Nissenbaum. 2000. <span>“Shaping the Web:
+Why the Politics of Search Engines Matters.”</span> <em>The Information
+Society</em> 16 (3): 169–85. <a
+href="https://doi.org/10.1080/01972240050133634">https://doi.org/10.1080/01972240050133634</a>.
+</div>
+<div id="ref-jansen1988" class="csl-entry" role="listitem">
+Jansen, Sue Curry. 1988. <em>Censorship: The Knot That Binds Power and
+Knowledge</em>. New York: Oxford University Press.
+</div>
+<div id="ref-karoubi2025" class="csl-entry" role="listitem">
+Karoubi, Behrouz. 2025. <span>“Rethinking Censorship in Translation: A
+Bourdieusian Field Approach.”</span> <em>Translation Spaces</em> 14 (2):
+171–94. <a
+href="https://doi.org/10.1075/ts.24020.kar">https://doi.org/10.1075/ts.24020.kar</a>.
+</div>
+<div id="ref-kingpanroberts2017" class="csl-entry" role="listitem">
+King, Gary, Jennifer Pan, and Margaret E. Roberts. 2017. <span>“How the
+Chinese Government Fabricates Social Media Posts for Strategic
+Distraction, Not Engaged Argument.”</span> <em>American Political
+Science Review</em> 111 (3): 484–501. <a
+href="https://doi.org/10.1017/S0003055417000144">https://doi.org/10.1017/S0003055417000144</a>.
+</div>
+<div id="ref-knockelkatodirks2023" class="csl-entry" role="listitem">
+Knockel, Jeffrey, Ken Kato, and Emile Dirks. 2023. <span>“Missing Links:
+A Comparison of Search Censorship in China.”</span> Report No. 166.
+Citizen Lab, Munk School of Global Affairs; Public Policy, University of
+Toronto. <a
+href="https://citizenlab.ca/research/a-comparison-of-search-censorship-in-china/">https://citizenlab.ca/research/a-comparison-of-search-censorship-in-china/</a>.
+</div>
+<div id="ref-kuran1995" class="csl-entry" role="listitem">
+Kuran, Timur. 1995. <em>Private Truths, Public Lies: The Social
+Consequences of Preference Falsification</em>. Cambridge, MA: Harvard
+University Press.
+</div>
+<div id="ref-moore2013" class="csl-entry" role="listitem">
+Moore, Nicole. 2013. <span>“Censorship Is.”</span> <em>Australian
+Humanities Review</em>, no. 54: 45–65. <a
+href="https://australianhumanitiesreview.org/2013/05/01/censorship-is/">https://australianhumanitiesreview.org/2013/05/01/censorship-is/</a>.
+</div>
+<div id="ref-muller2004" class="csl-entry" role="listitem">
+Müller, Beate. 2004. <span>“Censorship and Cultural Regulation: Mapping
+the Territory.”</span> In <em>Censorship &amp; Cultural Regulation in
+the Modern Age</em>, edited by Beate Müller, 22:1–31. Critical Studies.
+Amsterdam; New York: Rodopi. <a
+href="https://doi.org/10.1163/9789401200950_001">https://doi.org/10.1163/9789401200950_001</a>.
+</div>
+<div id="ref-penney2022" class="csl-entry" role="listitem">
+Penney, Jonathon W. 2022. <span>“Understanding Chilling Effects.”</span>
+<em>Minnesota Law Review</em> 106 (3): 1451–1530. <a
+href="https://doi.org/10.24926/265535.4359">https://doi.org/10.24926/265535.4359</a>.
+</div>
+<div id="ref-pralle2003" class="csl-entry" role="listitem">
+Pralle, Sarah B. 2003. <span>“Venue Shopping, Political Strategy, and
+Policy Change: The Internationalization of Canadian Forest
+Advocacy.”</span> <em>Journal of Public Policy</em> 23 (3): 233–60. <a
+href="https://doi.org/10.1017/S0143814X03003118">https://doi.org/10.1017/S0143814X03003118</a>.
+</div>
+<div id="ref-roberts2018" class="csl-entry" role="listitem">
+Roberts, Margaret E. 2018. <em>Censored: Distraction and Diversion
+Inside China’s Great Firewall</em>. Princeton, NJ: Princeton University
+Press. <a
+href="https://doi.org/10.2307/j.ctvc77b21">https://doi.org/10.2307/j.ctvc77b21</a>.
+</div>
+<div id="ref-schoen2003retraction" class="csl-entry" role="listitem">
+Schön, Jan Hendrik, Hong Meng, and Zhenan Bao. 2003. <span>“Retraction
+Note to: Self-Assembled Monolayer Organic Field-Effect
+Transistors.”</span> <em>Nature</em> 422: 92. <a
+href="https://doi.org/10.1038/nature01464">https://doi.org/10.1038/nature01464</a>.
+</div>
+<div id="ref-sharpe2009" class="csl-entry" role="listitem">
+Sharpe, Nicola F. 2009. <span>“Corporate Cooperation Through
+Cost-Sharing.”</span> <em>Michigan Telecommunications and Technology Law
+Review</em> 16 (1): 109–49. <a
+href="https://repository.law.umich.edu/mttlr/vol16/iss1/3/">https://repository.law.umich.edu/mttlr/vol16/iss1/3/</a>.
+</div>
+<div id="ref-simpson2024" class="csl-entry" role="listitem">
+Simpson, Robert Mark. 2024. <span>“Self-Censorship: The Chilling Effect
+and the Heating Effect.”</span> <em>Political Philosophy</em> 1 (2):
+344–80. <a
+href="https://doi.org/10.16995/pp.15195">https://doi.org/10.16995/pp.15195</a>.
+</div>
+<div id="ref-star1999" class="csl-entry" role="listitem">
+Star, Susan Leigh. 1999. <span>“The Ethnography of
+Infrastructure.”</span> <em>American Behavioral Scientist</em> 43 (3):
+377–91. <a
+href="https://doi.org/10.1177/00027649921955326">https://doi.org/10.1177/00027649921955326</a>.
+</div>
+<div id="ref-steward2014" class="csl-entry" role="listitem">
+Steward, Daniel John. 2014. <span>“Censorship-Sensors in Civil
+Society.”</span> PhD dissertation, Madison, WI: University of
+Wisconsin–Madison. <a
+href="https://digital.library.wisc.edu/1711.dl/RIARZPONCT5YM8J">https://digital.library.wisc.edu/1711.dl/RIARZPONCT5YM8J</a>.
+</div>
+<div id="ref-taylorfrancis2017withdrawal" class="csl-entry"
+role="listitem">
+Taylor &amp; Francis. 2017. <span>“Withdrawal Notice for <span>‘the Case
+for Colonialism’</span>.”</span> Publisher notice on the article DOI
+landing page. <a
+href="https://doi.org/10.1080/01436597.2017.1369037">https://doi.org/10.1080/01436597.2017.1369037</a>.
+</div>
+<div id="ref-tiffert2019" class="csl-entry" role="listitem">
+Tiffert, Glenn D. 2019. <span>“Peering down the Memory Hole: Censorship,
+Digitization, and the Fragility of Our Knowledge Base.”</span> <em>The
+American Historical Review</em> 124 (2): 550–68. <a
+href="https://doi.org/10.1093/ahr/rhz286">https://doi.org/10.1093/ahr/rhz286</a>.
+</div>
+<div id="ref-trantidis2017" class="csl-entry" role="listitem">
+Trantidis, Aris. 2017. <span>“Is Government Contestability an Integral
+Part of the Definition of Democracy?”</span> <em>Politics</em> 37 (1):
+67–81. <a
+href="https://doi.org/10.1177/0263395715619635">https://doi.org/10.1177/0263395715619635</a>.
+</div>
+<div id="ref-vaccaro2021" class="csl-entry" role="listitem">
+Vaccaro, Kristen, Ziang Xiao, Kevin Hamilton, and Karrie Karahalios.
+2021. <span>“Contestability for Content Moderation.”</span>
+<em>Proceedings of the ACM on Human-Computer Interaction</em> 5 (CSCW2):
+318:1–28. <a
+href="https://doi.org/10.1145/3476059">https://doi.org/10.1145/3476059</a>.
+</div>
+<div id="ref-wangmayer2023" class="csl-entry" role="listitem">
+Wang, Mona, and Jonathan Mayer. 2023. <span>“Self-Censorship Under Law:
+A Case Study of the Hong Kong National Security Law.”</span> In
+<em>Proceedings of the Free and Open Communications on the Internet
+Workshop (<span>FOCI</span> 2023)</em>, 46–55. 1. <a
+href="https://www.petsymposium.org/foci/2023/foci-2023-0007.php">https://www.petsymposium.org/foci/2023/foci-2023-0007.php</a>.
+</div>
+<div id="ref-weeks2024" class="csl-entry" role="listitem">
+Weeks, Brian E., Audrey Halversen, and German Neubaum. 2024. <span>“Too
+Scared to Share? Fear of Social Sanctions for Political Expression on
+Social Media.”</span> <em>Journal of Computer-Mediated
+Communication</em> 29 (1): zmad041. <a
+href="https://doi.org/10.1093/jcmc/zmad041">https://doi.org/10.1093/jcmc/zmad041</a>.
+</div>
+<div id="ref-xinzhengni2026" class="csl-entry" role="listitem">
+Xin, Jie, Lihui Zheng, and Wan Ni. 2026. <span>“From Detection to
+Diagnosis: Discursive Preclusion and the Infrastructural Politics of
+Visibility on Chinese Platforms.”</span> <em>Big Data &amp; Society</em>
+13 (2). <a
+href="https://doi.org/10.1177/20539517261442369">https://doi.org/10.1177/20539517261442369</a>.
+</div>
+<div id="ref-young2000" class="csl-entry" role="listitem">
+Young, Iris Marion. 2000. <em>Inclusion and Democracy</em>. Oxford:
+Oxford University Press.
+</div>
+<div id="ref-yuenlee2025" class="csl-entry" role="listitem">
+Yuen, Samson, and Francis L. F. Lee. 2025. <span>“Echoes of Silence: How
+Social Influence Fosters Self-Censorship Under Democratic
+Backsliding.”</span> <em>Democratization</em> 32 (5): 1213–38. <a
+href="https://doi.org/10.1080/13510347.2025.2455127">https://doi.org/10.1080/13510347.2025.2455127</a>.
+</div>
+<div id="ref-zheng2024" class="csl-entry" role="listitem">
+Zheng, Jianwei. 2025. <span>“Under the Publisher’s Undifferentiated
+Patronage: A Corpus-Based Case Study of Chinese Editorial Censorship on
+Translation about <span>EU-Russia</span> Relationship.”</span>
+<em>Critical Arts</em> 39 (4): 137–52. <a
+href="https://doi.org/10.1080/02560046.2024.2391962">https://doi.org/10.1080/02560046.2024.2391962</a>.
+</div>
+</div></article>
+  </main>
+  <footer class="build-meta">
+    <div>
+      <strong>Build provenance</strong>
+      <span>source <code>efbe1978dbaf1805da725a00507b9780f1950dba</code></span>
+      <span>compiled-prose <code>8d6e098513e4572851b57f78c55fe20298997cfe</code></span>
+      <span>built 2026-08-26T10:53:10Z</span>
+      <a href="https://github.com/grantaj/censorship/actions/runs/32960123196">workflow run</a>
+    </div>
+  </footer>
+</body>
+</html>

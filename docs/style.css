@@ -30,19 +30,6 @@ body {
   text-rendering: optimizeLegibility;
 }
 a { color: var(--accent); text-underline-offset: .16em; }
-.publication-strip {
-  display: flex;
-  justify-content: space-between;
-  gap: 1rem;
-  padding: .65rem max(1rem, calc((100vw - var(--measure)) / 2));
-  border-bottom: 1px solid var(--line);
-  color: var(--muted);
-  font: 650 .76rem/1.2 system-ui, sans-serif;
-  letter-spacing: .08em;
-  text-transform: uppercase;
-}
-.publication-strip a { color: inherit; }
-.channel { color: var(--accent); }
 .essay { width: min(calc(100% - 2rem), var(--measure)); margin-inline: auto; }
 .essay-header { padding: clamp(4rem, 12vw, 8rem) 0 3rem; border-bottom: 1px solid var(--line); }
 .essay-header h1 {
@@ -78,6 +65,5 @@ a { color: var(--accent); text-underline-offset: .16em; }
 
 @media (max-width: 640px) {
   body { font-size: 17px; }
-  .publication-strip { padding-inline: 1rem; }
   .build-meta span { width: 100%; overflow-wrap: anywhere; }
 }
