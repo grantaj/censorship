@@ -14,7 +14,7 @@ sys.path.insert(0, str(ROOT))
 from publication.site import update_site  # noqa: E402
 
 
-def provenance(channel: str, source: str = "a" * 40) -> dict[str, object]:
+def provenance(source: str = "a" * 40) -> dict[str, object]:
     return {
         "censorship_source_sha": source,
         "compiled_prose_sha": "b" * 40,
@@ -23,7 +23,6 @@ def provenance(channel: str, source: str = "a" * 40) -> dict[str, object]:
         "target": "journal_academic",
         "workflow_run_id": "123",
         "workflow_run_url": "https://example.invalid/run/123",
-        "publication_channel": channel,
         "build_timestamp": "2026-08-24T00:00:00Z",
         "requested_temperature": "0.2",
         "requested_seed": "42",
@@ -35,75 +34,63 @@ def provenance(channel: str, source: str = "a" * 40) -> dict[str, object]:
     }
 
 
-def write_build(path: Path, channel: str, marker: str) -> None:
+def write_build(path: Path, marker: str) -> None:
     path.mkdir(parents=True)
     (path / "index.html").write_text(marker, encoding="utf-8")
     (path / "style.css").write_text("body{}\n", encoding="utf-8")
-    (path / "provenance.json").write_text(
-        json.dumps(provenance(channel)), encoding="utf-8"
-    )
+    (path / "provenance.json").write_text(json.dumps(provenance()), encoding="utf-8")
 
 
 class SiteUpdateTests(unittest.TestCase):
-    def test_draft_update_preserves_release(self) -> None:
+    def test_update_replaces_entire_site_root(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
             site = root / "docs"
-            old_release = root / "old-release"
-            new_draft = root / "new-draft"
-            write_build(old_release, "release", "release-sentinel")
-            write_build(new_draft, "draft", "new-draft")
-            update_site(site, "release", old_release)
-            update_site(site, "draft", new_draft)
-            self.assertEqual((site / "release/index.html").read_text(), "release-sentinel")
-            self.assertEqual((site / "draft/index.html").read_text(), "new-draft")
-            index = (site / "index.html").read_text()
-            self.assertIn('href="draft/"', index)
-            self.assertIn('href="release/"', index)
-            self.assertIn("journal_academic", index)
+            build = root / "build"
+            (site / "release").mkdir(parents=True)
+            (site / "release/index.html").write_text("legacy-release", encoding="utf-8")
+            (site / "draft").mkdir()
+            (site / "draft/index.html").write_text("legacy-draft", encoding="utf-8")
+            write_build(build, "current-paper")
 
-    def test_release_update_preserves_draft(self) -> None:
-        with tempfile.TemporaryDirectory() as tmp:
-            root = Path(tmp)
-            site = root / "docs"
-            draft = root / "draft"
-            release1 = root / "release1"
-            release2 = root / "release2"
-            write_build(draft, "draft", "draft-sentinel")
-            write_build(release1, "release", "old-release")
-            write_build(release2, "release", "new-release")
-            update_site(site, "draft", draft)
-            update_site(site, "release", release1)
-            update_site(site, "release", release2)
-            self.assertEqual((site / "draft/index.html").read_text(), "draft-sentinel")
-            self.assertEqual((site / "release/index.html").read_text(), "new-release")
+            update_site(site, build)
 
-    def test_mismatched_provenance_fails_before_replacement(self) -> None:
-        with tempfile.TemporaryDirectory() as tmp:
-            root = Path(tmp)
-            site = root / "docs"
-            good = root / "good"
-            bad = root / "bad"
-            write_build(good, "draft", "good")
-            write_build(bad, "release", "bad")
-            update_site(site, "draft", good)
-            with self.assertRaises(ValueError):
-                update_site(site, "draft", bad)
-            self.assertEqual((site / "draft/index.html").read_text(), "good")
+            self.assertEqual((site / "index.html").read_text(), "current-paper")
+            self.assertTrue((site / "style.css").is_file())
+            self.assertTrue((site / "provenance.json").is_file())
+            self.assertTrue((site / ".nojekyll").is_file())
+            self.assertFalse((site / "release").exists())
+            self.assertFalse((site / "draft").exists())
 
     def test_incomplete_build_fails_before_replacement(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
             site = root / "docs"
-            good = root / "good"
-            broken = root / "broken"
-            write_build(good, "draft", "good")
-            write_build(broken, "draft", "broken")
-            (broken / "style.css").unlink()
-            update_site(site, "draft", good)
+            build = root / "broken"
+            site.mkdir()
+            (site / "index.html").write_text("old-paper", encoding="utf-8")
+            write_build(build, "new-paper")
+            (build / "style.css").unlink()
+
             with self.assertRaises(ValueError):
-                update_site(site, "draft", broken)
-            self.assertEqual((site / "draft/index.html").read_text(), "good")
+                update_site(site, build)
+
+            self.assertEqual((site / "index.html").read_text(), "old-paper")
+
+    def test_invalid_provenance_fails_before_replacement(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            site = root / "docs"
+            build = root / "bad"
+            site.mkdir()
+            (site / "index.html").write_text("old-paper", encoding="utf-8")
+            write_build(build, "new-paper")
+            (build / "provenance.json").write_text("{}", encoding="utf-8")
+
+            with self.assertRaises(ValueError):
+                update_site(site, build)
+
+            self.assertEqual((site / "index.html").read_text(), "old-paper")
 
 
 class RenderTests(unittest.TestCase):
@@ -135,7 +122,6 @@ class RenderTests(unittest.TestCase):
                 {
                     "PANDOC": str(fake),
                     "FAKE_ARGS": str(args_file),
-                    "PUBLICATION_CHANNEL": "draft",
                     "SOURCE_SHA": "a" * 40,
                     "COMPILED_PROSE_SHA": "b" * 40,
                     "WORKFLOW_RUN_URL": "https://example.invalid/run/1",
@@ -155,50 +141,18 @@ class RenderTests(unittest.TestCase):
             self.assertNotIn("--mathjax", args)
             self.assertIn("--log=", args)
             self.assertIn(f"--bibliography={bib}", args)
+            self.assertNotIn("publication_channel", args)
             self.assertTrue((out / "style.css").is_file())
             self.assertTrue((out / "index.html").is_file())
 
 
 class WorkflowSafetyTests(unittest.TestCase):
-    def test_paid_compile_is_manual_only_tracks_compiler_main_and_separate(self) -> None:
-        compile_workflow = (ROOT / ".github/workflows/compile.yml").read_text(
-            encoding="utf-8"
-        )
-        publish_workflow = (ROOT / ".github/workflows/publish.yml").read_text(
-            encoding="utf-8"
-        )
-        self.assertIn("workflow_dispatch:", compile_workflow)
-        self.assertNotIn("\n  push:", compile_workflow)
-        self.assertNotIn("\n  pull_request:", compile_workflow)
-        self.assertIn("confirm_paid_run", compile_workflow)
-        self.assertIn(
-            "repository: grantaj/compiled-prose\n          ref: main", compile_workflow
-        )
-        self.assertNotIn("COMPILED_PROSE_SHA:", compile_workflow)
-        self.assertNotIn(
-            "a153c2b19f8b95ba5063947aeeccb072ba862bf6", compile_workflow
-        )
-        self.assertIn(
-            'compiler_sha=$(git -C compiler rev-parse HEAD)', compile_workflow
-        )
-        self.assertIn('WORKFLOW_REF: ${{ github.ref }}', compile_workflow)
-        self.assertIn('SOURCE_REF: ${{ inputs.source_ref }}', compile_workflow)
-        self.assertIn("environment: paid-compile", compile_workflow)
-        self.assertIn("OPENAI_API_KEY", compile_workflow)
-        self.assertNotIn("OPENAI_API_KEY", publish_workflow)
-        self.assertIn(
-            'BIBLIOGRAPHY="$GITHUB_WORKSPACE/compiler/build/references.bib"',
-            compile_workflow,
-        )
-        self.assertIn('TARGET_STYLE="$TARGET_STYLE"', compile_workflow)
-        self.assertIn("gpt-5.6-sol", compile_workflow)
-        self.assertIn("journal_academic", compile_workflow)
-
-    def test_publish_promotes_retained_candidate_without_provider_access(self) -> None:
+    def test_publish_is_single_academic_release_without_provider_access(self) -> None:
         workflow = (ROOT / ".github/workflows/publish.yml").read_text(encoding="utf-8")
         self.assertIn("workflow_dispatch:", workflow)
-        self.assertNotIn("\n  push:", workflow)
-        self.assertNotIn("\n  pull_request:", workflow)
+        self.assertNotIn("channel:", workflow)
+        self.assertNotIn("inputs.target", workflow)
+        self.assertIn("TARGET_ID: journal_academic", workflow)
         self.assertIn("actions/github-script@v8", workflow)
         self.assertIn('run.path !== ".github/workflows/compile.yml"', workflow)
         self.assertIn("censorship-candidate-${process.env.TARGET_ID}-", workflow)
@@ -207,6 +161,9 @@ class WorkflowSafetyTests(unittest.TestCase):
         self.assertIn("candidate_path.read_bytes() != current_path.read_bytes()", workflow)
         self.assertIn("SOURCE_SHA: ${{ needs.assemble.outputs.source_sha }}", workflow)
         self.assertIn('[[ ! "$SOURCE_SHA" =~ ^[0-9a-f]{40}$ ]]', workflow)
+        self.assertIn("--site-root site-repo/docs", workflow)
+        self.assertNotIn("--channel", workflow)
+        self.assertNotIn("OPENAI_API_KEY", workflow)
         self.assertNotIn("confirm_paid_run", workflow)
 
 
