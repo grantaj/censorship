@@ -147,6 +147,37 @@ class RenderTests(unittest.TestCase):
 
 
 class WorkflowSafetyTests(unittest.TestCase):
+    def test_paid_compile_is_manual_only_tracks_compiler_main_and_separate(self) -> None:
+        compile_workflow = (ROOT / ".github/workflows/compile.yml").read_text(
+            encoding="utf-8"
+        )
+        publish_workflow = (ROOT / ".github/workflows/publish.yml").read_text(
+            encoding="utf-8"
+        )
+        self.assertIn("workflow_dispatch:", compile_workflow)
+        self.assertNotIn("\n  push:", compile_workflow)
+        self.assertNotIn("\n  pull_request:", compile_workflow)
+        self.assertIn("confirm_paid_run", compile_workflow)
+        self.assertIn(
+            "repository: grantaj/compiled-prose\n          ref: main", compile_workflow
+        )
+        self.assertNotIn("COMPILED_PROSE_SHA:", compile_workflow)
+        self.assertIn(
+            'compiler_sha=$(git -C compiler rev-parse HEAD)', compile_workflow
+        )
+        self.assertIn('WORKFLOW_REF: ${{ github.ref }}', compile_workflow)
+        self.assertIn('SOURCE_REF: ${{ inputs.source_ref }}', compile_workflow)
+        self.assertIn("environment: paid-compile", compile_workflow)
+        self.assertIn("OPENAI_API_KEY", compile_workflow)
+        self.assertNotIn("OPENAI_API_KEY", publish_workflow)
+        self.assertIn(
+            'BIBLIOGRAPHY="$GITHUB_WORKSPACE/compiler/build/references.bib"',
+            compile_workflow,
+        )
+        self.assertIn('TARGET_STYLE="$TARGET_STYLE"', compile_workflow)
+        self.assertIn("gpt-5.6-sol", compile_workflow)
+        self.assertIn("journal_academic", compile_workflow)
+
     def test_publish_is_single_academic_release_without_provider_access(self) -> None:
         workflow = (ROOT / ".github/workflows/publish.yml").read_text(encoding="utf-8")
         self.assertIn("workflow_dispatch:", workflow)
