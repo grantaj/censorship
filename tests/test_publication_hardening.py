@@ -22,6 +22,29 @@ def render_env() -> dict[str, str]:
 
 
 class WorkflowHardeningTests(unittest.TestCase):
+    def test_selected_source_rejects_symlinks_and_full_pipeline_is_clean(self) -> None:
+        workflow = (ROOT / ".github/workflows/compile.yml").read_text(encoding="utf-8")
+        self.assertIn('mode_type=$(git -C source-input ls-tree "$source_sha"', workflow)
+        self.assertIn('[[ -L "source-input/$source_file" ]]', workflow)
+        self.assertIn("make -C compiler clobber", workflow)
+        self.assertLess(
+            workflow.index("make -C compiler clobber"),
+            workflow.index("make -C compiler \\\n            BACKEND=openai"),
+        )
+        self.assertIn("VALIDATE_LATEX_STAGES=1", workflow)
+        self.assertIn("make -C compiler validate-latex", workflow)
+
+    def test_failure_artifact_cannot_match_publish_candidate_prefix(self) -> None:
+        compile_workflow = (ROOT / ".github/workflows/compile.yml").read_text(
+            encoding="utf-8"
+        )
+        publish_workflow = (ROOT / ".github/workflows/publish.yml").read_text(
+            encoding="utf-8"
+        )
+        self.assertIn("name: censorship-failure-", compile_workflow)
+        self.assertIn("name: censorship-candidate-", compile_workflow)
+        self.assertIn("const prefix = `censorship-candidate-", publish_workflow)
+
     def test_release_approval_precedes_write_job(self) -> None:
         workflow = (ROOT / ".github/workflows/publish.yml").read_text(encoding="utf-8")
         approval = workflow.index("release-approval:")
