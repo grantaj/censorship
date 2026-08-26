@@ -12,7 +12,6 @@ out_dir=$3
 script_dir=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)
 pandoc_bin=${PANDOC:-pandoc}
 
-: "${PUBLICATION_CHANNEL:?PUBLICATION_CHANNEL is required}"
 : "${SOURCE_SHA:?SOURCE_SHA is required}"
 : "${COMPILED_PROSE_SHA:?COMPILED_PROSE_SHA is required}"
 : "${WORKFLOW_RUN_URL:?WORKFLOW_RUN_URL is required}"
@@ -44,7 +43,6 @@ trap 'rm -f "$pandoc_log"' EXIT
   --template="$script_dir/template.html" \
   --css=style.css \
   --log="$pandoc_log" \
-  --metadata="publication_channel:$PUBLICATION_CHANNEL" \
   --metadata="source_sha:$SOURCE_SHA" \
   --metadata="compiled_prose_sha:$COMPILED_PROSE_SHA" \
   --metadata="workflow_run_url:$WORKFLOW_RUN_URL" \
@@ -52,10 +50,9 @@ trap 'rm -f "$pandoc_log"' EXIT
   --output="$out_dir/index.html"
 
 # Pandoc's sandbox intentionally cannot read packaged translation data unless
-# the binary embeds it.  Debian/Ubuntu Pandoc therefore emits two harmless
-# localization warning classes in sandbox mode.  Preserve fail-closed warning
-# semantics for everything else (notably unresolved citations and blocked
-# include/resource reads) by inspecting Pandoc's structured log explicitly.
+# the binary embeds it. Debian/Ubuntu Pandoc therefore emits two harmless
+# localization warning classes in sandbox mode. Preserve fail-closed warning
+# semantics for everything else by inspecting Pandoc's structured log.
 python - "$pandoc_log" <<'PY'
 import json
 import sys
