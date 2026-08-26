@@ -1,17 +1,17 @@
 {
   "backend": "openai",
-  "build_timestamp": "2026-08-26T10:53:10Z",
-  "censorship_source_sha": "efbe1978dbaf1805da725a00507b9780f1950dba",
+  "build_timestamp": "2026-08-26T22:36:37Z",
+  "censorship_source_sha": "e842b949b08cb1741dbebde2791b04a85c7cda1a",
   "compiled_prose_sha": "8d6e098513e4572851b57f78c55fe20298997cfe",
   "effective_seed": null,
   "effective_temperature": null,
   "model": "gpt-5.6-sol",
-  "openai_sdk_version": "3.3.1",
+  "openai_sdk_version": "3.4.0",
   "pandoc_version": "pandoc 3.1.3",
   "requested_seed": "42",
   "requested_temperature": "0.2",
   "target": "journal_academic",
   "variance_controls_note": "compiled-prose omits temperature for gpt-5-family models and the OpenAI Responses API does not accept seed",
-  "workflow_run_id": "32960123196",
-  "workflow_run_url": "https://github.com/grantaj/censorship/actions/runs/32960123196"
+  "workflow_run_id": "33019931313",
+  "workflow_run_url": "https://github.com/grantaj/censorship/actions/runs/33019931313"
 }
